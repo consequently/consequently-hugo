@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+      <title>Presentations in consequently.org: Greg Restall’s website </title>
+	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
+	  <itunes:author>Greg Restall</itunes:author>
+	  <itunes:owner>
+	  <itunes:name>Greg Restall</itunes:name>
+	  <itunes:email>greg@consequently.org</itunes:email>
+	  </itunes:owner>
+	  <itunes:category text="Education">
+	  <itunes:category text="Higher Education"/>
+	  </itunes:category>
+	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://localhost:1313/img/avatar2.jpg" />
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/presentation/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 15 Jun 2015 16:00:00 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Dubrovnik Workshop on Pluralisms</title>
+      <link>http://localhost:1313/presentation/2015/pluralism-dubrovnik/</link>
+      <pubDate>Mon, 15 Jun 2015 16:00:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2015/pluralism-dubrovnik/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a presentation on logical pluralism at the 2015 Ohio State University/Dubrovnik workshop on Pluralism in Mathematics, Logic and Semantics, &lt;a href=&#34;http://www.iuc.hr/&#34;&gt;Inter University Center&lt;/a&gt;, Dubrovnik, Croatia.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Workshop on Verbal Disputes and their Philosophical Significance</title>
+      <link>http://localhost:1313/presentation/2015/verbal-disputes-oxford/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2015/verbal-disputes-oxford/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a presentation on proof theory, modality, existence and verbal disputes at a workshop held at the University of Oxford in May, 2015.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Contingent Existence and Modal Definedness</title>
+      <link>http://localhost:1313/presentation/2015/cemd-anu/</link>
+      <pubDate>Thu, 26 Feb 2015 16:00:00 AEDT</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2015/cemd-anu/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ternary Relations and Models for Relevant Arithmetics</title>
+      <link>http://localhost:1313/presentation/2014/trmra-asubl5/</link>
+      <pubDate>Mon, 15 Dec 2014 09:00:00 AEDT</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/trmra-asubl5/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at the workshop &lt;em&gt;&lt;a href=&#34;https://sites.google.com/a/ltumathstats.com/asubl5&#34;&gt;Algebra and Substructural Logic 5&lt;/a&gt;&lt;/em&gt; (La Trobe, December 2015).&lt;/p&gt;
+
+&lt;p&gt;I explain how the `trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Living as a Christian Academic</title>
+      <link>http://localhost:1313/presentation/2014/christian-academic-monash/</link>
+      <pubDate>Wed, 17 Sep 2014 09:00:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/christian-academic-monash/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a presentation to postgraduate students in the Monash University Christian Union about life as a Christian academic, and my journey from being an undergraduate in Mathematics at the University of Queensland in the late 1980s, to my current role as Professor of Philosophy at the University of Melbourne.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Towards Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://localhost:1313/presentation/2014/towards-fixed-point-models-logicmelb/</link>
+      <pubDate>Fri, 05 Sep 2014 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/towards-fixed-point-models-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at the University of Melbourne Logic Group.&lt;/p&gt;
+
+&lt;p&gt;I sketch some of the features of models of na&amp;iuml;ve theories of properties or classes defined by finding a space C that is isomorphic to the class of continuous functions [C &amp;cup; D &amp;rarr; &amp;Omega;].&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ludwig Wittgenstein&amp;rsquo;s Tractatus Logico-Philosophicus</title>
+      <link>http://localhost:1313/presentation/2014/tractatus-masterclass/</link>
+      <pubDate>Tue, 26 Aug 2014 17:00:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/tractatus-masterclass/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a masterclass on Ludwig Wittegenstein&amp;rsquo;s &lt;em&gt;Tractatus Logico-Philosophicus&lt;/em&gt; in the University of Melbourne&amp;rsquo;s 10 Great Books Masterclass in 2014.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>From Defining Rules to Cut Elimination (and its consequences)</title>
+      <link>http://localhost:1313/presentation/2014/from-defining-rules-nip-mfl/</link>
+      <pubDate>Fri, 04 Jul 2014 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/from-defining-rules-nip-mfl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=476&#34;&gt;Metaphysical Basis of Logic Workshop&lt;/a&gt; at the Northern Institute of Philosophy, University of Aberdeen.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Modal Definedness</title>
+      <link>http://localhost:1313/presentation/2014/modal-definedness-arche/</link>
+      <pubDate>Thu, 19 Jun 2014 16:15:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/modal-definedness-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation in a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=811&#34;&gt;workshop in the Philosophy of Logic&lt;/a&gt; at Arch&amp;eacute;.&lt;/p&gt;
+
+&lt;p&gt;The distinction between &lt;i&gt;defined&lt;/i&gt; terms and &lt;i&gt;undefined&lt;/i&gt; terms provides a metaphysically &amp;ldquo;light&amp;rdquo; way to give a semantics for free logic. Singular terms may be undefined, and if they are undefined, they are not appropriate substitution instances for inference rules for the quantifiers. Sol Feferman, in &amp;ldquo;Definedness&amp;rdquo; (&lt;i&gt;Erkenntnis&lt;/i&gt;, 1995), provides an elegant system for an extensional negative free logic with undefined terms: it is a very natural model for mathematical reasoning in which we allow undefined terms (like &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;0&lt;/sub&gt;) and we keep track of the behaviour of such terms by talking of when they are defined and when they are not.&lt;/p&gt;
+
+&lt;p&gt;Free logics also see use when it comes to quantified modal logic. It is very tempting to conceive of the domain of quantification as varying from world to world, that what exists in one world might fail to exist in another. This seems to be a very different motivation for free logics—terms which denote in this world and which do not denote in another are not &lt;i&gt;undefined&lt;/i&gt; at that world. They are defined all too well—defined to denote something that fails to exist at that world.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will explain the motivations for these two different approaches to free logic, and show that a sequent calculus for Feferman&amp;rsquo;s own system (with a metaphysically &amp;lsquo;light&amp;rsquo; interpretation, that eschews all talk of an outer domain of quantification of non-existent objects) can, with one small change, be naturally extended into a modal hypersequent calculus for a quantified modal logic with a non-constant domain. This, too, has a metaphysically &amp;lsquo;light&amp;rsquo; interpretation.  The result is a natural proof-theoretical account of a modal logic with varying domain, in which the Barcan formula not only fails, but fails straightforwardly, in a well motivated way.&lt;/p&gt;
+
+&lt;p&gt;After introducing the modal system, I will consider what this might mean, about the nature of quantification, and the role of defining rules in characterising logical constants.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ternary Relations and Models for Relevant Arithmetics</title>
+      <link>http://localhost:1313/presentation/2014/trmra-logicmelb/</link>
+      <pubDate>Fri, 30 May 2014 13:30:00 &#43;1100</pubDate>
+      
+      <guid>http://localhost:1313/presentation/2014/trmra-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at &lt;em&gt;&lt;a href=&#34;http://philevents.org/event/show/14562&#34;&gt;Melbourne Logic Day&lt;/a&gt;&lt;/em&gt;, May 30, 2014.&lt;/p&gt;
+
+&lt;p&gt;I explain how the &amp;lsquo;trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

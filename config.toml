@@ -1,0 +1,8 @@
+baseurl = "http://consequently.github.io"
+languageCode = "en-us"
+title = "consequently.org: Greg Restall’s website"
+
+[params]
+   description = "Greg Restall’s website"
+   author = "Greg Restall"
+   

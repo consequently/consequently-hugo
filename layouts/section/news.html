@@ -1,0 +1,55 @@
+{{ partial "head.html" . }}
+{{ $baseurl := .Site.BaseUrl }}
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="{{ $baseurl }}"><b>consequently.org</b></a></li>
+				<li><span><a href="{{ $baseurl }}/news">News</a></span></li>
+				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
+				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
+				<li><a href="{{ $baseurl }}/class">Classes</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+	
+<h2>News Archive</h2>
+<div class="units-row">
+<div class="unit-70">
+{{ range .Data.Pages.GroupByDate "2006" }}
+<div class="units-row">
+<div class="unit-10">
+<h3>{{ .Key }}</h3>
+</div>
+<div class="unit-90">
+<ul class="list-flat">
+{{ range .Pages }}
+<li> <time><em>{{ .Date.Format "January 2" }}</em></time>, <a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a>
+</li> {{ end }}
+</ul>
+</div>
+</div>
+{{ end }}
+</div>
+<div class="unit-30">
+<p>This page is an archive of the news items, or &ldquo;blog entries&rdquo; from this site. </p>
+</div>
+</div>
+</div>
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
+</body>
+</html>
+
+

@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/PHIL20030/</loc>
+    <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/PHIL40013/</loc>
+    <lastmod>2015-07-27T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2015/pluralism-dubrovnik/</loc>
+    <lastmod>2015-06-15T16:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2015/verbal-disputes-oxford/</loc>
+    <lastmod>2015-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/assertiondenialparadox/</loc>
+    <lastmod>2015-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/logic2_coursera/</loc>
+    <lastmod>2015-04-14T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/UNIB10002/</loc>
+    <lastmod>2015-03-02T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/PHIL30043/</loc>
+    <lastmod>2015-03-02T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2015/cemd-anu/</loc>
+    <lastmod>2015-02-26T16:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2015/logic1_coursera/</loc>
+    <lastmod>2015-02-24T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2015/no-comments/</loc>
+    <lastmod>2015-02-02T21:24:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2015/the-point/</loc>
+    <lastmod>2015-02-01T21:24:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/trmra-asubl5/</loc>
+    <lastmod>2014-12-15T09:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/npcfdsr/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/christian-academic-monash/</loc>
+    <lastmod>2014-09-17T09:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/towards-fixed-point-models-logicmelb/</loc>
+    <lastmod>2014-09-05T11:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/tractatus-masterclass/</loc>
+    <lastmod>2014-08-26T17:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/pluralism-and-proofs/</loc>
+    <lastmod>2014-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/PHIL30043/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/PHIL10003/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/from-defining-rules-nip-mfl/</loc>
+    <lastmod>2014-07-04T11:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/PTP-NIP/</loc>
+    <lastmod>2014-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/modal-definedness-arche/</loc>
+    <lastmod>2014-06-19T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/presentation/2014/trmra-logicmelb/</loc>
+    <lastmod>2014-05-30T13:30:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/logic2_coursera/</loc>
+    <lastmod>2014-04-22T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/UNIB10002/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/PHIL40007/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/PHIL20030/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/MULT10016/</loc>
+    <lastmod>2014-03-03T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/class/2014/logic1_coursera/</loc>
+    <lastmod>2014-03-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/adnct/</loc>
+    <lastmod>2013-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ncm-igpl-2013/</loc>
+    <lastmod>2013-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/new-waves-in-philosophical-logic/</loc>
+    <lastmod>2012-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/cfss2dml/</loc>
+    <lastmod>2012-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/bradwardine-hypersequents/</loc>
+    <lastmod>2012-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/interp-apply-ptml/</loc>
+    <lastmod>2012-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/hlc/</loc>
+    <lastmod>2012-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/molinism-trl/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/antirealist/</loc>
+    <lastmod>2011-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logic_in_australasia/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/sitconchan/</loc>
+    <lastmod>2010-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/alwaysmore/</loc>
+    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2010/11/16/Testing_testing_1,_2,_3/</loc>
+    <lastmod>2010-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ptm-context/</loc>
+    <lastmod>2010-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/dlot/</loc>
+    <lastmod>2010-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/bradwardine-truth-tellers/</loc>
+    <lastmod>2010-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/barriers/</loc>
+    <lastmod>2010-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/relevant_agents/</loc>
+    <lastmod>2010-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/on_t_and_u/</loc>
+    <lastmod>2010-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/stp/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/mfsa/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/permutation/</loc>
+    <lastmod>2009-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/10/20/Time_flies/</loc>
+    <lastmod>2009-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/apriori/</loc>
+    <lastmod>2009-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/06/19/Live_from_Hejnice/</loc>
+    <lastmod>2009-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/06/02/Rumfitt_Part_2/</loc>
+    <lastmod>2009-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/06/01/Rumfitt_Part_1/</loc>
+    <lastmod>2009-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/05/21/problems_for_naive_theories_of_properties/</loc>
+    <lastmod>2009-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/05/07/Bob_Meyer/</loc>
+    <lastmod>2009-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/tvpt/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/04/24/more_on_words/</loc>
+    <lastmod>2009-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/peer-instruction/</loc>
+    <lastmod>2009-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/03/27/types_tokens_and_names/</loc>
+    <lastmod>2009-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/03/25/spandrels_of_truth/</loc>
+    <lastmod>2009-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/03/25/quiz_for_today/</loc>
+    <lastmod>2009-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/02/24/back_in_the_saddle/back_in_the_saddle/</loc>
+    <lastmod>2009-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/01/14/holiday_in_progress/</loc>
+    <lastmod>2009-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/01/07/holiday/</loc>
+    <lastmod>2009-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/news/2009/01/07/little_snippets_of_news/</loc>
+    <lastmod>2009-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/yo-lo-appendix/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/bradwardine-liars/</loc>
+    <lastmod>2008-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ten2008/</loc>
+    <lastmod>2008-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ptp/</loc>
+    <lastmod>2008-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/bradwardine/</loc>
+    <lastmod>2008-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/costing/</loc>
+    <lastmod>2008-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/acdei/</loc>
+    <lastmod>2008-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/invention/</loc>
+    <lastmod>2007-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/symbolic-logic/</loc>
+    <lastmod>2007-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/rrq/</loc>
+    <lastmod>2006-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/masses/</loc>
+    <lastmod>2006-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/channels/</loc>
+    <lastmod>2006-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/pluralism/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logic/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logical_consequence/</loc>
+    <lastmod>2005-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/cdqml/</loc>
+    <lastmod>2005-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/notevery/</loc>
+    <lastmod>2005-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/mf/</loc>
+    <lastmod>2005-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/gndl/</loc>
+    <lastmod>2005-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/dmap-belnap-lambert/</loc>
+    <lastmod>2005-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/facts/</loc>
+    <lastmod>2004-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/lnclem/</loc>
+    <lastmod>2004-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logicians/</loc>
+    <lastmod>2004-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/modelling/</loc>
+    <lastmod>2003-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/whatisfbp/</loc>
+    <lastmod>2003-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logic_chapter/</loc>
+    <lastmod>2003-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/rle/</loc>
+    <lastmod>2002-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/carnap/</loc>
+    <lastmod>2002-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/conlogtr/</loc>
+    <lastmod>2001-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/defplur/</loc>
+    <lastmod>2001-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logical_pluralism/</loc>
+    <lastmod>2000-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/defdneg/</loc>
+    <lastmod>2000-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/slintro/</loc>
+    <lastmod>2000-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/isl/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/negrl/</loc>
+    <lastmod>1999-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/display/</loc>
+    <lastmod>1998-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/logiclaws/</loc>
+    <lastmod>1998-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/desecsed/</loc>
+    <lastmod>1998-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/extendingj/</loc>
+    <lastmod>1997-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/combipn/</loc>
+    <lastmod>1997-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/dggl/</loc>
+    <lastmod>1996-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ten/</loc>
+    <lastmod>1996-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/rbr/</loc>
+    <lastmod>1995-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/arithluk/</loc>
+    <lastmod>1995-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/modalitiessl/</loc>
+    <lastmod>1995-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/warrantpres/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/strenge/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/routes/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/s5nets/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/pev/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/plog/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/pa/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/nggl/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/multipleconclusions/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/minitrue/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/lsf/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/infflow/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/fourvalued/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/envelopes/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/cantbe/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/HPPLrssl/</loc>
+    <lastmod>1995-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/usl/</loc>
+    <lastmod>1994-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/subint/</loc>
+    <lastmod>1994-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/onlogics/</loc>
+    <lastmod>1994-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/simpsem/</loc>
+    <lastmod>1993-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/reallycf/</loc>
+    <lastmod>1993-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/dlpsr/</loc>
+    <lastmod>1993-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/nstlp/</loc>
+    <lastmod>1992-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ternary-cond/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/writing/ptm-second-order/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
