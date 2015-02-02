@@ -4,7 +4,7 @@ title = "Why no comments?"
 
 +++
 
-Previous incarnations of this website provided space for comments in the usual way for a weblog in the first decade of the 2000s&mdash;a comment form on each entry. This one doesn't. Why not?
+Previous incarnations of this website provided a facility for comments in the usual way for a weblog in the first decade of the 2000s&mdash;a comment form on each entry. This one doesn't. Why not?
 
 <!--more-->
 
