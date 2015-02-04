@@ -48,7 +48,7 @@
 
 <div class="unit-50">
 <h3>Unpublished</h3>
-    {{ range (where .Data.Pages "Type" "unpublished").GroupByDate "2006" "desc" }}
+{{ range (where .Data.Pages "Type" "unpublished").GroupByDate "2006" "desc" }}
 <div class="units-row">
 <div class="unit-10">
 	<h3>{{ .Key }}</h3>

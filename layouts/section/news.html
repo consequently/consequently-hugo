@@ -29,11 +29,12 @@
 <h3>{{ .Key }}</h3>
 </div>
 <div class="unit-90">
-<ul class="list-flat">
+<p>
 {{ range .Pages }}
-<li> <time><em>{{ .Date.Format "January 2" }}</em></time>, <a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a>
-</li> {{ end }}
-</ul>
+&para; <time><em>{{ .Date.Format "January 2" }}</em></time>, <a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> 
+{{ end }}
+</p>
+
 </div>
 </div>
 {{ end }}
