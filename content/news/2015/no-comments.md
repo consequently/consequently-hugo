@@ -1,6 +1,6 @@
 +++
 date = "2015-02-03T9:52:39+11:00"
-title = "Why no comments?"
+title = "Why isn't there a comment box?"
 
 +++
 
