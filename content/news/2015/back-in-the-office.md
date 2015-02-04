@@ -10,7 +10,7 @@ It's good to be back in the office. The [Parkville Campus](http://maps.unimelb.e
 
 <!--more-->
 
-The Old Quad is a delightful (if a little ramshackle) place to work. If you climbed into that open window in the picture, you'd be in my office. 
+If you climbed into that open window in the picture, you'd be in my office. I don't recommend trying that way into the building&mdash;navigating the corridors and stairs, though tricky, is much safer.
 
 I'm [posting pictures on Instagram](http://instagram.com/consequently) these days. I'll include some here, but more are there, if you want to keep up. 
 
