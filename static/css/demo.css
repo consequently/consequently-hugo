@@ -94,17 +94,14 @@ h2 {border-bottom: 1px solid #ecc;}
 #topbar {
 	background: #b33;
 	padding-bottom:0px;
+	margin-bottom:3ex;
 	/* border-bottom: 3px solid #b24; */
 }  
 
 #topbar .navbar {padding-bottom:14px; font-size:120%;} 
-
 #topbar li a {color: #fff;}
-
 #topbar li a {color: #ecc;}
-
 #topbar li span a {color: #fff;}
-
 
 .avatar {
 	-webkit-border-radius: 50em;
@@ -124,8 +121,6 @@ header {
 	padding-top: 15px;
 	margin-bottom: 0em;
 }
-
-#topbar{margin-bottom:3ex;}
 
 /* #header h1 {
 	float: left;
@@ -273,11 +268,9 @@ header h1 {	font-size: 24px;
 /*	#header h1 { float: none; text-align:center; font-size: 36px;}*/
 /*	#header nav { float:none; text-align:center;}*/
 	/* #header nav ul li { margin: 0; margin-right: 1em; } */
-	#topbar form {float:none; text-align:center;} 
-    #partners ul li { padding-bottom: 1em; text-align: center; }
-    #feedback { padding: 1.5em; }
+	#topbar .navbar {padding-bottom:12px; font-size:120%; }
+	#topbar .navbar li {float:left; margin-left:1.1em;} 
     #banner { text-align: center; margin-bottom: 1.5em; }
-	#blocks dt, #blocks dd { float: none; width: auto; }
 	#footer section, #footer nav { float: none; text-align:center;}
 	#footer nav ul { margin-top: 1em; text-align:center;}
 	#footer nav ul li { margin: 0; margin-right: 1em;}
