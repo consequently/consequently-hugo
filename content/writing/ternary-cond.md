@@ -5,11 +5,12 @@ author: Jc Beall, Ross Brady, Michael Dunn, Allen Hazen, Edwin Mares, Robert K. 
 published: true
 type: published
 status: Published in 2012
-citation: "(with Jc Beall, Ross Brady, Michael Dunn, Allen Hazen, Edwin Mares, Robert K. Meyer, Graham Priest, David Ripley, John Slaney and Richard Sylvan) &ldquo;On the Ternary Relation and Conditionality,&rdquo; <em>Journal of Philosophical Logic</em> (2012) 41:3,  pp. 595-612."
+citation: "(with Jc Beall, Ross Brady, Michael Dunn, Allen Hazen, Edwin Mares, Robert K. Meyer, Graham Priest, David Ripley, John Slaney and Richard Sylvan) &ldquo;On the Ternary Relation and Conditionality,&rdquo; <em>Journal of Philosophical Logic</em> (2012) 41:3,  pp. 595&ndash;612."
 tag: ternary-cond 
 file: ternary-cond.pdf
 comments: yes
 publishdate: 2012-02-02
+date: 2012-02-02
 doi: 10.1007/s10992-011-9191-5
 filter:
   - erb

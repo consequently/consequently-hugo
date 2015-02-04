@@ -2,8 +2,8 @@
 title: On Logics without Contraction
 
 author: Greg Restall
-published: false
-type: unpublished
+published: true
+type: published
 status: Online only
 citation: "<em>On Logics Without Contraction</em>, Ph.D. Thesis, The University of Queensland, 1994."
 tag: onlogics
