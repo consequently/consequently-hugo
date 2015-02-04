@@ -292,3 +292,16 @@ header h1 {	font-size: 24px;
 	.wrapper { width: 420px; }
 }
 
+
+/* -------------- */
+
+.grlog blockquote { font-style:normal; border: 0px ; font-size:1em;}
+
+.grlog blockquote blockquote {   border-left: 2px solid #dddddd; }
+
+.grlog .datestamp {	text-transform: lowercase;
+	font-family: 'Alegreya SC'; }
+	
+.grlog img { margin-left: 12px; margin-bottom: 12px; margin-top:12px;}
+
+.grlog p {padding-top:0.5em;}

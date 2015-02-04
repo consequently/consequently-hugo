@@ -1,0 +1,39 @@
+body{background-color:white; padding:0px; margin:0; font-family:"Gill Sans", "Helvetica Neue",Helvetica,sans-serif;line-height:125%; font-size:11pt;}
+
+p,h1,h2,h3,h4 {margin-left:10px;margin-right:10px; color:#200; text-align:justify;}
+
+a{text-decoration:none;font-weight:normal;} 
+a:link{color:#366;}
+a:visited{color:#336;} 
+a:active{background-color:#366;}
+a:hover{background-color:#399;color:white;}
+
+
+h1,h2,h3,h4{font-family:"Gill Sans", "Helvetica Neue Light",Helvetica,serif;font-weight:normal;color:#063; text-align:center;}
+H1{font-size:200%;}
+H2{font-size:166%;} 
+H3{font-size:133%;}
+H4{font-size:090%;}
+
+.gray { background-color:#eed; padding-top:0px; padding-bottom:0px; border-top:1px solid #ded; border-bottom:1px solid #ded;}
+
+.gray h1, .gray h2, .gray h3 {color:#900;} 
+
+.title { font-size: 120%; }
+
+.abstract, .abstract p {font-size: 95%; color:#444;}
+
+#footer {font-size: 82%; color:#666; text-align:center; margin:10px;}
+
+table {border:0px; width:92%; margin-left:2%;}
+td {background:#eed; padding:2px; margin:2px; border:1px solid #aa9; margin-left:5px; padding-left:10px; padding-right:5px; vertical-align:top;}
+.headrow {font-weight:bold; width:30%; color:#063; vertical-align:middle; font-size:90%;}
+.ttl{font-weight:bold; width:30%; color:#063; vertical-align:middle; font-size:120%;}
+.subttl{font-weight:normal; color:#444; font-size:70%; margin-top:8px;}
+.break {font-size:90%;background:#ddc; border:0px;}
+.invited {font-weight:bold; color:#900; border:1px solid #aa9;}
+.submitted {color:#900;}
+.tt {font-size:80%; font-style:italic; font-weight:normal; margin-top:5px; margin-bottom:2px; color:#444;}
+.time {font-size:60%; text-align:right; border:0px; background-color:#fff; color:#063;}
+td {height: 25pt;}
+.chair{font-size:80%; font-style-italic; font-weight:normal; color:#888;}

@@ -1,0 +1,6 @@
+<p><img src="pictures/doubtfulsound.jpg" height="240" width="360" align="center"></img></p>
+<p class="slug">On Doubtful Sound, March 2005</p>
+<?php if (isset($_COOKIE["admin"])) {?><p class="admin">
+<b><a href="http://consequently.org/mt/mt.cgi?__mode=view&_type=entry&id=494&blog_id=7">Edit Entry</a> &bull; <a href="http://consequently.org/mt/mt.cgi?__mode=view&_type=entry&blog_id=7">New Entry</a> &bull; <a href="http://consequently.org/mt/mt.cgi?__mode=menu&blog_id=7">Images Menu</a></b>
+</p>
+<?php } ?> 

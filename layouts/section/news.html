@@ -31,7 +31,7 @@
 <div class="unit-90">
 <p>
 {{ range .Pages }}
-&para; <time><em>{{ .Date.Format "January 2" }}</em></time>, <a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> 
+&para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> 
 {{ end }}
 </p>
 
