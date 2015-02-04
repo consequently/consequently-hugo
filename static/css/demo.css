@@ -93,10 +93,17 @@ h2 {border-bottom: 1px solid #ecc;}
 
 #topbar {
 	background: #b33;
-	padding-bottom:0px;
-	margin-bottom:3ex;
+	padding:0px;
+	margin:0ex;
 	/* border-bottom: 3px solid #b24; */
 }  
+#midbar {
+	background: #eaa;
+	padding:0px;
+	margin:0ex;
+	/* border-bottom: 3px solid #b24; */
+}  
+
 
 #topbar .navbar {padding-bottom:14px; font-size:120%;} 
 #topbar li a {color: #fff;}
