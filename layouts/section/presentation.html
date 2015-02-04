@@ -31,7 +31,7 @@
 <div class="unit-90">
 <ul class="fa-ul">
 {{ range .Pages }}
-<li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> {{ if (ge .Date.Unix .Now.Unix) }}{{ if (le .Date.Unix (add .Now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
+<li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> {{ partial "comingsoon.html" . }}
 <br>
 <time><i>{{ .Date.Format "2 January 2006" }}</i></time>, 
 {{ .Params.host | safeHtml }}

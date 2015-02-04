@@ -79,7 +79,7 @@
         {{ range (where .Data.Pages.ByDate "Section" "presentation").Reverse }}
 	    {{ if (ge .Date.Unix .Now.Unix) }}
 		{{ if (le .Date.Unix (add .Now.Unix 10368000)) }}
-        <li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><em>{{ .Title | safeHtml }}</em></a>, {{ .Params.host | safeHtml }} ({{ .Date.Format "2 January 2006" }}). {{ if (le .Date.Unix (add .Now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}
+        <li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><em>{{ .Title | safeHtml }}</em></a>, {{ .Params.host | safeHtml }} ({{ .Date.Format "2 January 2006" }}). {{ partial "comingsoon.html" . }}
 </li>		
 		{{ end }}
 		{{ end }}
@@ -100,7 +100,7 @@
         {{ range (where .Data.Pages.ByDate "Section" "class").Reverse }}
 	    {{ if (ge .Date.Unix .Now.Unix) }}
 		{{ if (le .Date.Unix (add .Now.Unix 7776000)) }}
-        <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.  <span class="badge badge-small badge-yellow">coming soon</span>
+        <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}.  {{ partial "comingsoon.html" . }}
 </li>		
 		{{ end }}
 		{{ end }}
@@ -109,7 +109,7 @@
         {{ range (where .Data.Pages.ByDate "Section" "class").Reverse }}
 	    {{ if (le .Date.Unix .Now.Unix) }}
 		{{ if (le .Now.Unix (add .Date.Unix .Params.duration)) }}
-        <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. <span class="badge badge-green badge-small">now on</span>
+        <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. {{ partial "nowon.html" . }}
 </li>		
 		{{ end }}
 		{{ end }}
