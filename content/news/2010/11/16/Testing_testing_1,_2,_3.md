@@ -1,5 +1,5 @@
 ---
-title: "Testing, testing, 1, 2, 3."
+title: "Testing, testing, 1, 2, 3"
 author: Greg Restall
 published: true
 date: 2010-11-16 
