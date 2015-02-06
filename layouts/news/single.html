@@ -30,11 +30,11 @@
 
 <hr>
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a>
-{{ if .NextInSection }} | {{ end }}
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
 {{ end }}
+<a href="{{ $baseurl }}/news/#{{ .Date.Format "2006" }}">News Archive</a>
 {{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+| <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
 {{ end }}
 
 </div>
