@@ -26,7 +26,7 @@
 {{ range .Data.Pages.GroupByDate "2006" }}
 <div class="units-row">
 <div class="unit-10">
-<h3>{{ .Key }}</h3>
+<h3><a id="{{ .Key }}">{{ .Key }}</a></h3>
 </div>
 <div class="unit-90">
 <p>
