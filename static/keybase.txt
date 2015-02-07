@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/consequently
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://consequently.org
+  * I am consequently (https://keybase.io/consequently) on keybase.
+  * I have a public key with fingerprint 3FE8 0268 7DE5 21C9 938A  3A78 4D7F 9B72 FB6E 2A9E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "3fe802687de521c9938a3a784d7f9b72fb6e2a9e",
+            "host": "keybase.io",
+            "key_id": "4d7f9b72fb6e2a9e",
+            "uid": "e8de27b8477ed46093869d22e811e000",
+            "username": "consequently"
+        },
+        "service": {
+            "hostname": "consequently.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1405471947,
+    "expire_in": 157680000,
+    "prev": "e3c5ada5b60ae48f84bc7573e25d7b8a64ab797f32f2113ec245f8f13eea56cd",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.23
+Comment: https://keybase.io/crypto
+
+yMHsAnicbZFfSBxXGMVXjYYsJhokgQpuZdiQgJt1/t+ZKamlQTcPIolBjFWzuTNz
+Zx1iZnZnZ9ddFqVWUjCptqYQWxTFRNqk+pAg5MEgiGxLyAqlgQQMabRICPqg0FWs
+SBPvSPLm0535zu875x5u+nCey53TcHY79+X08o85mdntmOvi7/OZFCGbapKQUsRV
+tHdouhFCVtjSDZuQCEZDAknzAlARR1OKKDICZCAQWBVoogxoTeYRDUVE+Ig2M+ps
+YBsZRpFfN/EM/wR1FU/34WN7AhJURANZYAFAKsuTOIAXVZpGAkUhkiQdMIosA15D
+mFZMI4oiMWTY7Umi00dgJa4rWEntxe9D+U0rhD3ClmmbitmO1TbbDkvOsp0MO3QH
+koMffIKybqi4P16IIyuqmwYhUZhUbN0xpliSYwElssBHoERYt1BQdwgO8AK+KunE
+oLhTilE4qEJO5kmIWEETWFkBHGAQzam4K+RZKAMRaAyt0RTFIIVmOU3Q8BeCHK+o
+OB8XMExCYvE1YQhbRvWQAe2YhYjOudmWA64ct6sgP9d5QZf7UPHHd802HXzfXOkZ
+XSg7emtkUJ1Izv+f/8tm/UaFd8UWV5cWG0/8+wRMFXnR4Mro0GerD4PRZ29Df9WV
+z35Jl/QHihaXI9rGpHtY/+bCsOuLlkZv1WTeUEd3qq74zaVsIvc/7nR6ury939Pl
+b63oa8z0jB8pTcDaSun+5c3apoW/mV+31v31A76vasK/3ZzINrzeevxtyU5Btrpw
+ai0w9rk2gzYehXtmqE+lSCtX9fPJZkEHx89HpHcR7z1+rffK973PH/jPjJXNeb4r
+I+RT6ar821/T4g+fjO8UvirNxM+NeX4qgl2+wD/df16veQqT1SPrN9J3NWZp80Xi
+D3ugb+FYoOTO1C4aFRbl
+=IYmE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/consequently
+
+==================================================================
