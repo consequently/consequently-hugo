@@ -21,7 +21,7 @@
 	<meta name="twitter:url" content="{{ .Permalink }}">
 	<meta name="twitter:title" content="{{ .Title }}">
 	<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ if .Params.citation }}{{ .Params.citation }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}{{ end }}">
-	<meta name="twitter:image{{ if .Params.largeimage }}:src{{ end }}">
+	<meta name="twitter:image{{ if .Params.largeimage }}:src{{ else }}summary{{ end }}" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.BaseUrl }}/img/avatar2.jpg{{ end }}">
     <meta name="twitter:site" content="@consequently">
     <meta name="twitter:creator" content="@consequently">
 </head>
