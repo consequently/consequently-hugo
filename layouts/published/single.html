@@ -33,13 +33,8 @@
 
 <hr>
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a>
-{{ if .NextInSection }} | {{ end }}
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ $baseurl }}/writing">Writing Archive</a>{{ if .NextInSection }}| <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
 {{ end }}
-{{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
-{{ end }}
-
 </div>
 	
 </div>
