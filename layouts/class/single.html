@@ -30,7 +30,18 @@ Offered through {{ .Params.host }}
 {{ if ge .Date.Unix .Now.Unix }}{{ if (le .Date.Unix (add .Now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
 {{ if (le .Date.Unix .Now.Unix) }}{{ if (le .Now.Unix (add .Date.Unix .Params.duration)) }}<span class="badge badge-small badge-green">now on</span>{{ end }}{{ end }}
 </div>
-<div class="unit-60">{{ .Content }}</div>
+<div class="unit-60">{{ .Content }}
+
+<hr>
+{{ if .PrevInSection }}
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
+{{ end }}
+<a href="{{ $baseurl }}/class">Class Archive</a>
+{{ if .NextInSection }}
+| <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+{{ end }}
+</div>
+
 </div>
 </div>
 
