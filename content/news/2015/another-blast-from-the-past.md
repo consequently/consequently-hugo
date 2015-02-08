@@ -3,6 +3,7 @@ date = "2015-02-08T15:02:19+11:00"
 title = "Another Blast From the Past"
 image = "images/LPWL@pitas.jpg"
 description = "While recovering the archives for consequently.org, I came across another blast from the past: the weblog I ran with Jc Beall during the early days of our research on logical pluralism."
+largeimage = true
 
 +++
 
