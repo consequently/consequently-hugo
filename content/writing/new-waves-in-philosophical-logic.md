@@ -21,7 +21,7 @@ filter:
 ---
 Philosophical logic has been, and continues to be, a driving force behind much progress and development in philosophy more broadly. This collection of 12 original papers by 15 up-and-coming philosophical logicians deals with a broad range of topics, including proof-theory, probability, context-sensitivity, dialetheism and dynamic semantics. If the discipline's past influence on the core areas of philosophy is anything to go by, then the scholars and the ideas in these pages are the ones to watch. Here are the essays in the volume.
 
-* [Introduction](http://consequently.org/paper/NewWavesIntroduction.pdf), Greg Restall and Gillian Russell
+* [Introduction](http://consequently.org/papers/NewWavesIntroduction.pdf), Greg Restall and Gillian Russell
 * How Things Are Elsewhere, Wolfgang Schwarz
 * Information Change and First-Order Dynamic Logic, Barteld Kooi
 * [Interpreting and Applying Proof Theories for Modal Logic](http://consequently.org/writing/interp-apply-ptml), Francesca Poggiolesi and Greg Restall
