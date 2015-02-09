@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases:
+  - /news/2007/02/23/in_banff_monday_tuesday_wednesday_thursday/index.php
 ---
 
 Liveblogging talks was a bit beyond me, but I've been keeping up with a few notes on the talks [here in Banff](http://consequently.org/news/2007/02/20/in_banff/).  They're not as extensive as my notes on [Branden](http://consequently.org/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/#commentbox) and [Delia](http://consequently.org/news/2007/02/20/in_banff_delia_graff_fara)'s talks, but they'll give you an idea of the fun we've been having here.  (After lunch today, there's a batch of five talks, including mine.  I'm not sure when I'll be able to write up comments on those, since before dinner I have to catch a shuttle to Calgary to catch a plane early tomorrow morning.)

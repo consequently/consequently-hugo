@@ -2,6 +2,8 @@
 author: Greg Restall
 title: "Informal Logic: now open access"
 date: 2008-04-09T11:09:44+11:00
+aliases: 
+  - /news/2008/04/09/informal_logic_now_open_access/index.php
 
 filter:
   - erb
