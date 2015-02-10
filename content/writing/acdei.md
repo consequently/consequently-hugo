@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2008
-citation: "&ldquo;Assertion and Denial, Commitment and Entitlement, and Incompatibility (and some consequence),&rdquo; <em>Studies in Logic</em> 1 (2008), 26--36."
+citation: "&ldquo;Assertion and Denial, Commitment and Entitlement, and Incompatibility (and some consequence),&rdquo; <em>Studies in Logic</em> 1 (2008), 26&ndash;36."
 subjects: assertion negation entailment intuitionistic_logic sequents proofs
 count: 54
 tag: adcei

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2009 
-citation: "&ldquo;Models for Substructural Arithmetics,' <em><a href=\"http://www.miscellanea-logica.info/\">Miscellanea Logica</a></em>, 1--20 (2009), edited by Marta B&iacute;lkov&aacute;."
+citation: "&ldquo;Models for Substructural Arithmetics,' <em><a href=\"http://www.miscellanea-logica.info/\">Miscellanea Logica</a></em>, 1&ndash;20 (2009), edited by Marta B&iacute;lkov&aacute;."
 file: mfsa.pdf
 tag: mfsa
 count: 65

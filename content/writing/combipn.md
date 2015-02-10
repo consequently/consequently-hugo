@@ -5,7 +5,7 @@ author: Greg Restall
 status: Published in 1997
 published: true
 type: published
-citation: "&ldquo;Combining Possibilities and Negations,&rdquo; <em>Studia Logica,</em> 59 (1997) 121--140."
+citation: "&ldquo;Combining Possibilities and Negations,&rdquo; <em>Studia Logica,</em> 59 (1997) 121&ndash;140."
 tag: combipn
 subjects: non-classical_logic intuitionistic_logic negation modal_logic models 
 count: 14 

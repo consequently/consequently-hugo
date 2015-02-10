@@ -5,7 +5,7 @@ author: Greg Restall
 status: Published in 1995
 published: true
 type: published
-citation: "&ldquo;Arithmetic and Truth in &#321;ukasiewicz&rsquo;s Infinitely Valued Logic,&rdquo; <em>Logique et Analyse,</em> 36 (1993) 25--38 (published in 1995)."
+citation: "&ldquo;Arithmetic and Truth in &#321;ukasiewicz&rsquo;s Infinitely Valued Logic,&rdquo; <em>Logique et Analyse,</em> 36 (1993) 25&ndash;38 (published in 1995)."
 tag: arithluk
 subjects: paradox models non-classical_logic truth mathematics contraction self-reference
 count: 10

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2008
-citation: "(with <a href=\"http://www.philosophy.ox.ac.uk/members/timothy_bayne\">Tim Bayne</a>) &ldquo;A Participatory Theory of the Atonement,&rdquo; pages 150--166 in <em><a href=\"http://www.palgrave.com/philosophy/newwaves.asp\">New Waves in Philosophy of Religion</a></em>, edited by Yujin Nagasawa and Erik Wielenberg, Palgrave, 2008."
+citation: "(with <a href=\"http://www.philosophy.ox.ac.uk/members/timothy_bayne\">Tim Bayne</a>) &ldquo;A Participatory Theory of the Atonement,&rdquo; pages 150&ndash;166 in <em><a href=\"http://www.palgrave.com/philosophy/newwaves.asp\">New Waves in Philosophy of Religion</a></em>, edited by Yujin Nagasawa and Erik Wielenberg, Palgrave, 2008."
 tag: pa
 file: pa.pdf
 subjects: philosophy_of_religion atonement 

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2003
-citation: "&ldquo;Logic,&rdquo; pages 64--93 in <em><a href=\"http://www.amazon.com/exec/obidos/ASIN/0415227100/ref=nosim/consequentlyorg\">Fundamentals of Philosophy</a></em>, edited by John Shand, Routledge, 2003."
+citation: "&ldquo;Logic,&rdquo; pages 64&ndash;93 in <em><a href=\"http://www.amazon.com/exec/obidos/ASIN/0415227100/ref=nosim/consequentlyorg\">Fundamentals of Philosophy</a></em>, edited by John Shand, Routledge, 2003."
 tag: logic_chapter
 file: logic_chapter.pdf
 subjects: classical_logic proofs models

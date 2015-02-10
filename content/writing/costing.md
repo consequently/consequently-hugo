@@ -5,7 +5,7 @@ author: Greg Restall
 type: published
 published: true
 status: Published in 2008
-citation: "&ldquo;Curry's Revenge&#58; the costs of non-classical solutions to the paradoxes of self-reference,&rdquo; in <em>The Revenge of the Liar</em>, ed. JC Beall, Oxford University Press, pages 262--271, 2008."
+citation: "&ldquo;Curry&rsquo;s Revenge&#58; the costs of non-classical solutions to the paradoxes of self-reference,&rdquo; in <em>The Revenge of the Liar</em>, ed. JC Beall, Oxford University Press, pages 262&ndash;271, 2008."
 tag: costing
 file: costing.pdf
 subjects: paradox non-classical_logic contraction 

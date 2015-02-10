@@ -5,7 +5,7 @@ author: Robert K. Meyer and Greg Restall
 published: true
 type: published
 status: Published in 2002
-citation: "(with Robert K. Meyer) &ldquo; 'Strenge' Arithmetics,&rdquo; <em>Logique et Analyse</em> 42 (1999) 205--220 (published in 2002)."
+citation: "(with Robert K. Meyer) &ldquo; &lsquo;Strenge&rsquo; Arithmetics,&rdquo; <em>Logique et Analyse</em> 42 (1999) 205&ndash;220 (published in 2002)."
 
 tag: strenge
 file: strenge.pdf

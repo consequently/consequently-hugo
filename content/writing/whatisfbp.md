@@ -4,7 +4,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2003
-citation: "&ldquo;Just What <em>is</em> Full-Blooded Platonism?&rdquo; <em><a href=\"http://www.umanitoba.ca/publications/philosophia_mathematica/\">Philosophia Mathematica</a></em> 11 (2003) 82--91."
+citation: "&ldquo;Just What <em>is</em> Full-Blooded Platonism?&rdquo; <em><a href=\"http://www.umanitoba.ca/publications/philosophia_mathematica/\">Philosophia Mathematica</a></em> 11 (2003) 82&ndash;91."
 
 tag: whatisfbp
 file: whatisfbp.pdf

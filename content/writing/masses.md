@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2006
-citation: "&ldquo;Questions and Answers on Formal Philosophy,&rdquo; pages 97--104 in <em>Masses of Formal Philosophy</em>, edited by Vincent F. Hendricks and John Symonds, Automatic Press, 2006"
+citation: "&ldquo;Questions and Answers on Formal Philosophy,&rdquo; pages 97&ndash;104 in <em>Masses of Formal Philosophy</em>, edited by Vincent F. Hendricks and John Symonds, Automatic Press, 2006"
 tag: masses
 file: masses.pdf
 subjects: opinion pluralism metaethics meaning
