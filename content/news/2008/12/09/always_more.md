@@ -9,7 +9,7 @@ filter:
 dirty: true
 comments: yes
 aliases:
-  - http://consequently.org/news/2008/12/09/always_more/index.php
+  - /news/2008/12/09/always_more/index.php
 ---
 (What follows is a bundle of ideas I've been trying to write up for some time.  Instead of making it a fully fledged paper, I've decided to rough it out first as a blog post.  If anything comes of it, I'll polish it up.  Let me know what you think.)
 
