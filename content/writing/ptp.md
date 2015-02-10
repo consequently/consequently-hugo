@@ -19,6 +19,7 @@ filter:
   - rubypants
 aliases:
   - /writing/ptp/
+  - /writing/pc/
 
 
 ---

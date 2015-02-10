@@ -13,6 +13,8 @@ count: 46
 comments: yes
 date: 2006-03-03
 publishdate: 2006-03-03
+aliases:
+  - /writing/hpplrssl/
 filter:
   - erb
   - markdown
