@@ -5,7 +5,7 @@ published: true
 type: published
 author: Greg Restall
 status: Published in 1993
-citation: "&ldquo;Simplified Semantics for Relevant Logics (and some of their rivals)&rdquo; <em>Journal of Philosophical Logic</em> 22 (1993) 481--511."
+citation: "&ldquo;Simplified Semantics for Relevant Logics (and some of their rivals)&rdquo; <em>Journal of Philosophical Logic</em> 22 (1993) 481&ndash;511."
 tag: simpsem
 subjects: relevant_logic substructural_logic models non-classical_logic contraction
 count: 2 

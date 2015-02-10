@@ -5,7 +5,7 @@ author: Greg Restall
 status: Published in 1996
 type: published
 published: true
-citation: "&ldquo;Truthmakers, Entailment and Necessity,&rdquo; <em>Australian Journal of Philosophy,</em> 74 (1996) 331--340."
+citation: "&ldquo;Truthmakers, Entailment and Necessity,&rdquo; <em>Australian Journal of Philosophy,</em> 74 (1996) 331&ndash;340."
 tag: ten
 subjects: truthmakers metaphysics relevant_logic negation situations classical_logic truth
 count: 12 
