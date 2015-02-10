@@ -20,6 +20,7 @@ filter:
 aliases:
   - /writing/ptp/
   - /writing/pc/
+  - /writing/pt/
 
 
 ---
