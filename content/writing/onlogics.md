@@ -16,5 +16,7 @@ filter:
   - erb
   - markdown
   - rubypants
+aliases:
+  - /writing/onlogic.
 ---
 My Ph.D. Thesis, completed in January 1994. I was supervised by Prof. Graham Priest, at the University of Queensland. The thesis is 292 pages of work on logics without the contraction rule.
