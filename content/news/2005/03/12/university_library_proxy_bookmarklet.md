@@ -8,6 +8,7 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases:
   - /news/2005/03/12/university_library_proxy_bookmarklet/index.php
 
 ---
