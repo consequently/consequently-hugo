@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases:
+  - /news/2006/04/19/masses_of_formal_philosophy_question_1/index.php
 ---
 
 As I mentioned [before](http://consequently.org/news/2006/03/03/masses_of_formal_philosophy/), I've been thinking about Vincent Hendricks and John Symons' [five questions about _Formal Philosophy_](http://www.formalphilosophy.com/Masses/index.html).  This seems like as good a place as any to answer them.  So, today, I'll have a crack at the most autobiographical of the questions:
