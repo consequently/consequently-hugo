@@ -9,6 +9,8 @@ filter:
   - rubypants
 dirty: true
 comments: yes
+aliases:
+  - /news/2008/08/20/pain_stress_redundancies_another_day_at_the_office/index.php
 ---
 
 I had thought that we (the [Faculty of Arts](http://www.arts.unimelb.edu.au) at the [University of Melbourne](http://www.unimelb.edu.au)) were trying to keep our difficulties an internal affair, but [apparently we're not](http://www.arts.unimelb.edu.au/arts-renewal/workforce-proposal.html).  Given that this is all public news, I suppose I could comment.
