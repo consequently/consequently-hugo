@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+  - /news/2005/03/12/university_library_proxy_bookmarklet/index.php
+
 ---
 
 If you're like me, you do research on the web, and you browse around different sites for journals, seeing what's been published, and what you should read.  Our [library](http://www.lib.unimelb.edu.au/) has online subscriptions for lots of these journals, so I can download the papers, file them, read them, etc.  It's all very nice.
