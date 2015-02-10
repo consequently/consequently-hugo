@@ -12,8 +12,8 @@ file: strenge.pdf
 subjects: relevant_logic mathematics models
 count: 29
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2002-03-03
+publishdate: 2002-03-03
 filter:
   - erb
   - markdown

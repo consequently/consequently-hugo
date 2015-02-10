@@ -5,14 +5,14 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2004
-citation: "&ldquo;Paraconsistency Everywhere,&rdquo; <a href=\"http://projecteuclid.org/ndjfl\"><em>Notre Dame Journal of Formal Logic</em></a> <a href=\"http://projecteuclid.org:80/Dienst/UI/1.0/Summarize/euclid.ndjfl/1074290713\">43 (2002), 147-156</a>. (Appeared in 2004)&rdquo;"
+citation: "&ldquo;Paraconsistency Everywhere,&rdquo; <a href=\"http://projecteuclid.org/ndjfl\"><em>Notre Dame Journal of Formal Logic</em></a> <a href=\"http://projecteuclid.org:80/Dienst/UI/1.0/Summarize/euclid.ndjfl/1074290713\">43 (2002), 147&ndash;156</a>. (Appeared in 2004)&rdquo;"
 tag: pev
 file: pev.pdf
 subjects: paraconsistency negation entailment non-classical_logic
 count: 30
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2002-03-03
+publishdate: 2002-03-03
 filter:
   - erb
   - markdown

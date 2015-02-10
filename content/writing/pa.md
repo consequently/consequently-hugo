@@ -11,8 +11,8 @@ file: pa.pdf
 subjects: philosophy_of_religion atonement 
 count: 57
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2008-03-03
+publishdate: 2008-03-03
 filter:
   - erb
   - markdown

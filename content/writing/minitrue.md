@@ -5,14 +5,14 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2005
-citation: "&ldquo;Minimalists about Truth can (and should) be Epistemicists, and it helps if they are revision theorists too,&rdquo;  pages 97--106 in JC Beall and Bradley Armour-Garb, <em>Deflationism and Paradox</em>, Oxford University Press, 2005."
+citation: "&ldquo;Minimalists about Truth can (and should) be Epistemicists, and it helps if they are revision theorists too,&rdquo;  pages 97&ndash;106 in JC Beall and Bradley Armour-Garb, <em>Deflationism and Paradox</em>, Oxford University Press, 2005."
 tag: minitrue
 file: minitrue.pdf
 subjects: truth meaning 
 count: 39
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2005-03-03
+publishdate: 2005-03-03
 filter:
   - erb
   - markdown

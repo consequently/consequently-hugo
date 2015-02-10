@@ -5,14 +5,14 @@ author: Su Rogerson and Greg Restall
 published: true
 type: published
 status: Published in 2004
-citation: "(with Susan Rogerson) &ldquo;Routes to Triviality,&rdquo; <em>Journal of Philosophical Logic</em>, 33 (2004) 421--436."
+citation: "(with Susan Rogerson) &ldquo;Routes to Triviality,&rdquo; <em>Journal of Philosophical Logic</em>, 33 (2004) 421&ndash;436."
 tag: routes
 file: routes.pdf
 subjects: contraction models non-classical_logic
 count: 36
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2004-03-03
+publishdate: 2004-03-03
 filter:
   - erb
   - markdown
