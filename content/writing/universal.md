@@ -4,7 +4,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2007
-citation: "&ldquo;Review of <em>Universal Logic</em> by Ross Brady,&rdquo; <em>The Bulletin Symbolic Logic</em> 14 (2007) 544--547."
+citation: "&ldquo;Review of <em>Universal Logic</em> by Ross Brady,&rdquo; <em>The Bulletin Symbolic Logic</em> 14 (2007) 544&ndash;547."
 tag: universal
 subjects: substructural_logic book_review relevant_logic paradoxes
 count: 6
