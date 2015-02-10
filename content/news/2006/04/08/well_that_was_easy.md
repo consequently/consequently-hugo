@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Well, that was easy..."
 date: 2006-04-08T21:33:50+11:00
-
+aliases:
+  - /news/2006/04/08/well_that_was_easy/index.php
 filter:
   - erb
   - markdown

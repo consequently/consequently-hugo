@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "AJL"
 date: 2005-07-08T23:42:31+11:00
-
+aliases:
+  - /news/2005/07/08/ajl/index.php
 filter:
   - erb
   - markdown

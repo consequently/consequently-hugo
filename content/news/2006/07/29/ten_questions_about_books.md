@@ -2,6 +2,8 @@
 author: Greg Restall
 title: "Ten Questions about Books"
 date: 2006-07-29T22:02:48+11:00
+aliases:
+  - /news/2006/07/29/ten_questions_about_books/index.php
 
 filter:
   - erb

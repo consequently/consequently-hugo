@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Comments on Weblogs"
 date: 2005-03-07T16:27:50+11:00
-
+aliases:
+  - /news/2005/03/07/comments_on_weblogs/index.php
 filter:
   - erb
   - markdown

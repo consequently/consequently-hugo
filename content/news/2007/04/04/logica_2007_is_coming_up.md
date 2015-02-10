@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Logica 2007 is coming up"
 date: 2007-04-04T06:39:32+11:00
-
+aliases:
+  - /news/2007/04/04/logica_2007_is_coming_up/index.php
 filter:
   - erb
   - markdown

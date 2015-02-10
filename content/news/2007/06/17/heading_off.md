@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Heading off..."
 date: 2007-06-17T14:45:28+11:00
-
+aliases:
+  - /news/2007/06/17/heading_off/index.php
 filter:
   - erb
   - markdown

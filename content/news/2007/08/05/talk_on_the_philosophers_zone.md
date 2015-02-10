@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Talk on the Philosopher's Zone"
 date: 2007-08-05T17:26:54+11:00
-
+aliases:
+  - /news/2007/08/05/talk_on_the_philosophers_zone/index.php
 filter:
   - erb
   - markdown

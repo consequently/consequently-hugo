@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Logical Pluralism, in Tartu"
 date: 2008-04-16T06:42:39+11:00
-
+aliases:
+  - /news/2008/04/16/logical_pluralism_in_tartu/index.php
 filter:
   - erb
   - markdown

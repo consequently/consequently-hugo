@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Logic Job at Auckland"
 date: 2007-05-03T09:41:45+11:00
-
+aliases:
+  - /news/2007/05/03/logic_job_at_auckland/index.php
 filter:
   - erb
   - markdown

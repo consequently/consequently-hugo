@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Slow Period"
 date: 2004-06-18T21:00:14+11:00
-
+aliases:
+  - /news/2004/06/18/slow_period/index.php
 filter:
   - erb
   - markdown

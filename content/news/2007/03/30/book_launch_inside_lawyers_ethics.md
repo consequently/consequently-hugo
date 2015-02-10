@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Book Launch!  Inside Lawyers' Ethics"
 date: 2007-03-30T06:51:19+11:00
-
+aliases:
+  - /news/2007/03/30/book_launch_inside_lawyers_ethics/index.php
 filter:
   - erb
   - markdown

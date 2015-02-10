@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "Not 'gargoyle' but 'finial'"
 date: 2007-05-03T12:11:54+11:00
-
+aliases:
+  - /news/2007/05/03/not_gargoyle_but_finial/index.php
 filter:
   - erb
   - markdown

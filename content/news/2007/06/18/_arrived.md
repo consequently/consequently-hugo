@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "... arrived!"
 date: 2007-06-18T21:19:55+11:00
-
+aliases:
+  - /news/2007/06/18/_arrived/index.php
 filter:
   - erb
   - markdown

@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "We're in the news..."
 date: 2008-03-30T20:03:58+11:00
-
+aliases:
+  - /news/2008/03/30/were_in_the_news/index.php
 filter:
   - erb
   - markdown

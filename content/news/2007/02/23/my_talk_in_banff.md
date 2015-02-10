@@ -2,7 +2,8 @@
 author: Greg Restall
 title: "My talk in Banff"
 date: 2007-02-23T03:23:51+11:00
-
+aliases:
+  - /news/2007/02/23/my_talk_in_banff/index.php
 filter:
   - erb
   - markdown

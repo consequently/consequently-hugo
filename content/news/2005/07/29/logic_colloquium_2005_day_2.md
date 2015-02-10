@@ -2,6 +2,8 @@
 author: Greg Restall
 title: "Logic Colloquium 2005 Day 2"
 date: 2005-07-29T16:18:47+11:00
+aliases:
+  - /news/2005/07/29/logic_colloquium_2005_day_2/index.php
 
 filter:
   - erb
