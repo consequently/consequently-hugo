@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases: 
+  - /news/2004/06/21/organising_academic_papers/index.php
 ---
 
 Now *this* is a question which is much more sensible to ask than you might otherwise think: &ldquo;[Why can't I manage academic papers like MP3s?](http://freelancepropaganda.com/archives/MP3vPDF.pdf)&rdquo; (the link is to a pdf of a paper by James Howison and Abby Goodrum).

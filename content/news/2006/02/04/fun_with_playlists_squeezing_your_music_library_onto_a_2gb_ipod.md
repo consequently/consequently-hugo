@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases:
+  - /news/2006/02/04/fun_with_playlists_squeezing_your_music_library_onto_a_2gb_ipod/index.php
 ---
 
 I've finally joined the ranks of the zombies with white earbuds.  My trusty 2GB black [iPod nano](http://www.apple.com/ipodnano) was acquired on the way home from our Sabbatical, in a duty free store at Changi Airport.  I've had a little while to experiment with it, and so far, it's been working better than I'd expected.  I take it with me on my early morning walks, sometimes listening to spoken word things and sometimes listening to music.  My taste in podcasts is [pretty](http://theblog.philosophytalk.org/2006/01/the_best_of_phi.html) [conservative](http://www.abc.net.au/rn/talks/lnl/) -- I seem to treat this as time-shifted radio, rather than anything more cutting-edge.  However, it's pretty mind-bending that you can get [esoteric](http://www.dur.ac.uk/kevin.bywater/) [seminars](http://www.usyd.edu.au/time/conferences/Brandom-2005.htm) off the web, so academic seminars I'm interested in but didn't go to can be downloaded onto my computer and put on the iPod.

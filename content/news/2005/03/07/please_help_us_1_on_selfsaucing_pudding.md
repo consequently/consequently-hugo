@@ -8,6 +8,8 @@ filter:
   - markdown
   - rubypants
 dirty: true
+aliases:
+  - /news/2005/03/07/please_help_us_1_on_selfsaucing_pudding/index.php
 ---
 
 Here's one thing I find comments on a website really good for: trawling for information.
