@@ -11,7 +11,7 @@ file: lsf.pdf
 subjects: temporal_logic facts truthmakers
 count: 43
 comments: yes
-date: 1995-03-03
+date: 2005-03-03
 publishdate: 2005-03-03
 filter:
   - erb

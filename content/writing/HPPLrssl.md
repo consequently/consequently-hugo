@@ -11,8 +11,8 @@ file: HPPLrssl.pdf
 subjects: relevant_logic substructural_logic proofs models non-classical_logic history
 count: 46
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2006-03-03
+publishdate: 2006-03-03
 filter:
   - erb
   - markdown
