@@ -1,3 +1,4 @@
+
 https://help.github.com/articles/adding-a-cname-file-to-your-repository/
 
 http://davidensinger.com/2013/03/setting-the-dns-for-github-pages-on-namecheap/
@@ -12,3 +13,4 @@ http://octopress.org/docs/deploying/github/
 
 Link up /edit/page/Logic_Text_Chapter_1_Solutions to http://consequently.org/logic/solutions_1.html, etc.
 
+-------
