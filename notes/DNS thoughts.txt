@@ -10,7 +10,3 @@ http://stackoverflow.com/questions/23463391/github-pages-custom-domain-setup-wit
 http://octopress.org/docs/deploying/github/
 
 ----------
-
-Link up /edit/page/Logic_Text_Chapter_1_Solutions to http://consequently.org/logic/solutions_1.html, etc.
-
--------

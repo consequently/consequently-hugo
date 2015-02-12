@@ -4,7 +4,7 @@ title = "What’s the point of a personal website these days?"
 
 +++
 
-My last post to [consequently.org](http://consequently.org) was in late in 2010, well over four years ago. You'd be _justified_ in thinking that I'd abandoned the site&mdash;but you'd also be _wrong_. I've been tinkering with the site behind the scenes. The software I'd been using to maintain the site has long since [fallen into disrepair](https://github.com/TwP/webby), so updating the site meant porting everything to another content management system. At least, it would have to mean that, given that I *wasn't* really keen to burn the whole thing to the ground and start again from scratch. This required *time*. 
+My last post to [consequently.org](http://consequently.org) was in late in 2010, well over four years ago. You'd be _justified_ in thinking that I'd abandoned the place&mdash;but you'd also be _wrong_. I've been tinkering with it behind the scenes. The software I'd been using to maintain the website has long since [fallen into disrepair](https://github.com/TwP/webby), so updating it meant porting everything to another content management system. At least, it would have to mean that, given that I *wasn't* really keen to burn the whole thing to the ground and start again from scratch. This required *time*. 
 
 It didn't require _four years_, but it did require an uninterrupted stretch of time to tinker with software, experiment with the design, and finally, piece everything back together. 
 
