@@ -38,11 +38,12 @@
 <h4>{{ .Date.Format "2 January 2006" }}</h4>
 </div>
 <div class="unit-66">
-{{ .Summary }}
 {{ if .Truncated }}
+{{ .Summary }}
 <p class="text-right"><a href="{{ .RelPermalink }}">Read More…</a></p>
-	{{ end }}
-	
+{{ else }}
+{{ .Content }}
+{{ end }}	
 	<hr>
 </div>
 </div>
