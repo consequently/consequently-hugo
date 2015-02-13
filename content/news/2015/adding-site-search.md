@@ -1,6 +1,7 @@
 +++
 date = "2015-02-13T11:19:07+11:00"
 title = "Adding Site Search"
+image = "images/ddg.png"
 
 +++
 
