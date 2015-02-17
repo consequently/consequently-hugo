@@ -7,7 +7,7 @@ image = "images/lnc-lem-for-p.png"
 
 What *is* negation? 
 
-One answer you find in the literature is that negation is the operator that makes each instance of the *Law of the Excluded Middle* (<span class="caps">LNC</span>) and the *Law of Non-Contradiction* (<span class="caps">LEM</span>) turn out to be *true*. That is, every sentence of the form
+One answer you find in the literature is that negation is the operator that makes each instance of the *Law of the Excluded Middle* (<span class="caps">LEM</span>) and the *Law of Non-Contradiction* (<span class="caps">LNC</span>) turn out to be *true*. That is, every sentence of the form
 \\[
 p\lor \neg p
 \qquad
