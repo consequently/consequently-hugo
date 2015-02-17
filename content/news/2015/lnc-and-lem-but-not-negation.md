@@ -1,6 +1,7 @@
 +++
 date = "2015-02-17T23:20:25+11:00"
 title = "Do LNC and LEM suffice to define negation?"
+image = "images/lnc-lem-for-p.png"
 
 +++
 
