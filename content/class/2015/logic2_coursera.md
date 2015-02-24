@@ -1,5 +1,5 @@
 +++
-date = "2015-04-14T00:00:00+11:00"
+date = "2015-04-14T18:00:00+11:00"
 enddate = "2015-06-11T00:00:00+11:00"
 publishdate = "2015-01-31"
 title = "Logic: Language and Information 2"
