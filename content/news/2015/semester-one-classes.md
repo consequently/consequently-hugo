@@ -1,6 +1,5 @@
 +++
 date = "2015-02-25T23:55:17+11:00"
-draft = true
 title = "Classes in Semester One"
 image = "images/Power_and_Limits.jpg"
 description = "Teaching started for first semester, with the launch of Logic: Language and Information 1 on Coursera. I'm most excited, though, by the next run-through of Kurt G&ouml;del's Greatest Hits."
