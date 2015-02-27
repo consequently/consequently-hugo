@@ -28,4 +28,4 @@ See if you can spot [Mersenne](http://genealogy.math.ndsu.nodak.edu/id.php?id=12
 
 Another striking thing about this genealogy? There are *no women there*. None at all. (Not even among my own graduate students, each of whom I'm very proud indeed.) May this change, and change very soon.
 
-Thanks, Richard, for the prompt.
+Thanks, Richard, for [the prompt](http://ucalgary.ca/rzach/blog/2015/02/academic-genealogy-graphed.html). This has been a delight to explore.
