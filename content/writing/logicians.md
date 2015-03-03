@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Online only
-citation: "&ldquo;Great Moments in Logic&rdquo; available at <a href=\"http://consequently.org/writing/logicians\">http://consequently.org/writing/logicians</a>, 2004."
+citation: ""
 tag: logicians
 subjects: history classical_logic intuitionistic_logic modal_logic
 comments: yes
