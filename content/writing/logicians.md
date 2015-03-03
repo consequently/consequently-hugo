@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Online only
-citation: ""
+citation: "&ldquo;Great Moments in Logic&rdquo; published online, 2004."
 tag: logicians
 subjects: history classical_logic intuitionistic_logic modal_logic
 comments: yes
