@@ -13,7 +13,7 @@ Details are [online at the University of Melbourne careers site](http://jobs.uni
 
 **Update:** Here are a few answers to questions I&rsquo;ve been asked:
 
-* There is no fixed starting date for the position, though if you can be on board for Semester 2, 2015, that's a strong plus.
+* There is no fixed starting date for the position, though if you can be on board for [Semester 2, 2015](http://www.unimelb.edu.au/unisec/PDates/acadcale.html), that's a strong plus.
 
 * The teaching responsibilities for the position are small (at most 1/4 of the workload), and are to be decided in consultation with me&mdash;this part of the role is to give the candidate some teaching experience, and to cover a little of my teaching to free me up to do some more research. Take a look at [my teaching](/classes/) over the last few years, and you'll get an idea of the opportunities for teaching.
 
