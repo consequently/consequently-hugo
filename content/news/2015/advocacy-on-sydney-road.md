@@ -1,6 +1,5 @@
 +++
-date = "2015-03-19T11:16:47+11:00"
-draft = true
+date = "2015-03-19T12:49:30+11:00"
 title = "Advocacy on Sydney Road"
 description = "What happens when four people cut out paper flowers, advocate for Australian Aid, and collect signatures during the Sydney Road Street Party in 2015?" 
 image = "images/SRSP-stall.jpg"
