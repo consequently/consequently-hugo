@@ -1,7 +1,7 @@
 +++
 date = "2015-03-24T19:00:00+11:00"
 title = "Incarnation and Detachment: Philosophy, Prayer, and Taking Positions"
-host = "Christain Scholars Network, Melbourne"
+host = "Christian Scholars Network, Melbourne"
 publishdate = "2015-03-12"
 
 +++
