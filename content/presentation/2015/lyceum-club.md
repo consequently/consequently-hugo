@@ -6,4 +6,4 @@ publishdate = "2015-04-12"
 
 +++
 
-A presentation to the Philosophy Circle at the [Lyceum Club of Melbourne](http://www.lyceumclubmelb.org.au/) on Sophistry and Argumentation, and on the role of reason in the examined life.
+A presentation to the *Philosophy Circle* at the [Lyceum Club of Melbourne](http://www.lyceumclubmelb.org.au/) on Sophistry and Argumentation, and on the role of reason in the examined life.
