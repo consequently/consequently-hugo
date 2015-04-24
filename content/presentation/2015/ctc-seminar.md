@@ -6,7 +6,7 @@ publishdate = "2015-03-23"
 
 +++
 
-I'm giving a research seminar on May 1 at the [Catholic Theological College](http://www.ctc.edu.au/).
+I'm giving a research seminar on May 1 at the [Catholic Theological College](http://www.ctc.edu.au/). The details are [listed here in PhilEvents](http://philevents.org/event/show/17580). 
 
 *Abstract*: In this talk, I will explore some of the connections between logic and philosophy of language on the one hand, and theology&mdash;or religious practice&mdash;on the other. 
 
