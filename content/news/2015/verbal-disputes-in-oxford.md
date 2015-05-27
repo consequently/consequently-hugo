@@ -2,7 +2,7 @@
 date = "2015-05-27T15:56:45+11:00"
 title = "Verbal Disputes in Oxford (Workshop Report #1)"
 image = "images/mvd-amie.jpg"
-description = "I'm heading off on a flying visit to Oxford for a workshop on Verbal Disputes and their Philosophical Significance."
+description = "I'm back from last week's quick trip to Oxford for a workshop on Verbal Disputes.  In this entry I'll make some general remarks about the workshop and, in particular, about Amie Thomasson's talk \"Metaphysical Disputes and Metalinguistic Negotiation\"."
 largeimage = true
 
 +++
