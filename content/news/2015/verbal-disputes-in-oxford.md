@@ -1,6 +1,5 @@
 +++
 date = "2015-05-27T15:56:45+11:00"
-draft = true
 title = "Verbal Disputes in Oxford (Workshop Report #1)"
 image = "images/mvd-amie.jpg"
 description = "I'm heading off on a flying visit to Oxford for a workshop on Verbal Disputes and their Philosophical Significance."
