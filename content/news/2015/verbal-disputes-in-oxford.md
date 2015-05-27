@@ -11,7 +11,7 @@ I'm back from last week's [quick trip to Oxford for a workshop on Verbal Dispute
 
 [This](https://verbaldisputesoxford.wordpress.com) was an *excellent* two-day workshop, capably organised by [Trevor Teitel](http://www.ertegun.ox.ac.uk/staff-scholars/trevor-teitel), and funded by the [Ertegun Graduate Scholarship Programme for the Humanities](http://www.ertegun.ox.ac.uk/). There was a *lot* to think about in the papers presented at the conference, and the informal discussions between talks.  In another entry, I'll comment on [Cian Dorr](https://files.nyu.edu/cd50/public/)'s talk "Pinning Down the Meanings of Quantifiers." In this entry I'll make some general remarks about the workshop and, in particular, about [Amie Thomasson](http://www.amiethomasson.org/)'s talk "Metaphysical Disputes and Metalinguistic Negotiation".
 
-A highlight of a workshop like this is *meeting* people, maintaining contact with those you've met before, and making new connections with new friends and colleagues. While there were lots of different views expressed at the conference, there was enough common ground---and more than enough good will and good humour---to have fruitful and productive conversations.
+A highlight of a workshop like this is *meeting* people, maintaining contact with those you've met before, and making new connections with new friends and colleagues. While there were lots of different views expressed at the conference, there was enough common ground---and more than enough good will and good humour---to have fruitful and productive conversations. This was a great workshop.
 
 <!--more--> 
 
