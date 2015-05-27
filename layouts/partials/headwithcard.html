@@ -6,14 +6,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>{{ .Title }}</title>
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/kube.css" />
-	<link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/demo.css" />
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/kube.css" />
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/demo.css" />
  	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
  	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- Icons -->
-    <link rel="apple-touch-icon-precomposed" href="{{ .Site.BaseUrl }}/apple-touch-icon.png">
- 	<link rel="shortcut icon" href="{{ .Site.BaseUrl }}/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" href="{{ .Site.BaseURL }}/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico" />
      <!-- RSS -->
     <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 	<!-- Twitter Card -->
@@ -21,7 +21,7 @@
 	<meta name="twitter:url" content="{{ .Permalink }}">
 	<meta name="twitter:title" content="{{ .Title }}">
 	<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ if .Params.citation }}{{ .Params.citation }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}{{ end }}">
-	<meta name="twitter:image{{ if .Params.largeimage }}:src{{ end }}" content="{{ if .Params.image }}{{ .Site.BaseUrl }}/{{ .Params.image }}{{ else }}{{ .Site.BaseUrl }}/img/avatar2.jpg{{ end }}">
+	<meta name="twitter:image{{ if .Params.largeimage }}:src{{ end }}" content="{{ if .Params.image }}{{ .Site.BaseURL }}/{{ .Params.image }}{{ else }}{{ .Site.BaseURL }}/img/avatar2.jpg{{ end }}">
     <meta name="twitter:site" content="@consequently">
     <meta name="twitter:creator" content="@consequently">
 <script>

@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -32,10 +32,10 @@
 <div class="unit-90">
 <ul class="fa-ul">
 {{ range .Pages }}
-<li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> {{ partial "comingsoon.html" . }}
+<li><i class="fa-li fa fa-comment-o fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> {{ partial "comingsoon.html" . }}
 <br>
 <time><i>{{ .Date.Format "2 January 2006" }}</i></time>, 
-{{ .Params.host | safeHtml }}
+{{ .Params.host | safeHTML }}
 </li>
 {{ end }}
 </ul>

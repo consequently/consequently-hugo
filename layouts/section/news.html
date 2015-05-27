@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -32,7 +32,7 @@
 <div class="unit-90">
 <p>
 {{ range .Pages }}
-&para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a> 
+&para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> 
 {{ end }}
 </p>
 
