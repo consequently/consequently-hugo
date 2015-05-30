@@ -29,6 +29,8 @@
 <div class="unit-60">
 {{ .Content }}
 
+{{ partial "tweetlink.html" . }}
+
 <hr>
 {{ if .PrevInSection }}
 <a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
