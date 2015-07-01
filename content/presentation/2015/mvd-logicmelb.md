@@ -1,7 +1,7 @@
 +++
 date = "2015-05-08T11:00:00+11:00"
 title = "Merely Verbal Disputes and Coordinating on Logical Constants"
-host = "Melborne Logic Group"
+host = "Melbourne Logic Group"
 publishdate = "2015-05-05"
 
 +++
