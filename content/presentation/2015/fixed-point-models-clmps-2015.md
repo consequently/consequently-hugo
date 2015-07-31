@@ -1,7 +1,7 @@
 +++
 date = "2015-08-05T11:00:00+01:00"
 title = "Fixed Point Models for Theories of Properties and Classes"
-host = "15th Congress on Logic, Methodology, and Philosophy of Science; Helsinki"
+host = "15th Congress on Logic, Methodology, and Philosophy of Science, University of Helsinki"
 publishdate = "2015-07-31"
 
 +++
