@@ -5,7 +5,7 @@ author: Greg Restall and Tony Roy
 published: true
 type: published
 status: Published in 2009
-citation: "Greg Restall and Tony Roy &ldquo;On Permutation in Simplified Semantics,&rdquo; <em>Journal of Philosophical Logic</em>, 38:3 (2009) 333--341."
+citation: "Greg Restall and Tony Roy &ldquo;On Permutation in Simplified Semantics,&rdquo; <em>Journal of Philosophical Logic</em>, 38:3 (2009) 333&ndash;341."
 tag: permutation
 file: permutation.pdf
 doi: 10.1007/s10992-009-9104-z

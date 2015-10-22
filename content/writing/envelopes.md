@@ -11,8 +11,8 @@ file: envelopes.pdf
 subjects: epistemology models probability
 count: 56
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2008-03-03
+publishdate: 2008-03-03
 filter:
   - erb
   - markdown

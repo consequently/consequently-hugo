@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2004
-citation: "&ldquo;One Way to Face Facts,&rdquo; <em>The Philosophical Quarterly</em>, 54 (2004) 420--426."
+citation: "&ldquo;One Way to Face Facts,&rdquo; <em>The Philosophical Quarterly</em>, 54 (2004) 420&ndash;426."
 tag: facts
 file: facts.pdf
 subjects: truthmakers facts metaphysics modal_logic

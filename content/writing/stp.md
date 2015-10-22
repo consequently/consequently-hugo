@@ -6,7 +6,7 @@ type: published
 published: true
 status: Published in 2010
 doi: 10.1007/s11098-009-9468-5
-citation: "&ldquo;What are we to accept, and what are we to reject, when saving truth from paradox?&rdquo;  <em>Philosophical Studies</em> 147:3 (2010) 433--443."
+citation: "&ldquo;What are we to accept, and what are we to reject, when saving truth from paradox?&rdquo;  <em>Philosophical Studies</em> 147:3 (2010) 433&ndash;443."
 
 tag: stp
 file: stp.pdf

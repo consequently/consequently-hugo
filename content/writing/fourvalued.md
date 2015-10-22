@@ -5,7 +5,7 @@ published: true
 author: Greg Restall
 type: published
 status: Published in 1995
-citation: "&ldquo;Four-Valued Semantics for Relevant Logics (and some of their rivals),&rdquo; <em>Journal of Philosophical Logic</em> 24 (1995) 139--160."
+citation: "&ldquo;Four-Valued Semantics for Relevant Logics (and some of their rivals),&rdquo; <em>Journal of Philosophical Logic</em> 24 (1995) 139&ndash;160."
 tag: fourvalued
 subjects: relevant_logic substructural_logic models non-classical_logic negation
 count: 7

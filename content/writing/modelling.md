@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2003
-citation: "&ldquo;Modelling Truthmaking,&rdquo; <em>Logique et Analyse</em>, 169--170 (2000), 211--230 (published in 2003)."
+citation: "&ldquo;Modelling Truthmaking,&rdquo; <em>Logique et Analyse</em>, 169&ndash;170 (2000), 211&ndash;230 (published in 2003)."
 tag: modelling
 file: modelling.pdf
 subjects: truthmakers truth relevant_logic negation models existence quantifiers

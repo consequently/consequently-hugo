@@ -11,6 +11,8 @@ subjects: pluralism proofs non-classical_logic
 date: 2014-08-03
 publishdate: 2014-08-03
 doi: 10.1007/s10670-013-9477-9
+aliases:
+  - /writing/pluralism_and_proofs/
 filter:
   - erb
   - markdown

@@ -6,7 +6,7 @@ author: Greg Restall and JC Beall
 type: published
 published: true
 status: Published in 2000
-citation: "JC Beall and Greg Restall &ldquo;Logical Pluralism&rdquo;, <em>Australasian Journal of Philosophy</em>, 78:4 (2000) 475--493"
+citation: "JC Beall and Greg Restall &ldquo;Logical Pluralism&rdquo;, <em>Australasian Journal of Philosophy</em>, 78:4 (2000) 475&ndash;493"
 tag: logical_pluralism
 file: pluralism.pdf
 subjects: pluralism classical_logic relevant_logic intuitionistic_logic models proofs

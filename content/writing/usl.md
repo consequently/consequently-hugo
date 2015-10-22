@@ -4,7 +4,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 1994
-citation: "&ldquo;A Useful Substructural Logic,&rdquo; <em>Bulletin of the Interest Group in Pure and Applied Logics</em> 2 (1994) 137--148."
+citation: "&ldquo;A Useful Substructural Logic,&rdquo; <em>Bulletin of the Interest Group in Pure and Applied Logics</em> 2 (1994) 137&ndash;148."
 tag: usl
 subjects: substructural_logic sequents models information relevant_logic algebras
 count: 6

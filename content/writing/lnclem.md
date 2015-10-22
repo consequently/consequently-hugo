@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2004
-citation: "&ldquo;Laws of Non-Contradiction, Laws of the Excluded Middle and Logics,&rdquo; pages 73--85, G. Priest, JC Beall, B. Armour-Garb, <em>The Law of Non-Contradiction; New Philosophical Essays</em>, Oxford University Press, 2004."
+citation: "&ldquo;Laws of Non-Contradiction, Laws of the Excluded Middle and Logics,&rdquo; pages 73&ndash;85, G. Priest, JC Beall, B. Armour-Garb, <em>The Law of Non-Contradiction; New Philosophical Essays</em>, Oxford University Press, 2004."
 tag: lnclem
 file: lnclem.pdf
 subjects: negation non-classical_logic paraconsistency pluralism

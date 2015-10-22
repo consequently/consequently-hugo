@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 status: Published in 1995
 type: published
-citation: "&ldquo;Information Flow and Relevant Logic,&rdquo; in <em>Logic, Language and Computation</em>&#58; <em>The 1994 Moraga Proceedings,</em> Jerry Seligman and Dag Westerst&aring;hl (editors) CSLI Press, 1995, pages 463--477."
+citation: "&ldquo;Information Flow and Relevant Logic,&rdquo; in <em>Logic, Language and Computation</em>&#58; <em>The 1994 Moraga Proceedings,</em> Jerry Seligman and Dag Westerst&aring;hl (editors) CSLI Press, 1995, pages 463&ndash;477."
 tag: usl
 subjects: substructural_logic models information relevant_logic situations contraction
 count: 8

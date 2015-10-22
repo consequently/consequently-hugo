@@ -5,7 +5,7 @@ author: Sam Butchart, Toby Handfield and Greg Restall
 type: published
 published: true
 status: Published in 2009
-citation: "Sam Butchart, Toby Handfield and Greg Restall, &ldquo;Using Peer Instruction to Teach Philosophy, Logic and Critical Thinking&rdquo; <em>Teaching Philosophy</em>, 32:1 (2009) 1--40."
+citation: "Sam Butchart, Toby Handfield and Greg Restall, &ldquo;Using Peer Instruction to Teach Philosophy, Logic and Critical Thinking&rdquo; <em>Teaching Philosophy</em>, 32:1 (2009) 1&ndash;40."
 tag: peer-instruction
 file: peer-instruction.pdf
 subjects:  teaching 

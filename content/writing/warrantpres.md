@@ -11,8 +11,8 @@ doi: 10.1007/978-1-4020-2808-3
 subjects: pluralism warrant epistemology
 count: 37
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2004-03-03
+publishdate: 2004-03-03
 filter:
   - erb
   - markdown

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2002
-citation: "&ldquo;Carnap's Tolerance, Meaning and Logical Pluralism,&rdquo;  <em>Journal of Philosophy</em> 99 (2002) 426--443."
+citation: "&ldquo;Carnap's Tolerance, Meaning and Logical Pluralism,&rdquo;  <em>Journal of Philosophy</em> 99 (2002) 426&ndash;443."
 tag: carnap
 file: carnap.pdf
 subjects: pluralism meaning non-classical_logic

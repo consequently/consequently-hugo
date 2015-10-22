@@ -5,12 +5,13 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2008
-citation: "&ldquo;Proof Theory and Meaning&#58; on second order logic,&rdquo; pp 157--170 in <em>Logica 2007 Yearbook</em>, edited by Michal Pelis, Filosofia, 2008."
+citation: "&ldquo;Proof Theory and Meaning&#58; on second order logic,&rdquo; pp 157&ndash;170 in <em>Logica 2007 Yearbook</em>, edited by Michal Pelis, Filosofia, 2008."
 tag: ptm-second-order
 file: ptm-second-order.pdf
 subjects: proofs models quantifiers 
 count: 53
 comments: yes
+date: 2007-03-03
 publishdate: 2007-03-03
 filter:
   - erb

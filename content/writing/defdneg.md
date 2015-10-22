@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 status: Published in 2000
 type: published
-citation: "&ldquo;Defining Double Negation Elimination,&rdquo; <em><a href=\"http://www.oup.co.uk/igpl/contents/\">Logic Journal of the IGPL</a></em>, 8 (2000) 853--860."
+citation: "&ldquo;Defining Double Negation Elimination,&rdquo; <em><a href=\"http://www.oup.co.uk/igpl/contents/\">Logic Journal of the IGPL</a></em>, 8 (2000) 853&ndash;860."
 tag: defdneg
 file: defdneg.pdf
 subjects: negation models non-classical_logic 

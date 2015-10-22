@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2005
-citation: "(with Daniel Nolan and Caroline West) &ldquo;Moral Fictionalism versus the rest,&rdquo; <em>Australasian Journal of Philosophy</em>, 83 (2005), 307--330."
+citation: "(with Daniel Nolan and Caroline West) &ldquo;Moral Fictionalism versus the rest,&rdquo; <em>Australasian Journal of Philosophy</em>, 83 (2005), 307&ndash;330."
 tag: mf
 file: mf.pdf
 subjects: metaethics metaphysics meaning fictionalism

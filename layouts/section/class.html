@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -9,8 +9,9 @@
 				<li class="hd"><a href="{{ $baseurl }}"><b>consequently.org</b></a></li>
 				<li><a href="{{ $baseurl }}/news">News</a></li>
 				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
-				<li><a href="{{ $baseurl }}//presentation">Presentations</a></li>
-				<li><span><a href="{{ $baseurl }}//class">Classes</a></span></li>
+				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
+				<li><span><a href="{{ $baseurl }}/class">Classes</a></span></li>
+				<li><a href="#searchsite">Search</a></li>
 				<li><a href="#about">About</a></li>
 			</ul>
 		</nav>
@@ -20,7 +21,7 @@
 
 <div class="wrapper">
 
-<h2>Presentation Archive</h2>
+<h2>Class Archive</h2>
 <div class="units-row">
 <div class="unit-70">
 {{ range .Data.Pages.GroupByDate "2006" }}
@@ -33,7 +34,7 @@
 {{ range .Pages }}
         <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"> 
           <a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, from <time>{{ .Date.Format "January 2006" }} to {{ .Params.enddate | dateFormat "January 2006" }}</time>, through {{ .Params.host }}.
-{{ if ge .Date.Unix .Now.Unix }}{{ if (le .Date.Unix (add .Now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}{{ if (le .Date.Unix .Now.Unix) }}{{ if (le .Now.Unix (add .Date.Unix .Params.duration)) }}<span class="badge badge-small badge-green">now on</span>{{ end }}{{ end }}
+{{ partial "comingsoon.html" . }}{{ partial "nowon.html" . }}
         </li>
 {{ end }}
 </ul>

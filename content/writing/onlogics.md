@@ -2,8 +2,8 @@
 title: On Logics without Contraction
 
 author: Greg Restall
-published: false
-type: unpublished
+published: true
+type: published
 status: Online only
 citation: "<em>On Logics Without Contraction</em>, Ph.D. Thesis, The University of Queensland, 1994."
 tag: onlogics
@@ -16,5 +16,7 @@ filter:
   - erb
   - markdown
   - rubypants
+aliases:
+  - /writing/onlogic.
 ---
 My Ph.D. Thesis, completed in January 1994. I was supervised by Prof. Graham Priest, at the University of Queensland. The thesis is 292 pages of work on logics without the contraction rule.

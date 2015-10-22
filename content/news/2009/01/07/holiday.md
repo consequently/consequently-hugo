@@ -2,7 +2,7 @@
 title: "Holiday!"
 author: Greg Restall
 published: true
-created_at: 2009-01-07 22:30:40.293242 +11:00
+date: 2009-01-07T22:30:40.293242+11:00
 date: 2009-01-07 
 comments: yes
 filter:

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2002
-citation: "(with J. Michael Dunn) &ldquo;Relevance Logic,&rdquo; (with J. Michael Dunn), pages 1--136 in Volume 6 of the  <em>The Handbook of Philosophical Logic</em>, second edition, Dov Gabbay and Franz Guenther (editors), Kluwer 2002, ISBN 1-4020-0583."
+citation: "(with J. Michael Dunn) &ldquo;Relevance Logic,&rdquo; (with J. Michael Dunn), pages 1&ndash;136 in Volume 6 of the  <em>The Handbook of Philosophical Logic</em>, second edition, Dov Gabbay and Franz Guenther (editors), Kluwer 2002, ISBN 1-4020-0583."
 tag: rle
 file: rle.pdf
 subjects: relevant_logic substructural_logic negation 

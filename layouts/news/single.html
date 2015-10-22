@@ -1,5 +1,5 @@
-{{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ partial "headwithcard.html" . }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -11,6 +11,7 @@
 				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
 				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
 				<li><a href="{{ $baseurl }}/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
 				<li><a href="#about">About</a></li>
 			</ul>
 		</nav>
@@ -24,17 +25,19 @@
 <div class="unit-60"><h2><a href="">{{ .Title }}</a></h2></div>
 </div>
 <div class="units-row">		
-<div class="unit-20 dateblock"><h4>{{ .Date.Format "January 2, 2006" }}</h4></div>
+<div class="unit-20 dateblock">{{if not (isset .Params "grlog") }}<h4>{{ .Date.Format "January 2, 2006" }}</h4>{{ else }}&nbsp;{{ end }}</div>
 <div class="unit-60">
 {{ .Content }}
 
+{{ partial "tweetlink.html" . }}
+
 <hr>
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a>
-{{ if .NextInSection }} | {{ end }}
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
 {{ end }}
+<a href="{{ $baseurl }}/news/#{{ .Date.Format "2006" }}">News Archive</a>
 {{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+| <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
 {{ end }}
 
 </div>

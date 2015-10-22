@@ -5,13 +5,13 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2007
-citation: "&ldquo;Proofnets for S5&#58; sequents and circuits for modal logic,&rdquo; pages 151-172 in  <em><a href=\"http://www.cup.cam.ac.uk/us/catalogue/catalogue.asp?isbn=9780521884259\">Logic Colloquium 2005</a></em>, C. Dimitracopoulos, L. Newelski, and D. Normann (eds.), number 28 in Lecture Notes in Logic. Cambridge University Press, 2007."
+citation: "&ldquo;Proofnets for S5&#58; sequents and circuits for modal logic,&rdquo; pages 151&ndash;172 in  <em><a href=\"http://www.cup.cam.ac.uk/us/catalogue/catalogue.asp?isbn=9780521884259\">Logic Colloquium 2005</a></em>, C. Dimitracopoulos, L. Newelski, and D. Normann (eds.), number 28 in Lecture Notes in Logic. Cambridge University Press, 2007."
 tag: s5nets
 file: s5nets.pdf
 subjects: modal_logic sequents proofs 
 count: 51
 comments: yes
-date: 1995-03-03
+date: 2007-03-03
 filter:
   - erb
   - markdown

@@ -19,4 +19,4 @@ filter:
 ---
 The two-dimensional modal logic of Davies and Humberstone is an important aid to our understanding the relationship between actuality, necessity and a priori knowability. I show how a cut-free hypersequent calculus for 2d modal logic not only captures the logic precisely, but may be used to address issues in the epistemology and metaphysics of our modal concepts. I will explain how use of our concepts motivates the inference rules of the sequent calculus, and then show that the completeness of the calculus for Davies--Humberstone models explains why those concepts have the structure described by those models. The result is yet another application of the completeness theorem.
 
-(This pa- per was awarded a Silver Medal for the Kurt Go&#x308;del Prize in 2011.)
+(This paper was awarded a Silver Medal for the Kurt Go&#x308;del Prize in 2011.)

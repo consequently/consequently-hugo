@@ -5,7 +5,7 @@ published: true
 author: Greg Restall
 type: published
 status: Published in 1993
-citation: "&ldquo;Deviant Logic and the Paradoxes of Self-Reference,&rdquo; <em>Philosophical Studies</em>, 70 (1993) 279--303."
+citation: "&ldquo;Deviant Logic and the Paradoxes of Self-Reference,&rdquo; <em>Philosophical Studies</em>, 70 (1993) 279&ndash;303."
 tag: dlpsr
 subjects: paradox paradox self-reference non-classical_logic truth paraconsistency sets  contraction
 count: 4

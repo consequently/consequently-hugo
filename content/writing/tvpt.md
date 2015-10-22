@@ -1,6 +1,6 @@
 ---
 title: Truth Values and Proof Theory
-citation: "&ldquo;Truth Values and Proof Theory,&rdquo; <em>Studia Logica</em>, 92:2 (2009) 241--264."
+citation: "&ldquo;Truth Values and Proof Theory,&rdquo; <em>Studia Logica</em>, 92:2 (2009) 241&ndash;264."
 
 type: published
 author: Greg Restall

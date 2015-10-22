@@ -3,9 +3,9 @@ title: Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox
 
 author: Greg Restall
 published: false
-type: unpublished
-status: To Appear
-citation: "&ldquo;Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox,&rdquo; to appear in <em><a href=\"http://ukcatalogue.oup.com/product/9780198715696.do\">Foundations of Logical Consequence</a></em>, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press, 2015"
+type: published
+status: Published
+citation: "&ldquo;Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox,&rdquo; pages 310-321 in  <em><a href=\"http://ukcatalogue.oup.com/product/9780198715696.do\">Foundations of Logical Consequence</a></em>, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press, 2015"
 tag: assertiondenialparadox
 subjects: assertion paradox negation non-classical_logic 
 comments: yes

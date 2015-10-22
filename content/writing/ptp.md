@@ -19,6 +19,8 @@ filter:
   - rubypants
 aliases:
   - /writing/ptp/
+  - /writing/pc/
+  - /writing/pt/
 
 
 ---
@@ -31,4 +33,4 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <li /> I am (at this stage, at least) planning to make the book <a href="http://consequently.org/news/2004/03/18/publishing_a_book">available for download</a> as well as published by an academic publisher.
 </ol>
 
-The first couple of chapters are now available: <a href="http://consequently.org/papers/ptp.pdf">pdf with hyperlinks</a>, <a href="http://consequently.org/papers/ptp-2up.pdf">paper-saving 2up pdf</a>.  Comments are most welcome at the <a href="http://consequently.org/edit/page/Proof_Theory_and_Philosophy">wiki</a>.
+The first couple of chapters are now available: <a href="http://consequently.org/papers/ptp.pdf">pdf with hyperlinks</a>, <a href="http://consequently.org/papers/ptp-2up.pdf">paper-saving 2up pdf</a>. 

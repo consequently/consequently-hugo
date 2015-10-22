@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2001
-citation: "&ldquo;Constructive Logic, Truth and Warranted Assertibility,&rdquo; <em>Philosophical Quarterly</em>, 51 (2001) 474--483."
+citation: "&ldquo;Constructive Logic, Truth and Warranted Assertibility,&rdquo; <em>Philosophical Quarterly</em>, 51 (2001) 474&ndash;483."
 tag: conlogtr
 file: conlogtr.pdf
 subjects: intuitionistic_logic warrant assertion truth

@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 status: Published in 2005
 type: published
-citation: "(with Francesco Paoli) &ldquo;The Geometry of Non-Distributive Logics&rdquo;, <em>Journal of Symbolic Logic</em> 70:4 (2005) 1108--1126."
+citation: "(with Francesco Paoli) &ldquo;The Geometry of Non-Distributive Logics&rdquo;, <em>Journal of Symbolic Logic</em> 70:4 (2005) 1108&ndash;1126."
 tag: gndl
 file: gndl.pdf
 subjects: sequents proofs non-classical_logic

@@ -6,7 +6,7 @@ published: true
 type: published
 status: Published in 2011 
 citation: "&ldquo;Logic in Australasia,&rdquo; to appear in <em>The Antipodean Philosopher</em>, edited by Graham Oppy, N. N. Trakakis, Lynda Burns, Steven Gardner and Fiona Leigh, Lexington Books."
-tag: logic_in_australsia
+tag: logic_in_australasia
 file: logic_in_australasia.pdf
 subjects: history paraconsistency modal_logic
 comments: yes

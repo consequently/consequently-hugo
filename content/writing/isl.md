@@ -20,3 +20,5 @@ filter:
   - rubypants
 ---
 This book is, as the title says, an introduction to substructural logics. Think of it as a book which tries to do for substructural logics what Hughes and Cresswell's *New Introduction* did for modal logics. This book was published by <a href="http://www.routledge.com">Routledge</a> in January 2000.
+
+It's available at [Amazon](http://www.amazon.com/dp/041521534X/consequentlyorg) and many other bookstores.

@@ -1,5 +1,5 @@
-{{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ partial "headwithcard.html" . }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -11,6 +11,7 @@
 				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
 				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
 				<li><a href="{{ $baseurl }}/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
 				<li><a href="#about">About</a></li>
 			</ul>
 		</nav>
@@ -27,6 +28,7 @@
 <div class="unit-20 dateblock"><h4>{{ .Date.Format "January 2, 2006" }}</h4></div>
 <div class="unit-60">
 {{ .Content }}
+
 
 <hr>
 {{ if .PrevInSection }}

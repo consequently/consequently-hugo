@@ -5,14 +5,14 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 2005
-citation: "&ldquo;Multiple Conclusions,&rdquo; in <em>Logic, Methodology and Philosophy of  Science</em>&#58; <em>Proceedings of the Twelfth International Congress</em>, edited by  Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings'  College Publications, 2005, 189--205."
+citation: "&ldquo;Multiple Conclusions,&rdquo; in <em>Logic, Methodology and Philosophy of  Science</em>&#58; <em>Proceedings of the Twelfth International Congress</em>, edited by  Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings'  College Publications, 2005, 189&ndash;205."
 tag: multipleconclusions
 file: multipleconclusions.pdf
 subjects: sequents classical_logic negation proofs  
 count: 42
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2005-03-03
+publishdate: 2005-03-03
 filter:
   - erb
   - markdown

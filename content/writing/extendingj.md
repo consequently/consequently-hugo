@@ -2,10 +2,10 @@
 title: Extending Intuitionistic Logic with Subtraction
 
 author: Greg Restall
-published: false
-type: unpublished
+published: true
+type: published
 status: Unpublished
-citation: "&ldquo;Extending Intuitionistic Logic with Subtraction,&rdquo; Notes, 1997."
+citation: "&ldquo;Extending Intuitionistic Logic with Subtraction,&rdquo; Online Notes, 1997."
 tag: extendingj
 file: extendingj.pdf
 subjects: intuitionistic_logic models sequents

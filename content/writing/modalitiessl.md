@@ -5,7 +5,7 @@ author: Greg Restall
 published: true
 type: published
 status: Published in 1995
-citation: "&ldquo;Modalities in Substructural Logics,&rdquo; <em>Logique et Analyse</em>, 35 (1992) 303–321 (published in 1995). 420--426."
+citation: "&ldquo;Modalities in Substructural Logics,&rdquo; <em>Logique et Analyse</em>, 35 (1992) 303&ndash;321 (published in 1995). 420&ndash;426."
 tag: modalitiessl
 subjects: modal_logic substructural_logic contraction
 count: 9

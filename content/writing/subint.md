@@ -5,7 +5,7 @@ published: true
 author: Greg Restall
 type: published
 status: Published in 1994
-citation: "&ldquo;Subintuitionistic Logics,&rdquo; <a href=\"http://projecteuclid.org/Dienst/UI/1.0/Display/euclid.ndjfl/1040609299\"><em>Notre Dame Journal of Formal Logic</em> 35 (1994) 116--129</a>."
+citation: "&ldquo;Subintuitionistic Logics,&rdquo; <a href=\"http://projecteuclid.org/Dienst/UI/1.0/Display/euclid.ndjfl/1040609299\"><em>Notre Dame Journal of Formal Logic</em> 35 (1994) 116&ndash;129</a>."
 tag: subint
 subjects: intuitionistic_logic non-classical_logic models substructural_logic contraction
 count: 5

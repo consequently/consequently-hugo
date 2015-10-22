@@ -19,7 +19,7 @@
 	  </itunes:category>
 	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
 	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="{{.Site.BaseUrl}}/img/avatar2.jpg" />
+	  <itunes:image href="{{.Site.BaseURL}}/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>{{ .Permalink }}</link>
     {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}

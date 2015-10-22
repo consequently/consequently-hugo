@@ -1,11 +1,10 @@
 +++
-date = "2015-02-02T21:24:00+11:00"
-draft = true
-title = "Why no comments?"
+date = "2015-02-03T9:52:39+11:00"
+title = "Why no comment box?"
 
 +++
 
-Previous incarnations of this website provided space for comments in the usual way for a weblog in the first decade of the 2000s&mdash;a comment form on each entry. This one doesn't. Why not?
+Previous incarnations of this website provided a facility for comments in the usual way for a weblog in the first decade of the 2000s&mdash;a comment form on each entry. This one doesn't. Why not?
 
 <!--more-->
 

@@ -6,7 +6,7 @@ status: Published in 1993
 type: published
 published: true
 type: published
-citation: "&ldquo;How to be <em>Really</em> Contraction Free&rdquo; <em>Studia Logica</em> 52 (1993) 381--391."
+citation: "&ldquo;How to be <em>Really</em> Contraction Free&rdquo; <em>Studia Logica</em> 52 (1993) 381&ndash;391."
 tag: reallycf
 subjects: paradox contraction algebras models non-classical_logic
 count: 3

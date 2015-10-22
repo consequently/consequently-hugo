@@ -1,5 +1,5 @@
 {{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseUrl }}
+{{ $baseurl := .Site.BaseURL }}
 <body>
 <div id="topbar">
 <div class="wrapper">
@@ -11,6 +11,7 @@
 				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
 				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
 				<li><a href="{{ $baseurl }}/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
 				<li><a href="#about">About</a></li>
 			</ul>
 		</nav>
@@ -26,14 +27,15 @@
 {{ range .Data.Pages.GroupByDate "2006" }}
 <div class="units-row">
 <div class="unit-10">
-<h3>{{ .Key }}</h3>
+<h3><a id="{{ .Key }}">{{ .Key }}</a></h3>
 </div>
 <div class="unit-90">
-<ul class="list-flat">
+<p>
 {{ range .Pages }}
-<li> <time><em>{{ .Date.Format "January 2" }}</em></time>, <a href="{{ .Permalink }}">{{ .Title | safeHtml }}</a>
-</li> {{ end }}
-</ul>
+&para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> 
+{{ end }}
+</p>
+
 </div>
 </div>
 {{ end }}

@@ -5,15 +5,15 @@ author: Robert K. Meyer and Greg Restall
 published: true
 type: published
 status: Published in 2002
-citation: "(with Robert K. Meyer) &ldquo; 'Strenge' Arithmetics,&rdquo; <em>Logique et Analyse</em> 42 (1999) 205--220 (published in 2002)."
+citation: "(with Robert K. Meyer) &ldquo; &lsquo;Strenge&rsquo; Arithmetics,&rdquo; <em>Logique et Analyse</em> 42 (1999) 205&ndash;220 (published in 2002)."
 
 tag: strenge
 file: strenge.pdf
 subjects: relevant_logic mathematics models
 count: 29
 comments: yes
-date: 1995-03-03
-publishdate: 1995-03-03
+date: 2002-03-03
+publishdate: 2002-03-03
 filter:
   - erb
   - markdown

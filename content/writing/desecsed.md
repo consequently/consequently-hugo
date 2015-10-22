@@ -5,7 +5,7 @@ author: John K. Slaney, Robert K. Meyer and Greg Restall
 published: true
 type: published
 status: Published in 1998
-citation: "(with <a href=\"http://users.rsise.anu.edu.au/~jks/\">John K. Slaney</a> and Robert K. Meyer) &ldquo;Linear Arithmetic Desecsed,&rdquo; <em>Logique et Analyse,</em> 39 (1996) 379-388 (published in 1998)."
+citation: "(with <a href=\"http://users.rsise.anu.edu.au/~jks/\">John K. Slaney</a> and Robert K. Meyer) &ldquo;Linear Arithmetic Desecsed,&rdquo; <em>Logique et Analyse,</em> 39 (1996) 379&ndash;388 (published in 1998)."
 tag: desecsed
 file: desecsed.pdf
 subjects: mathematics non-classical_logic substructural_logic

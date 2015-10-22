@@ -19,15 +19,15 @@
 	  </itunes:category>
 	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
 	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="{{.Site.BaseUrl}}/img/avatar2.jpg" />
+	  <itunes:image href="{{.Site.BaseURL}}/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>{{ .Permalink }}</link>
     {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
     {{ with .Site.Author.name }}<author>{{.}}</author>{{end}}
     {{ with .Site.Copyright }}<copyright>{{.}}</copyright>{{end}}
-    <updated>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
+    <updated>{{ .Now.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
 
-{{ range .Site.Pages.ByDate.Reverse }}
+{{ range first 50 .Site.Pages.ByDate.Reverse }}
 <item>
 <title>{{ .Title }}</title>
 <link>{{ .Permalink }}</link>
