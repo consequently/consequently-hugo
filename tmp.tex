@@ -1,0 +1,1232 @@
+%!TEX TS-program = xelatex
+\documentclass{beamer} %topmatter (fold)
+%\documentclass[handout]{beamer}
+%\usepackage{pgfpages}
+%\usepackage{ulem}
+%\pgfpagesuselayout{8 on 1}[a4paper, border shrink=5mm]
+\usepackage{hyperref}
+\urlstyle{sf}
+\usepackage{graphics}
+\usepackage{relsize}
+\usepackage{booktabs}
+\usepackage[thicklines]{cancel}
+\renewcommand{\CancelColor}{\color{red}}
+\usepackage{soul}
+%\usepackage{amsmath}
+\usepackage{tikz}
+%\usepackage{booktabs}
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes}
+\usetikzlibrary{matrix}
+\usetikzlibrary{shapes.symbols}
+\usetikzlibrary{positioning}
+\DeclareOptionBeamer{secheader}{\beamer@secheadertrue}
+\ProcessOptionsBeamer
+\usecolortheme{rose}
+%\usefonttheme{sans}
+\usefonttheme{serif}
+\usefonttheme{professionalfonts}
+\usefonttheme{structurebold}
+\useoutertheme{infolines}
+\beamertemplatetransparentcovered
+%\useoutertheme[height=0pt,right]{sidebar}
+\usesubitemizeitemtemplate{%
+    \tiny\raise1.5pt\hbox{\color{beamerstructure}$\blacktriangleright$}%
+}
+\usesubsubitemizeitemtemplate{%
+    \tiny\raise1.5pt\hbox{\color{beamerstructure}$\bigstar$}%
+}
+\setbeamersize{text margin left=0.66em,text margin right=0.66em}
+\setbeamertemplate{headline}[default]
+\setbeamertemplate{frametitle}[default][center]
+\setbeamertemplate{title page}[mine]
+
+  \usecolortheme{crane}
+  \useinnertheme{default}
+  %\definecolor{craneorange}{RGB}{125,175,220}
+  %\definecolor{craneblue}{RGB}{20,0,120}
+  %\definecolor{craneorange}{RGB}{125,10,255}
+  %\definecolor{craneblue}{RGB}{0,58,122}
+  %\definecolor{craneblue}{RGB}{0,96,16}
+\definecolor{craneblue}{RGB}{0,62,118}
+\setbeamercolor{palette primary}{fg=craneblue,bg=craneorange}
+  \setbeamercolor{palette secondary}{fg=craneblue,bg=craneorange}
+  \setbeamercolor{palette tertiary}{fg=craneblue,bg=craneorange}
+  \setbeamercolor{palette quaternary}{fg=craneblue,bg=craneorange}
+  \setbeamercolor{normal text}{bg=white,fg=black}
+% or ...
+
+\setbeamercovered{invisible}
+  \setbeamertemplate{blocks}[default]
+  % or whatever (possibly just delete it)
+
+%\setbeamercolor{frametitle}{fg=craneorange!3}
+\setbeamerfont{description item}{series=\mdseries,shape=\scshape}
+\setbeamerfont{structure}{series=\mdseries}
+%\setbeamercolor{frametitle}{fg=craneblue,bg=grayblue}
+\setbeamercolor{frametitle}{fg=craneblue,bg=blue!7!white}
+%gray!13!white
+\setbeamerfont{frametitle}{family=\sffamily,series=\mdseries}
+\setbeamercolor{section in head/foot}{fg=grayblue!50!gray,bg=white}
+\setbeamerfont{section in head/foot}{family=\sffamily,series=\mdseries}
+\setbeamercolor{date in head/foot}{fg=craneblue,bg=white}
+\setbeamerfont{date in head/foot}{family=\sffamily,series=\mdseries}
+\setbeamerfont{corollary}{family=\sffamily,series=\mdseries,size=\normalsize}
+\setbeamercolor{title}{fg=craneblue,bg=white}
+\setbeamerfont{author}{size=\LARGE,shape=\itshape}
+\setbeamerfont{title}{size=\Huge,family=\sffamily,shape=\itshape,series=\bfseries}
+\setbeamerfont{subtitle}{size=\normalsize,family=\sffamily,shape=\itshape,series=\mdseries}
+\setbeamertemplate{sections in toc}[square]
+\setbeamertemplate{subsections in toc}[default]
+%\setbeamertemplate{navigation symbols}[only frame symbol]
+
+%%% For printouts %%% Comment out for screen
+\mode<handout>{
+\definecolor{craneorange}{RGB}{0,0,0}
+\definecolor{craneblue}{RGB}{255,255,255}
+\def\sectionpage#1{{\setbeamercolor{background canvas}{bg=white}\begin{frame}[plain]\setbeamercolor{normal text}{fg=black}\begin{center}\usebeamercolor[fg]{normal text}\Huge\textsc{\textsf{#1}}\end{center}\end{frame}}}
+\setbeamercolor{title}{bg=white,fg=black}
+\setbeamercolor{structure}{fg=black}
+\setbeamercolor{frametitle}{fg=black,bg=white}
+\setbeamercolor{section in head/foot}{bg=white,fg=black}
+\setbeamercolor{date in head/foot}{bg=white,fg=black}}
+%%%% End For Printouts %%%
+
+%%%%%
+% (fold)
+\defbeamertemplate*{title page}{mine}[1][]
+{
+  \vbox{}
+  \vfill
+  \begin{centering}
+    \begin{beamercolorbox}[sep=6pt,center,#1]{title}
+      \usebeamerfont{title}\inserttitle\par%
+      \ifx\insertsubtitle\@empty%
+      \else%
+        \vskip0.25em%
+		{\usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par}%
+      \fi%     
+    \end{beamercolorbox}%
+    \vskip0.66em\par
+    \begin{beamercolorbox}[sep=6pt,center,#1]{author}
+      \usebeamerfont{author}\insertauthor
+    \end{beamercolorbox}
+	\vskip0.66em\par
+    {\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par}
+ %   \begin{beamercolorbox}[sep=8pt,center,#1]{institute}
+ %     \usebeamerfont{institute}\insertinstitute
+ %   \end{beamercolorbox}
+    \vskip2em
+    \begin{beamercolorbox}[sep=8pt,center,#1]{date}
+      \usebeamerfont{date}\insertdate
+    \end{beamercolorbox}
+      \end{centering}
+  \vfill
+}
+% (end)
+%\defbeamertemplate*{footline}{my theme}
+%{
+%  \leavevmode%
+%  \hbox{%
+%  \begin{beamercolorbox}[wd=.501\paperwidth,ht=2.25ex,dp=1ex,right]{section in head/foot}%
+%    \usebeamerfont{section in head/foot}\hspace*{2ex}~{\insertsectionhead}~\hspace*{2ex}
+%  \end{beamercolorbox}%
+%  %\begin{beamercolorbox}[wd=.50\paperwidth,ht=2.25ex,dp=1ex,left]{subsection in head/foot}%
+%  %  \usebeamerfont{subsection in head/foot}\hspace*{2ex}~{\insertsubsectionhead}
+%  %\end{beamercolorbox}%
+%  \begin{beamercolorbox}[wd=.50\paperwidth,ht=2.25ex,dp=1ex,left]{date in head/foot}%
+%    \usebeamerfont{date in head/foot}\hspace*{2ex}
+%    \insertframenumber{}~of~\inserttotalframenumber\hspace*{2ex} 
+%  \end{beamercolorbox}}%
+%  \vskip0pt%
+%}
+\defbeamertemplate*{footline}{my theme}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.33ex,dp=1.33ex]{section in head/foot}%
+    \usebeamerfont{section in head/foot}~~{\emph{Greg Restall}}\hfill{\url{http://consequently.org/presentation/2015/verbal-disputes-oxford/}}\hfill{\insertframenumber~of~\inserttotalframenumber}~~
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+%\setbeamertemplate{footline}[my theme]
+
+%%%%%
+\def\isdf{\mathrel{=_{\mathsf{df}}}}
+\def\whiteout<#1>{%
+\temporal<#1>{}{\color{black!10}}{}}
+\def\blackout<#1>{%
+\temporal<#1>{}{\color{black}}{}}
+\newcommand{\imp}{\to}
+\renewcommand{\ng}{\mathord{\sim}}
+\def\cnm#1{\ulcorner #1\urcorner}
+%\def\nm#1{\langle #1 \rangle}
+\def\nm#1{\{\!|#1|\!\}}
+\def\pnm#1{[\![#1]\!]}
+\def\ext#1{[\![#1]\!]}
+\def\iaft{\mathrel{\guillemotright}}
+\def\supp{\Vdash}
+\def\Dia{\lozenge}
+\def\Box{\square}
+\def\ff{\equiv}
+\def\hk{\supset}
+\def\Imp{\Rightarrow}
+\def\fs{\circ}
+\def\BDia{\blacklozenge}
+\def\rl#1#2{\textrm{\footnotesize\emph{#2}$#1$}}
+\def\dispeq{\using{\textit{\footnotesize{display}}}}
+\def\blob{\mathord{\raise0.025ex\hbox{$\bullet$}}}
+\def\ast{\mathord{*}}
+\def\Sbar{\mathrel{\;|\;}}
+\def\blnk{\phantom{\textrm{\tiny.}}}
+\def\susing#1{\using{\textrm{\relsize{-1}{#1}}}}
+\def\df{\mathord{\downarrow}}
+\def\val#1{{[\![#1]\!]}}
+\def\MM{\mathfrak{M}}
+%%
+%% Definitions
+%%
+\def\usng#1#2{\using{\textrm{\relsize{-1}{($#1${\emph{#2}})}}}}
+\def\usngstar#1#2{\using{\textrm{\relsize{-1}{($#1${\emph{#2}})$^*$}}}}
+\def\usngsub#1#2#3{\using{\textrm{\relsize{-1}{$#1$\emph{#2}$_{\textrm{#3}}$}}}}
+\def\usngone#1{\using{\textrm{\relsize{-1}{[\emph{#1}]}}}}
+\def\red{\textsf{\textbf{\upshape{{\color{Maroon}red}}}}}
+%\def\discharge#1#2{\[\using{\textrm{\tiny{$(#2)$}}}\justifies{#1}\]}
+%\def\balanceddischarge#1#2{\hbox{\phantom{${}^{(#2)}$}}{[#1]}^{(#2)}}
+\def\balanceddischarge#1#2{{[#1]}^{(#2)}\hspace{-4mm}}
+\def\discharge#1#2{{[#1]}^{(#2)}}
+\def\CUT{\ensuremath{\textit{Cut}}}
+\def\Id{\ensuremath{\textit{Id}}}
+\def\impE{\ensuremath{\mathord\imp\textrm{\emph{E}}}}
+\def\impI{\ensuremath{\mathord\imp\textrm{\emph{I}}}}
+\def\impL{\ensuremath{\mathord\imp\textrm{\emph{L}}}}
+\def\impR{\ensuremath{\mathord\imp\textrm{\emph{R}}}}
+\def\negL{\ensuremath{\mathord\neg\textrm{\emph{L}}}}
+\def\negR{\ensuremath{\mathord\neg\textrm{\emph{R}}}}
+\def\negE{\ensuremath{\mathord\neg\textrm{\emph{E}}}}
+\def\negI{\ensuremath{\mathord\neg\textrm{\emph{I}}}}
+\def\landL{\ensuremath{\mathord\land\textrm{\emph{L}}}}
+\def\landR{\ensuremath{\mathord\land\textrm{\emph{R}}}}
+\def\landI{\ensuremath{\mathord\land\textrm{\emph{I}}}}
+\def\landE{\ensuremath{\mathord\land\textrm{\emph{E}}}}
+\def\otimesI{\ensuremath{\mathord\otimes\textrm{\emph{I}}}}
+\def\otimesE{\ensuremath{\mathord\otimes\textrm{\emph{E}}}}
+\def\otimesL{\ensuremath{\mathord\otimes\textrm{\emph{L}}}}
+\def\otimesR{\ensuremath{\mathord\otimes\textrm{\emph{R}}}}
+\def\oplusI{\ensuremath{\mathord\oplus\textrm{\emph{I}}}}
+\def\oplusE{\ensuremath{\mathord\oplus\textrm{\emph{E}}}}
+\def\oplusL{\ensuremath{\mathord\oplus\textrm{\emph{L}}}}
+\def\oplusR{\ensuremath{\mathord\oplus\textrm{\emph{R}}}}
+\def\lorL{\ensuremath{\mathord\lor\textrm{\emph{L}}}}
+\def\lorR{\ensuremath{\mathord\lor\textrm{\emph{R}}}}
+\def\lorI{\ensuremath{\mathord\lor\textrm{\emph{I}}}}
+\def\lorE{\ensuremath{\mathord\lor\textrm{\emph{E}}}}
+\def\subf{\mathord{\textrm{\upshape sf}}}
+\def\tA{\ensuremath{\textsf{a}}}
+\def\tB{\ensuremath{\textsf{b}}}
+\def\tC{\ensuremath{\textsf{c}}}
+\def\tD{\ensuremath{\textsf{d}}}
+\def\tE{\ensuremath{\textsf{e}}}
+\def\tF{\ensuremath{\textsf{f}}}
+\def\tG{\ensuremath{\textsf{g}}}
+\def\tN{\ensuremath{\textsf{n}}}
+\def\tT{\ensuremath{\textsf{t}}}
+\def\supp{\Vdash}
+\def\thf{\ensuremath{\mathrel{\raise0.2ex\hbox{$\therefore$}}}}
+\def\nd{\mathord{\textit{nd}}}
+\def\sq{\mathord{\textit{sq}}}
+\def\gets{\mathrel{:=}}
+%%
+%% Drawing
+\def\cNode#1#2#3{\draw #1 node(#2)[conn]{#3};}
+\def\csNode#1#2#3{\draw #1 node(#2)[switched,draw]{#3};}
+\def\sNode#1#2#3{\draw #1 node(#2)[stru]{#3};}
+\def\ssNode#1#2#3{\draw #1 node(#2)[stru]{#3};}
+\def\derivNode#1#2#3{\draw #1 node(#2)%
+[shape=chamfered rectangle,inner sep=5pt,fill=green!8!white,draw]{\small{#3}};}
+\def\tinysquaredown#1{\draw[fill=green!25!white,draw=green!25!black,very thin]%
+(#1) +(-1.166pt,-1.66pt) rectangle +(1.166pt,0.66pt);}
+\def\tinysquareup#1{\draw[fill=green!25!white,draw=green!25!black,very thin]%
+(#1) +(-1.166pt,-0.66pt) rectangle +(1.166pt,1.66pt);}
+\def\switchat#1{\draw[fill=white] (#1) circle (1.5pt);}
+%%%
+\makeatletter
+%%%
+%%% tikz: arrow definitions for active ports
+%%%
+\pgfarrowsdeclare{@}{@}
+{
+  \@tempdima=0.4pt%
+  \advance\@tempdima by.2\pgflinewidth%
+  \@tempdimb=5.5\@tempdima\advance\@tempdimb by\pgflinewidth
+  \pgfarrowsleftextend{-\@tempdimb}
+  \@tempdimb=1.5\@tempdima\advance\@tempdimb by.5\pgflinewidth
+  \pgfarrowsrightextend{\@tempdimb}
+}
+{
+  \@tempdima=0.4pt%
+  \advance\@tempdima by.2\pgflinewidth%
+  \pgfsetdash{}{0pt}
+  \pgfpathcircle{\pgfpoint{-3\@tempdima}{0pt}}{2.5\@tempdima}
+  \pgfusepathqfillstroke
+}
+\pgfarrowsdeclarecombine{@<}{>@}{stealth'}{stealth'}{@}{@}
+\makeatother
+%%%
+%%% tikz: circuit style definitions
+%%%
+\tikzstyle{circuit}=[semithick,auto,node distance=2cm,bend angle=25]
+%%% --- node styles
+\tikzstyle{conn}=[draw,ellipse,fill=grayblue,anchor=base,inner sep=3pt]
+\tikzstyle{proof}=[draw,rectangle,fill=grayred,anchor=base,inner sep=10pt]
+\tikzstyle{anch}=[inner sep=2pt,coordinate]
+\tikzstyle{wedgeleft}=[draw,isosceles triangle,isosceles triangle apex angle=60,inner sep=2pt,shape border rotate=180,fill=graygreen]
+\tikzstyle{wedgeup}=[draw,isosceles triangle,isosceles triangle apex angle=60,inner sep=2pt,shape border rotate=90,fill=graygreen]
+\tikzstyle{wedgedown}=[draw,isosceles triangle,isosceles triangle apex angle=60,inner sep=2pt,shape border rotate=270,fill=graygreen]
+\tikzstyle{wedgeright}=[draw,isosceles triangle,isosceles triangle apex angle=60,inner sep=2pt,fill=graygreen]
+\tikzstyle{switched}=[rectangle,inner sep=4pt,fill=grayred]
+\tikzstyle{stru}=[draw,rectangle,fill=graygreen,anchor=base,inner sep=4pt]
+%%% --- arrow styles
+\tikzstyle{intro}=[>=stealth',@->,shorten <=-2.75pt,shorten >=0.33pt]
+\tikzstyle{elim}=[>=stealth',->@,shorten >=-2.75pt]
+\tikzstyle{both}=[>=stealth',@->@,shorten >=-2.75pt,shorten <=-2.75pt]
+\tikzstyle{none}=[>=stealth',->,shorten >=0.33pt]
+\tikzstyle{swit}=[dotted,thick,color=dgrayred]
+%%% --- edge label styles (small formulas)
+\tikzstyle{every edge}=[font=\footnotesize,draw]
+%%%
+\tikzstyle{fence}=[color=dgraygreen,thick,rounded corners=5pt]
+\colorlet{grayshade}{black!1}
+\colorlet{graygreen}{green!6!grayshade}
+\colorlet{grayblue}{blue!6!grayshade}
+\colorlet{dgrayshade}{black!66}
+\colorlet{dgraygreen}{green!25!dgrayshade}
+\colorlet{grayred}{red!6!grayshade}
+\colorlet{dgrayred}{red!25!dgrayshade}
+
+\colorlet{lightred}{red!20!white}
+\colorlet{lightgreen}{green!20!white}
+\colorlet{lightblue}{blue!15!white}
+\colorlet{lightyellow}{yellow!33!white}
+
+\def\rbx#1{\colorbox{lightred}{$#1$}}
+\def\gbx#1{\colorbox{lightgreen}{$#1$}}
+
+\def\bbx#1{\colorbox{lightblue}{$#1$}}
+\def\ybx#1{\colorbox{lightyellow}{$#1$}}
+
+\def\rfbx#1{{\setlength{\fboxrule}{2pt}\fcolorbox{lightred}{white}{$#1$}}}
+\def\gfbx#1{{\setlength{\fboxrule}{2pt}\fcolorbox{lightgreen}{white}{$#1$}}}
+
+
+%%%%%
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage{prooftree}
+\usepackage{euler}
+\usepackage{fontspec}
+\setmainfont[Mapping=tex-text,SmallCapsFont={Alegreya SC}]{Alegreya}
+\setsansfont[Mapping=tex-text,SmallCapsFont={Alegreya Sans SC}]{Alegreya Sans}
+%\setsansfont[Mapping=tex-text]{ScalaSans}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+\title{Merely Verbal Disputes\\ and Coordinating on Logical Constants}
+
+%\subtitle{In which a cut-free sequent calculus for modal logics\\ with varying domains is motivated, defined and defended,\\ but nonetheless, lingering questions remain.} 
+
+\author{Greg Restall}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[Philosophy @ Melbourne] % (optional, but mostly needed)
+{Philosophy, University of Melbourne}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date % (optional)
+{\textsc{oxford university $\cdot$ 21 may 2015}}
+
+%\subject{metaphysics of mathematics}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+\titlegraphic{\includegraphics[height=2cm]{lumpycrest.pdf}}
+
+\def\sectionpage#1{{
+%\setbeamercolor{background canvas}{bg=craneblue}
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{Felt-Blue.jpg}}
+\usefoottemplate{\beamertemplatefootempty}\frame{\setbeamercolor{normal text}{fg=white}\mode<handout>{\setbeamercolor{normal text}{fg=black}}\vspace{0.75cm}\begin{center}\usebeamercolor[fg]{normal text}\fontsize{42}{48}\selectfont\textsc{\textsf{{#1}}}\end{center}}}}
+
+% (end)
+\begin{document}
+% navigation and titlepage (fold)
+\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{navigation symbols}{\insertframenavigationsymbol~{}~\insertsectionnavigationsymbol~{}~\insertbackfindforwardnavigationsymbol\hskip5.2cm}
+\frame[plain]{
+\titlepage 
+}
+%\setbeamertemplate{footline}[plain]
+% (end)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Basic Setup
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% table of contents (fold)
+\begin{frame}\frametitle{My {Plan}}
+    \LARGE\begin{center}\tableofcontents\end{center}
+\end{frame}
+% (end)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Background} % (fold)
+\sectionpage{background}
+
+\begin{frame}\frametitle{Why I'm interested in \emph{Merely Verbal Disagreement}}
+\begin{center}\LARGE
+	I'm interested in \emph{disagreement}\ldots
+	
+	\medskip
+	
+	\visible<2->{\ldots and I'm interested in \emph{words},\par
+	and what they mean.}
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Why I'm interested in the topic}
+\begin{center}\LARGE
+In particular, I'm interested in the role that\\
+\emph{logic} and \emph{logical concepts} might play\\
+in \emph{clarifying} and \emph{managing} disagreement.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{\emph{Particular} Issues}\Large
+\begin{itemize}
+\item<+-> \emph{Disagreement} between rival accounts of logic
+\item<+-> \emph{Monism} and \emph{Pluralism} about logic
+\item<+-> \emph{Ontological} relativity ($\exists$)
+\item<+-> The status of modal vocabulary ($\Dia$)
+\end{itemize}
+\end{frame}
+%%
+\def\isand#1{{\color<2,7>{red}{#1}}} % 18
+\def\isnot#1{{\color<3,7>{red}{#1}}} % 3
+\def\issome#1{{\color<4,7>{red}{#1}}} % 15
+\def\isposs#1{{\color<5,7>{red}{#1}}} % 2
+\def\punchline#1{{\color<6>{red}{#1}}}
+%%
+\begin{frame}\footnotesize%
+\begin{columns}
+\column{5cm}
+\issome{There's} a lady who's sure all that glitters is gold \\
+\isand{And} she's buying \issome{a} stairway to heaven.\\
+When she gets there she knows, if the stores are all closed\\
+With \issome{a} word she \isposs{can} get what she came for.\\
+Ooh, ooh, \isand{and} she's buying \issome{a} stairway to heaven.\\[4mm]
+%%
+\issome{There's a} sign on the wall \isand{but} she wants to be sure\\
+\punchline{'Cause you know sometimes words have two meanings.}\\
+In \issome{a} tree by the brook, \issome{there's a} songbird who sings,\\
+Sometimes all of our thoughts are misgiven.\\[4mm]
+%%
+Ooh, it makes me wonder, Ooh, it makes me wonder.\\[4mm]
+%%
+\issome{There's a} feeling I get when I look to the west,\\
+\isand{And} my spirit is crying for leaving.\\
+In my thoughts I have seen rings of smoke through the trees,\\
+\isand{And} the voices of those who stand looking.\\[4mm]
+%%
+Ooh, it makes me wonder, Ooh, it really makes me wonder.\\[4mm]
+%%
+\isand{And} it's whispered that soon, if we all call the tune,\\
+Then the piper will lead us to reason.\\
+\isand{And} \issome{a} new day will dawn for those who stand long,\\
+\isand{And} the forests will echo with laughter.\\[4mm]
+%%
+%%
+\column{5cm}
+If \issome{there's} a bustle in your hedgerow, do\isnot{n't} be alarmed now,\\
+It's just \issome{a} spring clean for the May Queen.\\
+Yes, \issome{there are} two paths you can go by, \isand{but} in the long run\\
+\issome{There's} still time to change the road you're on.\\
+\isand{And} it makes me wonder.\\[4mm]
+%%
+Your head is humming \isand{and} it wo\isnot{n't} go, in case you do\isnot{n't} know,\\
+The piper's calling you to join him,\\
+Dear lady, \isposs{can} you hear the wind blow, \isand{and} did you know\\
+Your stairway lies on the whispering wind?\\[4mm]
+%%
+\isand{And} as we wind on down the road\\
+Our shadows taller than our soul.\\
+There walks \issome{a} lady we all know\\
+Who shines white light \isand{and} wants to show\\
+How everything still turns to gold.\\
+\isand{And} if you listen very hard\\
+The tune will come to you at last.\\
+When all are one and one is all\\
+To be a rock \isand{and} not to roll.\\[4mm]
+%%
+\isand{And} she's buying \issome{a} stairway to heaven.\\
+\end{columns}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% definition
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{A Definition} % (fold)
+\sectionpage{a definition}
+
+\begin{frame}\frametitle{William James, a Tree, a Squirrel and a Man}\large
+\begin{quote}
+A man walks rapidly around a tree, while a squirrel moves on the tree trunk. Both face the tree at all times, but the tree trunk stays between them. A group of people are arguing over the question: 
+
+\pause\bigskip
+Does the man go round the squirrel or not?
+\end{quote}
+\pause
+\begin{itemize}
+\item[$\alpha$:] The man \emph{{goes round}} the squirrel.\\[5mm]
+\item[$\delta$:] The man doesn't \emph{{go round}} the squirrel.
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}\frametitle{William James, a Tree, a Squirrel and a Man}\large
+\begin{quote}
+Which party is right depends on what you practically mean by `going round' the squirrel. If you mean passing from the north of him to the east, then to the south, then to the west, and then to the north of him again, obviously the man does go round him, for he occupies these successive positions. But if on the contrary you mean being first in front of him, then on the right of him then behind him, then on his left, and finally in front again, it is quite as obvious that the man fails to go round him \ldots
+
+\medskip\noindent
+Make the distinction, and there is no occasion for any farther dispute. 
+
+\medskip\noindent\hfill
+--- William James, \emph{Pragmatism (1907)}
+\end{quote}
+\end{frame}
+
+\begin{frame}\frametitle{Resolving a dispute by clarifying meanings}\Large
+
+\begin{itemize}
+\item[$\alpha$:] The man \emph{{goes round}}$_1$ the squirrel.\\[5mm]
+\item[$\delta$:] The man doesn't \emph{{go round}}$_2$ the squirrel.
+\end{itemize}
+
+\medskip\pause
+
+\begin{center}
+Once we \emph{disambiguate} ``going round''\\ no disagreement remains.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Resolution by translation}
+\begin{itemize}\Large
+\item<+-> For James, ``going round$_1$'' and ``going round$_2$'' are explicated in other terms of $\alpha$ and $\delta$'s vocabulary.\\[5mm]
+\item<+-> Perhaps terms $t_1$ and $t_2$ \emph{can't} be explicated in terms of prior vocabulary. No matter. \\[5mm]
+\item<+-> $\alpha$ could learn $t_2$ while $\delta$ could learn $t_1$.
+\end{itemize}
+\end{frame}
+
+\colorlet{grayblue}{blue!6!grayshade}
+\colorlet{grayshade}{black!1}
+\colorlet{grayred}{red!6!grayshade}
+\colorlet{graygreen}{green!6!grayshade}
+
+
+\tikzstyle{lang}=[draw,ellipse,fill=grayred,inner sep=20pt,thin]
+
+\begin{frame}\frametitle{Introducing General Scheme}
+\begin{center}\large
+\begin{tikzpicture}[scale=3,baseline=(Ls),thick,label distance=-36pt]
+%%
+\visible<1->{\node[lang,fill=graygreen] at (-1,1) (La) [label=left:{\footnotesize $A$}] {};
+\node at (-1.5,1) (Lal) {$L_\alpha$};}
+%%
+\visible<1->{\node[lang,fill=grayred] at (1,1) (Ld) [label=right:\footnotesize $A$] {};
+\node at (1.5,1) (Ldl) {$L_\delta$};}
+%%
+\visible<2->{\node[lang,fill=grayblue,minimum size=3cm] at (0,0)  (Ls) 
+[label=225:\footnotesize {{$t_\alpha(A)$}}, label=45:\footnotesize {$t_\delta(A)$}] {};
+\node at (0,-0.685) (Lsl) {$L_*$};}
+%%
+\begin{scope}[->,>=stealth,semithick]
+\visible<2->{\path (La) edge node[below]{$t_\alpha$} (Ls);
+\path (Ld) edge node[below]{$t_\delta$} (Ls);}
+\end{scope}
+\end{tikzpicture}
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{What is a \emph{Language}?}\Large \pause
+\begin{itemize}
+\item A \textsc{\structure{syntax}} \pause
+\item \textsc{\structure{positions}} $[X:Y]$, where each member of $X$ is \emph{asserted} and each member of $Y$ is \emph{denied}, \\[4mm] \pause which are either \textsc{\structure{incoherent}} (\emph{out of bounds}) $X\vdash Y$,\\ \pause or \textsc{\structure{coherent}} (\emph{in bounds}) $X\not\vdash Y$.\\[7mm]\pause
+\item[+] \textsc{\structure{identity}:} $A\vdash A$. \pause
+\item[+] \textsc{\structure{weakening}:} If $X\vdash Y$ then $X,A\vdash Y$ and $X\vdash A,Y$.\pause
+\item[+] \textsc{\structure{cut}:} If $X\vdash A,Y$ and $X,A\vdash Y$ then $X\vdash Y$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{What is a Translation?}\LARGE\pause
+\[
+t:L_1\to L_2
+\]\large\pause
+\begin{itemize}
+\item $t$ may be \textsc{incoherence preserving}: $X\vdash_{L_1} Y$ $\;\Rightarrow\;$ $t(X)\vdash_{L_2} t(Y)$.\\[3mm]\pause
+\item $t$ may be \textsc{coherence preserving}: $X\not\vdash_{L_1} Y$ $\;\Rightarrow\;$ $t(X)\not\vdash_{L_2} t(Y)$.\\[3mm]\pause
+\item $t$ may be \textsc{compositional} (e.g., $t(A\land B)=\neg(\neg t(A)\lor\neg t(A))$, so $t(\lambda p.\lambda q.(p\land q))=\lambda p.\lambda q.(\neg(\neg p\lor\neg q))$.)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Example Translations}
+\begin{itemize}
+\item $t_\alpha(\textrm{going round})=\textrm{going round}_1$; $t_\delta(\textrm{going round})=\textrm{going round}_2$.\\[3mm]\pause
+\item $dm:L[\land,\lor,\neg]\to L[\lor,\neg]$, a \emph{de Morgan} translation. $dm(A\land B)=\neg(\neg dm(A)\lor\neg dm(B))$. This is \emph{coherence} and \emph{incoherence preserving}, and \emph{compositional}.\\[3mm]\pause
+\item $s:L[0,',+,\times]\to L[\in]$, interpreting arithmetic into set theory. \\[2mm] \pause\small
+This is \emph{compositional} and \emph{coherence preserving}, but \emph{not incoherence preserving} for \textsc{fol} derivability.  $(\forall x)(\exists y)(y=x+1)$ is true in \emph{all} models (whether the axioms of \textsc{pa} hold or not). Its translation $(\forall x\in\omega)(\exists y\in \omega)(\forall z)({z\in y}\,\equiv\,({z\in x}\lor{z=x}))$ is a \textsc{zf} \emph{theorem} but not true in all models.\\[2mm]\pause
+$\vdash(\forall x)(\exists y)(y=x+1)$ while $\not\vdash t[(\forall x)(\exists y)(y=x+1)]$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{A General Scheme\ldots}\Large
+	
+A \emph{dispute} \pause
+between a speaker $\alpha$ of language $L_\alpha$, \pause
+and $\delta$ of language $L_\delta$, \pause
+over $C$ \pause
+(where $\alpha$ \emph{asserts} $C$ and $\delta$ \emph{denies} $C$) \pause
+is said to be \textsc{\structure{resolved by translations $t_\alpha$ and $t_\delta$}}
+iff 
+
+\pause\medskip
+
+\begin{itemize}
+\item For some language $L_*$, $t_\alpha:L_\alpha \to L_*$, and $t_\delta: L_\delta\to L_*$,\\[2mm]\pause
+\item and $t_\alpha(C)\not\vdash_{L_*}t_\delta(C)$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{\ldots and its Upshot}
+\begin{center}\Large
+Given a resolution by translation,\\ 
+there is no disagreement over $C$ \\
+in the shared language $L_*$.\\[7.5mm]\pause
+The position $[t_\alpha(C):t_\delta(C)]$ (in $L_*$) is coherent.
+\end{center}
+\end{frame}
+
+
+\begin{frame}\frametitle{Taking Disputes to be Resolved by Translation}\Large
+\begin{center}
+To \emph{take} a dispute to be resolved by translation\\ 
+is to take there to be a pair of translations\\ that resolves the dispute.\\[3mm]\pause 
+(You may not even \emph{have} the translations in hand.)
+\end{center}
+\end{frame}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{A Method \ldots} % (fold)
+\sectionpage{a method \ldots}
+
+\begin{frame}\LARGE
+\begin{center}
+\ldots\ to resolve \emph{any} dispute by translation.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{\emph{Resolution} by \emph{Disjoint Union}}
+\begin{center}
+\only<2>{\LARGE Or, what I like to call ``the way of the undergraduate relativist.''}
+\only<3->{\begin{tikzpicture}[scale=3,baseline=(Ls),thick,label distance=-36pt]
+%%
+\visible<1->{\node[lang,fill=graygreen,minimum size=2cm] at (-1,1) (La) [label=left:{\footnotesize $C$}] {};
+\node at (-1.5,1) (Lal) {$L_\alpha$};}
+%%
+\visible<1->{\node[lang,fill=grayred] at (1,1) (Ld) [label=right:\footnotesize $C$] {};
+\node at (1.5,1) (Ldl) {$L_\delta$};}
+%%
+\visible<2->{\node[lang,fill=graygreen,minimum size=2.25cm] at (-0.4,0)  (Ls) 
+[label=left:\footnotesize {\only<3>{$t_\alpha(C)$}\only<4->{\color{dgraygreen}{$C$}}}] {};
+\node at (0,-0.685) (Lsl) {$L_{\alpha|\delta}=L_\alpha\sqcup L_\delta$};}
+\visible<2->{\node[lang,fill=grayred,minimum size=2.25cm] at (0.4,0)  (Lsr) 
+[label=right:\footnotesize {\only<3>{$t_\delta(C)$}\only<4->{\color{dgrayred}{$C$}}}] {};
+\node at (0,-0.685) (Lsl) {$L_{\alpha|\delta}=L_\alpha\sqcup L_\delta$};}
+%%
+\begin{scope}[->,>=stealth,semithick]
+\visible<2->{\path (La) edge node[left]{$t_\alpha$} (Ls);
+\path (Ld) edge node[right]{$t_\delta$} (Lsr);}
+\end{scope}
+\end{tikzpicture}
+}
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{\emph{Resolution} by \emph{Disjoint Union}}\large
+\begin{center}
+$L_{\alpha|\delta}$ is the \emph{disjoint union} $L_\alpha\sqcup L_\delta$,\\
+and $t_\alpha:L_\alpha\to L_{\alpha|\delta}$, $t_\delta:L_\delta\to L_{\alpha|\delta}$\\ are the obvious injections.\\[6mm]\pause
+
+For coherence on $L_{\alpha|\delta}$, \\
+$(X_\alpha,X_\delta\vdash Y_\alpha,Y_\delta)$ iff $(X_\alpha\vdash Y_\alpha)$ or $(X_\delta\vdash Y_\delta)$.\\[6mm]\pause
+
+
+This is a coherence relation.\\ 
+The vocabularies \emph{slide past one another}\\ 
+with no interaction.\\[6mm] \pause
+
+
+
+This `translation' is structure preserving,\\ and coherence and incoherence preserving too.
+
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{This `resolves' the dispute over $C$}\Large
+\begin{center}
+	If ${\color{dgraygreen}{C}}\not\vdash_{L_\alpha}$ \pause\\[1mm] {\normalsize($\alpha$'s assertion of {\color{dgraygreen}$C$} is coherent)}\\[6mm]\pause and $\not\vdash_{L_\delta} {\color{dgrayred}{C}}$ \pause\\[1mm] {\normalsize($\delta$'s denial of {\color{dgrayred}$C$} is coherent)}\\[6mm]\pause
+	then ${\color{dgraygreen}{C}}\not\vdash_{L_{\alpha|\delta}}{\color{dgrayred}{C}}${\normalsize\pause\\[1mm] (Asserting {\color{dgraygreen}$C$-from-$L_\alpha$} and denying {\color{dgrayred}$C$-from-$L_\delta$} is coherent.)}
+\end{center}
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\ldots\ and its Cost} % (fold)
+\sectionpage{\ldots\ and its cost}
+
+\begin{frame}
+\begin{center}\Large
+Nothing $\alpha$ says has any bearing on $\delta$, or \emph{vice versa}.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Losing my Conjunction}\Large
+\begin{center}
+What is ${\color{dgraygreen}{A}}\land{\color{dgrayred}{B}}$?\\[8mm]\pause
+
+There's \emph{no such sentence} in $L_{\alpha|\delta}$!
+\end{center}
+\end{frame}
+
+
+\begin{frame}\frametitle{The Case of the Venusians}
+	\begin{quote}\small\upshape
+Suppose aliens land on earth speaking our languages and familiar with our cultures and tell us that for more complete communication it will be
+necessary that we increase our vocabulary by the addition of a 1-ary sentence connective $\Bbb{V}$ \ldots\ concerning which we should note immediately that certain restrictions to our familiar inferential practices will need to be imposed. As these Venusian logicians explain, ($\land$E) will have to be curtailed. Although for purely terrestrial sentences $A$ and $B$, each of $A$ and $B$ follows from their conjunction $A\land B$, it will not in general be the case that $\Bbb{V}A$ follows from $\Bbb{V}A\land B$, or that $\Bbb{V}B$ follows from $A\land \Bbb{V}B$\ldots \\[3mm]
+
+\hfill --- Lloyd Humberstone, \emph{The Connectives} \S 4.34
+\end{quote}
+\end{frame}
+
+\def\dgrn#1{{\color{dgraygreen}{#1}}}
+\def\dred#1{{\color{dgrayred}{#1}}}
+
+\begin{frame}\frametitle{Losing our Conjunction}\large
+If some statements $\dgrn{A}$ (from $L_\alpha$) and $\dred{B}$ (from $L_\delta$) are both \emph{deniable}\\ (so $\not\vdash \dgrn{A}$, and $\not\vdash\dred{B}$) then no sentence in $L_{\alpha|\delta}$ entails both $\dgrn{A}$ and $\dred{B}$.\\[3mm]\pause
+
+	
+If $C\vdash \dgrn{A}$ and $C\vdash \dred{B}$ then\\[2mm]\pause
+\begin{itemize}
+\item if $C$ is in $L_\alpha$ then $C\vdash \dgrn{A}$ (possible) and $\vdash \dred{B}$ (no).\\[2mm] \pause
+\item if $C$ is in $L_\delta$ then $C\vdash \dred{B}$ (possible) and $\vdash\dgrn{C}$ (no).\\[2mm] \pause
+\end{itemize}
+
+So, there's \emph{no} conjunction in $L_{\alpha|\delta}$.
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Preservation} % (fold)
+\sectionpage{preservation}
+
+\begin{frame}\frametitle{Have we got conjunction in $L$?}\large\pause
+\begin{center}
+We can mean \emph{many} different things by `and'.\\[6mm]\pause
+
+Let's say that `\textrm{and}' is a \emph{conjunction} in $L$ iff:\pause
+\[
+\prooftree
+X,A,B\vdash Y
+\using{[\mathord{\textrm{and}}\mathord{\updownarrow}]}\Justifies
+X,A\textrm{ and }B\vdash Y
+\endprooftree
+\]
+for \emph{all} $X$, $Y$, $A$ and $B$ in $L$.\\[6mm]\normalsize\pause
+
+(There is no conjunction in $L_{\alpha|\delta}$. There is no sentence ``$\dgrn{A}\textrm{ and }\dred{B}$''.)
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Preservation}\Large
+\begin{center}
+A translation $t:L_1\to L_2$ is \textsc{\structure{conjunction preserving}}\\ if a conjunction in $L_1$ is translated by a conjunction in $L_2$. 
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Preservation seems like a good idea}\Large
+\begin{center}
+Translations should keep \emph{some things} preserved.\\[6mm]
+Let's see what we can do with this.
+\end{center}
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Examples} % (fold)
+\sectionpage{examples}
+
+\begin{frame}\frametitle{Conjunction}\large
+\begin{center}
+Obviously, there  some disagreements can resolved\\ by a disambiguation of different senses of the word `and.'\\[6mm] \pause
+
+`and$_\alpha$' $\overset{t_\alpha}{\longrightarrow}$ `$\land$'\qquad
+`and$_\delta$' $\overset{t_\delta}{\longrightarrow}$ `and \emph{then}'
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{No Verbal Disagreement Between Two \emph{Conjunctions}}\large
+If the following \emph{two} conditions hold:\\[1mm]\pause
+\begin{enumerate}
+\item `$\land$' is a conjunction in $L_1$ and `$\&$' is a conjunction in $L_2$, and\pause
+\item $t_1:L_1\to L_*$, and $t_2:L_2\to L_*$ are both \emph{conjunction preserving}.\\[2mm]\pause
+\end{enumerate}
+then `$\land$' and `$\&$' are \emph{equivalent} in $L_*$.\\[2mm]\pause
+That is, in $L_*$, $A\land B\vdash A\mathrel{\&} B$ and $A\mathrel{\&} B\vdash A\land B$.\\[6mm]\pause
+Why?
+\end{frame}
+
+
+\begin{frame}\frametitle{Here's why}
+\[
+\prooftree
+  \[
+  A\mathrel{\&} B\vdash A\mathrel{\&} B
+  \using{[\mathord{\&}\mathord{\uparrow}]}\justifies
+  A,B\vdash A\mathrel{\&} B
+  \]
+\using{[\mathord{\land}\mathord{\downarrow}]}\justifies
+A\land B\vdash A\mathrel{\&} B
+\endprooftree
+\qquad
+\prooftree
+  \[
+  A\mathrel{\land} B\vdash A\land B
+  \using{[\mathord{\land}\mathord{\uparrow}]}\justifies
+  A,B\vdash A\mathrel{\land} B
+  \]
+\using{[\mathord{\&}\mathord{\downarrow}]}\justifies
+A\mathrel{\&} B\vdash A\land B
+\endprooftree
+\]
+\bigskip
+\begin{center}
+(Since $\land$ and $\&$ are both conjunctions in $L_*$.)
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Equivalence and Verbal Disagreements}
+If `$\land$' and `$\&$' are {equivalent}, then any merely verbal disagreement betwen $A\land B$ and $A'\mathord{\&} B'$ cannot be explained by an equivocation between `$\land$' and `$\&$'. 
+
+\bigskip\pause
+
+The only way to coherently assert $A\land B$ and deny $A'\mathrel{\&}B'$ involves distinguishing $A$ and $A'$ or $B$ and $B'$.\pause
+\[
+\prooftree
+\[
+A\vdash A'
+\[
+B\vdash B'
+\[
+A'\mathrel{\&}B'\vdash A'\mathrel{\&}B'
+\using{[\mathord{\&}\mathord{\uparrow}]}\justifies
+A',B'\vdash A'\mathrel{\&}B'
+\]
+\using{[\textit{Cut}]}\justifies
+A',B\vdash A'\mathrel{\&}B'
+\]
+\using{[\textit{Cut}]}\justifies
+A, B\vdash A'\mathrel{\&}B'
+\]
+\using{[\mathord{\land}\mathord{\downarrow}]}\justifies
+A\land B\vdash A'\mathrel{\&}B'
+\endprooftree
+\]
+If $A$/$A'$  and $B$/$B'$are equivalent, so are $A\land B$ and $A'\mathrel{\&}B'$.
+\end{frame}
+
+
+
+\begin{frame}\frametitle{This is not surprising\ldots}\Large
+\begin{center}\pause
+\ldots\ since the rules for conjunction are \emph{very strong}.
+\end{center}
+\end{frame}
+
+
+
+\def\cneg{\mathord{-}}
+
+
+\begin{frame}\frametitle{Negation}
+Consider the debate between the intuitionist and classical logician over negation.\\[3mm]\pause
+
+\emph{Dummett}: I assert $\neg\neg p$ and deny $p$:  $\neg\neg p\not\vdash p$.\\[3mm]\pause
+
+\emph{Williamson}: $\cneg\cneg p\vdash p$.\\[3mm]\pause
+
+Could \emph{this} be a merely verbal disagreement?\\[3mm]\pause
+
+Of course! There are logics in which both intuitionist and classical `negation' can be distinguished.\\[3mm]\pause 
+
+\emph{Sort of}.
+\end{frame}
+
+
+\begin{frame}\frametitle{Negation}
+\begin{center}
+When is something a \emph{negation}?
+\end{center}
+\begin{columns}\pause
+\column{5cm}
+\begin{center}
+\textsc{classical logic:}
+\[
+\prooftree
+X\vdash A,Y
+\using{[\mathord{\cneg}\mathord{\updownarrow}]}\Justifies
+X,\cneg A\vdash Y
+\endprooftree
+\]\pause
+\end{center}
+\column{5cm}
+\begin{center}
+\textsc{intuitionist logic:}
+\[
+\prooftree
+X,A\vdash 
+\using{[\mathord{\neg}\mathord{\updownarrow}]}\Justifies
+X\vdash \neg A
+\endprooftree
+\]
+\end{center}\pause
+\end{columns}
+\begin{center}
+Let's call something a \textsc{negation} in $L$\\ if it satisfies at least the {intuitionist} negation rules.\\[6mm]\pause
+
+And let's say that $t:L_1\to L_2$ \textsc{preserves negation}\\ if it translates a {negation} in $L_1$ by a {negation} in $L_2$.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{No Verbal Disagreement Between Two \emph{Negations}}\large
+If the following \emph{two} conditions hold:\\[1mm]\pause
+\begin{enumerate}
+\item `$\neg$' is a negation in $L_1$ and `$\cneg$' is a negation in $L_2$, and\pause
+\item $t_1:L_1\to L_*$, and $t_2:L_2\to L_*$ are both \emph{negation preserving}.\\[2mm]\pause
+\end{enumerate}
+then `$\neg$' and `$\cneg$' are \emph{equivalent} in $L_*$.\\[2mm]\pause
+That is, in $L_*$, $\neg A\vdash \cneg A$ and $\cneg A\vdash \neg A$.\\[6mm]\pause
+Why?
+\end{frame}
+
+
+
+\begin{frame}\frametitle{Collapse?}
+\[
+\prooftree
+\[
+\cneg A\vdash \cneg A
+\using{[\mathord{\cneg}\mathord{\uparrow}]}\justifies
+\cneg A,A\vdash 
+\]
+\using{[\mathord{\neg}\mathord{\downarrow}]}\justifies
+\cneg A\vdash \neg A
+\endprooftree
+\qquad
+\prooftree
+\[
+\neg A\vdash \neg A
+\using{[\mathord{\neg}\mathord{\uparrow}]}\justifies
+\neg A,A\vdash 
+\]
+\using{[\mathord{\cneg}\mathord{\downarrow}]}\justifies
+\neg A\vdash \cneg A
+\endprooftree
+\]\bigskip
+\begin{center}
+It follows that any disagreement, where one asserts $\neg A$\\ and the 
+other denies $\cneg A$ (or \emph{vice versa})\\ must resolve into a disagreement over $A$.
+\end{center}
+
+\end{frame}
+
+\begin{frame}\frametitle{What options are there for disagreement?}\large
+	\begin{itemize}
+	\item Disagreement over the consequence relation `$\vdash$' (\emph{pluralism}).\\[4mm]
+	\item The classical logician thinks the intuitionist is mistaken to take `$\neg$' to be so weak, or the intuitionist thinks that the classical logician is mistaken to take `$\cneg$' to be so strong.
+	\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{Ontological Relativity}
+\begin{center}
+\only<1>{Can we have merely verbal disagreement about `exists'?}\only<2->{\st{Can we have merely verbal disagreement about `exists'?}}\\[4mm]\pause
+Can we have merely verbal disagreement about `$(\exists x)$'?
+\end{center}\pause
+Surely! \pause
+Take \emph{multi-sorted} first order logic. $\alpha$ says that there are numbers ($(\exists x)Nx$). $\delta$ denies it ($\neg(\exists x)Nx$). Can we make this difference \emph{merely verbal}? While respecting some of the semantics of $(\exists x)$? \\[4mm]\small\pause
+
+Translate into a vocabulary with two quantifiers and two \emph{two} domains: $D_1$ and $D_2$ with two quantifiers $(\exists_1 x)$ and $(\exists_2 x)$ ranging over each. Let $N$ have a non-empty extension on $D_1$ but an empty one on $D_2$. Both $\alpha$ and $\delta$ can happily endorse $(\exists_1 x)Nx$ and deny $(\exists_2 x)Nx$ and be done with it.\\[4mm]\pause
+
+Isn't \emph{this} a merely verbal disagreement over what exists? 
+\end{frame}
+
+\begin{frame}\frametitle{Not so fast\ldots}\pause
+Perhaps there is scope for the same behaviour as with conjunction and negation.  \pause Consider more closely what might be involved in being an existential quantifier, and a translation preserving it.\pause
+\[
+\prooftree
+X,A(v)\vdash Y
+\using{[\mathord{\exists}\mathord{\updownarrow}]}\Justifies
+X,(\exists x)A(x)\vdash Y
+\endprooftree
+\]
+\begin{center}
+(Where $v$ is not free in $X$ and $Y$.)\\[3mm]
+
+This is what it takes to be an \emph{existential quantifier} in $L$.
+\end{center}
+\end{frame}
+
+
+
+
+\begin{frame}\frametitle{Existential Quantifier Collapse}
+\[
+\prooftree
+\[
+(\exists_2 x) A(x)\vdash (\exists_2 x) A(x)
+\using{[\mathord{\exists_2}\mathord{\uparrow}]}\justifies
+A(v)\vdash (\exists_2 x) A(x)
+\]
+\justifies
+\using{[\mathord{\exists_1}\mathord{\downarrow}]}\justifies
+(\exists_1 x) A(x)\vdash (\exists_2 x) A(x)
+\endprooftree
+\qquad
+\prooftree
+\[
+(\exists_1 x) A(x)\vdash (\exists_1 x) A(x)
+\using{[\mathord{\exists_1}\mathord{\uparrow}]}\justifies
+A(v)\vdash (\exists_1 x) A(x)
+\]
+\justifies
+\using{[\mathord{\exists_2}\mathord{\downarrow}]}\justifies
+(\exists_2 x) A(x)\vdash (\exists_1 x) A(x)
+\endprooftree
+\]\\[3mm]
+\pause
+\begin{center}
+If the term $v$ appropriate to $[\mathord{\exists_1}\mathord{\updownarrow}]$ also applies in $[\mathord{\exists_2}\mathord{\updownarrow}]$,\\ and \emph{vice versa}, then indeed, the two quantifiers \emph{collapse}.
+\end{center}
+\end{frame}
+\begin{frame}\frametitle{Coordination on \emph{terms} brings coordination on $(\exists x)$}
+If the following \emph{three} conditions hold:\\[2mm]
+\begin{enumerate}
+\item `$(\exists_1 x)$' is an existential quantifier in $L_1$ and `$(\exists_2 x)$' is an existential quantifier in $L_2$, and\\[2mm]
+\item $t_1:L_1\to L_*$, and $t_2:L_2\to L_*$, are both \emph{existential quantifier preserving}, and\\[2mm]
+\item \alert<2->{In $L_*$, some fresh term $v$ is \emph{appropriate for both $(\exists_1 x)$ and  $(\exists_2 x)$ }}\\[2mm]
+\end{enumerate}
+then $(\exists_1 x)$ and $(\exists_2 x)$ are \emph{equivalent} in $L_*$, in that in $L_*$ we have $(\exists_1 x)A\vdash (\exists_2 x)A$ and $(\exists_2 x)A\vdash (\exists_1 x)A$.
+\end{frame}
+
+\begin{frame}\frametitle{It's important to recognise what this is \emph{not}}
+The appropriateness condition for eigenvariables (demonstratives, terms) is \emph{grammatical}. It doesn't force agreement on \emph{what exists}. \\[6mm]\pause
+
+You could coherently be a \emph{monist} and argue with someone with a more conventional ontology---with the \emph{same} quantifiers---provided that you both took the same terms (demonstratives, eigenvariables, whatever) to be in order for that quantifier.\\[6mm] \pause
+
+You \emph{don't} need to take these terms to \emph{refer} to (or range over) the same things in any substantial sense.
+\end{frame}
+
+\begin{frame}\frametitle{A \emph{Monist} arguing with a \emph{Pluralist} (agreeing on terms)}
+\begin{columns}
+\column{5cm}
+\textsc{monist:}
+\begin{itemize}
+\item<1-> $(\forall x)(\forall y)x=y$
+\item<4-> $(\forall y)a=y$
+\item<6-> $a=b$
+\item<8-> $Fa$, \alert<9->{$Fb$}
+\end{itemize}
+\column{5cm}
+\textsc{pluralist:}
+\begin{itemize}
+\item<2-> $(\exists x)(\exists y)x\neq y$
+\item<3-> $(\exists y)a\neq y$
+\item<5-> $a\neq b$
+\item<7-> $Fa$, \alert<9->{$\neg Fb$}
+\end{itemize}
+\end{columns}
+\end{frame}
+\def\Zero{\bot}\def\One{\top}
+\begin{frame}\frametitle{A \emph{Monist} arguing with a \emph{Pluralist} (disagreeing on terms)}
+If the pluralist had argued instead: 
+\begin{itemize}
+\item $(\exists x)(\exists y)x\neq y$, because
+\item<2-> $\mathord{\land}\neq\mathord{\hk}$, since
+\item<3->  $\land$ is commutative and $\hk$ is not,
+\end{itemize}
+\medskip
+\visible<4->{It's fair for the monist (or anyone else) to \emph{agree}}
+\begin{itemize}
+\item<5-> $\land$ is commutative, and $\hk$ is not
+\end{itemize}
+\medskip
+\visible<6->{But to \emph{not} take these to be predications of the form $Fa$ and $\neg Fb$, and so, to not be appropriate to substitute into the quantifier.}
+\end{frame}
+
+
+
+
+\begin{frame}\frametitle{\emph{Modal} Relativity}
+\begin{center}
+\only<1>{Can we have merely verbal disagreement about `possibility'?}\only<2->{\st{Can we have merely verbal disagreement about `possibility'?}}\\[4mm]\pause
+Can we have merely verbal disagreement about `$\Dia$'?
+\end{center}\pause
+Surely! \pause
+Take \emph{multi-modal} logic. $\Dia_1$ ranges over \emph{possible worlds}; $\Dia_2$ ranges over \emph{times}.\\[4mm]\pause
+
+Isn't \emph{this} a merely verbal disagreement over what \emph{possible}? 
+\end{frame}
+
+\begin{frame}\frametitle{Not so fast\ldots}
+Let's consider more closely what might be involved in \emph{possibility preservation}.
+\[
+\prooftree
+{A\vdash\;}\;|\;X\vdash Y\;|\;{\Delta}
+\using{[\mathord{\Dia}\mathord{\updownarrow}]}\Justifies
+X,\Dia A\vdash Y \;|\; {\Delta}
+\endprooftree
+\]
+The separated sequents indicate positions in which assertions and denials are made in different \emph{zones} of a discourse.
+
+\footnotesize\medskip\pause For details, see
+\begin{itemize}
+\item Greg Restall ``Proofnets for S5'' pages 151–172 in \emph{Logic Colloquium 2005}, C. Dimitracopoulos, L.~Newelski, and D.~Normann (eds.),in \emph{Lecture Notes in Logic} \#28, Cambridge University Press, 2007 \guillemotleft\structure{\url{http://consequently.org/writing/s5nets/}}\guillemotright
+\item Greg Restall ``A Cut-Free Sequent System for Two-Dimensional Modal Logic---and why it matters,'' \emph{Annals of Pure and Applied Logic} 2012 (163) 1611--1623. \guillemotleft\structure{\url{http://consequently.org/writing/cfss2dml/}}\guillemotright
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}\frametitle{Possibility}
+\[
+\prooftree
+\[
+\Dia_2 A\vdash \Dia_2 A
+\using{[\Dia_2\mathord{\uparrow}]}\justifies
+{A\vdash\;}\;|\;{\;\vdash \Dia_2 A}
+\]
+\justifies
+\using{[\Dia_1\mathord{\downarrow}]}\justifies
+{\Dia_1 A}\vdash {\Dia_2 A}
+\endprooftree
+\qquad
+\prooftree
+\[
+\Dia_1 A\vdash \Dia_1 A
+\using{[\Dia_1\mathord{\uparrow}]}\justifies
+{A\vdash\;}\;|\;{\;\vdash \Dia_1 A}
+\]
+\justifies
+\using{[\Dia_2\mathord{\downarrow}]}\justifies
+{\Dia_2 A}\vdash {\Dia_1 A}
+\endprooftree
+\]
+\begin{center}
+If the \emph{zone} appropriate to $[\Dia_1\mathord{\updownarrow}]$ also applies in $[\Dia_2\mathord{\updownarrow}]$,\\ and \emph{vice versa} then indeed, the two operators \emph{collapse}.
+\end{center}
+\end{frame}
+\begin{frame}\frametitle{Coordination on \emph{zones} brings coordination on $\Dia$}
+If the following \emph{three} conditions hold:
+\begin{enumerate}
+\item `$\Dia_1$' is an possibility in $L_1$ and `$\Dia_2$' is an possibility in $L_2$, and
+\item $t_1:L_1\to L_*$, and $t_2:L_2\to L_*$, are both \emph{possibility preserving}, and
+\item \alert<2->{In $L_*$, a zone  is \emph{appropriate} for $\Dia_1$ iff it is appropriate for $\Dia_2$} 
+\end{enumerate}
+then $\Dia_1$ and $\Dia_2$ are \emph{equivalent} in $L_*$, in that in $L_*$ we have $\Dia_1 A\vdash \Dia_2 A$ and $\Dia_2 A\vdash \Dia_1 A$.
+\end{frame}
+
+
+\begin{frame}\frametitle{It's important to recognise what \emph{this} is {not}}
+The appropriateness condition for zones is \emph{dialogical}. It doesn't force agreement on \emph{what is possible}. \\[5mm]\pause
+
+You could coherently be a \emph{modal fatalist} and argue with someone with a more conventional modal views---with the \emph{same} modal operators, provided that you both took the same zones to be in order.\\[5mm]\pause
+
+(You don't need to take the same things to \emph{hold} in each zone.)
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Intro
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{The Upshot} % (fold)
+\sectionpage{the upshot}
+
+\begin{frame}\frametitle{Upshot \#1: The Power of Keeping Some Things Fixed}
+\begin{center}\Large
+The more you want from a translation,\\ the fewer translations you have,\\ and the fewer ways there are\\ to settle disputes as merely verbal.
+
+
+\bigskip\pause
+And the more chance you have to \emph{locate} that dispute\\ in some particular part of your vocabulary.
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Upshot \#2: Defining Rules Provide Fixed Points}\Large
+\begin{center}
+It's one thing to think of a logical concept as something satisfying a set of \emph{axioms}.\\[4mm]\pause
+
+But that is \emph{cheap}. Defining rules are \emph{more powerful}.
+\end{center}
+
+\medskip
+\begin{center}\large
+And defining rules are natural, given the conception of logical constants as topic neutral, and definable in general terms. 
+\end{center}
+\end{frame}
+
+\begin{frame}\frametitle{Upshot \#3: Generality Comes in Degrees}
+\Large
+\begin{enumerate}
+	\item Propositional connectives: \emph{sequents alone}.
+	\item Modals: \emph{hypersequents}.
+	\item Quantifiers: \emph{predicate structure}.
+\end{enumerate}\large\pause\medskip
+
+Using this structure to define the behaviour of a logical concepts allows for them to be preserved in translation and used as a fixed point in the midst of disagreement.
+\end{frame}
+
+
+
+
+% (end)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectionpage{\\[-4mm] thank you{\upshape !}\large \\[8mm] \upshape{\url{http://consequently.org/presentation/2015/verbal-disputes-oxford/}} \\[-8mm] \textsf{\href{http://twitter.com/consequently}{@consequently} on Twitter}
+}
+\end{document}
+
+%% this is added at the end.
