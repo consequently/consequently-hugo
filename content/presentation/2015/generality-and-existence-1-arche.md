@@ -12,3 +12,4 @@ Abstract: In this presentation, I motivate a cut free sequent calculus for class
 
 * [Details of the workshop program](http://www.st-andrews.ac.uk/arche/events/event?id=917).
 * [Draft paper](http://consequently.org/writing/generality-and-existence-1).
+* [Slides](http://consequently.org/slides/generality-and-existence-1-slides-arche-2015.pdf)
