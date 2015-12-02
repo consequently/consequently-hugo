@@ -6,7 +6,7 @@ publishdate = "2015-12-01"
 
 +++
 
-I'm giving a talk, entitled “Generality and Existence 3: Identity and Modality” in the  HPLM Seminar at the University of St Andrews. 
+I'm giving a talk, entitled “Generality and Existence 4: Identity and Modality” in the HPLM Seminar at the University of St Andrews. 
 
 Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a *range* of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of *possibilia*.
 
