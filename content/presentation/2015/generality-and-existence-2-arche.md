@@ -6,7 +6,7 @@ publishdate = "2015-10-30"
 
 +++
 
-I'm giving a talk entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews. 
+I'm giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews. 
 
 Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the *cut* rule is admissible in the cut-free calculus, and explore the relationship between contingent ‘world-bound’ quantifiers and possibilist ‘world-undbound’ quantifiers in the system.
 
