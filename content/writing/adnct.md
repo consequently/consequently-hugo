@@ -2,7 +2,6 @@
 title: Assertion, Denial and Non-Classical Theories
 
 author: Greg Restall
-published: false
 type: published
 status: Published
 citation: "&ldquo;Assertion, Denial and Non-Classical Theories,&rdquo; pp.&nbsp;81&ndash;99 in <em>Paraconsistency: Logic and Applications</em>, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, 2013."

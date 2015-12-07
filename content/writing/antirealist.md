@@ -2,7 +2,6 @@
 title: Anti-Realist Classical Logic and Realist Mathematics
 
 author: Greg Restall
-published: false
 type: published
 status: Published in 2011
 citation: "&ldquo;Anti-Realist Classical Logic and Realist Mathematics,&rdquo; pp.269&ndash;284 in <em>The Realism-Antirealism Debate in the Age of Alternative Logics</em>, edited by Shahid Rahman, Giuseppi Primiero and Mathieu Marion, Springer, 2011"

@@ -1,7 +1,6 @@
 ---
 title: "Rumfitt on Multiple Conclusions, Part 2"
 author: Greg Restall
-published: false
 created_at: 2009-06-02 20:48:00.293242 +10:00
 date: 2009-06-02 
 comments: yes

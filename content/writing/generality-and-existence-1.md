@@ -2,7 +2,6 @@
 title: "Generality and Existence I: Quantification and Free Logic"
 
 author: Greg Restall
-published: false
 status: In Progress
 type: unpublished
 citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; article in progress."

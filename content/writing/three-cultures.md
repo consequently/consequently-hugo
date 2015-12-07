@@ -2,7 +2,6 @@
 title: "Three Cultures—or: what place for logic in the humanities?"
 
 author: Greg Restall
-published: false
 status: In Progress
 type: unpublished
 citation: "&ldquo;Three Cultures—or: what place for logic in the humanities?&rdquo; unpublished essay."

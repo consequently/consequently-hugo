@@ -2,7 +2,6 @@
 title: "Invention is the Mother of Necessity: modal logic, modal semantics and modal metaphysics"
 
 author: Greg Restall
-published: false
 type: unpublished
 status: In Progress
 citation: "&ldquo;Invention is the Mother of Necessity&#58; modal logic, modal semantics and modal metaphysics,&rdquo; article in progress."

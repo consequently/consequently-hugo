@@ -2,7 +2,6 @@
 title: Proof Theory and Philosophy
 
 author: Greg Restall
-published: false
 type: unpublished
 kind: book
 status: In Progress
