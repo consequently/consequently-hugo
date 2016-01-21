@@ -1,7 +1,7 @@
 +++
 date = "2016-01-22T0:55:52+11:00"
 title = "On Priest on nonmonotonic and inductive logic"
-image = "images/priest_hells.JPG"
+image = "images/priest_hells.jpg"
 description = "Thanks to a recent visit from Jc Beall, I was reminded of a critical discussion between Jc and Graham Priest. Jc was puzzled by a claim that Graham made concerning nonmonotonic consequence relations and failures of truth preservation. Here, I'll explain the disagreement, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong."
 largeimage = true
 
@@ -17,6 +17,11 @@ Non-classical logics aren't *classical*. Sometimes this fact seems like a featur
 The precise details of how \\(LPm\\) manages to be nonmonotonic are not important to us: a sketch will suffice to explain what is going on. Models for \\(LP\\) and \\(LPm\\) assign truth (\\(1\\)) or falsity (\\(0\\)) or possibly *both* to each atomic proposition. An argument is \\(LP\\) valid if every model that assigns the premises to be true (they might be false too, they might not) also renders the conclusion true. For \\(LPm\\) we relax this condition a little. We need not check every model---in particular, we don't need to check the models that assign both \\(1\\) and \\(0\\) to many different propositions. We check models that are as inconsistent as they need to be to make the premises true. (These are the *minimally inconsistent* models, and that is where the "\\(m\\)" comes from in "\\(LPm\\)".) If in every such model where the premises are true, so is the conclusion, then the argument is \\(LPm\\) valid. So, disjunctive syllogism in the shape of the argument from \\(p\lor q\\) and \\(\neg p\\) to \\(q\\) is \\(LPm\\)-valid, since there are completely consistent models in which the premises are true (these are the consistent model in which \\(p\\) is false but \\(q\\) is true), and in these models, the conclusion \\(q\\) is indeed true. We can disregard models in which \\(p\\) is both true and false, as we don't need \\(p\\) to be inconsistent to make the premises true. If we add the premise \\(p\land \neg p\\) then the models that make the premises true have to be inconsistent about \\(p\\). The models in which \\(p\\) is both true and false and \\(q\\) is false only is no better and no worse than models in which \\(p\\) is both true and false and \\(q\\) is true only. But the models like this in which \\(q\\) is false are counterexamples to the argument—they make the premises true and the conclusion false, so adding the inconsistency of \\(p\\) as an extra premise renders the new argument *invalid* in \\(LPm\\). 
 
 Much of Priest's work in paraconsistent logic uses the relatively traditional, monotonic logic \\(LP\\) rather than the stronger nonmonotonic \\(LPm\\). This gives rise to the concern that some theories might be trivial when viewed through the lens of \\(LPm\\) which are non-trivial under the guise of \\(LP\\). Priest proves (2006, page 226) that Reassurance indeed holds for \\(LPm\\). 
+
+<figure>
+	<img src="http://consequently.org/images/priest_hells.jpg" alt="Graham Priest">
+	<figcaption>Graham Priest</figcaption>
+</figure>
 
 In a recent paper, Beall (2012) argues that Reassurance is not enough, but that we want what he calls *General Reassurance*: if the \\(LP\\) consequences of some set of premises are true, so are the \\(LPm\\) consequences of that set. In reply to Beall, Priest (2012) argues that General Reassurance is too much to ask of \\(LPm\\) of or any nonmonotonic logic. He writes (2012, page 740)
 
