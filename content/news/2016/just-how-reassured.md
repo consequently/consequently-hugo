@@ -1,7 +1,7 @@
 +++
 date = "2016-01-22T0:55:52+11:00"
 title = "On Priest on nonmonotonic and inductive logic"
-image = "images/priest-hells.JPG"
+image = "images/priest_hells.JPG"
 description = "Thanks to a recent visit from Jc Beall, I was reminded of a critical discussion between Jc and Graham Priest. Jc was puzzled by a claim that Graham made concerning nonmonotonic consequence relations and failures of truth preservation. Here, I'll explain the disagreement, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong."
 largeimage = true
 
