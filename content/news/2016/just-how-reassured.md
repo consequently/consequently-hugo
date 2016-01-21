@@ -7,7 +7,7 @@ largeimage = true
 
 +++
 
-Thanks to a recent visit from [Jc Beall](http://entailments.net), I was reminded of a critical discussion between Jc and our colleague and friend [Graham Priest](http://grahampriest.net) in the pages of [Analysis](http://analysis.oxfordjournals.org). Jc was puzzled by a claim that Graham made [in his reply](http://analysis.oxfordjournals.org/content/72/4/739.extract) to [Jc's paper](http://analysis.oxfordjournals.org/content/72/3/517.abstract), concerning nonmonotonic consequence relations and failures of truth preservation. here I'll explain the disagreement between Jc and Graham, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong.
+Thanks to a recent visit from [Jc Beall](http://entailments.net), I was reminded of a critical discussion between Jc and our colleague and friend [Graham Priest](http://grahampriest.net) in the pages of [Analysis](http://analysis.oxfordjournals.org). Jc was puzzled by a claim that Graham made [in his reply](http://analysis.oxfordjournals.org/content/72/4/739.extract) to [Jc's paper](http://analysis.oxfordjournals.org/content/72/3/517.abstract), concerning nonmonotonic consequence relations and failures of truth preservation. Here, I'll explain the disagreement between Jc and Graham, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong.
 
 <!--more-->
 
