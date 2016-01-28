@@ -4,7 +4,6 @@ title = "Congratulations to Bruce French, AO"
 image = "images/zac-bruce-cropped.jpg"
 description = "My mentor and friend, Bruce French was named an Officer of the Order of Australia in the 2016 Australia Day Honour's list. Here, I venture to explain what Bruce means to me, and I congratulate him on this well deserved honour."
 largeimage = true
-draft = true
 
 +++
 
