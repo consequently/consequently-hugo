@@ -1,0 +1,27 @@
++++
+date = "2016-01-29T0:30:47+11:00"
+title = "Congratulations to Bruce French, AO"
+image = "images/zac-bruce-cropped.jpg"
+description = "My mentor and friend, Bruce French was named an Officer of the Order of Australia in the 2016 Australia Day Honour's list. Here, I venture to explain what Bruce means to me, and I congratulate him on this well deserved honour."
+largeimage = true
+draft = true
+
++++
+
+I've been away from home in Auckland at a [conference](https://sites.google.com/site/fnclmp/) over the last few days, so I'm a bit behind on the news, but tonight I've at last found a few moments to write something in honour of my friend and mentor, Bruce French, who was---three days ago---[named an Officer of the Order of Australia](http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476) in the 2016 Australia Day Honour's list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it [freely available to anyone who can use it](http://foodplantsinternational.com). 
+
+<figure>
+	<img src="/images/zac-bruce.jpg" alt="Bruce French with a young friend">
+	<figcaption>Bruce French with a young friend</figcaption>
+</figure>
+
+
+
+I've known Bruce since my second year at university, many years ago. During this time, I was involved in a student Christian group, and Bruce worked there with students, encouraging them to explore both their university studies and their faith in equal measure. Bruce had trained as an agricultural scientist, and as a Baptist pastor, and his enthusiasm for tropical plants, and his passion for loving God and loving his neighbour was infectious. Before coming to work at the University, Bruce had spent time in Papua New Guinea, and he'd seen both the incredible knowledge that indigenous people had for the opportunities for nutrition in the plants around them, and the devastating damage done by well-meaning but ignorant attempts at aid in times of famine, where inappropriate Western foodstuffs would be introduced, when local options were much more appropriate to the climate and the nutritional needs of community. From then on, Bruce devoted himself to finding out more about the tropical food plants, and making sure that local knowledge would be treasured and cared for rather than ignored. This devotion has resulted in a database of over [27,000 edible plant species](http://foodplantsinternational.com/plants/), a treasure which will become only more important in times of increasing food insecurity as the climate is under more pressure in years to come.
+
+I'd say that Bruce's devotion to this cause over the last 50 years was remarkably foresighted, but I think that this would be selling things short. From my experience, this interest was not a quirk of interest or a strange happenstance---it was the natural outworking of Bruce's knowledge and talents together with his character and values. Bruce always described his passion in terms of his love for God and God's world, and for his neighbours, and whether he was working with University students in the 1980s and 1990s, or local villagers in PNG, the Pacific Islands, Asia or Africa, that love was shown in a patient attention and listening to others, an openness to what he had to learn from them. As Bruce would describe it, they are just as much God's children as he is, and he has as much---if not more---to learn about God's world from them than they might from him. This treasure trove of information for all of us to share, and to use is the fruits of many years of listening and learning, exploring and explaining. The result will be only more useful in the future in times of environmental stress in the years ahead. 
+
+During my own years at University, Bruce was a valued example, a mentor and friend. I valued his advice when I struggled with the decision over staying in mathematics or moving to philosophy, and he has been a steady guide at other life transitions since then.  While I never quite shared his passion for tropical plants, I hope that I've acquired just *some* of that attentive love for others, that passion for learning, and for sharing what we've found so that all may flourish. One of Bruce's *other* passions was the Hebrew prophets, and one verse he often repeats is Micah 6:8. What is it that is good, but to "to do justice, and to love kindness, and to walk humbly with your God."  Bruce, you've done that over all of the years I've known you, and may you enjoy that walk ever more in the years ahead.
+
+If you'd like to know more about Bruce's work with Food Plants International, their [website](http://foodplantsinternational.com) has a wealth of information, and you can also [follow them on Facebook](https://www.facebook.com/FoodPlantsInternational). [This video](https://www.youtube.com/watch?v=cMGfbyMh5dc) explains some of his work, and you can support the work at [Food Plants Solutions](http://foodplantsolutions.org/news/).
+
