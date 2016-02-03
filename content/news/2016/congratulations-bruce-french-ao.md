@@ -7,7 +7,7 @@ largeimage = true
 
 +++
 
-I've been away from home in Auckland at a [conference](https://sites.google.com/site/fnclmp/) over the couple of days, so I'm a bit behind on the news, but tonight I've at last found a few moments to write something in honour of my friend and mentor, Bruce French, who was---three days ago---[named an Officer of the Order of Australia](http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476) in the 2016 Australia Day Honour's list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it [freely available to anyone who can use it](http://foodplantsinternational.com). 
+I've been away from home in Auckland at a [conference](https://sites.google.com/site/fnclmp/) over the last couple of days, so I'm a bit behind on the news, but tonight I've at last found a few moments to write something in honour of my friend and mentor, Bruce French, who was---three days ago---[named an Officer of the Order of Australia](http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476) in the 2016 Australia Day Honour's list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it [freely available to anyone who can use it](http://foodplantsinternational.com). 
 
 <figure>
 	<img src="/images/zac-bruce.jpg" alt="Bruce French with a young friend">
