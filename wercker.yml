@@ -22,3 +22,13 @@ build:
   steps:
     - arjen/hugo-build@1.8.1:
         flags: --buildDrafts=true
+
+deploy:
+  steps:
+	- install-packages:
+		packages: git ssh-client
+	- lukevivier/gh-pages@0.2.1:
+		token: $GIT_TOKEN
+		domain: consequently.github.io
+		basedir: public
+		
