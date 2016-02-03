@@ -60,7 +60,7 @@ That demonstrates the scope of the mistake. It is another thing to diagnose it. 
 
 Here is one possible connection. Suppose the consequence relation \\(\vDash^* \\) satisfies the following conditions:
 
-1. \\(\vDash^*\\) invalid arguments are witnessed by models. If \\(\Sigma\not\vDash^* A\\) then there is some \\(m\\) where each statement in \\(\Sigma\\) holds in \\(m\\) but \\(A\\) does not hold in \\(m\\).
+1. \\(\vDash^* \\) invalid arguments are witnessed by models. If \\(\Sigma\not\vDash^* A\\) then there is some \\(m\\) where each statement in \\(\Sigma\\) holds in \\(m\\) but \\(A\\) does not hold in \\(m\\).
 2. The models \\(m\\) used in (1) are all *possibilities*. If \\(m\\) is a model, and \\(A\\) is true in \\(m\\) then \\(A\\) is *possible*.
 3. \\(\vDash^*\\)-validity is not world-relative. If an argument is valid, then had things been otherwise, it still would have been valid.
 
