@@ -26,8 +26,9 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+    - uetchy/gh-pages:
         token: $GIT_TOKEN
-        domain: consequently.github.io
-        basedir: public
+        repo: consequently/consequently.github.io
+        domain: consequently.org
+        path: public
         
