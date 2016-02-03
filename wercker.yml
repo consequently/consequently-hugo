@@ -20,5 +20,5 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
-    - arjen/hugo-build@1.8.1
+    - arjen/hugo-build@1.8.1:
         flags: --buildDrafts=true
