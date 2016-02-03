@@ -72,7 +72,7 @@ Why does this argument not work for the examples of truth preserving nonmonotoni
 
 So, nonmonotonic consequence relations are closely connected with failures of truth preservation, but that connection is not identity. Understanding that connection an important aspect of understanding the connections between consequence relations, possibility and truth.
 
-Thanks to Jc Beall and Graham Priest for comments on this note.
+Thanks to Jc Beall,  Graham Priest and Shawn Standefer for comments on this note.
 
 
 ### References
