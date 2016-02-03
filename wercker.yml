@@ -22,7 +22,6 @@ build:
   steps:
     - arjen/hugo-build@1.8.1:
         flags: --buildDrafts=true
-
 deploy:
   steps:
 	- install-packages:
