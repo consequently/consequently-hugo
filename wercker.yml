@@ -28,7 +28,7 @@ deploy:
         packages: git ssh-client
     - uetchy/gh-pages:
         token: $GIT_TOKEN
-		repo: consequently/consequently.github.io
+        repo: consequently/consequently.github.io
         domain: consequently.org
         path: public
         
