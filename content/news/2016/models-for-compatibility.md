@@ -37,4 +37,4 @@ It seems to me that models like this are useful for at least two things. First, 
 
 Thanks, Rachael, for the questions, and for prompting this line of thought.
 
-P.S. Rachael isn't just a great philosopher. She's also a [fine poet](http://cordite.org.au/reviews/royal-briggs/). 
+P.S. Rachael isn't just a great philosopher. She's also a [fine](http://cordite.org.au/reviews/royal-briggs/) [poet](http://cordite.org.au/guncotton/plunkett-briggs/). 
