@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Key Ideas in the theory of proofs #1: The Duality of Proofs and Counterexamples</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2006/06/13/key_ideas_in_the_theory_of_proofs_1_the_duality_of_proofs_and_counterexamples/">
+	<meta name="twitter:title" content="Key Ideas in the theory of proofs #1: The Duality of Proofs and Counterexamples">
+	<meta name="twitter:description" content="Now that my undergraduate teaching is done for the semester, I can devote more time to research. I&rsquo;m going to use this place to post some material from my proof theory project. My goal is to present some key ideas in an accessible way. Today&rsquo;s idea is the duality between proofs and counterexamples. Proofs: You can think of a valid argument as underwritten by a proof. A proof leads from the premises to the conclusions, and shows how the conclusions follow from the premises.">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Key Ideas in the theory of proofs #1: The Duality of Proofs and Counterexamples</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>June 13, 2006</h4></div>
+<div class="unit-60">
+<p>Now that my undergraduate teaching is done for the semester, I can devote more time to research.  I&rsquo;m going to use this place to post some material from my proof theory project.  My goal is to present some key ideas in an accessible way.</p>
+
+<p>Today&rsquo;s idea is the duality between <em>proofs</em> and <em>counterexamples</em>.</p>
+
+<p><em>Proofs</em>: You can think of a valid argument as underwritten by a <em>proof</em>.  A proof leads from the premises to the conclusions, and shows how the conclusions follow from the premises.  An invalid argument from premises <em>P</em> to conclusions <em>C</em> is one for which there is no proof leading from <em>P</em> to <em>C</em>.</p>
+
+<p>Different theories of proofs will characterise these in different ways (natural deduction, Hilbert-style axiom systems, Gentzen-style sequent systems, tableaux, etc.) but at heart, a proof is a formal structure that bears witness to a valid argument.</p>
+
+<p><em>Counterexamples</em>: You can think of an invalid argument as witnessed by a <em>counterexample</em>.  A counterexample is a way of making the premises true and the conclusions untrue, and it shows how the conclusions say something <em>more</em> than what is present in the premises.  A valid argument from premises <em>P</em> to conclusions <em>C</em> is one for which there is no counterexample rendering <em>P</em> true and <em>C</em> not.</p>
+
+<p>Different theories of counterexamples (call them <em>models</em> or <em>interpretations</em> if you like) characterise them in different ways: truth tables, many-valued algebras, models with domains of quantification or &ldquo;worlds&rdquo; models for intensional logics, but at its heart, a counterexample bears witness to an invalid argument.</p>
+
+<p>Notice the duality: Proofs witness <em>validity</em> and counterexamples witness <em>invalidity</em>.  A proof gives you a <em>validity</em> fact.  Only an <em>absence</em> of proofs tells you about invalidity.   Conversely, a counterexample gives you an <em>invalidity</em> fact.  Only an <em>absence</em> of counterexamples tells you about validity.  These two different ways of characterising logical consequence have very very different properties.</p>
+
+<p>Many key results in 20th Century logic, such as G&ouml;del&rsquo;s completeness theorem, pair together these two notions.  A <em>soundness</em> result (for a proof system, given some set of counterexamples) tells you that a proof system provides a proof from <em>P</em> to <em>C</em> <em>only when</em> the argument from <em>P</em> to <em>C</em> has no counterexample.  A <em>completeness</em> proof (for a proof system, given some set of counterexamples) tells us that a proof system provides a proof from <em>P</em> to <em>C</em> <em>whenever</em> the argument from <em>P</em> to <em>C</em> has no counterexample.</p>
+
+<p>If you have a well-matched pair of a system of proofs and a system of counterexamples &ndash; for a notion of logical consequence &ndash; then you have two different ways to look at the one relation between premises and conclusions.  These different tools are useful for different purposes.  If you use just one of them, you might be selling yourself short.</p>
+
+<p>[<em>Aside</em>: This was my critical point in my essay &ldquo;<a href="http://consequently.org/writing/facts/">One Way to Face Facts</a>&ldquo;: I found Stephen Neale&rsquo;s excellent little book on slingshot arguments <em><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0199247153/consequentlyorg?v=glance">Facing Facts</a></em>) helpful, but one-sided.  In the book, we find detailed analysis of different slingshot <em>proofs</em>.  Neale charts which principles combine together to produce unwanted results.  What makes the work one-sided is that he never walks on the other side of the street to look at <em>counterexamples</em>.  (He never looks at models to show that particular combinations of premises <em>cannot</em> produce the unwarranted conclusions on their own, as you can easily do if you produce counterexamples.)  It is as if he is charting a boundary between territories by making occasional forays from <em>this</em> side of the boundary, never realising that you can jump the fence to see it from the <em>other</em> side as well. <em>End of the aside</em>.]</p>
+
+<p>Now, if we have two different sorts of tools for characterising valid argument, a philosopher is constitutionally bound to ask a question: Is one of these tools more <em>fundamental</em> than the other?  Many would say <em>yes</em>.  My colleague <a href="http://www.st-andrews.ac.uk/academic/philosophy/gp.html">Graham Priest</a> takes counterexamples to be primary, and proofs to only be a means for enumerating the notion of logical consequence given by means of the counterexamples. (See, for example, his paper &ldquo;Validity&rdquo; in Varzi&rsquo;s volume <em><a href="http://csli-publications.stanford.edu/site/157586178X.html">The Nature of Logic</a></em>.)  Others, like Dummett&rsquo;s semantic anti-realist or Brandom&rsquo;s inferentialist, would seem to take proof as primary, as you explain the meanings of a concept by articulating its role in <em>proof</em>.</p>
+
+<p>But do we have to choose?  Why think that one way of characterising logical consequence is any &ldquo;deeper&rdquo; than the other? To put things in an more cryptic manner: why think that there is just one direction of &ldquo;depth&rdquo; or &ldquo;priority&rdquo;?</p>
+
+<p>What do you think?</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2006/06/13/this_football_game_is_pretty_tense/"> &larr;&nbsp;This football game is pretty tense...</a> |
+
+<a href="http://consequently.org/news/#2006">News Archive</a>
+
+| <a href="http://consequently.org/news/2006/06/25/teaching_in_semester_2_2006/">Teaching in Semester 2, 2006&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+

@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Problems for Naïve Property Theories</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2009/05/21/problems_for_naive_theories_of_properties/">
+	<meta name="twitter:title" content="Problems for Naïve Property Theories">
+	<meta name="twitter:description" content="I&rsquo;ve been thinking about generalisations of Russell&rsquo;s paradox, cleaning things up so you can&rsquo;t get around the problem by changing the logic of connectives. I don&rsquo;t think that mucking around with negation or implication gets to the heart of the issue.  (This view is shared by some very insightful people.  I haven&rsquo;t come to it alone.)
+
+Getting around negation and conditionals is surprisingly easy, once you get the proof theory sorted out.  I&rsquo;ve been noodling about with this issue for a year or so now.  I presented on this in a talk at the World Congress of Paraconsistency last year, and a bit of it has appeared in my draft discussion of some themes from Hartry Field&rsquo;s Saving Truth From Paradox.
+
+There, the paradoxical derivations are done in sequent calculi, and they&rsquo;re not the most perspicuous presentation.  I managed to sharpen it up a bit tonight, and the resulting proof is here.  It&rsquo;s not explained in the text of that note: that gives just the definitions and the proof. I hope to get to that soon.  But let me use this site to get the ideas out in a rough and ready form.
+">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Problems for Naïve Property Theories</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>May 21, 2009</h4></div>
+<div class="unit-60">
+<p>I&rsquo;ve been thinking about generalisations of Russell&rsquo;s paradox, cleaning things up so you can&rsquo;t get around the problem by changing the logic of connectives. I don&rsquo;t think that mucking around with <em>negation</em> or <em>implication</em> gets to the heart of the issue.  (This view is shared by some very <a href="http://cognet.mit.edu/library/books/view?isbn=0262071444">insightful</a> <a href="http://dx.doi.org/10.1007/s11225-009-9177-2">people</a>.  I haven&rsquo;t come to it alone.)</p>
+
+<p>Getting around negation and conditionals is surprisingly easy, once you get the proof theory sorted out.  I&rsquo;ve been noodling about with this issue for a year or so now.  I presented on this in a <a href="http://consequently.org/writing/adnct/">talk at the World Congress of Paraconsistency</a> last year, and a bit of it has appeared in my draft <a href="http://consequently.org/writing/stp/">discussion of some themes from Hartry Field&rsquo;s <em>Saving Truth From Paradox</em></a>.</p>
+
+<p>There, the paradoxical derivations are done in sequent calculi, and they&rsquo;re not the most perspicuous presentation.  I managed to sharpen it up a bit tonight, and the resulting proof is <a href="http://consequently.org/papers/bang.pdf">here</a>.  It&rsquo;s not explained in the text of that note: that gives just the definitions and the proof. I hope to get to that soon.  But let me use this site to get the ideas out in a rough and ready form.</p>
+
+<p>The gist of the idea is this.  Folks like <a href="http://www.amazon.com/Contradiction-Study-Transconsistent-Graham-Priest/dp/0199263302/consequentlyorg">Graham Priest</a>, <a href="http://www.amazon.com/Saving-Truth-Paradox-Hartry-Field/dp/0199230757/consequentlyorg">Hartry Field</a> and <a href="http://www.amazon.com/Spandrels-Truth-Jc-Beall/dp/0199268738/consequentlyorg">Jc Beall</a> think that for every description &phi;(<em>x</em>) there&rsquo;s a property &lt;<em>x</em>:&phi;(<em>x</em>)&gt; of being an <em>x</em> such that &phi;(<em>x</em>).  An object <em>a</em> instantiates the property  &lt;<em>x</em>:&phi;(<em>x</em>)&gt; if and only if &phi;(<em>a</em>).  The traditional problem is this: consider the property &lt;<em>x</em>:<em>x</em> doesn&rsquo;t instantiate <em>x</em>&gt;.  Does this instantiate itself or not?  If it does, it doesn&rsquo;t.  If it doesn&rsquo;t, it does.</p>
+
+<p>The solutions favoured by <a href="http://www.amazon.com/Contradiction-Study-Transconsistent-Graham-Priest/dp/0199263302/consequentlyorg">Priest</a>, <a href="http://www.amazon.com/Saving-Truth-Paradox-Hartry-Field/dp/0199230757/consequentlyorg">Field</a> and <a href="http://www.amazon.com/Spandrels-Truth-Jc-Beall/dp/0199268738/consequentlyorg">Beall</a> (and <a href="http://consequently.org/writing/onlogics/">my</a> <a href="http://consequently.org/writing/dlpsr">former self</a>), though they differ in details, all agree that we should muck around with the logic of negation.  (And also the logic of the conditional, as the property &lt;<em>x</em>: if <em>x</em> instantiates <em>x</em> then I&rsquo;m a monkey&rsquo;s uncle&gt; is just as problematic: see <a href="http://plato.stanford.edu/entries/curry-paradox/">Curry&rsquo;s paradox</a>.)</p>
+
+<p>Now, it&rsquo;s a <em>pain</em> to worry about each different tweak to the logic of negation and the logic of the conditional, and worry about whether this patch or that fix really does solve the problem.  (It&rsquo;s a fun pain, if you like that kind of thing, but a pain nonetheless.)</p>
+
+<p>I&rsquo;ve been looking at formulations of the problem that avoid all talk of negation, conditionals and other stuff my friends and colleagues can argy bargy about.  Instead, I&rsquo;m trying to make do with the logic of instantiation (that&rsquo;s implicit in the so-called na&iuml;ve theory of properties, for which each description &phi;(<em>x</em>) has a corresponding  property &lt;<em>x</em>:&phi;(<em>x</em>)&gt; of being an <em>x</em> which is &phi;.  An object <em>a</em> instantiates the property  &lt;<em>x</em>:&phi;(<em>x</em>)&gt; if and only if &phi;(<em>a</em>).)  So, we adopt two inference rules:</p>
+
+<p>[&epsilon;<em>I</em>] From &phi;(<em>a</em>) infer <em>a</em> &epsilon; &lt;<em>x</em>:&phi;(<em>x</em>)&gt;</p>
+
+<p>[&epsilon;<em>E</em>] From <em>a</em> &epsilon; &lt;<em>x</em>:&phi;(<em>x</em>)&gt; infer &phi;(<em>a</em>)</p>
+
+<p>for each open sentence &phi;(&nbsp;).  (The &lsquo;&epsilon;&rsquo; is our shorthand for &lsquo;instantiates.&rsquo;)</p>
+
+<p>Then, we need two more things.  First, a sentence that is pretty bad.  One from which we can infer everything will do the trick.  (If you have a universal quantifier around, &lsquo;everything instantiates everything&rsquo; will do nicely.  But it isn&rsquo;t mandatory.)  In other words, we have a &lsquo;&perp;&rsquo; for which</p>
+
+<p>[&perp;<em>E</em>]  From &perp; infer any sentence you like.</p>
+
+<p>Finally, we need the logic of identity for properties.  You need to have <em>some</em> account of when &lt;<em>x</em>:&phi;(<em>x</em>)&gt; = &lt;<em>x</em>:&psi;(<em>x</em>)&gt; for different sentences &phi; and &psi;.  It&rsquo;d be odd to say that the property of being red and square was a different property from the property of being square and red, wouldn&rsquo;t it?  (The extant na&iuml;ve theories of properties say little about this.  The extant consistency or non-triviality proofs for na&iuml;ve theories of properties, alas, make different descriptions denote <em>different</em> properties, which is not what you should want.)</p>
+
+<p>So, what can we say that would rule out out distinctions where there is no difference at all?  What identity condition works for this sort of property?  Extensionality is the identity condition for <em>sets</em>.  If the things in set <em>A</em> are the same as the things in set <em>B</em>, then <em>A</em> and <em>B</em> are the same set.  That&rsquo;s clearly too strong for properties.  (Think renates and cordates, or featherless bipeds and humans.)  But if I can deduce that <em>a</em> &epsilon; <em>S</em> from <em>a</em> &epsilon; <em>T</em>, and vice versa (where <em>a</em> is aribtrary), using deduction alone and no contingent side conditions, then what difference could there be between property <em>S</em> and property <em>T</em>?  None that I can see, that&rsquo;s for sure.  This motivates the following condition.</p>
+
+<p>[=<em>I</em>]  If I can deduce <em>a</em> &epsilon; <em>S</em> from <em>a</em> &epsilon; <em>T</em>, and <em>a</em> &epsilon; <em>T</em> from <em>a</em> &epsilon; <em>S</em>, with no other side conditions, discharge those assumptions and infer <em>S</em> = <em>T</em>.</p>
+
+<p>(Parenthetical remark: that <em>doesn&rsquo;t</em> mean that being H<sub>2</sub>O is the same property as being water, unless you think you can infer that <em>a</em> is H<sub>2</sub>O  from <em>a</em> is water, and vice versa, using logic alone.  You can think that they are necessarily coextensive without thinking <em>that</em>.  We&rsquo;re not identifying properties coarsely.)</p>
+
+<p>The rule [=<em>I</em>] tells us when two properties are identical.  We need to know what we can infer from the claim that two properties are identical.  That seems straightforward.  You only get out what you put in:</p>
+
+<p>[=<em>I</em>]  From <em>t</em> &epsilon; <em>S</em> and <em>S</em> = <em>T</em>, infer <em>t</em> &epsilon; <em>T</em>.</p>
+
+<p>That&rsquo;s five simple inference principles.</p>
+
+<p>Those five inference principles are enough for you to deduce &perp;.</p>
+
+<p>This is bad, since from &perp; one can validly deduce everything.</p>
+
+<p>How can we deduce &perp;?  We use identity and &perp; to do what we wanted negation to do before our friends and colleagues said negation didn&rsquo;t do that.  That is, consider <em>this</em> property:</p>
+
+<p>&lt;<em>x</em>:&lt;<em>y</em>:<em>x</em> &epsilon; <em>x</em>&gt; = &lt;<em>y</em>:&perp;&gt;&gt;</p>
+
+<p>That is, consider the property of being an <em>x</em> such that the property that anything has when <em>x</em> instantiates itself as a property is the same thing as the property that nothing has.  (In other words, consider the property of not being self instantiating, but we won&rsquo;t say that, since we have nice arguments about the logic of negation.)</p>
+
+<p>Using [&perp;<em>E</em>], [&epsilon;<em>I</em>], [&epsilon;<em>E</em>], [=<em>I</em>] and [=<em>E</em>] alone, we can deduce &perp;.  <a href="http://consequently.org/papers/bang.pdf">Here&rsquo;s the proof</a>.  It has fifteen steps, each one of which is one of those five rules.</p>
+
+<p>I think that this is a serious problem for anyone who likes na&iuml;ve theories of properties.  You&rsquo;ve got to say which of those rules break down: and by &lsquo;break down&rsquo; I mean something very precise.  For which of the rules [&perp;<em>E</em>], [&epsilon;<em>I</em>], [&epsilon;<em>E</em>], [=<em>I</em>] and [=<em>E</em>]  are you prepared to accept the premise and reject the conclusion?  If you can&rsquo;t do that, then a forced march down <a href="http://consequently.org/papers/bang.pdf">the proof</a> suffices to commit you to &perp;.</p>
+
+<p>So, what will it be?</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2009/05/07/Bob_Meyer/"> &larr;&nbsp;Bob Meyer</a> |
+
+<a href="http://consequently.org/news/#2009">News Archive</a>
+
+| <a href="http://consequently.org/news/2009/06/01/Rumfitt_Part_1/">Rumfitt on Multiple Conclusions, Part 1&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+

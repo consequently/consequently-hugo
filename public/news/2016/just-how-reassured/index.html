@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>On Priest on nonmonotonic and inductive logic</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="http://consequently.org/news/2016/just-how-reassured/">
+	<meta name="twitter:title" content="On Priest on nonmonotonic and inductive logic">
+	<meta name="twitter:description" content="Thanks to a recent visit from Jc Beall, I was reminded of a critical discussion between Jc and Graham Priest. Jc was puzzled by a claim that Graham made concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&#39;ll explain the disagreement, and why Graham&#39;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.">
+	<meta name="twitter:image:src" content="http://consequently.org/images/priest_hells.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">On Priest on nonmonotonic and inductive logic</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>January 22, 2016</h4></div>
+<div class="unit-60">
+
+
+<p>Thanks to a recent visit from <a href="http://entailments.net">Jc Beall</a>, I was reminded of a critical discussion between Jc and our colleague and friend <a href="http://grahampriest.net">Graham Priest</a> in the pages of <a href="http://analysis.oxfordjournals.org"><em>Analysis</em></a>. Jc was puzzled by a claim that Graham made <a href="http://analysis.oxfordjournals.org/content/72/4/739.extract">in his reply</a> to <a href="http://analysis.oxfordjournals.org/content/72/3/517.abstract">Jc&rsquo;s paper</a>, concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&rsquo;ll explain the disagreement between Jc and Graham, and why Graham&rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.</p>
+
+<p>Non-classical logics aren&rsquo;t <em>classical</em>. Sometimes this fact seems like a feature: paraconsistent logics like Priest&rsquo;s \(LP\) reject disjunctive syllogism and <em>ex contradictione quodlibet</em> and so, they give us new and fruitful ways to deal with semantic paradoxes unavailable to proponents of classical logic. However, sometimes this fact seems like a bug: there are times we want to endorse those particular rules of proof, not reject them. Priest&rsquo;s favoured way out of this tension is to adopt a nonmonotonic logic, \(LPm\).  According \(LPm\), inference steps such as disjunctive syllogism&mdash;from \(p\lor q\) and \(\neg p\) to \(q\)&mdash;may be valid, while becoming invalid in the presence of extra premises: in particular, premises which are inconsistent.</p>
+
+<p>The precise details of how \(LPm\) manages to be nonmonotonic are not important to us. A sketch will suffice to explain what is going on. Models for \(LP\) and \(LPm\) assign truth (\(1\)) or falsity (\(0\)) or possibly <em>both</em> to each atomic proposition. An argument is \(LP\) valid if every model that assigns the premises to be true (perhaps some premises are false too, perhaps they are not) also renders the conclusion true. For \(LPm\) we relax this condition. We need not check every model&mdash;in particular, we don&rsquo;t need to check the models that assign both \(1\) and \(0\) to many different propositions. We check models that are as inconsistent as they need to be to make the premises true. (These are the <em>minimally inconsistent</em> models, and that is where the &ldquo;\(m\)&rdquo; comes from in &ldquo;\(LPm\)&ldquo;.) If in every such model where the premises are true, so is the conclusion, then the argument is \(LPm\) valid. So, disjunctive syllogism in the shape of the argument from \(p\lor q\) and \(\neg p\) to \(q\) is \(LPm\)-valid, since there are completely consistent models in which the premises are true (these are the consistent model in which \(p\) is false but \(q\) is true), and in these models, the conclusion \(q\) is indeed true. We can disregard models in which \(p\) is both true and false, as we never need \(p\) to be inconsistent to make the premises true. If we add the premise \(p\land \neg p\), then the models that make the premises true have to be inconsistent about \(p\). The models in which \(p\) is both true and false and \(q\) is false only is no better and no worse than models in which \(p\) is both true and false and \(q\) is true only. But the models like this in which \(q\) is false are counterexamples to the argument—they make the premises true and the conclusion false, so adding the inconsistency of \(p\) as an extra premise renders the new argument <em>invalid</em> in \(LPm\).</p>
+
+<p>Much of Priest&rsquo;s work in paraconsistent logic uses the relatively traditional, monotonic logic \(LP\) rather than the stronger nonmonotonic logic \(LPm\). Many theories which are trivial in the context of classical logic (in the sense that there are no models at all, and everything follows from the axioms of the theory) are non-trivial in \(LP\). This gives rise to the concern that since \(LPm\) is stronger than \(LP\), some of the theories which are non-trivial in \(LP\) may be trivial when viewed through the lens of \(LPm\). Priest proves (2006, page 226) that Reassurance indeed holds for \(LPm\).</p>
+
+<figure>
+    <img src="http://consequently.org/images/priest_hells.jpg" alt="Graham Priest">
+    <figcaption>Graham Priest</figcaption>
+</figure>
+
+<p>In a recent paper, Beall (2012) argues that this Reassurance theorem is not enough to be genuinely reassuring. He claims that we should want what he calls <em>General Reassurance</em>: if the \(LP\) consequences of some set of premises are true, so are the \(LPm\) consequences of that set. In reply to Beall, Priest (2012) argues that General Reassurance is too much to ask of \(LPm\) of or any nonmonotonic logic. He writes (2012, page 740)</p>
+
+<blockquote>
+<p><em>General Reassurance</em>, however, is too much to ask. \(LPm\) is a nonmonotonic (aka inductive) logic. And it is precisely the definition of such logics that they may lead us from truth to untruth. The point is as old as Hume (&lsquo;The sun has risen every day so far. So the sun will rise tomorrow.&rsquo;) and as new as that much over-worked member of the spheniscidae (&lsquo;Tweety is a bird. So Tweety flies.&rsquo;) If they did not have this propert, these logics would be deductive logics, which they are not. This is not a bug of such logics; it is a feature. Such logics do not preserve truth, by definition.</p>
+</blockquote>
+
+<p>I will not attempt to adjudicate the disagreement between Priest and Beall on the virtues of General Reassurance—this would require settling what the consequence relation of \(LPm\) is <em>for</em>, and that is beyond the scope of this note. Here, I have a simpler point to make. Priest&rsquo;s characterisation of the relationship between non-deductive, non-truth-preserving logics and nonmonotonic logics is mistaken, and I will explain why, giving examples of truth preserving nonmonotonic logics. Once I&rsquo;ve presented the counterexamples to Priest&rsquo;s claim, I will attempt to diagnose his error, and explain why one might reasonably, but mistakenly, take it that a nonmonotonic logic is never truth preserving.</p>
+
+<p><center>&star;&nbsp;&star;&nbsp;&star;</center></p>
+
+<p>Let me be careful to define our terms:</p>
+
+<ul>
+<li>A consequence relation \(\vDash\) is <em>nonmonotonic</em> if there are valid arguments from premises \(\Sigma\) to conclusion \(C\) (\(\Sigma\vDash C\)) such that there is some extra premise \(B\) where the argument from \(\Sigma\) together with \(B\) to \(C\) fails to be valid (\(\Sigma,B\not\vDash C\)).</li>
+<li>A consequence relation \(\vDash\) is <em>non-truth-preserving</em> (or &lsquo;inductive&rsquo; or &lsquo;non-deductive&rsquo;) if there is some valid argument from premises \(\Sigma\) to conclusion \(C\) (\(\Sigma\vDash C\)) where each premise in \(\Sigma\) is true and the conclusion \(C\) is false.</li>
+</ul>
+
+<p>Notice that these definitions use different concepts. It would be surprising for them to coincide, and in fact it is not hard to find examples of nonmotonotonic but truth preserving consequence relations. (It is even easier to find monotonic logics that fail to preserve truth. Consider the &lsquo;consequence relation&rsquo; for which an argument is &lsquo;valid&rsquo; if whenever the premises all contain the letter &lsquo;<em>e</em>&rsquo; so does the conclusion. This is monotonic, but it fails to preserve truth.)</p>
+
+<p><em>Example 1</em>: Not all friends of paraconsistent logics are dialetheists. You can reject the inference from a contradiction to an arbitrary conclusion, without taking any contradictions to be <em>true</em>. Nonetheless, there are <em>models</em> in which contradictions are true. Those models represent different ways that things can&rsquo;t be (Restall 1997). For a paraconsistentist who takes contradictions to be semantically distinct (and to have different consequences) but nonetheless all impossible, the logic \(LPm\) is truth preserving. If all possible worlds are consistent and complete, then any \(LPm\)-valid argument leads from truths only to other truths, and necessarily so, for any world there is a consistent \(LPm\) model assigning \(1\) to each truth and \(0\) to each falsehood of the language, so if the premises of an \(LPm\)-valid argument are true in some possible world, the conclusion must be true too, since the model appropriate to that world is as minimally inconsistent as you can get—it is actually <em>consistent</em>.</p>
+
+<p>So, the logic is now truth preserving, but it remains nonmonotonic. While disjunctive syllogism is \(LPm\) valid, the addition of the inconsistent premise renders the argument invalid. The model that delivers the invalidity is not a <em>possibility</em> for the non-dialethic paraconsistentist. It represents a way that things cannot be.</p>
+
+<p>Now, Priest is a dialetheist, so while he should agree that the nondialethic paraconsistentist can take \(LPm\) to be a truth preserving nonmonotonic logics (and so, this is enough to show that being nonmonotonic alone is not enough to be non-truth-preserving), dialetheists can&rsquo;t use that example for themselves. However, it&rsquo;s easy enough to make examples that are dialethically acceptable to make the same point. If the actual world is inconsistent about some things but not others (say, for the actual world we require inconsistency over <em>some</em> part of our vocabulary, \(\mathcal L_1\) and not the rest, \(\mathcal L_2\)), then take the &lsquo;baseline&rsquo; for inconsistency to be models that are inconsistent only in \(\mathcal L_1\) but not in \(\mathcal L_2\), and grade models which allow for more or less inconsistency in the \(\mathcal L_2\) vocabulary. The resulting consequence relation is now truth preserving but still nonmonotonic.</p>
+
+<p><em>Example 2</em>: Consider models for counterfactuals that use a similarity relation on worlds, in the style of Lewis or Stalnaker. A conditional \(A &gt; B\) is true at world \(w\) if in the worlds worlds <em>most similar</em> to \(w\) where \(A\) is true, so is \(B\).  Let&rsquo;s say that an argument from premises \(\Sigma\) to conclusion \(C\) is \(\mathit{Cf}\)-valid if the conditional \(\bigwedge \Sigma &gt; C\) is true. These conditionals are famously nonmonotonic. (The closest worlds where I have a cup of coffee before 7am are not the closest worlds where I have a cup of coffee with added arsenic before 7am.) However, \(\mathit{Cf}\)-valid arguments are truth preserving, given the plausible assumption (shared by Lewis, Stalnaker and others who take this approach to counterfactual conditionals) that a world \(w\) is one of the closest worlds to itself. Here is why. Suppose the argument from \(\Sigma\) to \(C\) is \(\mathit{Cf}\)-valid, and that each sentence in \(\Sigma\) is true. We want to show that \(C\) is true too. Since the argument is \(\mathit{Cf}\)-valid, at the actual world, the conditional \(\bigwedge\Sigma&gt; C\) is true. Since the actual world is one of the closest worlds to itself, and since \(\bigwedge\Sigma\) is true at the actual world, \(C\) is true there too, as desired. This (contingent, non-formal) &lsquo;logic&rsquo; of conditional consequence gives us another example of a nonmonotonic but truth preserving consequence relation.</p>
+
+<p><em>Examples 3, 4, &hellip;</em>: You can make arbitrarily more examples of nonmonotonic and truth preserving logics using a simple template. Given a monotonic consequence relation \(\vDash\) defined in terms of truth preservation with some class \(M\) of models, in which we have settled in advance that the actual world represented by some model in a subclass \(W\) of \(M\). (In <em>Example 1</em>, \(W\) is the class of consistent \(LP\) models. In <em>Example 2</em>, it is the class containing all worlds most similar to the actual world.) We enrich our interpretation with a well-founded preorder relation \(\sqsubseteq\), according to which each member of \(W\) is minimal according to that relation&mdash;for each \(w\in W\) there is no \(v\in M\) where \(v\sqsubseteq w\) but \(w\not\sqsubseteq v\).  (The well-foundedness condition ensures that every nonempty subset of \(M\) has elements that are \(\sqsubseteq\)-minimal in \(M\).) Define the non-monotonic consequence relation \(\vDash^* \) by setting \(\Sigma\vDash^* C\) if the \(\sqsubseteq\)-least models in which each element of \(\Sigma\) is true also make \(C\) true.</p>
+
+<p>The consequence relation \(\vDash^* \) is truth preserving by design. If \(\Sigma\vDash^* C\) and the members of \(\Sigma\) are true, then there is some model in \(W\) (the model of the actual world, which makes true all and only the true sentences), in which the members of \(\Sigma\) hold. Since this model is in \(W\) it is minimal with respect to \(\sqsubseteq\) and since \(\Sigma\vDash^* C\), then \(C\) holds at that model too, and so, it is true.</p>
+
+<p>We need to do a little more work to show that \(\vDash^*  \) is not monotonic. For that we need some information about the language and the class \(M\) of models and its subset \(W\). If there is an argument in our language from \(\Sigma\) to \(C\) that has no counterexamples among <em>worlds</em> (in \(W\)) but has some counterexample in a model \(m\) outside \(W\), then if we have some sentence \(B_m\) true at \(m\) but not true at any world in \(W\), our argument will be a counterexample to monotonicity&mdash;we have \(\Sigma\vDash^* C\) but we don&rsquo;t have \(\Sigma,B_m\vDash^* C\), since there is some model \(\sqsubseteq\)-minimal among models in which \(\Sigma,B_m\) are true and \(C\) is untrue, since \(m\) is one such model, the set of all such models, being non-empty, must have a \(\sqsubseteq\)-minimal member.</p>
+
+<p>This technique is general, and it shows that there are many different ways to construct nonmonotonic but truth preserving consequence relations. Priest was mistaken to identify nonmonotonicity with failure to preserve truth.</p>
+
+<p><center>&star;&nbsp;&star;&nbsp;&star;</center></p>
+
+<p>That demonstrates the scope of the mistake. It is another thing to diagnose it. Why might you think that there is a connection between nonmonotonicity and the failure to preserve truth? Consider Priest&rsquo;s motivating examples of nonmonotonic inferences: &lsquo;The sun has risen every day so far. So the sun will rise tomorrow&rsquo;, &lsquo;Tweety is a bird. So Tweety flies.&rsquo; If you take those inference steps to be unrestrictedly valid in the target sense of validity, then we surely have counterexamples to truth preservation. <em>Some</em> nonmonotonic consequence relations are not truth preserving. Which ones fail to be truth preserving? Is there a deeper connection between nonmonotonicity and failure to preserve truth?</p>
+
+<p>Here is one possible connection. Suppose the consequence relation \(\vDash^* \) satisfies the following conditions:</p>
+
+<ol>
+<li>\(\vDash^* \) invalid arguments are witnessed by models. If \(\Sigma\not\vDash^* A\) then there is some \(m\) where each statement in \(\Sigma\) holds in \(m\) but \(A\) does not hold in \(m\).</li>
+<li>The models \(m\) used in (1) are all <em>possibilities</em>. If \(m\) is a model, and \(A\) is true in \(m\) then \(A\) is <em>possible</em>.</li>
+<li>\(\vDash^*\)-validity is not world-relative. If an argument is valid, then had things been otherwise, it still would have been valid.</li>
+</ol>
+
+<p>Under these three conditions, any failure of monotonicity gives rise to a failure of truth preservation. (These are sufficient conditions, not necessary conditions. There are many <em>other</em> conditions under which nonmonotonic logics may fail to preserve truth.) Take a failure of monotonicity, where \(\Sigma\vDash^* C\) but \(\Sigma,B\not\vDash^* C\). By (1) there is some model \(m\) which is a counterexample to the argument from \(\Sigma,B\) to \(C\).  If the world is like \(m\), then the argument from \(\Sigma\) to \(C\), though valid according to \(\vDash^*\), would not be truth preserving, since though each member of \(\Sigma\) is true at \(m\), the conclusion \(C\) is not. By (2), this is a <em>possible</em> failure of truth preservation of the argument from \(\Sigma\) to \(C\) (since what is true at \(m\) is indeed possible), and by (3), what <em>is</em> valid (the argument from \(\Sigma\) to \(C\)) still would have been valid at that circumstance, so this is indeed a circumstance where a valid argument has a counterexample—it is a failure of truth preservation.</p>
+
+<p>These three conditions are plausible constraints on certain kinds of consequence relations, and I conjecture that Priest endorses all three (for an appropriate way of understanding the class of models in question). If so, this explains why Priest would be reasonable to make the step from nonmonotonicity to failure to preserve truth, despite the counterexamples we have seen.</p>
+
+<p>Why does this argument not work for the examples of truth preserving nonmonotonic logics given in the previous section? For the non-dialethic paraconsistentist, (2) fails. Inconsistent models are not all <em>possibilities</em>. The non-dialethic paraconsistentist agrees that there is a <em>model</em> in which a contradiction \(p\land\neg p\) is true while an arbitrary \(q\) is not (which is a witness to the failure of the argument from \(p\land \neg p\) to \(q\)), but such a model is a way that things cannot be, not a way that things can.  For counterfactual consequence, the worlds are each possibilities, but (3) fails. Consequence is contingent and world-relative. This argument breaks down because although a world might be a counterexample to the argument from \(\Sigma,B\) to \(C\), it doesn&rsquo;t follow that if the world was like <em>that</em>, then we would have a counterexample to the valid argument \(\Sigma\) to \(C\), because from the point of view of <em>that</em> world, the argument from \(\Sigma\) to \(C\) <em>is</em> \(\mathit{Cf}\)-valid.</p>
+
+<p>So, nonmonotonic consequence relations are closely connected with failures of truth preservation, but that connection is not identity. Understanding that connection an important aspect of understanding the connections between consequence relations, possibility and truth.</p>
+
+<p>Thanks to Jc Beall,  Graham Priest and Shawn Standefer for comments on this note.</p>
+
+<h3 id="references:42f8359152e9c41afe73c79c09f8c30d">References</h3>
+
+<p>Beall, Jc. 2012. &ldquo;<a href="http://analysis.oxfordjournals.org/content/72/3/517.abstract">Why Priest&rsquo;s Reassurance is not so Reassuring</a>.&rdquo; <em>Analysis</em> 72:517-525.</p>
+
+<p>Priest, Graham, 2006. <em><a href="https://global.oup.com/academic/product/in-contradiction-9780199263301?cc=au&amp;lang=en&amp;">In Contradiction</a></em>, Second Edition. Oxford: Oxford University Press.</p>
+
+<p>Priest, Graham. 2012. &ldquo;<a href="http://analysis.oxfordjournals.org/content/72/4/739.extract">The Sun may Not, Indeed, Rise Tomorrow: a reply to Beall</a>.&rdquo; <em>Analysis</em> 72:739-741.</p>
+
+<p>Restall, Greg. 1997. &ldquo;<a href="http://consequently.org/writing/cantbe/">Ways Things Can&rsquo;t Be</a>.&rdquo; <em>Notre Dame Journal of Formal Logic</em> 38:583–596.</p>
+
+
+
+<hr/>
+<p style="font-size: 0.9em; line-height: 1.05em;">Do you like this, or do you have a comment? Then please 
+<i class="fa fa-twitter-square" style="color:#b24;padding-top:6px;font-size:80%;"></i>&nbsp;<a href="http://twitter.com/share?text=Your+Message+Here&via=consequently"><em>share</em></a> or <a href="http://twitter.com/share?text=@consequently+Your+Message+Here"><em>reply</em></a> on Twitter, or 
+<i class="fa fa-envelope" style="color:#b24;padding-top:6px;font-size:80%;"></i>&nbsp;<a href="mailto:greg@consequently.org?subject=Re: On%20Priest%20on%20nonmonotonic%20and%20inductive%20logic at http%3a%2f%2fconsequently.org%2fnews%2f2016%2fjust-how-reassured%2f">email me</a>.</p>
+
+
+<hr>
+
+<a href="http://consequently.org/news/2015/language-logic-and-existential-commitment/"> &larr;&nbsp;Language, Logic and Existential Commitment</a> |
+
+<a href="http://consequently.org/news/#2016">News Archive</a>
+
+| <a href="http://consequently.org/news/2016/congratulations-bruce-french-ao/">Congratulations to Bruce French, AO&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Do LNC and LEM suffice to define negation?</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2015/lnc-and-lem-but-not-negation/">
+	<meta name="twitter:title" content="Do LNC and LEM suffice to define negation?">
+	<meta name="twitter:description" content="What is negation?
+
+One answer you find in the literature is that negation is the operator that makes each instance of the Law of the Excluded Middle (LEM) and the Law of Non-Contradiction (LNC) turn out to be true. That is, every sentence of the form
+\[
+p\lor \neg p
+\qquad
+\neg(p\land\neg p)
+\]
+is true, no matter what sentence we use in the place of \(p\) (where \(\neg\) stands for negation, \(\lor\) for disjunction, and \(\land\) for conjunction).
+
+This is the wrong way to try to define negation. If you read on, I&rsquo;ll explain why.
+">
+	<meta name="twitter:image" content="http://consequently.org/images/lnc-lem-for-p.png">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Do LNC and LEM suffice to define negation?</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>February 17, 2015</h4></div>
+<div class="unit-60">
+<p>What <em>is</em> negation?</p>
+
+<p>One answer you find in the literature is that negation is the operator that makes each instance of the <em>Law of the Excluded Middle</em> (<span class="caps">LEM</span>) and the <em>Law of Non-Contradiction</em> (<span class="caps">LNC</span>) turn out to be <em>true</em>. That is, every sentence of the form
+\[
+p\lor \neg p
+\qquad
+\neg(p\land\neg p)
+\]
+is true, no matter what sentence we use in the place of \(p\) (where \(\neg\) stands for negation, \(\lor\) for disjunction, and \(\land\) for conjunction).</p>
+
+<p>This is the <em>wrong</em> way to try to define negation. If you read on, I&rsquo;ll explain why.</p>
+
+<p>Before I explain why, though, I should explain that taking <span class="caps">LNC</span> and <span class="caps">LEM</span> as defining negation isn&rsquo;t an idiosyncratic view. If you read <a href="http://ling.yale.edu/people/laurence-r-horn">Laurence Horn</a>&rsquo;s <a href="http://plato.stanford.edu/entries/contradiction">entry on Contradiction in the <em>Stanford Encyclopedia of Philosophy</em></a> (and I recommend you do read it, it&rsquo;s a great discussion!), you&rsquo;ll see that he characterises negation in this way. <a href="http://grahampriest.net/">Graham Priest</a>&rsquo;s chapter &ldquo;<a href="http://grahampriest.net/?ddownload=773">Why Not? A Defence of a Dialethic Theory of Negation</a>&rdquo; takes this form of <span class="caps">LNC</span> and <span class="caps">LEM</span> to be central to defining what it is for one thing to be contradictory to another&mdash;in terms of which Graham characterises negation.</p>
+
+<p>Here&rsquo;s why it&rsquo;s wrong to think that this form of <span class="caps">LNC</span> and <span class="caps">LEM</span> defines negation: It&rsquo;s easy to see (once you check) that <span class="caps">LNC</span> and <span class="caps">LEM</span> don&rsquo;t define <em>anything</em>. Altogether too many putative one-place connectives satisfy both <span class="caps">LNC</span> and <span class="caps">LEM</span>. Let&rsquo;s suppose that \(\mathord\sim A\) is just always interpreted as <em>true</em>, whatever \(A\) happens to be. Then it turns out (if disjunction is interpreted in the usual way) that \(p\lor\mathord\sim p\) is true (since its second disjunct is true) and so is \(\mathord\sim(p\land\mathord\sim p)\) since it has the form \(\mathord\sim A\). So, given this deviant &ldquo;negations are always true&rdquo; interpretation, <span class="caps">LNC</span> and <span class="caps">LEM</span> are always satisfied&mdash;by \(\sim\), which isn&rsquo;t negation.</p>
+
+<p>This isn&rsquo;t the only way one could interpret a sentential operator so as to satisfy <span class="caps">LNC</span> and <span class="caps">LEM</span>. For an even more deviant reading, let&rsquo;s interpret \(\mathord\sim A\) as \(\neg A\lor q\) for any \(A\) and for some sentence \(q\). Then <span class="caps">LNC</span> and <span class="caps">LEM</span> for \(\sim\)-negation,
+that is,
+\[
+p\lor (\neg p\lor q)
+\qquad
+\neg(p\land(\neg p \lor q))\lor q
+\]
+are themselves <em>logically true</em> (I leave the verification of this is an exercise for you). But \(\mathord\sim A\)&mdash;that is, \(\neg A\lor q\)&mdash;really isn&rsquo;t the negation of \(A\). (If we choose \(q\) to be a <em>tautology</em> then \(\mathord\sim A\) is simply equivalent to \(\top\) which is the interpretation we saw before.)</p>
+
+<p>In other words, if all we have to go on for interpreting &ldquo;\(\sim\)&rdquo; is that it satisfies  <span class="caps">LNC</span> and <span class="caps">LEM</span>, then there many different ways it can be interpreted, including taking it to be highly contingent, where the semantic value of \(\mathord\sim A\) depends on more than just the semantic value of \(A\).</p>
+
+<p>[<span class="caps">EXCURSUS</span>: If you&rsquo;re prepared to go further afield, notice that in reflexive classical modal logics, we have both \(p\lor\Diamond\neg p\) and \(\Diamond\neg(p\land\Diamond\neg p)\) so satisfying <span class="caps">LNC</span> and <span class="caps">LEM</span> isn&rsquo;t enough to tell us that we don&rsquo;t mean &ldquo;possibly not&rdquo; by your so-called &ldquo;negation&rdquo;. And instead of \(\Diamond\neg\) you could use \(\Diamond\Diamond\neg\) or \(\Diamond\Diamond\Diamond\neg\)&hellip; etc.</p>
+
+<p>To make a similar point in the context of first-order predicate logic, choose \(x\) to be a variable at random, and read \(\mathord\sim A\) as \((\exists x)\neg A\), whether \(x\) is free in the formula \(A\) <em>or not</em>. Notice that this very strange variable-binding &ldquo;negation&rdquo; still satisfies <span class="caps">LNC</span> and <span class="caps">LEM</span>, since \(A\lor (\exists x)\neg A\) and \((\exists x)\neg (A\land (\exists x)\neg A)\) are tautologies, but \((\exists x)\neg\) is not <em>negation</em>. This bizarre creature binds a variable. Negation, as we traditionally understand it, doesn&rsquo;t.]</p>
+
+<p>So, if <span class="caps">LNC</span> and <span class="caps">LEM</span> in the traditional form don&rsquo;t do enough by themselves to pin down negation, what can we say? Something I&rsquo;ve argued <em><a href="/writing/lnclem/">elsewhere</a></em> is that the right way to understand <span class="caps">LNC</span> and <span class="caps">LEM</span> is more like this:
+\[
+\vdash p\lor \neg p
+\qquad
+p\land\neg p\vdash
+\]
+<em>This</em> <span class="caps">LEM</span> (\(\vdash p\lor \neg p\)) tells us that \(p\lor\neg p\) is <em>undeniable</em> (to <em>deny</em> it is <a href="/writing/multipleconclusions">out of bounds</a>), and this <span class="caps">LNC</span> (\(p\land\neg p\vdash\)) tells us that \(p\land\neg p\) is <em>unassertable</em> (to <em>assert</em> it is <a href="/writing/multipleconclusions">out of bounds</a>). This pair of rules does a <em>much</em> better job of pinning down the behaviour of negation.</p>
+
+<p>Just how much better? Well, given a little more logic (the traditional sequent calculus rules for \(\land\) and \(\lor\), and the <em>Cut</em> rule), then if \(\neg\) and \(\sim\) both satisfy <span class="caps">LNC</span> and <span class="caps">LEM</span> in this form, then both negations are logically equivalent. Here&rsquo;s a demonstration that \(\mathord\sim A\vdash\neg A\) (you can generalise this to a proof of equivalence, though the dual proof of \(\neg A\vdash\mathord\sim A\)). Since \(A\land\mathord\sim A\vdash\), by the usual behaviour of \(\land\), we have \(A,\mathord\sim A\vdash\). Since \(\vdash A\lor\neg A\), by the usual behaviour of \(\lor\), we have \(\vdash A,\neg A\). From \(\vdash A,\neg A\) and \(A,\mathord\sim A\vdash\), by the <em>Cut</em> rule (cutting on \(A\)) we have \(\mathord\sim A\vdash\neg A\).</p>
+
+<p>So, if you are tempted by the idea that <span class="caps">LNC</span> and <span class="caps">LEM</span> together <em>define</em> negation, you should be careful to specify <span class="caps">LNC</span> as a <em>denial</em> or <em>rejection</em> rule (\(p\land\neg p\vdash\), which says that \(p\land\neg p\) is to be denied, or to be rejected), rather than \(\neg(p\land \neg p)\) which isn&rsquo;t strong enough to say what you want it to say&mdash;the <em>two</em> instances of negation gives you altogether too much wiggle room.</p>
+
+<p>None of this is an argument that <span class="caps">LNC</span> and <span class="caps">LEM</span> actually <em>hold</em>. For that, you&rsquo;ll need to look elsewhere.</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2015/adding-site-search/"> &larr;&nbsp;Adding Site Search</a> |
+
+<a href="http://consequently.org/news/#2015">News Archive</a>
+
+| <a href="http://consequently.org/news/2015/ash-wednesday/">Ash Wednesday&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+

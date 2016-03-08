@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Adventures in Bi-Intuitionistic Logic</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/">
+	<meta name="twitter:title" content="Adventures in Bi-Intuitionistic Logic">
+	<meta name="twitter:description" content="In yesterday&rsquo;s Logic Seminar, Tomasz Kowalski introduced some lovely results about analytic cut and interpolation in sequent systems for bi-intuitionistic logic. After the seminar, Lloyd Humberstone, Dave Ripley, Tomasz and I got talking about various features of bi-intuitionistic logic, some of which should be more well known than they are &hellip; so I may as well post them here. Read on, if you&rsquo;re into non-classical logic, algebras and frames.
+">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Adventures in Bi-Intuitionistic Logic</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>May 30, 2015</h4></div>
+<div class="unit-60">
+<p>In yesterday&rsquo;s <a href="http://philevents.org/event/show/17572">Logic Seminar</a>, <a href="http://www.latrobe.edu.au/psy/about/staff/profile?uname=TKowalski">Tomasz</a> <a href="http://tomasz-kowalski.ltumathstats.com">Kowalski</a> introduced some lovely results about analytic cut and interpolation in sequent systems for bi-intuitionistic logic. After the seminar, Lloyd Humberstone, Dave Ripley, Tomasz and I got talking about various features of bi-intuitionistic logic, some of which should be more well known than they are &hellip; so I may as well post them here. Read on, if you&rsquo;re into non-classical logic, algebras and frames.</p>
+
+<p>The conditional in intuitionistic logic satisfies the lovely residuation principle:
+\[
+p\land q \le r
+\quad
+\Leftrightarrow
+\quad
+p\land q\supset r
+\]
+where \(\le\) is entailment&mdash;the underlying lattice ordering on propositions&ndash;and \(\land\) is conjunction.  Bi-intuitionistic logic is found by adding to the vocabulary a  two-place connective (<em>dual</em> to the conditional) of <em>subtraction</em>, satisfying the dual residuation principle:
+\[
+p\le q\lor r
+\quad
+\Leftrightarrow
+\quad
+p-q \le r
+\]
+This has lots of lovely (and strange) properties. If \(p\supset 0\) defines the strong intuitionist negation (which is a contrary but not sub-contrary forming operator) then \(1-p\) forms a weak dual negation (which is a sub-contrary but not contrary forming operator). It is a conservative addition to the <em>propositional</em> inuitionist logic. (All complete and completely distributive lattices can be equipped with a subtraction operator, defined by setting \(p-q\) to be \(\bigwedge\{r:p\le q\lor r\}\), and all Heyting lattices can be embedded into complete and completly distributive Heyting lattices.) It is <em>not</em> a conservative extension of first-order intuitionist logic. (With subtraction, you can show that \(\forall x(Fx\lor Gx)\) entails \(\forall x Fx\lor \exists xGx\), which is underivable in intuitionist logic.)</p>
+
+<p>The result I thought should be more well known is that the dual intuitionist substraction can be <em>defined</em> if you add a de Morgan negation to intiutionst logic, and this addition is also conservative in the propositional case. A de Morgan negation is an operator \(\sim\) such that \({\mathord\sim}{\mathord\sim}p=p\) and \(p\le q\) only if \({\mathord\sim}q\le {\mathord\sim}p\). It&rsquo;s called a &ldquo;de Morgan negation&rdquo; because in a <em>lattice</em>, these conditions mean that all four de Morgan laws hold connecting \({\mathord\sim}\), \(\land\) and \(\lor\).</p>
+
+<p>Lemma 9.35 in my substructural logic book (<em><a href="http://consequently.org/writing/isl">An Introduction to Substructural Logics</a></em>) is a construction that embeds a lattice into one including a de Morgan negation. (This construction&mdash;like many results in this field&mdash;uses techniques due to <a href="http://projecteuclid.org/euclid.ndjfl/1093890896">Bob Meyer</a>.) The construction is straightforward. It doesn&rsquo;t <em>quite</em> work in the Heyting lattice case, but it&rsquo;s very close to working. That construction takes the original lattice, adds a top element (if not already present) and adds an inverted copy of the structure below the original structure. This construction doesn&rsquo;t preserve the bottom element (that&rsquo;s no good, as we can express this in intuitionistic logic, with \(p\land\neg p\)), and it&rsquo;s fiddly to see how you might do that using algebraic surgery. Perhaps you can, but I worry about getting the cases correct.</p>
+
+<p>However, it suggest a way to do it relatively straightforwardly, using Kripke frames.</p>
+
+<p>It&rsquo;s well known that in frame semantics, a de Morgan negation can be modelled using a <a href="http://consequently.org/writing/negrl/">Routley star</a> operation. A unary function on points in the frame such that \(x^{&ast;&ast;}=x\) and if \(x\sqsubseteq y\) then \(y^{&ast;}\sqsubseteq x^{&ast;}\). Then we define
+\[
+x\Vdash {\mathord\sim}A
+\quad
+\Leftrightarrow
+x^{&ast;}\not\Vdash A
+\]
+and the result is a de Morgan negation. That&rsquo;s fair enough. But there&rsquo;s no way, in general, to take a Kripke frame for intuitionistic logic and slap a de Morgan negation onto it. Take the three-point tree on the set \(\{a,b,c\}\) where \(a\sqsubset b\) and \(a\sqsubset c\). There aren&rsquo;t enough candidates for \(b^{&ast;}\) and \(c^{&ast;}\). They need to be <em>different</em> and they need to be <em>earlier</em> than \(a^{&ast;}\) in the ordering, but there&rsquo;s not enough objects in the frame to satisfy this. To do this, we need three objects \(\{e,f,g\}\)&mdash;somewhere&ndash;where \(f\sqsubset e\) and \(g\sqsubset e\), so we can let \(a^{&ast;}=e\), \(b^{&ast;}=f\) and  \(c^{&ast;}=g\).</p>
+
+<p>One way to do this to <em>any</em> Kripke model \(\langle P,\sqsubseteq,\vDash\rangle\) is to add a new set \(P^{&ast;}\)&mdash;an extra copy of \(P\), so we operate on the disjoint union \(P\cup P^{&ast;}\).  We define the operation \({&ast;}\) in the obvious way: if \(x\) is in \(P\), then its star is the copy \(x^{&ast;}\) in \(P^{&ast;}\). Define the ordering by allowing \(x^{&ast;}\sqsubseteq y\) but not \(y \sqsubseteq x^{&ast;}\) for each \(x,y\) in \(P\) (so each of the \(P^{&ast;}\) points come <em>before</em> the \(P\) points) and setting \(x^{&ast;} \sqsubseteq y^{&ast;}\) iff \(y \sqsubseteq x\).</p>
+
+<p>(In other words, we take a copy of our Kripke frame, <em>invert</em> it, and have all of those points come <em>before</em> each of the original points.)</p>
+
+<p>The operation &ast; is a <a href="http://consequently.org/writing/negrl/">Routley star</a> on the structure, and it&rsquo;s still a poset, so we have a Kripke frame. We can use &ast; on the frame to define a de Morgan negation.</p>
+
+<p>Given the original model \(\langle P,\sqsubseteq,\Vdash\rangle\), extend the valuation to the new domain \(P \cup P^{&ast;}\) as required by heredity on frames. Any atom true at some point in \(P\) is true at all points in \(P^{&ast;}\), but any atom not true anywhere in \(P\) can remain not true everywhere in \(P^{&ast;}\). An easy induction shows that if formula is true at a point in \(P\) in the original model iff it’s true at that point in the extended model. (The extension \([\![p]\!]\) of an atom in the new model is now closed upward under \(\sqsubseteq\), and \([\![p]\!]\cap P\) remains the same as the extension of \(p\) in the old model. Furthermore, since all evaluation conditions for intuitionist connectives <em>look forward</em>, the restriction of \([\![A]\!]\) (for any complex formula \(A\)) to \(P\) is identical to the extension of  \([\![A]\!]\) in the old model, by an induction on the construction of \(A\).</p>
+
+<p>This construction shows how to embed the new propositions between the bottom element and anything else in the original Heyting algebra.</p>
+
+<p>A <em>dual</em> construction could add the elements in the Kripke frame <em>after</em> the original elements (and then everything gets embedded just below the top element), or they could be <em><a href="https://www.theincomparable.com">incomparable</a></em> with the objects in original frame. But as Lloyd Humberstone pointed out to me, the dual construction is not conservative, because the evaluation of formulas on the original set \(P\) now looks <em>forward</em> to more points, those in \(P^{&ast;}\), and this can change the truth of intuitionist formulas. For example, given a model consisting two points \(a,b\) which are incomparable through \(\sqsubseteq\), where we set \(a\Vdash p\) but \(b\not\Vdash p\), then if we add \(a^{&ast;}\) and \(b^{&ast;}\) to both occur <em>after</em> both \(a\) and \(b\) then we are in a quandry. Since \(p\) is true at \(a\), and since \(a\sqsubseteq a^{&ast;}\) we must have \(a^{&ast;}\Vdash p\). But then it follows that in the <em>new</em> model, \(b\not\Vdash \neg p\), despite the fact that in the <em>original</em> model, \(b\Vdash\neg p\). The addition does not preserve the logical structure of propositions on the original frame, so it cannot be used to demonstrate conservative extensions.</p>
+
+<p>However, the construction where the new points are placed <em>before</em> the original points, or where they are <em>alongside</em> (and incomparable) have no such problems.
+So there are at least 2 different ways to take a Kripke model for intuitionistic logic and to embed it into a structure supporting a de Morgan negation, and thus allowing the de Morgan laws to interdefine the intuitionistic conditional and dual intuitionistic subtraction. This shows that intuitionistic propositional logic is conservatively extended by a de Morgan negation, and this de Morgan negation can be used to define the weird binary connective of subtraction&mdash;all without doing damage to the underlying propositional logic.</p>
+
+<p>Thanks, Tomasz, for a fun <a href="http://philevents.org/event/show/17572">logic seminar</a> yesterday, and for reminding me of these results. After spending over seven years concentrating on proof theory, it feels comfortable to slip back into working with algebras and frames.</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2015/verbal-disputes-in-oxford/"> &larr;&nbsp;Verbal Disputes in Oxford (Workshop Report #1)</a> |
+
+<a href="http://consequently.org/news/#2015">News Archive</a>
+
+| <a href="http://consequently.org/news/2015/another-view-of-the-old-quad/">Another Day at the Office&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Logic Colloquium 2005 Day 3</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+    <link href="" rel="alternate" type="application/rss+xml" title="consequently.org: Greg Restall’s website" />
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2005/07/30/logic_colloquium_2005_day_3/">
+	<meta name="twitter:title" content="Logic Colloquium 2005 Day 3">
+	<meta name="twitter:description" content="It&rsquo;s another busy day with lots of things to learn. Here&rsquo;s my impressions so far, updated through the day. 9:20: Phokion Kolaitis is giving his second lecture &mdash; he&rsquo;s good, and it&rsquo;s been interesting to learn about dichotomy theorems in CSPs. Schaefer&rsquo;s dichotomy results cast in terms of constraint satisfaction problems, are really interesting. The idea is that we can think of a class of constraints as expressed as the problem of whether or not there&rsquo;s a homomorphism betwen your structure and another one (which is thought of as expressing the constraints).">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Logic Colloquium 2005 Day 3</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>July 30, 2005</h4></div>
+<div class="unit-60">
+<p>It&rsquo;s another busy day with lots of things to learn.  Here&rsquo;s my impressions so far, updated through the day.</p>
+
+<hr />
+
+<p><em>9:20</em>: <a href="http://www.almaden.ibm.com/cs/people/kolaitis/">Phokion Kolaitis</a> is giving his second lecture &mdash; he&rsquo;s good, and it&rsquo;s been interesting to learn about <em>dichotomy</em> theorems in CSPs.  <a href="http://users.info.unicaen.fr/~zanutti/rechch/identif.htm">Schaefer&rsquo;s dichotomy results</a> cast in terms of constraint satisfaction problems, are really interesting.  The idea is that we can think of a class of constraints as expressed as the problem of whether or not there&rsquo;s a homomorphism betwen your structure and another one (which is thought of as expressing the constraints).  So, 3-colourability might be expressed as the existence or nonexistence of a homomorphism between your graph and the complete graph K<sub>3</sub>.  If there is such a homomorphism, your graph is 3-colourable, if there isn&rsquo;t, your graph <em>is</em>.   Phokion&rsquo;s talk yesterday explained why CSPs can be expressed as homomorphism existence fact.  The idea is that conjunctive queries (predicate logic expressions using existential quantification and conjunction only) have exactly the right kind of preservation properties to express these homomorphism existence facts on relational structures.</p>
+
+<p>Well, Schaefer&rsquo;s result is that the problem of whether or not (for a given boolean algebra <em>B</em>), the issue of whether or not you&rsquo;ve got a homomorphism from your structure into <em>B</em>, is either solvable in polynomial time (like 2-colourability) or is NP-complete (like 3-colourability &ndash; K<sub>3</sub> isn&rsquo;t a boolean algebra, but 3-colourability apparently can be expressed as CSP(<em>B</em>) for some boolean algebra).  This is nice.  Even if P isn&rsquo;t NP, CSP(<em>B</em>) is not in the gap.</p>
+
+<p>Phokion is now explaining Feder &amp; Vardi&rsquo;s conjecture that <em>every</em> structure <em>B</em> has this dichotomy &mdash; not only boolean algebras. There are some nice results approaching this.  <a href="http://web.comlab.ox.ac.uk/oucl/work/andrei.bulatov">Andrei Bulatov</a> <a href="http://web.comlab.ox.ac.uk/oucl/work/andrei.bulatov/FOCS02.ps">showed that</a> the conjecture works for structures of size up to <em>3</em>.  So, there&rsquo;s only 4,5,6,&hellip; to go!</p>
+
+<hr />
+
+<p><em>1:30</em>: Now some impressionistic comments on <a href="http://www.math.mcmaster.ca/haskell/">Deirdre Haskell</a>&rsquo;s talk on &lsquo;Independence types in algebraically closed valued fields&rsquo;.  This was a model theory talk, and I&rsquo;m not a mathematical model theorist, so I didn&rsquo;t follow everything by any means.  Deirdre is exploring how independence results from the analysis of <em>stable</em> theories cross over to <em>unstable</em> theories, and in particular, valued fields.</p>
+
+<p>This is in the program started by <a href="http://shelah.logic.at/">Shelah</a>: we&rsquo;re interested in the number, I(<em>T</em>,&lambda;) of models cardinality &lambda; of a first-order theory <em>T</em>.  What can I(<em>T</em>,&lambda;) be?  Given an <em>unstable</em> theory (typically, that&rsquo;s a theory with a linear ordering or something like it, such as a valuation function onto a linear ordering), I(<em>T</em>,&lambda;) is 2<sup>&lambda;</sup>, which is as big as it can be.  (Theories with orderings, such as the theory of rationals, are unstable, so are theories with orderings on a definable subset &ndash; such as theories with <em>valuations</em>.)</p>
+
+<p>(As an aside, an anyone recommend the best introduction to stability in the model theoretic sense?  Should I just read Shelah&rsquo;s <a href="http://shelah.logic.at/short000.html">initial paper on the topic</a>?  I don&rsquo;t have access to it now, so I can&rsquo;t tell what it&rsquo;s like.  Hodges&rsquo; <a href="http://plato.stanford.edu/entries/modeltheory-fo/">Stanford Encyclopedia entry</a> is great, but it doesn&rsquo;t scratch my itch.)</p>
+
+<p>Anyway, if the theory we&rsquo;re interested in is <em>stable</em>, then we don&rsquo;t have as much information about this.  And hence, <em>stability</em> theory.  (This talk was the clearest explanation of stability theory I&rsquo;ve had the pleasure of hearing).  Stable theories are algebraically closed fields, differentiably closed fields, etc.   The notion of forking (or non-forking), in pure model theories is important for studying stable theories, and in this case &ndash; in classification theory &ndash; model theorists exclusively studied stable theories since the problem of finding I(<em>T</em>,&lambda;) was solved for unstable <em>T</em>.  But we&rsquo;re interested in unstable <em>T</em> for other reasons.  Now people (like Deirdre Haskell) are using the tools from the study of stable theories in work on unstable theories.  She talked about the application of independence notions in the study of algebraically closed fields (they&rsquo;re fields in which polynomials have solutions) with valuations.  A valuation is a map <em>v</em> from the field to some ordered group with an infinite element &infin; added, where</p>
+
+<ul>
+<li><em>v</em>(<em>ab</em>) = <em>v</em>(<em>a</em> + <em>b</em>),</li>
+<li><em>v</em>(<em>a</em>+<em>b</em>) = min(<em>v</em>(a),<em>v</em>(b))</li>
+<li><em>v</em>(0) = &infin;</li>
+</ul>
+
+<p>Here <em>v</em> measures a kind of size (backwards!) and it gives the field a kind of stratification (and, for extra fun, a topology).  It also induces enough of an ordering on the field to make the theory unstable.</p>
+
+<p>But, algebraically closed valued fields (AVCFs to their friends) are neat, because they are often (always? I didn&rsquo;t catch how this worked in general) characterised by their maximal ideal (the elements <em>x</em> where <em>v</em>(<em>x</em>) &gt; 0) and their residue field (the quotient of the AVCF with the maximal ideal).</p>
+
+<p>One example is generated by <a href="http://en.wikipedia.org/wiki/Laurent_series">Formal Laurent series</a> over a field F in some term <em>t</em>.  These are power series, each going from index -<em>M</em> to infinity (you go negative to get inverses), and you let the valuation measure of a series to be its choce for -<em>M</em>, the first degree for which its coefficient is non-zero.  It doesn&rsquo;t have to be negative.  (So, only finitely many of the negative degree coefficients are zero, but you <em>can</em> have all of the positive coefficients non-zero.)</p>
+
+<p>(In fact, this is just a valued field, not an algebraically closed one, as we don&rsquo;t have roots of the term <em>t</em>.  To fix this it&rsquo;s enough to consider power series in each term <em>t</em><sup>1/<em>n</em></sup> for any <em>n</em>, so-called <a href="http://planetmath.org/encyclopedia/FractionalPowerSeries.html">Puiseux series</a>.)</p>
+
+<p>The super-neat <em>aha</em> moment for me was when Deirdre drew the power series as a path in a tree.  The idea is that you list the exponents one at a time, and at each index, you have a branch for each element of the coefficient field.  (Lovely!  A talk with pictures!  It&rsquo;s a pity that I won&rsquo;t draw one for you here if for some weird reason you&rsquo;ve read this far.)  That insight (simple enough that it is) was worth the price of admission alone for me.</p>
+
+<p>Anyway, the first-order theory of AVCFs can be axiomatised with a predicate for the relation <em>v</em>(<em>x</em>) &gt; <em>v</em>(<em>y</em>), and an axiom scheme for being algebraically closed.  Deirdre then explained the definable sets (which turn out to be boolean combinations of open and closed <em>balls</em> in the underlying topology), and then she got to work defining different notions of independence in these critters.  It turned out to be quite pretty, because in this case, even though the structure wasn&rsquo;t stable, it seemed to have &lsquo;enough&rsquo; stability to get nice notions out.  I&rsquo;ve got to the limit of my understanding, so if you&rsquo;ve heroically read this far, I&rsquo;ll point you to <a href="http://www.math.mcmaster.ca/%7Ehaskell/revisedACVF1.pdf">two</a> <a href="http://www.math.mcmaster.ca/%7Ehaskell/ACVF-independence.pdf">preprints</a> on this material.</p>
+
+<p>(I notice that I&rsquo;ve come out sounding a <em>lot</em> like a mathematician here, but I&rsquo;m not one.  You might wonder why a philosophical logician like me gets excited by talks like this outside my field.  It&rsquo;s simple.  I like understanding things, and proving things, and seeing new constructions and ways of representing things.  Being stretched out of my own zone of familiarity and experience really does help. That&rsquo;s what makes conferences like this neat.)</p>
+
+<hr />
+
+<p>Later today, my second talk, and also a series of contributed papers.</p>
+
+<hr />
+
+<p><em>Much later</em>: OK, I&rsquo;ve survived giving my talk.  (I even finished with time for questions and discussion in the timeslot, without being too rushed at the end.)  Discussion with people afterwards was <em>great</em>.  I&rsquo;ve had good, constructive, feedback from <a href="http://comet.lehman.cuny.edu/fitting/">Melvin Fitting</a>, <a href="http://www.mathematik.uni-muenchen.de/~schwicht/">Helmut Schwichtenberg</a>, <a href="http://www.helsinki.fi/~negri/">Sara Negri</a>, <a href="http://www.mcs.vuw.ac.nz/~neil/">Neil Leslie</a>, <a href="http://www.cs.unibo.it/~corsi/">Giovanna Corsi</a> and <a href="http://www.sbg.ac.at/phs/people/leitgeb_e.html">Hannes Leitgeb</a>, and someone else whose name I didn&rsquo;t catch but who asked a really perceptive question about the actual world in my proof circuits for S5.  (I must catch up with him to properly acknowledge him.)  Thanks, everyone!  There are obviously more people I&rsquo;d like to talk to (<a href="http://www.ucalgary.ca/~rzach/logblog/">Richard</a>, where did you get to?) but time today seemed to run out.  I suppose I&rsquo;ve got to use Monday wisely, as I&rsquo;m not at the conference on Tuesday &ndash; I&rsquo;ve got to fly back out to rejoin my family.</p>
+
+<p>Anyway, I managed to get lots of ideas about how to improve the material, pointers to similar work done before, and possibilities for future investigation.  If you&rsquo;ve got any thoughts about the material, feel free to <a href="http://consequently.org/edit/page/LC2005">add them to the wiki page</a>.</p>
+
+<hr />
+
+<p>In the afternoon&rsquo;s contributed sessions, I got to see <a href="http://www.iam.unibe.ch/~til/staff/stouppa.html">Phiniki Stouppa</a> present her material on <a href="http://www.linearity.org/cas/phiniki/phiniki04sbm.pdf">Calculus of Structures for S5</a>.  That was really nice to see: especially to see how she compared the CoS treatment of S5 with other treatments like Display Logic.  I didn&rsquo;t have time to explain in <a href="http://consequently.org/edit/page/LC2005">my talk</a> how my circuits for S5 relates to display logic, but I obviously come down on the side of dispaly logic as making sense here, and I take the display calculus &lsquo;connectives&rsquo; to ways (complicated as they may be) to talk about these circuits.  The other (hyper-)sequent system for S5 that comes out of the circuits is in one sense a &lsquo;reduction&rsquo; of the display sequent calculus in which display equivalent sequents are identified.  (Anyway, I need to write all of that up before I say too much more.)</p>
+
+<p>Alas, two of the other contributed talks I wanted to go to were cancelled because the speakers didn&rsquo;t show up.   Nonetheless, I got to hear a nice talk by Dimeter Vakarelov on modal correspondence theory (the topic of when it is that a modal formula <em>corresponds to</em> a first order condition on a modal frame).  He has a nice technique of getting more than the usual Sahlqvist formulas (a syntactically characterised class of formulas) by means of an algorithm instead of a simple description of the syntax.  The idea is that the class of formulas is decided by an algorithm (turn the handle, do this, if it succeeds you have a first order correspondent, and if you don&rsquo;t, well, you don&rsquo;t).  This paper was a generalisation of some earlier work by Vakarelov and Conradie and Goranko <a href="http://www.aiml.net/volumes/volume5/Goranko.ps">available here</a>, in which the class of formulas is <em>even bigger</em>.  It&rsquo;s the state of the art in correspondence theory.  (A nice short overview of correspondence theory is in <a href="http://staff.science.uva.nl/~johan/SL-stanford.pdf">this paper</a> by <a href="http://staff.science.uva.nl/~johan">Johan van Benthem</a> who <em>invented</em> correspondence theory in the 1970s.)</p>
+
+<p>That&rsquo;s it from me.  Tomorrow is a break day (when I&rsquo;ll explore some of the city), and I&rsquo;ll resume posting conference information on Monday.</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2005/07/29/logic_colloquium_2005_day_2/"> &larr;&nbsp;Logic Colloquium 2005 Day 2</a> |
+
+<a href="http://consequently.org/news/#2005">News Archive</a>
+
+| <a href="http://consequently.org/news/2005/08/01/logic_colloquium_2005_day_4/">Logic Colloquium 2005 Day 4&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="http://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2016. 
+</section>
+</footer>
+
+</body>
+</html>
+
+
