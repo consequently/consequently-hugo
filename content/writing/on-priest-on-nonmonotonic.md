@@ -4,7 +4,7 @@ title: "On Priest on Nonmonotonic and Inductive Logic"
 author: Greg Restall
 status: In Progress
 type: unpublished
-citation: "&ldquo;On Priest on Nonmonotonic and Inductive Logic,&rdquo; to appear in <em>Thought</em>."
+citation: "&ldquo;On Priest on Nonmonotonic and Inductive Logic,&rdquo; to appear in <em><a href=\"http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292161-2234\">Thought</a></em>."
 tag: on-priest-on-nonmonotonic
 file: on-priest-on-nonmonotonic.pdf
 subjects: paradox consequence nonmonotonic_logic 

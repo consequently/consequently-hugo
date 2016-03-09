@@ -7,7 +7,9 @@ largeimage = true
 
 +++
 
-Thanks to a recent visit from [Jc Beall](http://entailments.net), I was reminded of a critical discussion between Jc and our colleague and friend [Graham Priest](http://grahampriest.net) in the pages of [_Analysis_](http://analysis.oxfordjournals.org). Jc was puzzled by a claim that Graham made [in his reply](http://analysis.oxfordjournals.org/content/72/4/739.extract) to [Jc's paper](http://analysis.oxfordjournals.org/content/72/3/517.abstract), concerning nonmonotonic consequence relations and failures of truth preservation. Here, I'll explain the disagreement between Jc and Graham, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong.
+Thanks to a recent visit from [Jc Beall](http://entailments.net), I was reminded of a critical discussion between Jc and our colleague and friend [Graham Priest](http://grahampriest.net) in the pages of [_Analysis_](http://analysis.oxfordjournals.org). Jc was puzzled by a claim that Graham made [in his reply](http://analysis.oxfordjournals.org/content/72/4/739.extract) to [Jc's paper](http://analysis.oxfordjournals.org/content/72/3/517.abstract), concerning nonmonotonic consequence relations and failures of truth preservation. Here, I'll explain the disagreement between Jc and Graham, and why Graham's claim (that all nonmonotonic logics fail to preserve truth) is wrong. 
+
+**Update on March 9, 2016**: I submitted a version of this note to the journal _[Thought](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292161-2234)_, and it has been accepted for publication. The prepublication version of the paper is archived [here](http://consequently.org/writing/on-priest-on-nonmonotonic/).
 
 <!--more-->
 
