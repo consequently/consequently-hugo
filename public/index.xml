@@ -20,26 +20,26 @@
 	  </itunes:category>
 	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
 	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
+	  <itunes:image href="https://consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://consequently.org/</link>
+    <link>https://consequently.org/</link>
     <language>en-us</language>
     
     
-    <updated>Wed, 09 Mar 2016 16:47:06 AEDT</updated>
+    <updated>Wed, 09 Mar 2016 16:56:54 AEDT</updated>
 
 
 <item>
 <title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2016/PHIL30043/</link>
+<link>https://consequently.org/class/2016/PHIL30043/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PHIL30043/</guid>
+<guid>https://consequently.org/class/2016/PHIL30043/</guid>
 <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -114,9 +114,9 @@
     
 <item>
 <title>PHIL20030: Meaning, Possibility and Paradox</title>
-<link>http://consequently.org/class/2016/PHIL20030/</link>
+<link>https://consequently.org/class/2016/PHIL20030/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PHIL20030/</guid>
+<guid>https://consequently.org/class/2016/PHIL20030/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -133,9 +133,9 @@
     
 <item>
 <title>Proof Theory: Logical and Philosophical Aspects</title>
-<link>http://consequently.org/class/2016/PTPLA-NASSLLI/</link>
+<link>https://consequently.org/class/2016/PTPLA-NASSLLI/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PTPLA-NASSLLI/</guid>
+<guid>https://consequently.org/class/2016/PTPLA-NASSLLI/</guid>
 <description>&lt;p&gt;&lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and I will teach an intensive class on logical and philosophical issues in Proof Theory. We&amp;rsquo;ll be covering cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -147,29 +147,29 @@
     
 <item>
 <title>On Priest on Nonmonotonic and Inductive Logic</title>
-<link>http://consequently.org/writing/on-priest-on-nonmonotonic/</link>
+<link>https://consequently.org/writing/on-priest-on-nonmonotonic/</link>
 <pubDate>Tue, 08 Mar 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/on-priest-on-nonmonotonic/</guid>
+<guid>https://consequently.org/writing/on-priest-on-nonmonotonic/</guid>
 <description>&lt;p&gt;Graham Priest defends the use of a nonmonotonic logic, &lt;em&gt;LPm&lt;/em&gt;, in his analysis of reasoning in the face of true contradictions, such as those arising from the paradoxes of self-reference. In the course of defending the choice of this logic in the face of the criticism that &lt;em&gt;LPm&lt;/em&gt; is not truth preserving, Priest argued that requirement is too much to ask: since &lt;em&gt;LPm&lt;/em&gt; is a nonmonotonic logic, it necessarily fails to preserve truth. In this paper, I show that this assumption is incorrect, and I explain why nonmonotonic logics can nonetheless be truth preserving. Finally, I diagnose Priest&amp;rsquo;s error, to explain when nonmonotonic logics do indeed fail to preserve truth.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2016/UNIB10002/</link>
+<link>https://consequently.org/class/2016/UNIB10002/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/UNIB10002/</guid>
+<guid>https://consequently.org/class/2016/UNIB10002/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Models for Compatibility</title>
-<link>http://consequently.org/news/2016/models-for-compatibility/</link>
+<link>https://consequently.org/news/2016/models-for-compatibility/</link>
 <pubDate>Thu, 11 Feb 2016 16:57:01 AEDT</pubDate>
-<guid>http://consequently.org/news/2016/models-for-compatibility/</guid>
+<guid>https://consequently.org/news/2016/models-for-compatibility/</guid>
 <description>&lt;p&gt;This morning I received an email from &lt;a href=&#34;https://philosophy.stanford.edu/people/rachael-briggs&#34;&gt;Rachael Briggs&lt;/a&gt;, asking me some questions about the notion of &lt;em&gt;compatibility&lt;/em&gt; as it appears in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/negrl/&#34;&gt;Negation in Relevant Logics&lt;/a&gt;.&amp;rdquo; These questions got me to thinking that there were some ideas in &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=3319676480145120321&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;that paper&lt;/a&gt; and a &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=828496633310229772&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;much-less-read&lt;/a&gt; paper of mine &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/modelling/&#34;&gt;Modelling Truthmaking&lt;/a&gt;&amp;rdquo;, which might be worth reflecting on some more. So I&amp;rsquo;ll try to do that here.&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s the background you need to get up to speed. &lt;em&gt;Relevant&lt;/em&gt; logics attempt to make sense of the idea that if an argument from premises \(\Sigma\) to conclusion \(A\) is valid then the premises must somehow be &lt;em&gt;relevant&lt;/em&gt; to the conclusion. If the \(A\) is a tautology by itself (say, \(p\lor\neg p\)) then that fact alone is not enough to ensure that it follows &lt;em&gt;from&lt;/em&gt; the unrelated premise \(q\). \(p\lor\neg p\) follows well enough from \(p\) (a disjunction follows from a disjunct), and from \(\neg p\) (the other disjunct), but if \(q\) has nothing to do with it, we can&amp;rsquo;t necessarily get to \(p\lor\neg p\) from there. The same goes for arguments from contradictory premises. \(p\land\neg p\) is inconsistent. &lt;em&gt;Classical&lt;/em&gt; logic tells us that the argument from \(p\land\neg p\) to \(q\) is valid because there&amp;rsquo;s no interpretation to make \(p\land\neg p\) true that makes \(q\) false—but that&amp;rsquo;s not because of any connection between \(p\land\neg p\) and \(q\). There&amp;rsquo;s no such interpretation because of features of \(p\land\neg p\) all by itself. So that&amp;rsquo;s one way to understand some of the design goals for relevant logics: give us an understanding of logical consequence according to which there are genuine connections between premises and conclusions of valid arguments.&lt;/p&gt;
@@ -209,13 +209,13 @@
     
 <item>
 <title>Congratulations to Bruce French, AO</title>
-<link>http://consequently.org/news/2016/congratulations-bruce-french-ao/</link>
+<link>https://consequently.org/news/2016/congratulations-bruce-french-ao/</link>
 <pubDate>Fri, 29 Jan 2016 00:30:47 AEDT</pubDate>
-<guid>http://consequently.org/news/2016/congratulations-bruce-french-ao/</guid>
+<guid>https://consequently.org/news/2016/congratulations-bruce-french-ao/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been away from home in Auckland at a &lt;a href=&#34;https://sites.google.com/site/fnclmp/&#34;&gt;conference&lt;/a&gt; over the last couple of days, so I&amp;rsquo;m a bit behind on the news, but tonight I&amp;rsquo;ve finally found a few moments to write something in honour of my friend and mentor, Bruce French, who was&amp;mdash;three days ago&amp;mdash;&lt;a href=&#34;http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476&#34;&gt;named an Officer of the Order of Australia&lt;/a&gt; in the 2016 Australia Day Honour&amp;rsquo;s list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it &lt;a href=&#34;http://foodplantsinternational.com&#34;&gt;freely available to anyone who can use it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/zac-bruce.jpg&#34; alt=&#34;Bruce French with a young friend&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/zac-bruce.jpg&#34; alt=&#34;Bruce French with a young friend&#34;&gt;
     &lt;figcaption&gt;Bruce French with a young friend, in 2012&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -231,9 +231,9 @@
     
 <item>
 <title>Fixed Point Models for Theories of Properties and Classes</title>
-<link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
+<link>https://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
 <pubDate>Sat, 23 Jan 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
+<guid>https://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
 
 &lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
@@ -246,9 +246,9 @@
     
 <item>
 <title>On Priest on nonmonotonic and inductive logic</title>
-<link>http://consequently.org/news/2016/just-how-reassured/</link>
+<link>https://consequently.org/news/2016/just-how-reassured/</link>
 <pubDate>Fri, 22 Jan 2016 00:55:52 AEDT</pubDate>
-<guid>http://consequently.org/news/2016/just-how-reassured/</guid>
+<guid>https://consequently.org/news/2016/just-how-reassured/</guid>
 <description>
 
 &lt;p&gt;Thanks to a recent visit from &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt;, I was reminded of a critical discussion between Jc and our colleague and friend &lt;a href=&#34;http://grahampriest.net&#34;&gt;Graham Priest&lt;/a&gt; in the pages of &lt;a href=&#34;http://analysis.oxfordjournals.org&#34;&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/a&gt;. Jc was puzzled by a claim that Graham made &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;in his reply&lt;/a&gt; to &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Jc&amp;rsquo;s paper&lt;/a&gt;, concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&amp;rsquo;ll explain the disagreement between Jc and Graham, and why Graham&amp;rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.&lt;/p&gt;
@@ -337,9 +337,9 @@
     
 <item>
 <title>Generality and Existence 3: Substitution and Identity</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
+<link>https://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
 <pubDate>Mon, 07 Dec 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
+<guid>https://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
 <description>&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this talk, extend a sequent proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is admissible) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
@@ -353,9 +353,9 @@
     
 <item>
 <title>Generality and Existence 4: Identity and Modality</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
+<link>https://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
 <pubDate>Tue, 01 Dec 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
+<guid>https://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 4: Identity and Modality” in the HPLM Seminar at the University of St Andrews.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
@@ -369,9 +369,9 @@
     
 <item>
 <title>Generality and Existence 3: Substitution and Identity</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
+<link>https://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
 <pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
+<guid>https://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
 <description>&lt;p&gt;I gave a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
@@ -385,9 +385,9 @@
     
 <item>
 <title>Generality and Existence 2: Modality and Quantifiers</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
+<link>https://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
 <pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
+<guid>https://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the &lt;em&gt;cut&lt;/em&gt; rule is admissible in the cut-free calculus, and explore the relationship between contingent ‘world-bound’ quantifiers and possibilist ‘world-undbound’ quantifiers in the system.&lt;/p&gt;
@@ -401,9 +401,9 @@
     
 <item>
 <title>Generality and Existence 1: Quantification and Free Logic</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</link>
+<link>https://consequently.org/presentation/2015/generality-and-existence-1-arche/</link>
 <pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</guid>
+<guid>https://consequently.org/presentation/2015/generality-and-existence-1-arche/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 1: Quantification and Free Logic” at a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Workshop on Inferentialism&lt;/a&gt;, hosted by &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/p&gt;
 
 &lt;p&gt;Abstract: In this presentation, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &lt;em&gt;conjunction&lt;/em&gt; from apparently similar rules for putative concepts like &lt;em&gt;tonk&lt;/em&gt;, and I show that the rules for the quantifiers—and the existence predicate—satisfy that condition.&lt;/p&gt;
@@ -418,9 +418,9 @@
     
 <item>
 <title>Language, Logic and Existential Commitment</title>
-<link>http://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
+<link>https://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
 <pubDate>Wed, 18 Nov 2015 11:49:21 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
+<guid>https://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
 <description>&lt;p&gt;In between wrapping up &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;teaching for the&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL40013/&#34;&gt;end of Semester 2&lt;/a&gt;, and getting ready for a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;short trip to Scotland&lt;/a&gt;, I&amp;rsquo;m spending some time &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-1-arche/&#34;&gt;thinking about free logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-2-arche/&#34;&gt;quantified modal logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-3-arche/&#34;&gt;identity&lt;/a&gt;. This is difficult but exciting terrain to cover.  There is no obvious way to tie together the logic of quantifiers, the modalities and identity in a way that commands broad appeal&amp;mdash;there is no default quantified modal logic that has the same &amp;lsquo;market reach&amp;rsquo; as classical first order logic.&lt;/p&gt;
 
 &lt;p&gt;This is a shame, because many important arguments involve quantification, identity and possibility and necessity&amp;mdash;and claims about existence and nonexistence. Understanding the &lt;em&gt;logic&lt;/em&gt; of these arguments better would help us gain some kind of systematic understanding of the positions in play. In the absence of a clear picture of the logic implicit in our concepts, we&amp;rsquo;re playing the dialectical game in ignorance of the rules.&lt;/p&gt;
@@ -445,18 +445,18 @@
     
 <item>
 <title>Logic at Melbourne finally has a presence on the web</title>
-<link>http://consequently.org/news/2015/logic-at-melbourne/</link>
+<link>https://consequently.org/news/2015/logic-at-melbourne/</link>
 <pubDate>Thu, 29 Oct 2015 17:02:04 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/logic-at-melbourne/</guid>
+<guid>https://consequently.org/news/2015/logic-at-melbourne/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Three Cultures—or: what place for logic in the humanities?</title>
-<link>http://consequently.org/writing/three-cultures/</link>
+<link>https://consequently.org/writing/three-cultures/</link>
 <pubDate>Fri, 29 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/three-cultures/</guid>
+<guid>https://consequently.org/writing/three-cultures/</guid>
 <description>&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
 In this essay, I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
 </description>
@@ -464,9 +464,9 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
     
 <item>
 <title>Cian Dorr on Defining Quantifiers (Verbal Disputes Workshop Report #2)</title>
-<link>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
+<link>https://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
 <pubDate>Sat, 24 Oct 2015 15:27:36 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
+<guid>https://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
 <description>&lt;p&gt;There&amp;rsquo;s something very attractive in the idea that meanings of logical concepts—such as conjunction, negation, the quantifiers—can be specified by the role they play in proofs. If I learn the rules for conjunction:
 \(
 \def\sem#1{[\![#1]\!]}
@@ -527,18 +527,18 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
     
 <item>
 <title>Generality and Existence I: Quantification and Free Logic</title>
-<link>http://consequently.org/writing/generality-and-existence-1/</link>
+<link>https://consequently.org/writing/generality-and-existence-1/</link>
 <pubDate>Thu, 14 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/generality-and-existence-1/</guid>
+<guid>https://consequently.org/writing/generality-and-existence-1/</guid>
 <description>&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Fixed Point Models for Theories of Properties and Classes</title>
-<link>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
+<link>https://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
 <pubDate>Fri, 31 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
+<guid>https://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the first 2015 meeting of the &lt;a href=&#34;http://clmps.helsinki.fi&#34;&gt;15th Congress on Logic, Methodology, and Philosophy of Science&lt;/a&gt;, in Helsinki.&lt;/p&gt;
 
 &lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
@@ -552,9 +552,9 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
     
 <item>
 <title>PHIL20030: Meaning, Possibility and Paradox</title>
-<link>http://consequently.org/class/2015/PHIL20030/</link>
+<link>https://consequently.org/class/2015/PHIL20030/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/PHIL20030/</guid>
+<guid>https://consequently.org/class/2015/PHIL20030/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -571,45 +571,45 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
     
 <item>
 <title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
-<link>http://consequently.org/class/2015/PHIL40013/</link>
+<link>https://consequently.org/class/2015/PHIL40013/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/PHIL40013/</guid>
+<guid>https://consequently.org/class/2015/PHIL40013/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2015, I will cover some topic introducing logic and its applications to issues in metaphysics, epistemology or philosophy of language. For further information, contact me. To participate, check &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL40013&#34;&gt;the handbook&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
-<link>http://consequently.org/presentation/2015/verbal-disputes-aap/</link>
+<link>https://consequently.org/presentation/2015/verbal-disputes-aap/</link>
 <pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/verbal-disputes-aap/</guid>
+<guid>https://consequently.org/presentation/2015/verbal-disputes-aap/</guid>
 <description>&lt;p&gt;This is a talk at the &lt;a href=&#34;http://www.aap-conferences.org.au&#34;&gt;2015 Australasian Association for Philosophy Conference&lt;/a&gt; at Macquarie University in Sydney. I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
     
 <item>
 <title>Contingent Existence and Modal Definedness</title>
-<link>http://consequently.org/presentation/2015/cemd-aal/</link>
+<link>https://consequently.org/presentation/2015/cemd-aal/</link>
 <pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/cemd-aal/</guid>
+<guid>https://consequently.org/presentation/2015/cemd-aal/</guid>
 <description>&lt;p&gt;A presentation for the &lt;a href=&#34;http://www-personal.usyd.edu.au/~njjsmith/aal2015/&#34;&gt;Australasian Association for Logic Conference&lt;/a&gt; at the University of Sydney. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
     
 <item>
 <title>Another Day at the Office</title>
-<link>http://consequently.org/news/2015/another-view-of-the-old-quad/</link>
+<link>https://consequently.org/news/2015/another-view-of-the-old-quad/</link>
 <pubDate>Thu, 04 Jun 2015 12:44:46 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/another-view-of-the-old-quad/</guid>
+<guid>https://consequently.org/news/2015/another-view-of-the-old-quad/</guid>
 <description>&lt;p&gt;The view from my desk.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/3faRnyFQy1/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;A photo posted by Greg Restall (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-06-04T02:39:45+00:00&#34;&gt;Jun 3, 2015 at 7:39pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -618,9 +618,9 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
     
 <item>
 <title>Adventures in Bi-Intuitionistic Logic</title>
-<link>http://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</link>
+<link>https://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</link>
 <pubDate>Sat, 30 May 2015 04:04:25 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</guid>
+<guid>https://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</guid>
 <description>&lt;p&gt;In yesterday&amp;rsquo;s &lt;a href=&#34;http://philevents.org/event/show/17572&#34;&gt;Logic Seminar&lt;/a&gt;, &lt;a href=&#34;http://www.latrobe.edu.au/psy/about/staff/profile?uname=TKowalski&#34;&gt;Tomasz&lt;/a&gt; &lt;a href=&#34;http://tomasz-kowalski.ltumathstats.com&#34;&gt;Kowalski&lt;/a&gt; introduced some lovely results about analytic cut and interpolation in sequent systems for bi-intuitionistic logic. After the seminar, Lloyd Humberstone, Dave Ripley, Tomasz and I got talking about various features of bi-intuitionistic logic, some of which should be more well known than they are &amp;hellip; so I may as well post them here. Read on, if you&amp;rsquo;re into non-classical logic, algebras and frames.&lt;/p&gt;
 
 &lt;p&gt;The conditional in intuitionistic logic satisfies the lovely residuation principle:
@@ -677,10 +677,10 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Verbal Disputes in Oxford (Workshop Report #1)</title>
-<link>http://consequently.org/news/2015/verbal-disputes-in-oxford/</link>
+<link>https://consequently.org/news/2015/verbal-disputes-in-oxford/</link>
 <pubDate>Wed, 27 May 2015 15:56:45 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/verbal-disputes-in-oxford/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m back from last week&amp;rsquo;s &lt;a href=&#34;http://consequently.org/news/2015/quick-trip-to-oxford/&#34;&gt;quick trip to Oxford for a workshop on Verbal Disputes&lt;/a&gt;, just in time to wrap up the last week of teaching in my two &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;undergraduate&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043&#34;&gt;units&lt;/a&gt; as the semester winds up here in Melbourne.&lt;/p&gt;
+<guid>https://consequently.org/news/2015/verbal-disputes-in-oxford/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m back from last week&amp;rsquo;s &lt;a href=&#34;https://consequently.org/news/2015/quick-trip-to-oxford/&#34;&gt;quick trip to Oxford for a workshop on Verbal Disputes&lt;/a&gt;, just in time to wrap up the last week of teaching in my two &lt;a href=&#34;https://consequently.org/class/2015/UNIB10002&#34;&gt;undergraduate&lt;/a&gt; &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043&#34;&gt;units&lt;/a&gt; as the semester winds up here in Melbourne.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;This&lt;/a&gt; was an &lt;em&gt;excellent&lt;/em&gt; two-day workshop, capably organised by &lt;a href=&#34;http://www.ertegun.ox.ac.uk/staff-scholars/trevor-teitel&#34;&gt;Trevor Teitel&lt;/a&gt;, and funded by the &lt;a href=&#34;http://www.ertegun.ox.ac.uk/&#34;&gt;Ertegun Graduate Scholarship Programme for the Humanities&lt;/a&gt;. There was a &lt;em&gt;lot&lt;/em&gt; to think about in the papers presented at the conference, and the informal discussions between talks.  In another entry, I&amp;rsquo;ll comment on &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;&amp;rsquo;s talk &amp;ldquo;Pinning Down the Meanings of Quantifiers.&amp;rdquo; In this entry I&amp;rsquo;ll make some general remarks about the workshop and, in particular, about &lt;a href=&#34;http://www.amiethomasson.org/&#34;&gt;Amie Thomasson&lt;/a&gt;&amp;rsquo;s talk &amp;ldquo;Metaphysical Disputes and Metalinguistic Negotiation&amp;rdquo;.&lt;/p&gt;
 
@@ -689,14 +689,14 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;The workshop as a whole had seven presentations. The first day kicked off with a talk by &lt;a href=&#34;http://robert-williams.org&#34;&gt;Robbie Williams&lt;/a&gt;, on representation.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-robbie.JPG&#34; alt=&#34;Robbie Williams&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/mvd-robbie.JPG&#34; alt=&#34;Robbie Williams&#34;&gt;
     &lt;figcaption&gt;Robbie Williams&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;This was followed by &lt;a href=&#34;http://people.umass.edu/mayae/&#34;&gt;Maya Eddon&lt;/a&gt;, on whether the parthood relation was perfectly natural or not. This was filled with elegant examples of cases where parthood fails to supervene on natural properties&amp;mdash;unless parthood (or something like it) is admitted to the supervenience base.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-maya.JPG&#34; alt=&#34;Maya Eddon&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/mvd-maya.JPG&#34; alt=&#34;Maya Eddon&#34;&gt;
     &lt;figcaption&gt;Maya Eddon&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -705,14 +705,14 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;In each case, the talks were clear, interesting, and not &lt;em&gt;directly&lt;/em&gt; focussed on verbal disputes as such, but on issues in metaphysics and philosophy of language in and around that debate. I was reasonably jetlagged for the first day of the workshop (having landed in the UK the previous afternoon), so I don&amp;rsquo;t have many precise or detailed comments to make about those talks. Regardless, they were an enjoyable way to ease into the conference and to think about the themes under discussion.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-tim.JPG&#34; alt=&#34;Tim Williamson&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/mvd-tim.JPG&#34; alt=&#34;Tim Williamson&#34;&gt;
     &lt;figcaption&gt;Tim Williamson&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Day two started with &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;my talk&lt;/a&gt; (which included an obligatory Led Zeppelin reference, in honour of Ahmet Ertegun&amp;rsquo;s connection with the band, having signed them to Atlantic Records). This effort was &lt;em&gt;completely&lt;/em&gt; upstaged by Dave Chalmers in his talk, which was a recapitulation of the issues in his long and influential paper &amp;ldquo;&lt;a href=&#34;http://consc.net/papers/verbal.pdf&#34;&gt;Verbal Disputes&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Day two started with &lt;a href=&#34;https://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;my talk&lt;/a&gt; (which included an obligatory Led Zeppelin reference, in honour of Ahmet Ertegun&amp;rsquo;s connection with the band, having signed them to Atlantic Records). This effort was &lt;em&gt;completely&lt;/em&gt; upstaged by Dave Chalmers in his talk, which was a recapitulation of the issues in his long and influential paper &amp;ldquo;&lt;a href=&#34;http://consc.net/papers/verbal.pdf&#34;&gt;Verbal Disputes&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-dave.JPG&#34; alt=&#34;Dave Chalmers&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/mvd-dave.JPG&#34; alt=&#34;Dave Chalmers&#34;&gt;
     &lt;figcaption&gt;Dave Chalmers&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -721,7 +721,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;The highlights for me in the workshop, though, were the &lt;em&gt;other&lt;/em&gt; two talks on the second day. &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;&amp;rsquo;s talk on the &lt;em&gt;semantics of quantifiers&lt;/em&gt; (which I&amp;rsquo;ll discuss in another post) and &lt;a href=&#34;http://www.amiethomasson.org&#34;&gt;Amie Thomasson&lt;/a&gt;&amp;rsquo;s, on &lt;em&gt;metalinguistic negotiation&lt;/em&gt;.  I&amp;rsquo;ll write about Cian&amp;rsquo;s work on quantifiers in another entry. Here, I&amp;rsquo;ll focus on Amie&amp;rsquo;s presentation.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-amie.JPG&#34; alt=&#34;Amie Thomasson&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/mvd-amie.JPG&#34; alt=&#34;Amie Thomasson&#34;&gt;
     &lt;figcaption&gt;Amie Thomasson&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -741,9 +741,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Workshop on Verbal Disputes and their Philosophical Significance</title>
-<link>http://consequently.org/presentation/2015/verbal-disputes-oxford/</link>
+<link>https://consequently.org/presentation/2015/verbal-disputes-oxford/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/verbal-disputes-oxford/</guid>
+<guid>https://consequently.org/presentation/2015/verbal-disputes-oxford/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a presentation, entitled &amp;ldquo;Merely Verbal Disputes and Coordinating on Logical Constants,&amp;rdquo; on proof theory, modality, existence and verbal disputes at a workshop held at the University of Oxford in May, 2015.&lt;/p&gt;
 
 &lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants, how they can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re &lt;em&gt;really&lt;/em&gt; careful&amp;mdash;modal operators.&lt;/p&gt;
@@ -758,11 +758,11 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>One Quick Trip to Oxford</title>
-<link>http://consequently.org/news/2015/quick-trip-to-oxford/</link>
+<link>https://consequently.org/news/2015/quick-trip-to-oxford/</link>
 <pubDate>Sun, 17 May 2015 22:19:26 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/quick-trip-to-oxford/</guid>
+<guid>https://consequently.org/news/2015/quick-trip-to-oxford/</guid>
 <description>&lt;figure&gt;
-    &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;&lt;img src=&#34;http://consequently.org/images/cropped-oxford.jpg&#34; alt=&#34;Oxford&#34; &gt;&lt;/a&gt;
+    &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;&lt;img src=&#34;https://consequently.org/images/cropped-oxford.jpg&#34; alt=&#34;Oxford&#34; &gt;&lt;/a&gt;
     &lt;figcaption&gt;I&#39;m here for May 20 and 21&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -774,9 +774,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
-<link>http://consequently.org/presentation/2015/mvd-logicmelb/</link>
+<link>https://consequently.org/presentation/2015/mvd-logicmelb/</link>
 <pubDate>Tue, 05 May 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/mvd-logicmelb/</guid>
+<guid>https://consequently.org/presentation/2015/mvd-logicmelb/</guid>
 <description>&lt;p&gt;This is a dry run for my &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;talk&lt;/a&gt; at the &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Oxford Workshop on Verbal Disputes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
@@ -784,16 +784,16 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;If you&amp;rsquo;d like to attend, keep track &lt;a href=&#34;http://philevents.org/event/show/17569&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
     
 <item>
 <title>Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</title>
-<link>http://consequently.org/writing/assertiondenialparadox/</link>
+<link>https://consequently.org/writing/assertiondenialparadox/</link>
 <pubDate>Sun, 01 Feb 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/assertiondenialparadox/</guid>
+<guid>https://consequently.org/writing/assertiondenialparadox/</guid>
 <description>&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
 
 &lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
@@ -802,9 +802,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Incarnation and Detachment: on surprising connections between logic, semantics, and prayer</title>
-<link>http://consequently.org/presentation/2015/ctc-seminar/</link>
+<link>https://consequently.org/presentation/2015/ctc-seminar/</link>
 <pubDate>Mon, 23 Mar 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/ctc-seminar/</guid>
+<guid>https://consequently.org/presentation/2015/ctc-seminar/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a research seminar on May 1 at the &lt;a href=&#34;http://www.ctc.edu.au/&#34;&gt;Catholic Theological College&lt;/a&gt;. The details are &lt;a href=&#34;http://philevents.org/event/show/17580&#34;&gt;listed here in PhilEvents&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I will explore some of the connections between logic and philosophy of language on the one hand, and theology&amp;mdash;or religious practice&amp;mdash;on the other.&lt;/p&gt;
@@ -821,27 +821,27 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Logic: Language and Information 2</title>
-<link>http://consequently.org/class/2015/logic2_coursera/</link>
+<link>https://consequently.org/class/2015/logic2_coursera/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/logic2_coursera/</guid>
+<guid>https://consequently.org/class/2015/logic2_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Sophistry and Argumentation: The Role of Reason in the Examined Life</title>
-<link>http://consequently.org/presentation/2015/lyceum-club/</link>
+<link>https://consequently.org/presentation/2015/lyceum-club/</link>
 <pubDate>Sun, 12 Apr 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/lyceum-club/</guid>
+<guid>https://consequently.org/presentation/2015/lyceum-club/</guid>
 <description>&lt;p&gt;A presentation to the &lt;em&gt;Philosophy Circle&lt;/em&gt; at the &lt;a href=&#34;http://www.lyceumclubmelb.org.au/&#34;&gt;Lyceum Club of Melbourne&lt;/a&gt; on Sophistry and Argumentation, and on the role of reason in the examined life.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Another View of the Old Quad</title>
-<link>http://consequently.org/news/2015/another-day-at-the-office/</link>
+<link>https://consequently.org/news/2015/another-day-at-the-office/</link>
 <pubDate>Wed, 01 Apr 2015 00:23:10 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/another-day-at-the-office/</guid>
+<guid>https://consequently.org/news/2015/another-day-at-the-office/</guid>
 <description>&lt;p&gt;Here&amp;rsquo;s another view of my building at work, in the autumn light.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://instagram.com/p/05L-ksFQ4j/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_top&#34;&gt;Old Quad, back entrance&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A photo posted by Greg Restall (@consequently) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-03-31T13:20:53+00:00&#34;&gt;Mar 31, 2015 at 6:20am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
@@ -853,9 +853,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Incarnation and Detachment: Philosophy, Prayer, and Taking Positions</title>
-<link>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</link>
+<link>https://consequently.org/presentation/2015/csn-incarnation-and-detachment/</link>
 <pubDate>Thu, 12 Mar 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</guid>
+<guid>https://consequently.org/presentation/2015/csn-incarnation-and-detachment/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Incarnation and Detachment: Philosophy, Prayer, and Taking Positions” at the first 2015 meeting of the &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt;. (We&amp;rsquo;ll meet at the &lt;a href=&#34;http://www.thedan.com.au&#34;&gt;Dan O&amp;rsquo;Connell Pub&lt;/a&gt; at 7pm on Tuesday March 24. Come early to share dinner before the talk and discussion.)&lt;/p&gt;
 
 &lt;p&gt;In the talk I&amp;rsquo;ll discuss some of the parallels between the range of cognitive attitudes to be found in reasoning and philosophical reflection on the one hand, and prayer, on the other.&lt;/p&gt;
@@ -866,20 +866,20 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Advocacy on Sydney Road</title>
-<link>http://consequently.org/news/2015/advocacy-on-sydney-road/</link>
+<link>https://consequently.org/news/2015/advocacy-on-sydney-road/</link>
 <pubDate>Thu, 19 Mar 2015 12:49:30 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/advocacy-on-sydney-road/</guid>
+<guid>https://consequently.org/news/2015/advocacy-on-sydney-road/</guid>
 <description>&lt;p&gt;On the afternoon of Sunday March 1, Sydney Road in Brunswick was transformed by its annual &lt;a href=&#34;http://www.brunswickmusicfestival.com.au/sydney-road-street-party.htm&#34;&gt;Street Party&lt;/a&gt;. Over four blocks of this busy inner north thoroughfare was closed to trams and cars, lined by stalls, punctuated with live bands, and filled with crowds. Everyone was sampling wares, eating, drinking and soaking in the atmosphere. It&amp;rsquo;s a distinctive slice of multicultural Brunswick life, and an opportunity for everyone to get out and sample that Brunswick experience in all its variety.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-bands.jpg&#34; alt=&#34;Live music at the Sydney Road Street Party&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/SRSP-bands.jpg&#34; alt=&#34;Live music at the Sydney Road Street Party&#34;&gt;
     &lt;figcaption&gt;Live music at the Sydney Road Street Party&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Four of us from the Melbourne Inner North &lt;a href=&#34;http://tear.org.au&#34;&gt;TEAR&lt;/a&gt; Group were there, between a Scout Group sausage sizzle on the one side and the Animal Protection Society, with its vegan cookbooks and petitions on the other. We ran a little stall lined with &lt;a href=&#34;http://www.tear.org.au/learn/target/&#34;&gt;TEAR Targets&lt;/a&gt;, information about Australian Aid and its positive impact on poverty and development in our region, and postcards to send to the Foreign Minister, &lt;a href=&#34;http://www.juliebishop.com.au&#34;&gt;Julie Bishop&lt;/a&gt;. We were encouraging our fellow residents of the Inner North to urge Julie Bishop and our government to our commitments towards meeting the Millennium Development Goals. In honour of International Women&amp;rsquo;s Day, we made flowers for passers by to attach to their postcard, and we collected nearly 50 to send along to Canberra to help the government to get the message that our community takes helping our neighbours to be an important part of our national character, and not something to be dropped when some difficult decisions need to be made.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-Postcards.jpg&#34; alt=&#34;Signed Postcards with Flowers for Julie Bishop&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/SRSP-Postcards.jpg&#34; alt=&#34;Signed Postcards with Flowers for Julie Bishop&#34;&gt;
     &lt;figcaption&gt;Signed Postcards with Flowers for Julie Bishop&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -888,7 +888,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;Most likely, 50 signatures on petitions is not enough on its own to change a Minister&amp;rsquo;s mind—even if the flowers everyone attached were very attractive—but this was one small part of an ongoing community conversation. May that conversation continue, and may the wider community find its voice so that we all recognise what it means to be a good neighbour to those around us.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-stall.jpg&#34; alt=&#34;TEAR Stall at the Sydney Road Street Party&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/SRSP-stall.jpg&#34; alt=&#34;TEAR Stall at the Sydney Road Street Party&#34;&gt;
     &lt;figcaption&gt;TEAR Stall at the Sydney Road Street Party&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -898,9 +898,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Our Thinking Behind Logic Teaching on Coursera</title>
-<link>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</link>
+<link>https://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</link>
 <pubDate>Mon, 16 Mar 2015 14:46:22 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</guid>
+<guid>https://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</guid>
 <description>&lt;p&gt;Just today, I stumbled across &lt;a href=&#34;https://vimeo.com/102098742&#34;&gt;a video of an interview with me from 2013&lt;/a&gt;, explaining our thinking behind &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera/&#34;&gt;teaching introductory logic&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera/&#34;&gt;on Coursera&lt;/a&gt;, and the connections between this and &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;classroom teaching&lt;/a&gt;. Come for the ideas, stay for the crazy hand gestures.&lt;/p&gt;
 
 &lt;div class=&#34;video-wrapper&#34;&gt;
@@ -911,19 +911,19 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Come and work with me on proof theory and philosophy</title>
-<link>http://consequently.org/news/2015/come-work-with-me/</link>
+<link>https://consequently.org/news/2015/come-work-with-me/</link>
 <pubDate>Fri, 06 Mar 2015 12:28:44 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/come-work-with-me/</guid>
+<guid>https://consequently.org/news/2015/come-work-with-me/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m delighted to &lt;em&gt;finally&lt;/em&gt; announce that I have a &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;job to offer&lt;/a&gt; on my five year ARC funded research project in philosophical logic and its applications, &amp;ldquo;Meaning in Action: new techniques for language, logic and information.&amp;rdquo; It&amp;rsquo;s a two year postdoctoral research position, with a little bit of teaching on the side. If you&amp;rsquo;re interested in philosophical logic, and would like to join the logic group at Melbourne, this is the job for &lt;em&gt;you&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Details are &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;online at the University of Melbourne careers site&lt;/a&gt;, and if you  applying, you should read the &lt;a href=&#34;http://consequently.org/misc/DP150103801_app.pdf&#34;&gt;project description&lt;/a&gt; so you can address how you would contribute to the research project in your application for the job. To apply, follow the instructions &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;on the University of Melbourne careers site&lt;/a&gt;. The closing date for the application is &lt;strong&gt;April 19, 2015&lt;/strong&gt; (That&amp;rsquo;s &lt;em&gt;Melbourne&lt;/em&gt; time. Don&amp;rsquo;t be bitten by thinking that midnight April 19 &lt;em&gt;your&lt;/em&gt; time is still April 19 &lt;em&gt;our&lt;/em&gt; time.) If you have any questions, don&amp;rsquo;t hesitate to get back to me. And let everyone know about this position. I&amp;rsquo;ll be delighted to have a strong field of applicants. This is an exciting research project, and I&amp;rsquo;m looking forward to working on it with others.&lt;/p&gt;
+&lt;p&gt;Details are &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;online at the University of Melbourne careers site&lt;/a&gt;, and if you  applying, you should read the &lt;a href=&#34;https://consequently.org/misc/DP150103801_app.pdf&#34;&gt;project description&lt;/a&gt; so you can address how you would contribute to the research project in your application for the job. To apply, follow the instructions &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;on the University of Melbourne careers site&lt;/a&gt;. The closing date for the application is &lt;strong&gt;April 19, 2015&lt;/strong&gt; (That&amp;rsquo;s &lt;em&gt;Melbourne&lt;/em&gt; time. Don&amp;rsquo;t be bitten by thinking that midnight April 19 &lt;em&gt;your&lt;/em&gt; time is still April 19 &lt;em&gt;our&lt;/em&gt; time.) If you have any questions, don&amp;rsquo;t hesitate to get back to me. And let everyone know about this position. I&amp;rsquo;ll be delighted to have a strong field of applicants. This is an exciting research project, and I&amp;rsquo;m looking forward to working on it with others.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Here are a few answers to questions I&amp;rsquo;ve been asked:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;There is no fixed starting date for the position, though if you can be on board for &lt;a href=&#34;http://www.unimelb.edu.au/unisec/PDates/acadcale.html&#34;&gt;Semester 2, 2015&lt;/a&gt;, that&amp;rsquo;s a strong plus.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;The teaching responsibilities for the position are small (at most &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; of the workload), and are to be decided in consultation with me&amp;mdash;this part of the role is to give the candidate some teaching experience, and to cover a little of my teaching to free me up to do some more research. Take a look at &lt;a href=&#34;http://consequently.org/class/&#34;&gt;my teaching&lt;/a&gt; over the last few years, and you&amp;rsquo;ll get an idea of the opportunities for teaching.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The teaching responsibilities for the position are small (at most &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; of the workload), and are to be decided in consultation with me&amp;mdash;this part of the role is to give the candidate some teaching experience, and to cover a little of my teaching to free me up to do some more research. Take a look at &lt;a href=&#34;https://consequently.org/class/&#34;&gt;my teaching&lt;/a&gt; over the last few years, and you&amp;rsquo;ll get an idea of the opportunities for teaching.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If you have other questions about the position, please don&amp;rsquo;t hesitate to &lt;a href=&#34;#about&#34;&gt;get in touch&lt;/a&gt;, and if you know some likely candidates, please point them this way.&lt;/p&gt;
@@ -932,32 +932,32 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2015/UNIB10002/</link>
+<link>https://consequently.org/class/2015/UNIB10002/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/UNIB10002/</guid>
+<guid>https://consequently.org/class/2015/UNIB10002/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2015/PHIL30043/</link>
+<link>https://consequently.org/class/2015/PHIL30043/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/PHIL30043/</guid>
+<guid>https://consequently.org/class/2015/PHIL30043/</guid>
 <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Download the &lt;a href=&#34;http://consequently.org/handouts/Subject-Guide-PHIL30043-in-2015.pdf&#34;&gt;course guide&lt;/a&gt; (303KB PDF).&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;https://consequently.org/handouts/Subject-Guide-PHIL30043-in-2015.pdf&#34;&gt;course guide&lt;/a&gt; (303KB PDF).&lt;/p&gt;
 
 &lt;h3 id=&#34;outline:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Outline&lt;/h3&gt;
 
@@ -1028,23 +1028,23 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Academic Genealogy</title>
-<link>http://consequently.org/news/2015/academic-genealogy/</link>
+<link>https://consequently.org/news/2015/academic-genealogy/</link>
 <pubDate>Sat, 28 Feb 2015 00:35:19 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/academic-genealogy/</guid>
+<guid>https://consequently.org/news/2015/academic-genealogy/</guid>
 <description>&lt;p&gt;I have known about the &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/index.php&#34;&gt;Mathematical Genealogy Project&lt;/a&gt; for &lt;a href=&#34;http://consequently.org/news/2004/06/07/ancestors/&#34;&gt;quite some time&lt;/a&gt;, but, prompted by &lt;a href=&#34;http://ucalgary.ca/rzach/blog/2015/02/academic-genealogy-graphed.html&#34;&gt;Richard Zach&lt;/a&gt; I notice two new and wonderful things.&lt;/p&gt;
 
 &lt;p&gt;First, &lt;a href=&#34;http://www.davidalber.net/&#34;&gt;David Alber&lt;/a&gt; has produced in &lt;a href=&#34;http://www.davidalber.net/geneagrapher/&#34;&gt;Geneagrapher&lt;/a&gt; a neat tool to download genealogy data and save a .dot file, which can be read by &lt;a href=&#34;http://graphviz.org&#34;&gt;Graphviz&lt;/a&gt; and displayed as a directed graph.&lt;/p&gt;
 
-&lt;p&gt;Here&amp;rsquo;s a detail from my genealogy. (This image is a link to a pdf file of the &lt;a href=&#34;http://consequently.org/images/restall-genealogy.pdf&#34;&gt;entire thing&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a detail from my genealogy. (This image is a link to a pdf file of the &lt;a href=&#34;https://consequently.org/images/restall-genealogy.pdf&#34;&gt;entire thing&lt;/a&gt;.)&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;a href=&#34;http://consequently.org/images/restall-genealogy.pdf&#34;&gt;&lt;img src=&#34;http://consequently.org/images/genealogy-detail.jpg&#34; alt=&#34;Greg Restall&#39;s Academic Genealogy&#34; &gt;&lt;/a&gt;
+    &lt;a href=&#34;https://consequently.org/images/restall-genealogy.pdf&#34;&gt;&lt;img src=&#34;https://consequently.org/images/genealogy-detail.jpg&#34; alt=&#34;Greg Restall&#39;s Academic Genealogy&#34; &gt;&lt;/a&gt;
     &lt;figcaption&gt;Some of my genealogy&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The second new thing is that I found to my great surprise and delight that the database has been &lt;em&gt;significantly&lt;/em&gt; filled out since I last looked through it. My academic ancestry has been traced back to the 14th Century.&lt;/p&gt;
 
-&lt;p&gt;Looking at the &lt;a href=&#34;http://consequently.org/images/restall-genealogy.pdf&#34;&gt;graph&lt;/a&gt;, you can see that there is a recent branch point at my great&lt;sup&gt;3&lt;/sup&gt;-grandparent, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=17975&#34;&gt;Richard Rado&lt;/a&gt;, who had two supervisors, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=17806&#34;&gt;G. H. Hardy&lt;/a&gt;, who was educated in Cambridge, and &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=9179&#34;&gt;Issai Schur&lt;/a&gt;, from Berlin. The Berlin side of my &amp;lsquo;family&amp;rsquo; has a completely continental European background, while the Cambridge side is firmly English for generations, until you go back to the 17th Century, where you find that Isaac Newton&amp;rsquo;s grandparent &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=133302&#34;&gt;Vincenzo Viviani&lt;/a&gt; was educated at the University of Pisa (and one of his Doctoral advisors was &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=18231&#34;&gt;Galileo Galilei&lt;/a&gt;!)&lt;/p&gt;
+&lt;p&gt;Looking at the &lt;a href=&#34;https://consequently.org/images/restall-genealogy.pdf&#34;&gt;graph&lt;/a&gt;, you can see that there is a recent branch point at my great&lt;sup&gt;3&lt;/sup&gt;-grandparent, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=17975&#34;&gt;Richard Rado&lt;/a&gt;, who had two supervisors, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=17806&#34;&gt;G. H. Hardy&lt;/a&gt;, who was educated in Cambridge, and &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=9179&#34;&gt;Issai Schur&lt;/a&gt;, from Berlin. The Berlin side of my &amp;lsquo;family&amp;rsquo; has a completely continental European background, while the Cambridge side is firmly English for generations, until you go back to the 17th Century, where you find that Isaac Newton&amp;rsquo;s grandparent &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=133302&#34;&gt;Vincenzo Viviani&lt;/a&gt; was educated at the University of Pisa (and one of his Doctoral advisors was &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=18231&#34;&gt;Galileo Galilei&lt;/a&gt;!)&lt;/p&gt;
 
 &lt;p&gt;See if you can spot &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=125434&#34;&gt;Mersenne&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=18231&#34;&gt;Gauss&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=74313&#34;&gt;Newton&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=18231&#34;&gt;Galileo&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=7486&#34;&gt;Weierstrass&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=7824&#34;&gt;Cayley&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=4642&#34;&gt;Frobenius&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=125938&#34;&gt;Erasmus&lt;/a&gt;, &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=141571&#34;&gt;Cranmer&lt;/a&gt; and &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/id.php?id=131539&#34;&gt;Ficino&lt;/a&gt; among my ancestors. It&amp;rsquo;s dizzying to see so much of your academic ancestry laid out for inspection, and to see how ideas have been passed down from generation to generation.&lt;/p&gt;
 
@@ -1056,51 +1056,51 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Contingent Existence and Modal Definedness</title>
-<link>http://consequently.org/presentation/2015/cemd-anu/</link>
+<link>https://consequently.org/presentation/2015/cemd-anu/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/cemd-anu/</guid>
+<guid>https://consequently.org/presentation/2015/cemd-anu/</guid>
 <description>&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-preseminar-on-meaning-rules-and-defining-concepts.pdf&#34;&gt;Handout&lt;/a&gt; for the pre-seminar talk for graduate students, on &lt;em&gt;Meaning Rules and Defining Concepts&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-preseminar-on-meaning-rules-and-defining-concepts.pdf&#34;&gt;Handout&lt;/a&gt; for the pre-seminar talk for graduate students, on &lt;em&gt;Meaning Rules and Defining Concepts&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
     
 <item>
 <title>Classes in Semester One</title>
-<link>http://consequently.org/news/2015/semester-one-classes/</link>
+<link>https://consequently.org/news/2015/semester-one-classes/</link>
 <pubDate>Wed, 25 Feb 2015 23:55:17 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/semester-one-classes/</guid>
+<guid>https://consequently.org/news/2015/semester-one-classes/</guid>
 <description>&lt;figure&gt;
-    &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;img src=&#34;http://consequently.org/images/Power_and_Limits.jpg&#34; alt=&#34;The Power and Limits of Logic&#34; &gt;&lt;/a&gt;
+    &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;img src=&#34;https://consequently.org/images/Power_and_Limits.jpg&#34; alt=&#34;The Power and Limits of Logic&#34; &gt;&lt;/a&gt;
     &lt;figcaption&gt;The Power and Limits of Logic&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Teaching started for first semester, with the launch of &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera/&#34;&gt;Logic: Language and Information 1&lt;/a&gt; on Coursera. That&amp;rsquo;s been a lot of fun already, with over 17,000 enrolled. There&amp;rsquo;s something very exciting about being involved with a large number of students all around the world, choosing to work hard to learn logic for the first time.&lt;/p&gt;
+&lt;p&gt;Teaching started for first semester, with the launch of &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera/&#34;&gt;Logic: Language and Information 1&lt;/a&gt; on Coursera. That&amp;rsquo;s been a lot of fun already, with over 17,000 enrolled. There&amp;rsquo;s something very exciting about being involved with a large number of students all around the world, choosing to work hard to learn logic for the first time.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m most excited, though, by the next run-through of &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043&#34;&gt;Kurt G&amp;ouml;del&amp;rsquo;s Greatest Hits&lt;/a&gt;, starting next week. This time, I&amp;rsquo;m teaching the class entirely in a flipped mode, with students working through the &lt;a href=&#34;http://consequently.org/2015/PHIL30043&#34;&gt;lecture videos&lt;/a&gt; &lt;em&gt;before class&lt;/em&gt; each week, and working with me on a mix of simpler peer instruction questions to establish the basic understanding of core concepts,  and going on to more complex material and independent engagement with the material. We meet weekly in a two hour seminar (from 9 to 11am each Monday&amp;mdash;what a way to start the week!). With a group of between 25 and 30 students, this will be intense!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m most excited, though, by the next run-through of &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043&#34;&gt;Kurt G&amp;ouml;del&amp;rsquo;s Greatest Hits&lt;/a&gt;, starting next week. This time, I&amp;rsquo;m teaching the class entirely in a flipped mode, with students working through the &lt;a href=&#34;https://consequently.org/2015/PHIL30043&#34;&gt;lecture videos&lt;/a&gt; &lt;em&gt;before class&lt;/em&gt; each week, and working with me on a mix of simpler peer instruction questions to establish the basic understanding of core concepts,  and going on to more complex material and independent engagement with the material. We meet weekly in a two hour seminar (from 9 to 11am each Monday&amp;mdash;what a way to start the week!). With a group of between 25 and 30 students, this will be intense!&lt;/p&gt;
 
-&lt;p&gt;There&amp;rsquo;s a lot of ground to cover, from soundness and completeness Theorems, through compactness, cardinality L&amp;oslash;wenheim&amp;ndash;Skolem theorems, computability, to G&amp;ouml;del&amp;rsquo;s Theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;ll be quite a ride. This material &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; available through Coursera, but I have made the videos &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043&#34;&gt;available for your use&lt;/a&gt; if you wish. (I only ask that you acknowledge that you got them from here if you make them publicly available in any medium.)&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a lot of ground to cover, from soundness and completeness Theorems, through compactness, cardinality L&amp;oslash;wenheim&amp;ndash;Skolem theorems, computability, to G&amp;ouml;del&amp;rsquo;s Theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;ll be quite a ride. This material &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; available through Coursera, but I have made the videos &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043&#34;&gt;available for your use&lt;/a&gt; if you wish. (I only ask that you acknowledge that you got them from here if you make them publicly available in any medium.)&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Logic: Language and Information 1</title>
-<link>http://consequently.org/class/2015/logic1_coursera/</link>
+<link>https://consequently.org/class/2015/logic1_coursera/</link>
 <pubDate>Sat, 31 Jan 2015 00:00:00 AEDT</pubDate>
-<guid>http://consequently.org/class/2015/logic1_coursera/</guid>
+<guid>https://consequently.org/class/2015/logic1_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
 <item>
 <title>Ash Wednesday</title>
-<link>http://consequently.org/news/2015/ash-wednesday/</link>
+<link>https://consequently.org/news/2015/ash-wednesday/</link>
 <pubDate>Wed, 18 Feb 2015 11:59:50 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/ash-wednesday/</guid>
+<guid>https://consequently.org/news/2015/ash-wednesday/</guid>
 <description>&lt;p&gt;Rembember that you are dust, and to dust you shall return.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/zPrjSnlQ-h/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;Remember that you are dust (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-02-18T13:57:17+00:00&#34;&gt;Feb 18, 2015 at 5:57am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -1109,9 +1109,9 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     
 <item>
 <title>Do LNC and LEM suffice to define negation?</title>
-<link>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</link>
+<link>https://consequently.org/news/2015/lnc-and-lem-but-not-negation/</link>
 <pubDate>Tue, 17 Feb 2015 23:20:25 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
+<guid>https://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
 <description>&lt;p&gt;What &lt;em&gt;is&lt;/em&gt; negation?&lt;/p&gt;
 
 &lt;p&gt;One answer you find in the literature is that negation is the operator that makes each instance of the &lt;em&gt;Law of the Excluded Middle&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;) and the &lt;em&gt;Law of Non-Contradiction&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt;) turn out to be &lt;em&gt;true&lt;/em&gt;. That is, every sentence of the form
@@ -1143,13 +1143,13 @@ are themselves &lt;em&gt;logically true&lt;/em&gt; (I leave the verification of 
 
 &lt;p&gt;To make a similar point in the context of first-order predicate logic, choose \(x\) to be a variable at random, and read \(\mathord\sim A\) as \((\exists x)\neg A\), whether \(x\) is free in the formula \(A\) &lt;em&gt;or not&lt;/em&gt;. Notice that this very strange variable-binding &amp;ldquo;negation&amp;rdquo; still satisfies &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, since \(A\lor (\exists x)\neg A\) and \((\exists x)\neg (A\land (\exists x)\neg A)\) are tautologies, but \((\exists x)\neg\) is not &lt;em&gt;negation&lt;/em&gt;. This bizarre creature binds a variable. Negation, as we traditionally understand it, doesn&amp;rsquo;t.]&lt;/p&gt;
 
-&lt;p&gt;So, if &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in the traditional form don&amp;rsquo;t do enough by themselves to pin down negation, what can we say? Something I&amp;rsquo;ve argued &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/lnclem/&#34;&gt;elsewhere&lt;/a&gt;&lt;/em&gt; is that the right way to understand &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; is more like this:
+&lt;p&gt;So, if &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in the traditional form don&amp;rsquo;t do enough by themselves to pin down negation, what can we say? Something I&amp;rsquo;ve argued &lt;em&gt;&lt;a href=&#34;https://consequently.org/writing/lnclem/&#34;&gt;elsewhere&lt;/a&gt;&lt;/em&gt; is that the right way to understand &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; is more like this:
 \[
 \vdash p\lor \neg p
 \qquad
 p\land\neg p\vdash
 \]
-&lt;em&gt;This&lt;/em&gt; &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; (\(\vdash p\lor \neg p\)) tells us that \(p\lor\neg p\) is &lt;em&gt;undeniable&lt;/em&gt; (to &lt;em&gt;deny&lt;/em&gt; it is &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;), and this &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; (\(p\land\neg p\vdash\)) tells us that \(p\land\neg p\) is &lt;em&gt;unassertable&lt;/em&gt; (to &lt;em&gt;assert&lt;/em&gt; it is &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;). This pair of rules does a &lt;em&gt;much&lt;/em&gt; better job of pinning down the behaviour of negation.&lt;/p&gt;
+&lt;em&gt;This&lt;/em&gt; &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; (\(\vdash p\lor \neg p\)) tells us that \(p\lor\neg p\) is &lt;em&gt;undeniable&lt;/em&gt; (to &lt;em&gt;deny&lt;/em&gt; it is &lt;a href=&#34;https://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;), and this &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; (\(p\land\neg p\vdash\)) tells us that \(p\land\neg p\) is &lt;em&gt;unassertable&lt;/em&gt; (to &lt;em&gt;assert&lt;/em&gt; it is &lt;a href=&#34;https://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;). This pair of rules does a &lt;em&gt;much&lt;/em&gt; better job of pinning down the behaviour of negation.&lt;/p&gt;
 
 &lt;p&gt;Just how much better? Well, given a little more logic (the traditional sequent calculus rules for \(\land\) and \(\lor\), and the &lt;em&gt;Cut&lt;/em&gt; rule), then if \(\neg\) and \(\sim\) both satisfy &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in this form, then both negations are logically equivalent. Here&amp;rsquo;s a demonstration that \(\mathord\sim A\vdash\neg A\) (you can generalise this to a proof of equivalence, though the dual proof of \(\neg A\vdash\mathord\sim A\)). Since \(A\land\mathord\sim A\vdash\), by the usual behaviour of \(\land\), we have \(A,\mathord\sim A\vdash\). Since \(\vdash A\lor\neg A\), by the usual behaviour of \(\lor\), we have \(\vdash A,\neg A\). From \(\vdash A,\neg A\) and \(A,\mathord\sim A\vdash\), by the &lt;em&gt;Cut&lt;/em&gt; rule (cutting on \(A\)) we have \(\mathord\sim A\vdash\neg A\).&lt;/p&gt;
 
@@ -1161,10 +1161,10 @@ p\land\neg p\vdash
     
 <item>
 <title>Adding Site Search</title>
-<link>http://consequently.org/news/2015/adding-site-search/</link>
+<link>https://consequently.org/news/2015/adding-site-search/</link>
 <pubDate>Fri, 13 Feb 2015 11:19:07 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/adding-site-search/</guid>
-<description>&lt;p&gt;I&amp;rsquo;ve added a search feature to the site in the &lt;a href=&#34;#footer&#34;&gt;footer&lt;/a&gt; of each page. There seems to be &lt;a href=&#34;http://consequently.org/news&#34;&gt;enough on the site&lt;/a&gt; that search is genuinely useful.&lt;/p&gt;
+<guid>https://consequently.org/news/2015/adding-site-search/</guid>
+<description>&lt;p&gt;I&amp;rsquo;ve added a search feature to the site in the &lt;a href=&#34;#footer&#34;&gt;footer&lt;/a&gt; of each page. There seems to be &lt;a href=&#34;https://consequently.org/news&#34;&gt;enough on the site&lt;/a&gt; that search is genuinely useful.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve used &lt;a href=&#34;http://duckduckgo.com&#34;&gt;DuckDuckGo&lt;/a&gt;, which has a comprehensive index of this place, and which &lt;a href=&#34;https://duckduckgo.com/params&#34;&gt;can be styled&lt;/a&gt; to match the visual treatment of the rest of the site. Please &lt;a href=&#34;#contact&#34;&gt;let me know&lt;/a&gt; if there are any problems with the implementation.&lt;/p&gt;
 </description>
@@ -1172,15 +1172,15 @@ p\land\neg p\vdash
     
 <item>
 <title>Another Blast From the Past</title>
-<link>http://consequently.org/news/2015/another-blast-from-the-past/</link>
+<link>https://consequently.org/news/2015/another-blast-from-the-past/</link>
 <pubDate>Sun, 08 Feb 2015 15:02:19 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/another-blast-from-the-past/</guid>
+<guid>https://consequently.org/news/2015/another-blast-from-the-past/</guid>
 <description>&lt;figure&gt;
-    &lt;a href=&#34;http://pluralism.pitas.com/&#34;&gt;&lt;img src=&#34;http://consequently.org/images/LPWL@pitas.jpg&#34; alt=&#34;Logical Pluralism | Work Log&#34; &gt;&lt;/a&gt;
+    &lt;a href=&#34;http://pluralism.pitas.com/&#34;&gt;&lt;img src=&#34;https://consequently.org/images/LPWL@pitas.jpg&#34; alt=&#34;Logical Pluralism | Work Log&#34; &gt;&lt;/a&gt;
     &lt;figcaption&gt;A blast from the past&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;While &lt;a href=&#34;http://consequently.org/news/2015/recovering-the-past/&#34;&gt;recovering the archives for this site&lt;/a&gt;, I came across another blast from the past: the &lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;weblog I ran&lt;/a&gt; with &lt;a href=&#34;http://entailments.net&#34;&gt;Jc&lt;/a&gt; during the early days of our research on logical pluralism.&lt;/p&gt;
+&lt;p&gt;While &lt;a href=&#34;https://consequently.org/news/2015/recovering-the-past/&#34;&gt;recovering the archives for this site&lt;/a&gt;, I came across another blast from the past: the &lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;weblog I ran&lt;/a&gt; with &lt;a href=&#34;http://entailments.net&#34;&gt;Jc&lt;/a&gt; during the early days of our research on logical pluralism.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;It&amp;rsquo;s a weblog&lt;/a&gt; that we ran from to October 1999 to September 2001, with things we found related to logical pluralism, notes from our research, and details of talks and various other bits and pieces along the way. If you&amp;rsquo;re interested in the nuances of logical pluralism, there&amp;rsquo;s lots of material there, some of which didn&amp;rsquo;t make it into &lt;a href=&#34;http://consequently.org/writing/pluralism/&#34;&gt;our book&lt;/a&gt;.&lt;/p&gt;
 
@@ -1192,9 +1192,9 @@ p\land\neg p\vdash
     
 <item>
 <title>Recovering the Past</title>
-<link>http://consequently.org/news/2015/recovering-the-past/</link>
+<link>https://consequently.org/news/2015/recovering-the-past/</link>
 <pubDate>Sat, 07 Feb 2015 07:20:10 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/recovering-the-past/</guid>
+<guid>https://consequently.org/news/2015/recovering-the-past/</guid>
 <description>&lt;p&gt;If you glance at the &lt;a href=&#34;http://consequently.org/news&#34;&gt;news archive&lt;/a&gt;, you&amp;rsquo;ll see that once again it stretches back to the dim past of weblog days, &lt;a href=&#34;http://consequently.org/news/#2000&#34;&gt;the year 2000&lt;/a&gt;. Thanks to the &lt;a href=&#34;https://web.archive.org/web/20000815223330/http://www.phil.mq.edu.au/staff/grestall/log/&#34;&gt;wayback machine&lt;/a&gt;, I was able to recover entries from my old blog (powered by &lt;a href=&#34;http://blogger.com&#34;&gt;Blogger&lt;/a&gt;, from well before it was acquired by Google), and fulfil a commitment I made in March 2001 to &lt;a href=&#34;http://consequently.org/news/2001/2001_03_01_archive/&#34;&gt;move the old archives over to consequently.org&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Well, the old news archives were &lt;a href=&#34;https://web.archive.org/web/20030630084127/http://consequently.org/news/archives.html&#34;&gt;linked&lt;/a&gt; for a little while here at &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt;, but once those entries disappeared from the server at Macquarie University, I dropped the links from the server. Now that I&amp;rsquo;ve recovered the articles, they&amp;rsquo;re back in the &lt;a href=&#34;http://consequently.org/news/#2000&#34;&gt;news archive&lt;/a&gt;.&lt;/p&gt;
