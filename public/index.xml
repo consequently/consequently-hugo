@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 06 Apr 2016 09:23:32 AEST</updated>
+    <updated>Wed, 20 Apr 2016 11:18:11 AEST</updated>
 
 
 <item>
@@ -142,6 +142,56 @@
 &lt;li&gt;&lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;NASSLLI 2016&lt;/a&gt;, Rutgers, July 2016.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline (subject to change).&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+<link>https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</link>
+<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/aal-2016/&#34;&gt;2016 Australasian Association for Logic Conference&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Proofs and what they&#39;re good for</title>
+<link>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</link>
+<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://usydseminars.blogspot.com.au&#34;&gt;University of Sydney Philosophy Seminar&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+<link>https://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</link>
+<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;http://flov.gu.se/english/research/seminars/logic/&#34;&gt;University of Gothenburg Logic Seminar&lt;/a&gt;, via Skype.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+<link>https://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</link>
+<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
 </description>
 </item>
     
@@ -1106,106 +1156,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 <description>&lt;p&gt;Rembember that you are dust, and to dust you shall return.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/zPrjSnlQ-h/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;Remember that you are dust (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-02-18T13:57:17+00:00&#34;&gt;Feb 18, 2015 at 5:57am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Do LNC and LEM suffice to define negation?</title>
-<link>https://consequently.org/news/2015/lnc-and-lem-but-not-negation/</link>
-<pubDate>Tue, 17 Feb 2015 23:20:25 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
-<description>&lt;p&gt;What &lt;em&gt;is&lt;/em&gt; negation?&lt;/p&gt;
-
-&lt;p&gt;One answer you find in the literature is that negation is the operator that makes each instance of the &lt;em&gt;Law of the Excluded Middle&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;) and the &lt;em&gt;Law of Non-Contradiction&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt;) turn out to be &lt;em&gt;true&lt;/em&gt;. That is, every sentence of the form
-\[
-p\lor \neg p
-\qquad
-\neg(p\land\neg p)
-\]
-is true, no matter what sentence we use in the place of \(p\) (where \(\neg\) stands for negation, \(\lor\) for disjunction, and \(\land\) for conjunction).&lt;/p&gt;
-
-&lt;p&gt;This is the &lt;em&gt;wrong&lt;/em&gt; way to try to define negation. If you read on, I&amp;rsquo;ll explain why.&lt;/p&gt;
-
-&lt;p&gt;Before I explain why, though, I should explain that taking &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; as defining negation isn&amp;rsquo;t an idiosyncratic view. If you read &lt;a href=&#34;http://ling.yale.edu/people/laurence-r-horn&#34;&gt;Laurence Horn&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://plato.stanford.edu/entries/contradiction&#34;&gt;entry on Contradiction in the &lt;em&gt;Stanford Encyclopedia of Philosophy&lt;/em&gt;&lt;/a&gt; (and I recommend you do read it, it&amp;rsquo;s a great discussion!), you&amp;rsquo;ll see that he characterises negation in this way. &lt;a href=&#34;http://grahampriest.net/&#34;&gt;Graham Priest&lt;/a&gt;&amp;rsquo;s chapter &amp;ldquo;&lt;a href=&#34;http://grahampriest.net/?ddownload=773&#34;&gt;Why Not? A Defence of a Dialethic Theory of Negation&lt;/a&gt;&amp;rdquo; takes this form of &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; to be central to defining what it is for one thing to be contradictory to another&amp;mdash;in terms of which Graham characterises negation.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s why it&amp;rsquo;s wrong to think that this form of &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; defines negation: It&amp;rsquo;s easy to see (once you check) that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; don&amp;rsquo;t define &lt;em&gt;anything&lt;/em&gt;. Altogether too many putative one-place connectives satisfy both &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;. Let&amp;rsquo;s suppose that \(\mathord\sim A\) is just always interpreted as &lt;em&gt;true&lt;/em&gt;, whatever \(A\) happens to be. Then it turns out (if disjunction is interpreted in the usual way) that \(p\lor\mathord\sim p\) is true (since its second disjunct is true) and so is \(\mathord\sim(p\land\mathord\sim p)\) since it has the form \(\mathord\sim A\). So, given this deviant &amp;ldquo;negations are always true&amp;rdquo; interpretation, &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; are always satisfied&amp;mdash;by \(\sim\), which isn&amp;rsquo;t negation.&lt;/p&gt;
-
-&lt;p&gt;This isn&amp;rsquo;t the only way one could interpret a sentential operator so as to satisfy &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;. For an even more deviant reading, let&amp;rsquo;s interpret \(\mathord\sim A\) as \(\neg A\lor q\) for any \(A\) and for some sentence \(q\). Then &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; for \(\sim\)-negation,
-that is,
-\[
-p\lor (\neg p\lor q)
-\qquad
-\neg(p\land(\neg p \lor q))\lor q
-\]
-are themselves &lt;em&gt;logically true&lt;/em&gt; (I leave the verification of this is an exercise for you). But \(\mathord\sim A\)&amp;mdash;that is, \(\neg A\lor q\)&amp;mdash;really isn&amp;rsquo;t the negation of \(A\). (If we choose \(q\) to be a &lt;em&gt;tautology&lt;/em&gt; then \(\mathord\sim A\) is simply equivalent to \(\top\) which is the interpretation we saw before.)&lt;/p&gt;
-
-&lt;p&gt;In other words, if all we have to go on for interpreting &amp;ldquo;\(\sim\)&amp;rdquo; is that it satisfies  &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, then there many different ways it can be interpreted, including taking it to be highly contingent, where the semantic value of \(\mathord\sim A\) depends on more than just the semantic value of \(A\).&lt;/p&gt;
-
-&lt;p&gt;[&lt;span class=&#34;caps&#34;&gt;EXCURSUS&lt;/span&gt;: If you&amp;rsquo;re prepared to go further afield, notice that in reflexive classical modal logics, we have both \(p\lor\Diamond\neg p\) and \(\Diamond\neg(p\land\Diamond\neg p)\) so satisfying &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; isn&amp;rsquo;t enough to tell us that we don&amp;rsquo;t mean &amp;ldquo;possibly not&amp;rdquo; by your so-called &amp;ldquo;negation&amp;rdquo;. And instead of \(\Diamond\neg\) you could use \(\Diamond\Diamond\neg\) or \(\Diamond\Diamond\Diamond\neg\)&amp;hellip; etc.&lt;/p&gt;
-
-&lt;p&gt;To make a similar point in the context of first-order predicate logic, choose \(x\) to be a variable at random, and read \(\mathord\sim A\) as \((\exists x)\neg A\), whether \(x\) is free in the formula \(A\) &lt;em&gt;or not&lt;/em&gt;. Notice that this very strange variable-binding &amp;ldquo;negation&amp;rdquo; still satisfies &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt;, since \(A\lor (\exists x)\neg A\) and \((\exists x)\neg (A\land (\exists x)\neg A)\) are tautologies, but \((\exists x)\neg\) is not &lt;em&gt;negation&lt;/em&gt;. This bizarre creature binds a variable. Negation, as we traditionally understand it, doesn&amp;rsquo;t.]&lt;/p&gt;
-
-&lt;p&gt;So, if &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in the traditional form don&amp;rsquo;t do enough by themselves to pin down negation, what can we say? Something I&amp;rsquo;ve argued &lt;em&gt;&lt;a href=&#34;https://consequently.org/writing/lnclem/&#34;&gt;elsewhere&lt;/a&gt;&lt;/em&gt; is that the right way to understand &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; is more like this:
-\[
-\vdash p\lor \neg p
-\qquad
-p\land\neg p\vdash
-\]
-&lt;em&gt;This&lt;/em&gt; &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; (\(\vdash p\lor \neg p\)) tells us that \(p\lor\neg p\) is &lt;em&gt;undeniable&lt;/em&gt; (to &lt;em&gt;deny&lt;/em&gt; it is &lt;a href=&#34;https://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;), and this &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; (\(p\land\neg p\vdash\)) tells us that \(p\land\neg p\) is &lt;em&gt;unassertable&lt;/em&gt; (to &lt;em&gt;assert&lt;/em&gt; it is &lt;a href=&#34;https://consequently.org/writing/multipleconclusions&#34;&gt;out of bounds&lt;/a&gt;). This pair of rules does a &lt;em&gt;much&lt;/em&gt; better job of pinning down the behaviour of negation.&lt;/p&gt;
-
-&lt;p&gt;Just how much better? Well, given a little more logic (the traditional sequent calculus rules for \(\land\) and \(\lor\), and the &lt;em&gt;Cut&lt;/em&gt; rule), then if \(\neg\) and \(\sim\) both satisfy &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; in this form, then both negations are logically equivalent. Here&amp;rsquo;s a demonstration that \(\mathord\sim A\vdash\neg A\) (you can generalise this to a proof of equivalence, though the dual proof of \(\neg A\vdash\mathord\sim A\)). Since \(A\land\mathord\sim A\vdash\), by the usual behaviour of \(\land\), we have \(A,\mathord\sim A\vdash\). Since \(\vdash A\lor\neg A\), by the usual behaviour of \(\lor\), we have \(\vdash A,\neg A\). From \(\vdash A,\neg A\) and \(A,\mathord\sim A\vdash\), by the &lt;em&gt;Cut&lt;/em&gt; rule (cutting on \(A\)) we have \(\mathord\sim A\vdash\neg A\).&lt;/p&gt;
-
-&lt;p&gt;So, if you are tempted by the idea that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; together &lt;em&gt;define&lt;/em&gt; negation, you should be careful to specify &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; as a &lt;em&gt;denial&lt;/em&gt; or &lt;em&gt;rejection&lt;/em&gt; rule (\(p\land\neg p\vdash\), which says that \(p\land\neg p\) is to be denied, or to be rejected), rather than \(\neg(p\land \neg p)\) which isn&amp;rsquo;t strong enough to say what you want it to say&amp;mdash;the &lt;em&gt;two&lt;/em&gt; instances of negation gives you altogether too much wiggle room.&lt;/p&gt;
-
-&lt;p&gt;None of this is an argument that &lt;span class=&#34;caps&#34;&gt;LNC&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;LEM&lt;/span&gt; actually &lt;em&gt;hold&lt;/em&gt;. For that, you&amp;rsquo;ll need to look elsewhere.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Adding Site Search</title>
-<link>https://consequently.org/news/2015/adding-site-search/</link>
-<pubDate>Fri, 13 Feb 2015 11:19:07 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/adding-site-search/</guid>
-<description>&lt;p&gt;I&amp;rsquo;ve added a search feature to the site in the &lt;a href=&#34;#footer&#34;&gt;footer&lt;/a&gt; of each page. There seems to be &lt;a href=&#34;https://consequently.org/news&#34;&gt;enough on the site&lt;/a&gt; that search is genuinely useful.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve used &lt;a href=&#34;http://duckduckgo.com&#34;&gt;DuckDuckGo&lt;/a&gt;, which has a comprehensive index of this place, and which &lt;a href=&#34;https://duckduckgo.com/params&#34;&gt;can be styled&lt;/a&gt; to match the visual treatment of the rest of the site. Please &lt;a href=&#34;#contact&#34;&gt;let me know&lt;/a&gt; if there are any problems with the implementation.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Another Blast From the Past</title>
-<link>https://consequently.org/news/2015/another-blast-from-the-past/</link>
-<pubDate>Sun, 08 Feb 2015 15:02:19 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/another-blast-from-the-past/</guid>
-<description>&lt;figure&gt;
-    &lt;a href=&#34;http://pluralism.pitas.com/&#34;&gt;&lt;img src=&#34;https://consequently.org/images/LPWL@pitas.jpg&#34; alt=&#34;Logical Pluralism | Work Log&#34; &gt;&lt;/a&gt;
-    &lt;figcaption&gt;A blast from the past&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;While &lt;a href=&#34;https://consequently.org/news/2015/recovering-the-past/&#34;&gt;recovering the archives for this site&lt;/a&gt;, I came across another blast from the past: the &lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;weblog I ran&lt;/a&gt; with &lt;a href=&#34;http://entailments.net&#34;&gt;Jc&lt;/a&gt; during the early days of our research on logical pluralism.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;It&amp;rsquo;s a weblog&lt;/a&gt; that we ran from to October 1999 to September 2001, with things we found related to logical pluralism, notes from our research, and details of talks and various other bits and pieces along the way. If you&amp;rsquo;re interested in the nuances of logical pluralism, there&amp;rsquo;s lots of material there, some of which didn&amp;rsquo;t make it into &lt;a href=&#34;http://consequently.org/writing/pluralism/&#34;&gt;our book&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s worth noting that in an age where many other free online services shut up shop and disappeared, the platform &amp;ldquo;pitas&amp;rdquo; is still faithfully serving up those pages. It launched in 1999, along with &lt;a href=&#34;http://diaryland.com&#34;&gt;Diaryland&lt;/a&gt;, which is still going strong after all of these years. (Read &lt;a href=&#34;https://medium.com/@maryps/a-conversation-with-andrew-smales-founder-of-diaryland-15e3d1ffc7dc&#34;&gt;the story of Andrew Smales, the founder, here&lt;/a&gt; for the backstory.)&lt;/p&gt;
-
-&lt;p&gt;It might also be worth noting that back in the late 1990s and early 2000s, I also favoured a simple &amp;ldquo;black and white with red highlights&amp;rdquo; colour scheme.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Recovering the Past</title>
-<link>https://consequently.org/news/2015/recovering-the-past/</link>
-<pubDate>Sat, 07 Feb 2015 07:20:10 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/recovering-the-past/</guid>
-<description>&lt;p&gt;If you glance at the &lt;a href=&#34;http://consequently.org/news&#34;&gt;news archive&lt;/a&gt;, you&amp;rsquo;ll see that once again it stretches back to the dim past of weblog days, &lt;a href=&#34;http://consequently.org/news/#2000&#34;&gt;the year 2000&lt;/a&gt;. Thanks to the &lt;a href=&#34;https://web.archive.org/web/20000815223330/http://www.phil.mq.edu.au/staff/grestall/log/&#34;&gt;wayback machine&lt;/a&gt;, I was able to recover entries from my old blog (powered by &lt;a href=&#34;http://blogger.com&#34;&gt;Blogger&lt;/a&gt;, from well before it was acquired by Google), and fulfil a commitment I made in March 2001 to &lt;a href=&#34;http://consequently.org/news/2001/2001_03_01_archive/&#34;&gt;move the old archives over to consequently.org&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Well, the old news archives were &lt;a href=&#34;https://web.archive.org/web/20030630084127/http://consequently.org/news/archives.html&#34;&gt;linked&lt;/a&gt; for a little while here at &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt;, but once those entries disappeared from the server at Macquarie University, I dropped the links from the server. Now that I&amp;rsquo;ve recovered the articles, they&amp;rsquo;re back in the &lt;a href=&#34;http://consequently.org/news/#2000&#34;&gt;news archive&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The entries from &lt;a href=&#34;http://consequently.org/news/2002/2002_03&#34;&gt;March 2002&lt;/a&gt; and earlier had no titles. This was an artefact of how Blogger was set up in the early years, before we used RSS feeds with titles to distribute blog entries. So, importing them into an archive where entries all &lt;em&gt;must&lt;/em&gt; have titles forced a choice. I took the easy way out, and decided that a &lt;a href=&#34;http://consequently.org/news/2000/2000_03_01_archive&#34;&gt;month&amp;rsquo;s worth of entries&lt;/a&gt; was an &amp;lsquo;entry&amp;rsquo; in the new regime, with the title &amp;lsquo;News from &lt;em&gt;Month X&lt;/em&gt;.&amp;rsquo; They&amp;rsquo;re all there.&lt;/p&gt;
-
-&lt;p&gt;Now you can browse through my early days of online writing, where the entries skip between &lt;a href=&#34;http://consequently.org/news/2001/2001_06/#12&#34;&gt;short observations&lt;/a&gt; that now belong on twitter (&lt;a href=&#34;https://twitter.com/speedysnail&#34;&gt;hi Rory!&lt;/a&gt;) to &lt;a href=&#34;http://consequently.org/news/2001/2001_06/#13&#34;&gt;personal tales of life as a young father&lt;/a&gt; in short order, and the archive is relatively complete.&lt;/p&gt;
-
-&lt;p&gt;So, I thank the hardworking people at &lt;a href=&#34;http://archive.org&#34;&gt;archive.org&lt;/a&gt; who archive and index the history of the web. It&amp;rsquo;s been a pleasure (with its mixture of delight and embarrassment) to recover this history.&lt;/p&gt;
 </description>
 </item>
     

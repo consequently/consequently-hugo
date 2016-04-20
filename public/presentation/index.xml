@@ -26,7 +26,65 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 26 Jan 2016 13:38:19 AEDT</updated>
+    <updated>Fri, 01 Jul 2016 16:45:00 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 16:45:00 &#43;1100</pubDate>
+      
+      <guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/aal-2016/&#34;&gt;2016 Australasian Association for Logic Conference&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofs and what they&#39;re good for</title>
+      <link>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</link>
+      <pubDate>Wed, 18 May 2016 13:00:00 &#43;1100</pubDate>
+      
+      <guid>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://usydseminars.blogspot.com.au&#34;&gt;University of Sydney Philosophy Seminar&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>https://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</link>
+      <pubDate>Tue, 10 May 2016 19:00:00 &#43;1100</pubDate>
+      
+      <guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;http://flov.gu.se/english/research/seminars/logic/&#34;&gt;University of Gothenburg Logic Seminar&lt;/a&gt;, via Skype.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>https://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</link>
+      <pubDate>Fri, 06 May 2016 11:00:00 &#43;1100</pubDate>
+      
+      <guid>https://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
