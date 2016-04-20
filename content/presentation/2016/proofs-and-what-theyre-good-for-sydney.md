@@ -1,6 +1,6 @@
 +++
 date = "2016-05-18T13:00:00+11:00"
-title = "Proofs and what they're good for"
+title = "Proofs and what they’re good for"
 host = "University of Sydney Philosophy Seminar"
 publishdate = "2016-04-20"
 

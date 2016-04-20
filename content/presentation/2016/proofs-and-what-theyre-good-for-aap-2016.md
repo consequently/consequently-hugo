@@ -1,6 +1,6 @@
 +++
 date = "2016-07-03T13:00:00+11:00"
-title = "Proofs and what they're good for"
+title = "Proofs and what they’re good for"
 host = "Australasian Assocation for Philosophy Conference"
 publishdate = "2016-04-20"
 draft = true
