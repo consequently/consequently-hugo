@@ -26,7 +26,18 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 08 Mar 2016 00:00:00 UTC</updated>
+    <updated>Mon, 02 May 2016 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Fixed Point Models for Theories of Properties and Classes</title>
+      <link>https://consequently.org/writing/fixed-point-models/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 UTC</pubDate>
+      
+      <guid>https://consequently.org/writing/fixed-point-models/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>

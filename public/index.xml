@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 20 Apr 2016 11:25:28 AEST</updated>
+    <updated>Mon, 02 May 2016 23:27:33 AEST</updated>
 
 
 <item>
@@ -192,6 +192,15 @@
 &lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
 
 &lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Fixed Point Models for Theories of Properties and Classes</title>
+<link>https://consequently.org/writing/fixed-point-models/</link>
+<pubDate>Mon, 02 May 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/writing/fixed-point-models/</guid>
+<description>&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
 </description>
 </item>
     
@@ -1145,17 +1154,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 <pubDate>Sat, 31 Jan 2015 00:00:00 AEDT</pubDate>
 <guid>https://consequently.org/class/2015/logic1_coursera/</guid>
 <description>&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Ash Wednesday</title>
-<link>https://consequently.org/news/2015/ash-wednesday/</link>
-<pubDate>Wed, 18 Feb 2015 11:59:50 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/ash-wednesday/</guid>
-<description>&lt;p&gt;Rembember that you are dust, and to dust you shall return.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/zPrjSnlQ-h/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;Remember that you are dust (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-02-18T13:57:17+00:00&#34;&gt;Feb 18, 2015 at 5:57am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
 </item>
     
