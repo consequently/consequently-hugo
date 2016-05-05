@@ -12,3 +12,6 @@ Abstract: A proof for a sequent \\(\Sigma\vdash\Delta\\) shows you how to get fr
 
 In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.
 
+If you'd like to attend, details are [on the PhilEvents entry for the talk](http://philevents.org/event/show/22702).
+
+
