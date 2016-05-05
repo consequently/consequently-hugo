@@ -14,4 +14,4 @@ In this paper, I give a new account of a kind of invariant for derivations in th
 
 If you'd like to attend, details are [on the PhilEvents entry for the talk](http://philevents.org/event/show/22702).
 
-
+* The [slides are available here](http://consequently.org/slides/proof-terms-logicmelb-2016.pdf).

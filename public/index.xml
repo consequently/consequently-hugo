@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 05 May 2016 20:48:17 AEST</updated>
+    <updated>Thu, 05 May 2016 23:53:24 AEST</updated>
 
 
 <item>
@@ -194,6 +194,10 @@
 &lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;d like to attend, details are &lt;a href=&#34;http://philevents.org/event/show/22702&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-logicmelb-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
