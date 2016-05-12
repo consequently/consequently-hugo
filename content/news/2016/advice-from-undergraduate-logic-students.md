@@ -13,7 +13,7 @@ I've been *so* impressed with the answers students sent me. They're thoughtful, 
 
 ---
 
-Here is advice from two students from my subject [<span class="caps">phil20030</span>: *Meaning, Possibility and Paradox*](https://consequently.org/class/2016/PHIL20030/). This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It's taught using video lectures (a small number to watch each week), a two hour seminar each week, and students are broken up int teams to work on weekly tasks to prepare for each seminar. 
+Here is advice from two students from my subject [<span class="caps">phil20030</span>: *Meaning, Possibility and Paradox*](https://consequently.org/class/2016/PHIL20030/). This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It's taught using [video lectures](https://vimeo.com/album/2470375) (a small number to watch each week), a two hour seminar each week, and students are broken up int teams to work on weekly tasks to prepare for each seminar. 
 
 #### Advice from *Student 1*
 
@@ -46,7 +46,7 @@ I hope your new students have as much fun as I did!
 ---
 
 
-And here is advice from three third year students, from [<span class="caps">phil30043</span>: *The Power and Limits of Logic*](https://consequently.org/class/2015/PHIL30043/). This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&ouml;del's incompleteness theorems and L&ouml;b's Theorem. It's taught using video lectures (a small number to watch each week), a two hour seminar each week, and students are broken up int teams to work on weekly tasks to prepare for each seminar. 
+And here is advice from three third year students, from [<span class="caps">phil30043</span>: *The Power and Limits of Logic*](https://consequently.org/class/2015/PHIL30043/). This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&ouml;del's incompleteness theorems and L&ouml;b's Theorem. It's taught using [video lectures](https://vimeo.com/album/2262409) (a small number to watch each week), a two hour seminar each week, and students are broken up int teams to work on weekly tasks to prepare for each seminar. 
 
 #### Advice from *Student 3*
 
