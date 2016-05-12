@@ -9,7 +9,7 @@ largeimage = false
 
 Prompted by a colleague and friend (thanks [Ruth](https://unimelb.academia.edu/RuthBoeker)!), I've been asking students who took my [upper level](https://consequently.org/class/2015/PHIL20030/) [logic subjects](https://consequently.org/class/2015/PHIL30043/) last year what they learned about *how to learn* logic in the process of taking subjects with me. This helpful for me, to get a better understanding of their own practice as logic students, and it's hopefully helpful for them, to reflect more explicitly on how they learn. But most of all, I hope that their reflections will be helpful for students who take these subjects with me [in the future](https://consequently.org/class/).  After all, advice from your *peers* is a fresh and direct in ways that advice from someone whose first encounter with the material was nearly 30 years ago may not be.
 
-I've been *so* impressed with the answers students sent me. They're thoughtful, and insightful, and I'm sure they'll be useful for my students this year. I thought I'd share them moer broadly, in case it helps you to learn logic, or to teach it to others.
+I've been *so* impressed with the answers students sent me. They're thoughtful, and insightful, and I'm sure they'll be useful for my students this year. I thought I'd share them, in case it helps you to learn logic, or to teach it to others.
 
 ---
 
