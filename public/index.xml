@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 13 May 2016 09:03:35 AEST</updated>
+    <updated>Mon, 16 May 2016 11:11:59 AEST</updated>
 
 
 <item>
@@ -166,6 +166,15 @@
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://usydseminars.blogspot.com.au&#34;&gt;University of Sydney Philosophy Seminar&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
 
 &lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Review of Thomas Piecha and Peter Schroeder-Heister (editors), Advances in Proof-Theoretic Semantics</title>
+<link>https://consequently.org/writing/advances-in-pts-review/</link>
+<pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/writing/advances-in-pts-review/</guid>
+<description>&lt;p&gt;What could you mean by the term &amp;ldquo;proof-theoretic semantics&amp;rdquo; (PTS)? At first glance, it could mean either the semantics &lt;em&gt;of&lt;/em&gt; proof theory, or perhaps it&amp;rsquo;s more likely to mean semantics conducted &lt;em&gt;using the tools of proof theory&lt;/em&gt;. And &lt;em&gt;that&lt;/em&gt;&amp;rsquo;s the enterprise that the fifteen authors intend to advance in the sixteen papers in this edited collection&amp;hellip;&lt;/p&gt;
 </description>
 </item>
     
@@ -1221,24 +1230,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Classes in Semester One</title>
-<link>https://consequently.org/news/2015/semester-one-classes/</link>
-<pubDate>Wed, 25 Feb 2015 23:55:17 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/semester-one-classes/</guid>
-<description>&lt;figure&gt;
-    &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;img src=&#34;https://consequently.org/images/Power_and_Limits.jpg&#34; alt=&#34;The Power and Limits of Logic&#34; &gt;&lt;/a&gt;
-    &lt;figcaption&gt;The Power and Limits of Logic&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Teaching started for first semester, with the launch of &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera/&#34;&gt;Logic: Language and Information 1&lt;/a&gt; on Coursera. That&amp;rsquo;s been a lot of fun already, with over 17,000 enrolled. There&amp;rsquo;s something very exciting about being involved with a large number of students all around the world, choosing to work hard to learn logic for the first time.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m most excited, though, by the next run-through of &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043&#34;&gt;Kurt G&amp;ouml;del&amp;rsquo;s Greatest Hits&lt;/a&gt;, starting next week. This time, I&amp;rsquo;m teaching the class entirely in a flipped mode, with students working through the &lt;a href=&#34;https://consequently.org/2015/PHIL30043&#34;&gt;lecture videos&lt;/a&gt; &lt;em&gt;before class&lt;/em&gt; each week, and working with me on a mix of simpler peer instruction questions to establish the basic understanding of core concepts,  and going on to more complex material and independent engagement with the material. We meet weekly in a two hour seminar (from 9 to 11am each Monday&amp;mdash;what a way to start the week!). With a group of between 25 and 30 students, this will be intense!&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s a lot of ground to cover, from soundness and completeness Theorems, through compactness, cardinality L&amp;oslash;wenheim&amp;ndash;Skolem theorems, computability, to G&amp;ouml;del&amp;rsquo;s Theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;ll be quite a ride. This material &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; available through Coursera, but I have made the videos &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043&#34;&gt;available for your use&lt;/a&gt; if you wish. (I only ask that you acknowledge that you got them from here if you make them publicly available in any medium.)&lt;/p&gt;
 </description>
 </item>
     
