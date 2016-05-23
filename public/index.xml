@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 20 May 2016 09:19:18 AEST</updated>
+    <updated>Mon, 23 May 2016 21:01:16 AEST</updated>
 
 
 <item>
@@ -155,6 +155,21 @@
 &lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
 
 &lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Proofs and what they’re good for</title>
+<link>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-ACU/</link>
+<pubDate>Mon, 23 May 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-ACU/</guid>
+<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars/professor_greg_restall_-_27_may&#34;&gt;Australian Catholic University Philosophy Seminar&lt;/a&gt; on May 27, 2016.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-ACU.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-ACU.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 </item>
     
@@ -1219,21 +1234,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;Another striking thing about this genealogy? There are &lt;em&gt;no women there&lt;/em&gt;. None at all. (Not even among my own graduate students, each of whom I&amp;rsquo;m very proud indeed.) May this change, and change very soon.&lt;/p&gt;
 
 &lt;p&gt;Thanks, Richard, for &lt;a href=&#34;http://ucalgary.ca/rzach/blog/2015/02/academic-genealogy-graphed.html&#34;&gt;the prompt&lt;/a&gt;. This has been a delight to explore.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Contingent Existence and Modal Definedness</title>
-<link>https://consequently.org/presentation/2015/cemd-anu/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>https://consequently.org/presentation/2015/cemd-anu/</guid>
-<description>&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-preseminar-on-meaning-rules-and-defining-concepts.pdf&#34;&gt;Handout&lt;/a&gt; for the pre-seminar talk for graduate students, on &lt;em&gt;Meaning Rules and Defining Concepts&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
 </item>
     
