@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 06 Jun 2016 17:46:58 AEST</updated>
+    <updated>Thu, 09 Jun 2016 14:17:19 AEST</updated>
 
 
 <item>
@@ -45,11 +45,11 @@
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;outline:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Outline&lt;/h3&gt;
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
 
 &lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
 
-&lt;h4 id=&#34;prelude:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Prelude&lt;/h4&gt;
+&lt;h4 id=&#34;prelude&#34;&gt;Prelude&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59401942&#34;&gt;Logical Equivalence&lt;/a&gt;&lt;/li&gt;
@@ -60,7 +60,7 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59880539&#34;&gt;Trees for Predicate Logic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;completeness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Completeness&lt;/h4&gt;
+&lt;h4 id=&#34;completeness&#34;&gt;Completeness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59883806&#34;&gt;Introducing Soundness and Completeness&lt;/a&gt;&lt;/li&gt;
@@ -73,7 +73,7 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103757399&#34;&gt;Soundness and Completeness for Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;compactness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Compactness&lt;/h4&gt;
+&lt;h4 id=&#34;compactness&#34;&gt;Compactness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454250&#34;&gt;Counting Sets&lt;/a&gt;&lt;/li&gt;
@@ -84,7 +84,7 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462519&#34;&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;computability:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Computability&lt;/h4&gt;
+&lt;h4 id=&#34;computability&#34;&gt;Computability&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64162062&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
@@ -94,7 +94,7 @@
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64604717&#34;&gt;The Uncomputable&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;undecidability-and-incompleteness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
+&lt;h4 id=&#34;undecidability-and-incompleteness&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65382456&#34;&gt;Deductively Defined Theories&lt;/a&gt;&lt;/li&gt;
@@ -221,7 +221,7 @@
 
 &lt;p&gt;Here is advice from two students from my subject &lt;a href=&#34;https://consequently.org/class/2016/PHIL20030/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil20030&lt;/span&gt;: &lt;em&gt;Meaning, Possibility and Paradox&lt;/em&gt;&lt;/a&gt;. This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2470375&#34;&gt;video lectures&lt;/a&gt;, a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
 
-&lt;h4 id=&#34;advice-from-student-1:623b5e40515802bbcbbb3516e1417fcb&#34;&gt;Advice from &lt;em&gt;Student 1&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;advice-from-student-1&#34;&gt;Advice from &lt;em&gt;Student 1&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;Here are some things that worked well for me:&lt;/p&gt;
 
@@ -241,7 +241,7 @@
 
 &lt;p&gt;I hope your new students have as much fun as I did!&lt;/p&gt;
 
-&lt;h4 id=&#34;advice-from-student-2:623b5e40515802bbcbbb3516e1417fcb&#34;&gt;Advice from &lt;em&gt;Student 2&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;advice-from-student-2&#34;&gt;Advice from &lt;em&gt;Student 2&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;: One thing I recall clearly is spending far too much time at the end of the semester compiling notes so that I could have a worthwhile set for the exam. I strongly recommend students collate their notes throughout the semester, so that at the end, they can focus on applying their skills to practice questions&lt;/p&gt;
 
@@ -257,19 +257,19 @@
 
 &lt;p&gt;And here is advice from three third year students, from &lt;a href=&#34;https://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil30043&lt;/span&gt;: &lt;em&gt;The Power and Limits of Logic&lt;/em&gt;&lt;/a&gt;. This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&amp;ouml;del&amp;rsquo;s incompleteness theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2262409&#34;&gt;video lectures&lt;/a&gt; a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
 
-&lt;h4 id=&#34;advice-from-student-3:623b5e40515802bbcbbb3516e1417fcb&#34;&gt;Advice from &lt;em&gt;Student 3&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;advice-from-student-3&#34;&gt;Advice from &lt;em&gt;Student 3&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;em&gt;Definitely&lt;/em&gt; make sure you understand and be comfortable with the initial foundation part of the course before even attempting to understand the more difficult components.&lt;/p&gt;
 
 &lt;p&gt;If you are having trouble with a concept, use &lt;em&gt;Google&lt;/em&gt; and &lt;em&gt;YouTube&lt;/em&gt;. There are plenty of resources out there that try to explain logic concept in layman&amp;rsquo;s terms with pictures and diagrams.&lt;/p&gt;
 
-&lt;h4 id=&#34;advice-from-student-4:623b5e40515802bbcbbb3516e1417fcb&#34;&gt;Advice from &lt;em&gt;Student 4&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;advice-from-student-4&#34;&gt;Advice from &lt;em&gt;Student 4&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;My advice would be to not get too bogged down by symbol pushing and notation. At least until we got to the last bit (Löb&amp;rsquo;s theorem, Godel&amp;rsquo;s First and Second Incompleteness Theorems) I found that making simple pictures really helped to distill complex concepts into nice digestible chunks. This also saves a lot of writing time when it comes to making those exam notes&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Watch the videos before class and don&amp;rsquo;t &amp;lsquo;spray and pray&amp;rsquo; the LMS questions. Also work hard to participate during seminars (this is something I didn&amp;rsquo;t do enough of) and give everyone a chance to do the same.&lt;/p&gt;
 
-&lt;h4 id=&#34;advice-from-student-5:623b5e40515802bbcbbb3516e1417fcb&#34;&gt;Advice from &lt;em&gt;Student 5&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;advice-from-student-5&#34;&gt;Advice from &lt;em&gt;Student 5&lt;/em&gt;&lt;/h4&gt;
 
 &lt;p&gt;At the beginning of the subject, start compiling one big document with all your notes for each topic. This will greatly help come exam time, when you already have your pages of notes to take in.&lt;/p&gt;
 
@@ -515,7 +515,7 @@
 
 &lt;p&gt;Thanks to Jc Beall,  Graham Priest and Shawn Standefer for comments on this note.&lt;/p&gt;
 
-&lt;h3 id=&#34;references:42f8359152e9c41afe73c79c09f8c30d&#34;&gt;References&lt;/h3&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 
 &lt;p&gt;Beall, Jc. 2012. &amp;ldquo;&lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Why Priest&amp;rsquo;s Reassurance is not so Reassuring&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Analysis&lt;/em&gt; 72:517-525.&lt;/p&gt;
 
@@ -919,7 +919,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 
 &lt;p&gt;Amie&amp;rsquo;s talk posed a problem for two views: &lt;em&gt;her own&lt;/em&gt; &amp;ldquo;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199385119.do&#34;&gt;easy ontology&lt;/a&gt;,&amp;rdquo; and Eli Hirsch&amp;rsquo;s &amp;ldquo;&amp;rdquo;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/j.1758-2237.2002.tb00061.x/abstract&#34;&gt;quantifier&lt;/a&gt; &lt;a href=&#34;https://books.google.com.au/books?id=iPRqtcjeHPsC&#34;&gt;variance&lt;/a&gt;&amp;rdquo;. According to &lt;em&gt;Easy Ontology&lt;/em&gt; a metaphysical question like &amp;ldquo;there are numbers&amp;rdquo; is decided by the meanings of mathematical terms involved in the expressions, and nothing more than that. On a &lt;em&gt;Quantifier Variance&lt;/em&gt; picture, a debate between a nominalist and a platonist about whether there &lt;em&gt;really are&lt;/em&gt; numbers is resolved when you recognise that the proponents of the different metaphyiscal views are using quantifiers in different ways, and a charitable interpretation of both speakers would have them speaking past one another. When a platonist says there are numbers, and a nominalist denies it, they are speaking different languages, roughly speaking, at least. For Amie, both views are faced with a &lt;em&gt;worry&lt;/em&gt;: they seem to make certain sorts of debate all too &lt;em&gt;easy&lt;/em&gt;. The &lt;a href=&#34;http://brokopp.casinocitytimes.com/article/are-race-horses-athletes-you-bet-they-are-19697&#34;&gt;debate over whether a horse could count as an athlete&lt;/a&gt; is not the kind of thing that can be solved by a simple disambiguation, or by inspecting the clear and distinct semantics of the term &amp;ldquo;athlete&amp;rdquo; to see what is allowed and what is forbidden.&lt;/p&gt;
 
-&lt;p&gt;Imagine wading into the debate and saying this: &amp;ldquo;There are two things one could mean by &amp;lsquo;athlete,&amp;rsquo; one of which includes horses and the other of which is restricted to sentient and sapient creatures. &lt;a href=&#34;http://en.wikipedia.org/wiki/Secretariat_(horse&#34;&gt;Secretariat&lt;/a&gt; is clearly an &lt;em&gt;athlete&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; and clearly not an &lt;em&gt;athlete&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt;, and that&amp;rsquo;s all there is to say.&amp;rdquo; While this might helpfully clarify the discussion, it wouldn&amp;rsquo;t stop the debate. What &lt;em&gt;everyone&lt;/em&gt; wants to know is whether &lt;em&gt;athlete&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; or &lt;em&gt;athlete&lt;/em&gt;&lt;sub&gt;2&lt;/sub&gt; (or any other precisification of the concept) is what we mean&amp;mdash;or what we &lt;em&gt;should&lt;/em&gt; mean&amp;mdash;by &amp;ldquo;athlete.&amp;rdquo; After all, we might be deciding on whether a horse could be in the running for &lt;a href=&#34;http://brokopp.casinocitytimes.com/article/are-race-horses-athletes-you-bet-they-are-19697&#34;&gt;Athlete of the Year&lt;/a&gt; or not. The award was established as &amp;ldquo;Athlete of the Year,&amp;rdquo; not as &amp;ldquo;Athlete&lt;sub&gt;1&lt;/sub&gt; of the Year&amp;rdquo; or &amp;ldquo;Athlete&lt;sub&gt;2&lt;/sub&gt; of the Year.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Imagine wading into the debate and saying this: &amp;ldquo;There are two things one could mean by &amp;lsquo;athlete,&amp;rsquo; one of which includes horses and the other of which is restricted to sentient and sapient creatures. &lt;a href=&#34;http://en.wikipedia.org/wiki/Secretariat_(horse) is clearly an *athlete*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; and clearly not an *athlete*&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;, and that&#39;s all there is to say.&amp;quot; While this might helpfully clarify the discussion, it wouldn&#39;t stop the debate. What *everyone* wants to know is whether *athlete*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; or *athlete*&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; (or any other precisification of the concept&#34;&gt;Secretariat&lt;/a&gt; is what we mean&amp;mdash;or what we &lt;em&gt;should&lt;/em&gt; mean&amp;mdash;by &amp;ldquo;athlete.&amp;rdquo; After all, we might be deciding on whether a horse could be in the running for &lt;a href=&#34;http://brokopp.casinocitytimes.com/article/are-race-horses-athletes-you-bet-they-are-19697&#34;&gt;Athlete of the Year&lt;/a&gt; or not. The award was established as &amp;ldquo;Athlete of the Year,&amp;rdquo; not as &amp;ldquo;Athlete&lt;sub&gt;1&lt;/sub&gt; of the Year&amp;rdquo; or &amp;ldquo;Athlete&lt;sub&gt;2&lt;/sub&gt; of the Year.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Or, take a more significant debate. We can argue as to whether a particular act counts as &lt;em&gt;sexual harassment&lt;/em&gt;. It may clarify things to say that in one sense it counts as sexual harassment and in another sense it doesn&amp;rsquo;t. However, such a disambiguation doesn&amp;rsquo;t end discussion, because the term &amp;ldquo;sexual harassment&amp;rdquo; is used in many different contexts, and&amp;mdash;in effect&amp;mdash;replacing that term by two different terms &amp;ldquo;sexual harassment&lt;sub&gt;1&lt;/sub&gt;&amp;rdquo; and &amp;ldquo;sexual harassment&lt;sub&gt;2&lt;/sub&gt;&amp;rdquo; &lt;em&gt;multiplies&lt;/em&gt; all of our problems, because now we need to go back to look at all of the other ways we used the term, to see how this new distinction bears on &lt;em&gt;those&lt;/em&gt; discussions. That&amp;rsquo;s a significant part of the debate, and it&amp;rsquo;s nothing like a free and arbitrary choice.&lt;/p&gt;
 
@@ -1151,11 +1151,11 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 
 &lt;p&gt;Download the &lt;a href=&#34;https://consequently.org/handouts/Subject-Guide-PHIL30043-in-2015.pdf&#34;&gt;course guide&lt;/a&gt; (303KB PDF).&lt;/p&gt;
 
-&lt;h3 id=&#34;outline:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Outline&lt;/h3&gt;
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
 
 &lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
 
-&lt;h4 id=&#34;prelude:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Prelude&lt;/h4&gt;
+&lt;h4 id=&#34;prelude&#34;&gt;Prelude&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59401942&#34;&gt;Logical Equivalence&lt;/a&gt;&lt;/li&gt;
@@ -1166,7 +1166,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59880539&#34;&gt;Trees for Predicate Logic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;completeness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Completeness&lt;/h4&gt;
+&lt;h4 id=&#34;completeness&#34;&gt;Completeness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59883806&#34;&gt;Introducing Soundness and Completeness&lt;/a&gt;&lt;/li&gt;
@@ -1179,7 +1179,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103757399&#34;&gt;Soundness and Completeness for Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;compactness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Compactness&lt;/h4&gt;
+&lt;h4 id=&#34;compactness&#34;&gt;Compactness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454250&#34;&gt;Counting Sets&lt;/a&gt;&lt;/li&gt;
@@ -1190,7 +1190,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462519&#34;&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;computability:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Computability&lt;/h4&gt;
+&lt;h4 id=&#34;computability&#34;&gt;Computability&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64162062&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
@@ -1200,7 +1200,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64604717&#34;&gt;The Uncomputable&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;undecidability-and-incompleteness:76294f5d7786e9873ad8b21b9edd2475&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
+&lt;h4 id=&#34;undecidability-and-incompleteness&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65382456&#34;&gt;Deductively Defined Theories&lt;/a&gt;&lt;/li&gt;
