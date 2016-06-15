@@ -1,6 +1,6 @@
 +++
 date = "2016-06-15T21:23:20+11:00"
-title = "I have a poster on my picket fence"
+title = "I have a campaign poster on my picket fence"
 description = "For the first time in my life, I have a campaign poster on my fence during a federal election. Here I try to explain why."
 largeimage = true
 image = "images/vote-for-us.jpg"
