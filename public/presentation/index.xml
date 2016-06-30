@@ -40,6 +40,10 @@
 &lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
 
 &lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The slides for the talk are &lt;a href=&#34;http://consequently.org/slides/proof-terms-aal-2016.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 ]]></description>
     </item>
     
