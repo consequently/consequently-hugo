@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 05 Jul 2016 20:55:29 AEST</updated>
+    <updated>Thu, 07 Jul 2016 10:03:08 AEST</updated>
 
 
 <item>
@@ -145,11 +145,23 @@
 <link>https://consequently.org/class/2016/PTPLA-NASSLLI/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
 <guid>https://consequently.org/class/2016/PTPLA-NASSLLI/</guid>
-<description>&lt;p&gt;&lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and I will teach an intensive class on logical and philosophical issues in Proof Theory. We&amp;rsquo;ll be covering cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in.&lt;/p&gt;
+<description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and I will teach an intensive class on logical and philosophical issues in Proof Theory at &lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;. We&amp;rsquo;ll be covering cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;NASSLLI 2016&lt;/a&gt;, Rutgers, July 2016.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline (subject to change).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 1&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-1-foundations.pdf&#34;&gt;Foundations&lt;/a&gt;&lt;/em&gt;. An introduction to the sequent calculus for intuitionistic and classical logic, cut elimination and some of its consequences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 2&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-2-substructural-logics.pdf&#34;&gt;Substructural Logics&lt;/a&gt;&lt;/em&gt;. Structural rules in sequent systems; the case of distribution; different substructural logics and their applications; revisiting cut elimination in substructural logics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 3&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-3-beyond-sequents.pdf&#34;&gt;Beyond Sequents&lt;/a&gt;&lt;/em&gt;. Sequent sytstems for basic modal logics; three ways to move beyond traditional sequent systems&amp;mdash;display logic, labelled sequents and tree hypersequents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 4&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-4-hypersequents-for-modal-logics.pdf&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/a&gt;&lt;/em&gt;. From tree hypersequents to simple hypersequents for S5; extending simple hypersequents to model actuality and two-dimensional modal logic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 5&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-5-semantics.pdf&#34;&gt;Semantics&lt;/a&gt;&lt;/em&gt;. Normative pragmatics; the scope of rules and definitions; between proofs and models; moving beyond propositional logics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;, Rutgers, July 2016.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
