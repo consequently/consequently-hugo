@@ -8,7 +8,7 @@ duration = 604800
 
 +++
 
-This is an intensive class on logical and philosophical issues in proof theory, taught by [Shawn Standefer](http://www.standefer.net) at [<span class="caps">nasslli</span> 2016](http://ruccs.rutgers.edu/nasslli2016). We  cover cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in. Here are the slides for each day of the course.
+This is an intensive class on logical and philosophical issues in proof theory, taught by [Shawn Standefer](http://www.standefer.net) and me at [<span class="caps">nasslli</span> 2016](http://ruccs.rutgers.edu/nasslli2016). We  cover cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in. Here are the slides for each day of the course.
 
 * **Day 1**: *[Foundations](http://consequently.org/slides/nassli2016-pt-lpa-1-foundations.pdf)*. An introduction to the sequent calculus for intuitionistic and classical logic, cut elimination and some of its consequences. 
 * **Day 2**: *[Substructural Logics](http://consequently.org/slides/nassli2016-pt-lpa-2-substructural-logics.pdf)*. Structural rules in sequent systems; the case of distribution; different substructural logics and their applications; revisiting cut elimination in substructural logics.
