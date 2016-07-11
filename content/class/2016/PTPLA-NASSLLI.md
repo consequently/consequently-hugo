@@ -20,41 +20,60 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 
 #### Foundations
 
-* Gerhard Gentzen, “[Untersuchungen über das logische Schließen—I](http://link.springer.com/article/10.1007%2FBF01201353)”, *Mathematische Zeitschrift*, 39(1):176–210, 1935.
-* Gerhard Getzen, *The Collected Papers of Gerhard Gentzen*, Translated and Edited by M. E. Szabo, North Holland, 1969.
+* Gerhard Gentzen, “[Untersuchungen über das logische Schlie&#223;en—I](http://link.springer.com/article/10.1007%2FBF01201353)”, *Mathematische Zeitschrift*, 39(1):176–210, 1935.
+* Gerhard Gentzen, *[The Collected Papers of Gerhard Gentzen](https://www.amazon.com/Collected-Papers-Study-Foundation-Mathematics/dp/072042254X/consequentlyorg)*, Translated and Edited by M. E. Szabo, North Holland, 1969.
 * Albert Grigorevich Dragalin, [*Mathematical Intuitionism*: *Introduction to Proof Theory*](https://www.amazon.com/Mathematical-Intuitionism-Introduction-Translations-Monographs/dp/0821845209/consequentlyorg), American Mathematical Society, Translations of Mathematical Monographs, 1987.
 * Roy Dyckhoff, “[Contraction-Free Sequent Calculi for Intuitionistic Logic](http://www.jstor.org/stable/2275431)”, *Journal of Symbolic Logic*, 57:795–807, 1992.
-* Sara Negri and Jan von Plato, *Structural Proof Theory*,
-Cambridge University Press, 2002.
+* Sara Negri and Jan von Plato, *[Structural Proof Theory](https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg)*, Cambridge University Press, 2002.
+* Katalin Bimb&#243;, [*Proof Theory*: *Sequent Calculi and Related Formalisms*](https://www.amazon.com/Proof-Theory-Formalisms-Mathematics-Applications/dp/1466564660/consequentlyorg), CRC Press, Boca Raton, FL, 2015
 * Peter Milne, “[Harmony, Purity, Simplicity and a ‘Seemingly Magical Fact’](http://www.jstor.org/stable/27903796)”, *The Monist*, 85(4):498–534, 2002
 
 #### Substructural Logics
 
 * Greg Restall, *[An Introduction to Substructural Logics](https://consequently.org/writing/isl/)*, Routledge 2000.
-* Francesco Paoli, *Substructural Logics*: *A Primer*,
-Springer 2002.
+* Francesco Paoli, [*Substructural Logics*: *A Primer*](https://www.amazon.com/Substructural-Logics-Primer-F-Paoli/dp/9048160146), Springer 2002.
 * Greg Restall,
 “[Relevant and Substructural Logics](http://consequently.org/writing/HPPLrssl/)”, pp. 289–396 in *Logic and the Modalities in the Twentieth Century*, Dov Gabbay and John Woods (editors), Elsevier 2006.
 * Alan Ross Anderson and Nuel D. Belnap,
 *Entailment*: *The Logic of Relevance and Necessity*, Volume 1, Princeton University Press, 1975
 * Alan Ross Anderson, Nuel D. Belnap and J. Michael Dunn,
 *Entailment*: *The Logic of Relevance and Necessity*, Volume 2, Princeton University Press, 1992
-* Edwin D. Mares, *Relevant Logic*: *A Philosophical Interpretation*, Cambridge University Press, 2004
+* Edwin D. Mares, [*Relevant Logic*: *A Philosophical Interpretation*](https://www.amazon.com/Relevant-Logic-Interpretation-Edwin-Mares/dp/0521039258/consequentlyorg), Cambridge University Press, 2004
 * J. Michael Dunn and Greg Restall,
 “[Relevance Logic](https://consequently.org/writing/rle/),” pp. 1–136 in *The Handbook of Philosophical Logic*, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)
-* Jean-Yves Girard, “Linear Logic,” *Theoretical Computer Science*, 50:1–101, 1987
-* Jean-Yves Girard, Yves Lafont and Paul Taylor,
-*Proofs and Types*, Cambridge University Press, 1989
-* Joachim Lambek, “The Mathematics of Sentence Structure,” *American Mathematical Monthly*, 65(3):154–170, 1958
+* Jean-Yves Girard, “[Linear Logic](http://iml.univ-mrs.fr/~girard/linear.pdf),” *Theoretical Computer Science*, 50:1–101, 1987
+* Jean-Yves Girard, Yves Lafont and Paul Taylor, *[Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)*, Cambridge University Press, 1989
+* Joachim Lambek, “[The Mathematics of Sentence Structure](http://www.jstor.org/stable/2310058),” *American Mathematical Monthly*, 65(3):154–170, 1958
 * Glyn Morrill, [*Type Logical Grammar*: *Categorial Logic of Signs*](https://www.amazon.com/Type-Logical-Grammar-Categorial-Logic/dp/0792332261/consequentlyorg), Kluwer, 1994
-* Johan van Benthem, *[Language in Action](https://www.amazon.com/Language-Action-130-Foundations-Mathematics/dp/0444890009/consequentlyorg)*, North-Holland and MIT Press, 1995.* Richard Moot and Christian Retor&eacute;l *[The Logic of Categorial Grammars](https://www.amazon.com/Logic-Categorial-Grammars-deductive-semantics/dp/3642315542/consequentlyorg)*, Springer 2012. 
+* Johan van Benthem, *[Language in Action](https://www.amazon.com/Language-Action-130-Foundations-Mathematics/dp/0444890009/consequentlyorg)*, North-Holland and MIT Press, 1995.
+* Richard Moot and Christian Retor&eacute; *[The Logic of Categorial Grammars](https://www.amazon.com/Logic-Categorial-Grammars-deductive-semantics/dp/3642315542/consequentlyorg)*, Springer 2012. 
  
 
 #### Beyond Sequents
 
+* Nuel D. Belnap, “[Display Logic](http://www.pitt.edu/~belnap/87displaylogic.pdf),” *Journal of Philosophical Logic*, 11:375–417, 1982.
+* Heinrich Wansing, *[Displaying Modal Logic](https://www.amazon.com/Displaying-Modal-Logic-Trends/dp/9048150795/consequentlyorg)*, Kluwer Academic Publishers, 1998.
+* Sara Negri, “[Proof Analysis in Modal Logic](http://www.jstor.org/stable/30226848),” *Journal of Philosophical Logic*, 34:507–544, 2005.
+* Arnon Avron, “[Hypersequents, logical consequence and intermediate logics for concurrency](http://link.springer.com/article/10.1007/BF01531058),” *Annals of Mathematics and Artificial intelligence*, 4:225–248, 1991.
+* Arnon Avron, “[The method of hypersequents in the proof theory of propositional non-classical logics](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=23698822FD590FB4FAAF5D33AA1BC365?doi=10.1.1.39.9225&rep=rep1&type=pdf)” in *Logic*: *From Foundations to Applications*, W. Hodges, et al., 1996, Oxford Science Publication, Oxford, pp. 1–32
+* Francesca Poggiolesi, *[Gentzen Calculi for Modal Propositional Logic](http://www.amazon.com/Gentzen-Calculi-Modal-Propositional-Author/dp/B010BCHPNQ/consequentlyorg)*, Springer, 2011.
+* Francesca Poggiolesi and Greg Restall, “[Interpreting and Applying Proof Theory for Modal Logic](http://consequently.org/writing/interp-apply-ptml),” *New Waves in Philosophical Logic*, ed. Greg Restall and Gillian Russell, Palgrave MacMillan, 2012.
+
 #### Hypersequents for S5, Actuality and 2D Modal Logics
 
+* Francesca Poggiolesi, “[A Cut-Free Simple Sequent Calculus for Modal Logic S5](http://dx.doi.org/10.1017/S1755020308080040),” *Review of Symbolic Logic* 1:1, 3–15, 2008.
+* Greg Restall, “[Proofnets for S5: sequents and circuits for modal logic](http://consequently.org/writing/s5nets),”
+*Logic Colloquium 2005*, ed. C. Dimitracopoulos, L. Newelski, D. Normann and J. R. Steel, Cambridge University Press, 2008.
+* Kaja Bednarska and Andrzej Indrzejczak, “[Hypersequent Calculi for S5: the methods of cut elimination](http://dx.doi.org/10.12775/LLP.2015.018x)” *Logic and Logical Philosophy*, 24, 277–311, 2015.
+* Greg Restall, “[A Cut-Free Sequent System for Two Dimensional Modal Logic, and why it matters](http://consequently.org/writing/cfss2dml),” *Annals of Pure and Applied Logic*, 163:11, 1611–1623, 2012. 
+* Martin Davies, “[Reference, Contingency, and the Two-Dimensional Framework](http://www.jstor.org/stable/4321462),” *Philosophical Studies*, 118(1):83–131, 2004.
+* Martin Davies and Lloyd Humberstone, “[Two Notions of Necessity](http://www.jstor.org/stable/4319391),” *Philosophical Studies*, 38(1):1–30, 1980.
+* Lloyd Humberstone, “[Two-Dimensional Adventures](http://www.jstor.org/stable/4321460),” *Philosohical Studies*, 118(1):257–277, 2004.
+
 #### Semantics
+
+* Greg Restall, “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Hájek, L. Valdés-Villanueva and D. Westerståhl, KCL Publications, 2005.
+* Greg Restall, “[Truth Values and Proof Theory](http://consequently.org/writing/tvpt)” *Studia Logica*, 92(2):241–264, 2009.
 
 
 ### Links
