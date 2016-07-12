@@ -47,6 +47,7 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 * Glyn Morrill, [*Type Logical Grammar*: *Categorial Logic of Signs*](https://www.amazon.com/Type-Logical-Grammar-Categorial-Logic/dp/0792332261/consequentlyorg), Kluwer, 1994
 * Johan van Benthem, *[Language in Action](https://www.amazon.com/Language-Action-130-Foundations-Mathematics/dp/0444890009/consequentlyorg)*, North-Holland and MIT Press, 1995.
 * Richard Moot and Christian Retor&eacute; *[The Logic of Categorial Grammars](https://www.amazon.com/Logic-Categorial-Grammars-deductive-semantics/dp/3642315542/consequentlyorg)*, Springer 2012. 
+* Chris Barker, “[Free Choice Permission as Resource-Sensitive Reasoning](http://semprag.org/article/view/sp.3.10),” *Semantics and Pragmatics*, 3:10, 2010, 1-38.
  
 
 #### Beyond Sequents
