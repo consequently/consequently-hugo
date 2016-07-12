@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 11 Jul 2016 00:13:46 EDT</updated>
+    <updated>Mon, 11 Jul 2016 23:37:56 EDT</updated>
 
 
 <item>
@@ -155,6 +155,74 @@
 &lt;li&gt;&lt;strong&gt;Day 3&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-3-beyond-sequents.pdf&#34;&gt;Beyond Sequents&lt;/a&gt;&lt;/em&gt;. Sequent sytstems for basic modal logics; three ways to move beyond traditional sequent systems&amp;mdash;display logic, labelled sequents and tree hypersequents.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Day 4&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-4-hypersequents-for-modal-logics.pdf&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/a&gt;&lt;/em&gt;. From tree hypersequents to simple hypersequents for S5; extending simple hypersequents to model actuality and two-dimensional modal logic.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Day 5&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-5-semantics.pdf&#34;&gt;Semantics&lt;/a&gt;&lt;/em&gt;. Normative pragmatics; the scope of rules and definitions; between proofs and models; moving beyond propositional logics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;readings-and-references&#34;&gt;Readings and References&lt;/h3&gt;
+
+&lt;h4 id=&#34;foundations&#34;&gt;Foundations&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gerhard Gentzen, “&lt;a href=&#34;http://link.springer.com/article/10.1007%2FBF01201353&#34;&gt;Untersuchungen über das logische Schlie&amp;#223;en—I&lt;/a&gt;”, &lt;em&gt;Mathematische Zeitschrift&lt;/em&gt;, 39(1):176–210, 1935.&lt;/li&gt;
+&lt;li&gt;Gerhard Gentzen, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Collected-Papers-Study-Foundation-Mathematics/dp/072042254X/consequentlyorg&#34;&gt;The Collected Papers of Gerhard Gentzen&lt;/a&gt;&lt;/em&gt;, Translated and Edited by M. E. Szabo, North Holland, 1969.&lt;/li&gt;
+&lt;li&gt;Albert Grigorevich Dragalin, &lt;a href=&#34;https://www.amazon.com/Mathematical-Intuitionism-Introduction-Translations-Monographs/dp/0821845209/consequentlyorg&#34;&gt;&lt;em&gt;Mathematical Intuitionism&lt;/em&gt;: &lt;em&gt;Introduction to Proof Theory&lt;/em&gt;&lt;/a&gt;, American Mathematical Society, Translations of Mathematical Monographs, 1987.&lt;/li&gt;
+&lt;li&gt;Roy Dyckhoff, “&lt;a href=&#34;http://www.jstor.org/stable/2275431&#34;&gt;Contraction-Free Sequent Calculi for Intuitionistic Logic&lt;/a&gt;”, &lt;em&gt;Journal of Symbolic Logic&lt;/em&gt;, 57:795–807, 1992.&lt;/li&gt;
+&lt;li&gt;Sara Negri and Jan von Plato, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg&#34;&gt;Structural Proof Theory&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 2002.&lt;/li&gt;
+&lt;li&gt;Katalin Bimb&amp;#243;, &lt;a href=&#34;https://www.amazon.com/Proof-Theory-Formalisms-Mathematics-Applications/dp/1466564660/consequentlyorg&#34;&gt;&lt;em&gt;Proof Theory&lt;/em&gt;: &lt;em&gt;Sequent Calculi and Related Formalisms&lt;/em&gt;&lt;/a&gt;, CRC Press, Boca Raton, FL, 2015&lt;/li&gt;
+&lt;li&gt;Peter Milne, “&lt;a href=&#34;http://www.jstor.org/stable/27903796&#34;&gt;Harmony, Purity, Simplicity and a ‘Seemingly Magical Fact’&lt;/a&gt;”, &lt;em&gt;The Monist&lt;/em&gt;, 85(4):498–534, 2002&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;substructural-logics&#34;&gt;Substructural Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;&lt;a href=&#34;https://consequently.org/writing/isl/&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;, Routledge 2000.&lt;/li&gt;
+&lt;li&gt;Francesco Paoli, &lt;a href=&#34;https://www.amazon.com/Substructural-Logics-Primer-F-Paoli/dp/9048160146&#34;&gt;&lt;em&gt;Substructural Logics&lt;/em&gt;: &lt;em&gt;A Primer&lt;/em&gt;&lt;/a&gt;, Springer 2002.&lt;/li&gt;
+&lt;li&gt;Greg Restall,
+“&lt;a href=&#34;http://consequently.org/writing/HPPLrssl/&#34;&gt;Relevant and Substructural Logics&lt;/a&gt;”, pp. 289–396 in &lt;em&gt;Logic and the Modalities in the Twentieth Century&lt;/em&gt;, Dov Gabbay and John Woods (editors), Elsevier 2006.&lt;/li&gt;
+&lt;li&gt;Alan Ross Anderson and Nuel D. Belnap,
+&lt;em&gt;Entailment&lt;/em&gt;: &lt;em&gt;The Logic of Relevance and Necessity&lt;/em&gt;, Volume 1, Princeton University Press, 1975&lt;/li&gt;
+&lt;li&gt;Alan Ross Anderson, Nuel D. Belnap and J. Michael Dunn,
+&lt;em&gt;Entailment&lt;/em&gt;: &lt;em&gt;The Logic of Relevance and Necessity&lt;/em&gt;, Volume 2, Princeton University Press, 1992&lt;/li&gt;
+&lt;li&gt;Edwin D. Mares, &lt;a href=&#34;https://www.amazon.com/Relevant-Logic-Interpretation-Edwin-Mares/dp/0521039258/consequentlyorg&#34;&gt;&lt;em&gt;Relevant Logic&lt;/em&gt;: &lt;em&gt;A Philosophical Interpretation&lt;/em&gt;&lt;/a&gt;, Cambridge University Press, 2004&lt;/li&gt;
+&lt;li&gt;J. Michael Dunn and Greg Restall,
+“&lt;a href=&#34;https://consequently.org/writing/rle/&#34;&gt;Relevance Logic&lt;/a&gt;,” pp. 1–136 in &lt;em&gt;The Handbook of Philosophical Logic&lt;/em&gt;, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)&lt;/li&gt;
+&lt;li&gt;Jean-Yves Girard, “&lt;a href=&#34;http://iml.univ-mrs.fr/~girard/linear.pdf&#34;&gt;Linear Logic&lt;/a&gt;,” &lt;em&gt;Theoretical Computer Science&lt;/em&gt;, 50:1–101, 1987&lt;/li&gt;
+&lt;li&gt;Jean-Yves Girard, Yves Lafont and Paul Taylor, &lt;em&gt;&lt;a href=&#34;http://www.paultaylor.eu/stable/Proofs+Types.html&#34;&gt;Proofs and Types&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 1989&lt;/li&gt;
+&lt;li&gt;Joachim Lambek, “&lt;a href=&#34;http://www.jstor.org/stable/2310058&#34;&gt;The Mathematics of Sentence Structure&lt;/a&gt;,” &lt;em&gt;American Mathematical Monthly&lt;/em&gt;, 65(3):154–170, 1958&lt;/li&gt;
+&lt;li&gt;Glyn Morrill, &lt;a href=&#34;https://www.amazon.com/Type-Logical-Grammar-Categorial-Logic/dp/0792332261/consequentlyorg&#34;&gt;&lt;em&gt;Type Logical Grammar&lt;/em&gt;: &lt;em&gt;Categorial Logic of Signs&lt;/em&gt;&lt;/a&gt;, Kluwer, 1994&lt;/li&gt;
+&lt;li&gt;Johan van Benthem, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Language-Action-130-Foundations-Mathematics/dp/0444890009/consequentlyorg&#34;&gt;Language in Action&lt;/a&gt;&lt;/em&gt;, North-Holland and MIT Press, 1995.&lt;/li&gt;
+&lt;li&gt;Richard Moot and Christian Retor&amp;eacute; &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Logic-Categorial-Grammars-deductive-semantics/dp/3642315542/consequentlyorg&#34;&gt;The Logic of Categorial Grammars&lt;/a&gt;&lt;/em&gt;, Springer 2012.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;beyond-sequents&#34;&gt;Beyond Sequents&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nuel D. Belnap, “&lt;a href=&#34;http://www.pitt.edu/~belnap/87displaylogic.pdf&#34;&gt;Display Logic&lt;/a&gt;,” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt;, 11:375–417, 1982.&lt;/li&gt;
+&lt;li&gt;Heinrich Wansing, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Displaying-Modal-Logic-Trends/dp/9048150795/consequentlyorg&#34;&gt;Displaying Modal Logic&lt;/a&gt;&lt;/em&gt;, Kluwer Academic Publishers, 1998.&lt;/li&gt;
+&lt;li&gt;Sara Negri, “&lt;a href=&#34;http://www.jstor.org/stable/30226848&#34;&gt;Proof Analysis in Modal Logic&lt;/a&gt;,” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt;, 34:507–544, 2005.&lt;/li&gt;
+&lt;li&gt;Arnon Avron, “&lt;a href=&#34;http://link.springer.com/article/10.1007/BF01531058&#34;&gt;Hypersequents, logical consequence and intermediate logics for concurrency&lt;/a&gt;,” &lt;em&gt;Annals of Mathematics and Artificial intelligence&lt;/em&gt;, 4:225–248, 1991.&lt;/li&gt;
+&lt;li&gt;Arnon Avron, “&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=23698822FD590FB4FAAF5D33AA1BC365?doi=10.1.1.39.9225&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;The method of hypersequents in the proof theory of propositional non-classical logics&lt;/a&gt;” in &lt;em&gt;Logic&lt;/em&gt;: &lt;em&gt;From Foundations to Applications&lt;/em&gt;, W. Hodges, et al., 1996, Oxford Science Publication, Oxford, pp. 1–32&lt;/li&gt;
+&lt;li&gt;Francesca Poggiolesi, &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Gentzen-Calculi-Modal-Propositional-Author/dp/B010BCHPNQ/consequentlyorg&#34;&gt;Gentzen Calculi for Modal Propositional Logic&lt;/a&gt;&lt;/em&gt;, Springer, 2011.&lt;/li&gt;
+&lt;li&gt;Francesca Poggiolesi and Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/interp-apply-ptml&#34;&gt;Interpreting and Applying Proof Theory for Modal Logic&lt;/a&gt;,” &lt;em&gt;New Waves in Philosophical Logic&lt;/em&gt;, ed. Greg Restall and Gillian Russell, Palgrave MacMillan, 2012.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;hypersequents-for-s5-actuality-and-2d-modal-logics&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Francesca Poggiolesi, “&lt;a href=&#34;http://dx.doi.org/10.1017/S1755020308080040&#34;&gt;A Cut-Free Simple Sequent Calculus for Modal Logic S5&lt;/a&gt;,” &lt;em&gt;Review of Symbolic Logic&lt;/em&gt; 1:1, 3–15, 2008.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/s5nets&#34;&gt;Proofnets for S5: sequents and circuits for modal logic&lt;/a&gt;,”
+&lt;em&gt;Logic Colloquium 2005&lt;/em&gt;, ed. C. Dimitracopoulos, L. Newelski, D. Normann and J. R. Steel, Cambridge University Press, 2008.&lt;/li&gt;
+&lt;li&gt;Kaja Bednarska and Andrzej Indrzejczak, “&lt;a href=&#34;http://dx.doi.org/10.12775/LLP.2015.018x&#34;&gt;Hypersequent Calculi for S5: the methods of cut elimination&lt;/a&gt;” &lt;em&gt;Logic and Logical Philosophy&lt;/em&gt;, 24, 277–311, 2015.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;A Cut-Free Sequent System for Two Dimensional Modal Logic, and why it matters&lt;/a&gt;,” &lt;em&gt;Annals of Pure and Applied Logic&lt;/em&gt;, 163:11, 1611–1623, 2012.&lt;/li&gt;
+&lt;li&gt;Martin Davies, “&lt;a href=&#34;http://www.jstor.org/stable/4321462&#34;&gt;Reference, Contingency, and the Two-Dimensional Framework&lt;/a&gt;,” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 118(1):83–131, 2004.&lt;/li&gt;
+&lt;li&gt;Martin Davies and Lloyd Humberstone, “&lt;a href=&#34;http://www.jstor.org/stable/4319391&#34;&gt;Two Notions of Necessity&lt;/a&gt;,” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 38(1):1–30, 1980.&lt;/li&gt;
+&lt;li&gt;Lloyd Humberstone, “&lt;a href=&#34;http://www.jstor.org/stable/4321460&#34;&gt;Two-Dimensional Adventures&lt;/a&gt;,” &lt;em&gt;Philosohical Studies&lt;/em&gt;, 118(1):257–277, 2004.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;semantics&#34;&gt;Semantics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;” pp. 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by P. Hájek, L. Valdés-Villanueva and D. Westerståhl, KCL Publications, 2005.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/tvpt&#34;&gt;Truth Values and Proof Theory&lt;/a&gt;” &lt;em&gt;Studia Logica&lt;/em&gt;, 92(2):241–264, 2009.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
