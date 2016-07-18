@@ -73,9 +73,18 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 
 #### Semantics
 
+* Arthur Prior, “[The Runabout Inference Ticket](http://cas.uchicago.edu/workshops/wittgenstein/files/2009/04/prior.pdf).” Analaysis 21(2): 38–39, 1960.
+* Nuel Belnap, “[Tonk, Plonk and Plink](http://www.jstor.org/stable/3326862),” *Analysis*, 22(6): 130–134, 1962.
+* Nuel Nelnap “[Declaratives Are Not Enough](https://www.researchgate.net/profile/Nuel_Belnap/publication/225896511_Declaratives_are_not_enough/links/53f645c90cf2fceacc7128ff.pdf).” *Philosophical Studies*, 59(1): 1–30, 1990.
+* Jaroslav Peregrin “[An Inferentialist Approach to Semantics: Time for a New Kind of Structuralism?](https://jarda.peregrin.cz/mybibl/PDFTxt/526.pdf)” *Philosophy Compass*, 3(6): 1208–1223, 2008.
 * Greg Restall, “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Hájek, L. Valdés-Villanueva and D. Westerståhl, KCL Publications, 2005.
 * Greg Restall, “[Truth Values and Proof Theory](http://consequently.org/writing/tvpt)” *Studia Logica*, 92(2):241–264, 2009.
-
+* Raymond Smullyan, *First-Order Logic*. Springer-Verlag, 1968.
+* Gaisi Takeuti, *Proof Theory*, 2nd edition. Elsevier, 1987.
+* Michael Kremer “[Kripke and the Logic of Truth](http://www.jstor.org/stable/30226394).” *Journal of Philosophical Logic*, 17:225–278, 1988
+* Sara Negri and Jan von Plato, *[Structural Proof Theory](https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg)*, Cambridge University Press, 2002.
+* Greg Testall “[Assertion, Denial and Non-Classical Theories](https://consequently.org/writing/adnct/).” In *[Paraconsistency: Logic and Applications](http://link.springer.com/book/10.1007/978-94-007-4438-7)*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013
+* Anne Troelstra and Helmut Schwictenberg, *[Basic Proof Theory](https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg)*, 2nd ed. Cambridge University Press, 2000.
 
 ### Links
 
