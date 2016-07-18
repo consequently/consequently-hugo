@@ -84,7 +84,7 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 * Michael Kremer “[Kripke and the Logic of Truth](http://www.jstor.org/stable/30226394).” *Journal of Philosophical Logic*, 17:225–278, 1988
 * Sara Negri and Jan von Plato, *[Structural Proof Theory](https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg)*, Cambridge University Press, 2002.
 * Greg Testall “[Assertion, Denial and Non-Classical Theories](https://consequently.org/writing/adnct/).” In *[Paraconsistency: Logic and Applications](http://link.springer.com/book/10.1007/978-94-007-4438-7)*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013
-* Anne Troelstra and Helmut Schwictenberg, *[Basic Proof Theory](https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg)*, 2nd ed. Cambridge University Press, 2000.
+* Anne Troelstra and Helmut Schwichtenberg, *[Basic Proof Theory](https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg)*, 2nd ed. Cambridge University Press, 2000.
 
 ### Links
 
