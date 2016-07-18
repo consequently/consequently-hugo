@@ -77,7 +77,7 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 * Nuel Belnap, “[Tonk, Plonk and Plink](http://www.jstor.org/stable/3326862),” *Analysis*, 22(6): 130–134, 1962.
 * Nuel Nelnap “[Declaratives Are Not Enough](https://www.researchgate.net/profile/Nuel_Belnap/publication/225896511_Declaratives_are_not_enough/links/53f645c90cf2fceacc7128ff.pdf).” *Philosophical Studies*, 59(1): 1–30, 1990.
 * Jaroslav Peregrin “[An Inferentialist Approach to Semantics: Time for a New Kind of Structuralism?](https://jarda.peregrin.cz/mybibl/PDFTxt/526.pdf)” *Philosophy Compass*, 3(6): 1208–1223, 2008.
-* Greg Restall, “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Hájek, L. Valdés-Villanueva and D. Westerståhl, KCL Publications, 2005.
+* Greg Restall, “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Ha&#x301;jek, L. Valde&#x301;s-Villanueva and D. Westersta&#x30A;hl, KCL Publications, 2005.
 * Greg Restall, “[Truth Values and Proof Theory](http://consequently.org/writing/tvpt)” *Studia Logica*, 92(2):241–264, 2009.
 * Raymond Smullyan, *First-Order Logic*. Springer-Verlag, 1968.
 * Gaisi Takeuti, *Proof Theory*, 2nd edition. Elsevier, 1987.
