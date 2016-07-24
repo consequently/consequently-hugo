@@ -120,7 +120,9 @@
       <pubDate>Mon, 25 Jul 2016 00:00:00 UTC</pubDate>
       
       <guid>https://consequently.org/class/2016/PHIL20030/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
+      <description>&lt;![CDATA[
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
 
@@ -130,7 +132,102 @@
 
 &lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
+&lt;figure&gt;
+    &lt;img src=&#34;https://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+&lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;classical-logic&#34;&gt;Classical Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71195118&#34;&gt;On Logic and Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71196826&#34;&gt;Classical Logic&amp;mdash;Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71200032&#34;&gt;Classical Logic&amp;mdash;Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;meaning-sense-reference&#34;&gt;Meaning, Sense, Reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71206884&#34;&gt;Reference and Compositionality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71226471&#34;&gt;Sense and Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;basic-modal-logic&#34;&gt;Basic Modal Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71556216&#34;&gt;Introducing Possibility an Necessity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558401&#34;&gt;Models for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558696&#34;&gt;Tree Proofs for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71560394&#34;&gt;Soundness and Completeness for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;normal-modal-logics&#34;&gt;Normal Modal Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72135540&#34;&gt;What Are Possible Worlds?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137443&#34;&gt;Conditions on Accessibility Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137856&#34;&gt;Equivalence Relations, Universal Relations and S5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72139085&#34;&gt;Tree Proofs for Normal Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Applying Modal Logics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;double-indexing&#34;&gt;Double Indexing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Temporal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72143616&#34;&gt;Actuality and the Present&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72266887&#34;&gt;Two Dimensional Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;conditionality&#34;&gt;Conditionality&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74494229&#34;&gt;Strict Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74498276&#34;&gt;&lt;em&gt;Ceteris Paribus&lt;/em&gt; Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74504639&#34;&gt;Similarity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;three-values&#34;&gt;Three Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74628150&#34;&gt;More than Two Truth Values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74636384&#34;&gt;K3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680756&#34;&gt;&amp;#x141;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680954&#34;&gt;LP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74682689&#34;&gt;RM3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;four-values&#34;&gt;Four Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685077&#34;&gt;FDE: Relational Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685986&#34;&gt;FDE: Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74695340&#34;&gt;FDE: Routley Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;paradoxes&#34;&gt;Paradoxes&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76045884&#34;&gt;Truth and the Liar Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76049193&#34;&gt;Fixed Point Construction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76055233&#34;&gt;Curry&amp;rsquo;s Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76057722&#34;&gt;The Sorites Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76061452&#34;&gt;Fuzzy Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76066245&#34;&gt;Supervaluationism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070423&#34;&gt;Epistemicism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;what-to-do-with-so-many-logical-systems&#34;&gt;What to do with so many logical systems&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 ]]></description>
     </item>
     
