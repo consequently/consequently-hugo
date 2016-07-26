@@ -26,9 +26,269 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 26 Jul 2016 21:17:12 AEST</updated>
+    <updated>Wed, 27 Jul 2016 00:56:47 AEST</updated>
 
 
+<item>
+<title>First Degree Entailment, Symmetry and Paradox</title>
+<link>https://consequently.org/news/2016/fde-symmetry-and-paradox/</link>
+<pubDate>Wed, 27 Jul 2016 00:36:40 &#43;1100</pubDate>
+<guid>https://consequently.org/news/2016/fde-symmetry-and-paradox/</guid>
+<description>
+
+&lt;p&gt;Talking to &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt; during his recent visit to Australia got me thinking about &lt;em&gt;first degree entailment&lt;/em&gt; again. Here is a puzzle, which I learned from Terence Parsons in his “&lt;a href=&#34;http://www.jstor.org/stable/40231701&#34;&gt;True Contradictions&lt;/a&gt;”. First degree entailment (FDE) is a logic which allows for truth value &lt;em&gt;gaps&lt;/em&gt; as well as truth value &lt;em&gt;gluts&lt;/em&gt;.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you&amp;rsquo;re happy with FDE), then how does this differ, in effect, from assigning them a &lt;em&gt;gap&lt;/em&gt; value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation.&lt;/p&gt;
+
+&lt;p&gt;I think I have a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone. But to explain the answer and show how it works, I need to spell things out in more detail. If you want to see how the answer goes, read on.&lt;/p&gt;
+
+&lt;p&gt;First degree entailment (&lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;) is a logic well suited to fixed point solutions to the paradoxes. Perhaps it is &lt;em&gt;too&lt;/em&gt; well suited, because it allows paradoxical sentences to be evaluated in two distinct ways: Paradoxical sentences can be assigned the value \(n\) (neither true nor false: \(\lbrace\rbrace\)) or \(b\) (both true and false&amp;mdash;or \(\lbrace 0,1\rbrace\)) equally well. Are two possible values better than one? And more importantly, is agnosticism between &lt;em&gt;which&lt;/em&gt; value to assign a paradoxical sentence like the liar&amp;mdash;a stance Terence Parsons calls “agnostaletheism”&amp;mdash;any different from assigning it the truth value \(n\) instead of \(b\)? After all, on either stance, neither the liar sentence nor its negation are to be accepted. In this note, I explore the symmetry that is available in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;, and I show how agnostaletheism may be clearly distinguished from the view according to which paradoxes are simply neither true nor false.&lt;/p&gt;
+
+&lt;h3 id=&#34;fde-and-relational-evaluations&#34;&gt;FDE and Relational Evaluations&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;First Degree Entailment&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;) is a simple and elegant logic, well suited to many different applications. It can be defined and understood in a number of different ways, but for our purposes it suits to introduce it as the generalisation of classical two-valued logic according to which evaluations are no longer functions assigning each sentence of a language a truth value from \(\lbrace 0,1\rbrace\), but relations to those truth values. Relaxing the constraint that evaluations be Boolean functions means that sentences can be be &lt;em&gt;neither&lt;/em&gt; true nor false (the evaluation fails to relate the sentence to either \(0\) or \(1\)) or &lt;em&gt;both&lt;/em&gt; true and false (the evaluation relates the sentence to both truth values). This generalisation allows us to interpret the  suite of connectives and quantifiers of predicate logic in a straightforward manner, generalising the traditional evaluation conditions due to Boole and Tarski as follows.&lt;/p&gt;
+
+&lt;p&gt;\(\def\semv#1{{[\![}#1{]\!]}}\)
+Given a non-empty domain \(D\) of objects, an &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-model for a language consists of a multi-sorted relation \(\rho\) defined as follows: For each \(n\)-place predicate \(F\), \(\rho_F\) relates \(n\)-tuples of objects from \(D\) to the truth values \(0,1\). For each constant \(c\) in the language, \(\rho_c\) selects a unique object from \(D\). An assignment \(\alpha\) of values to the variables is a function from those variables to  the domain \(D\). Given an assignment \(\alpha\) and the interpretation \(\rho\) we define the semantic value \(\semv{t}_{\rho,\alpha}\) of a term \(t\) to be given by \(\rho_t\) if \(t\) is a name and \(\alpha(t)\) if \(t\) is a variable. Then, relative to each assignment \(\alpha\) we define the relation \(\rho_\alpha\) which matches formulas in the language to truth values as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\((Ft_1\cdots t_n)\rho_\alpha i\) iff \(\langle \semv{t_1}_{\rho,\alpha},\ldots,\semv{t_n}_{\rho,\alpha}\rangle\rho_F i\)&lt;/li&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)&lt;/li&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) or \(B\rho_\alpha 0\)&lt;/li&gt;
+&lt;li&gt;\((A\lor B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) or \(B\rho_\alpha 1\)&lt;/li&gt;
+&lt;li&gt;\((A\lor B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\)&lt;/li&gt;
+&lt;li&gt;\(\neg A\rho_\alpha 1\) iff \(A\rho_\alpha 0\)&lt;/li&gt;
+&lt;li&gt;\(\neg A\rho_\alpha 0\) iff \(A\rho_\alpha 1\)&lt;/li&gt;
+&lt;li&gt;\((\forall x)A\rho_\alpha 1\) iff \(A\rho_{\alpha[x:=d]} 1\) for every \(d\) in \(D\).&lt;/li&gt;
+&lt;li&gt;\((\forall x)A\rho_\alpha 0\) iff \(A\rho_{\alpha[x:=d]} 0\) for some \(d\) in \(D\).&lt;/li&gt;
+&lt;li&gt;\((\exists x)A\rho_\alpha 1\) iff \(A\rho_{\alpha[x:=d]} 1\) for some \(d\) in \(D\).&lt;/li&gt;
+&lt;li&gt;\((\exists x)A\rho_\alpha 0\) iff \(A\rho_{\alpha[x:=d]} 0\) for every \(d\) in \(D\).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The only deviation from classical first order predicate logic is that we allow for truth value gaps (\(\rho\) may fail to relate a given formula to a truth value) or gluts (\(\rho\) may relate a given formula to both truth values). Indeed, these features are, in a sense, &lt;em&gt;modular&lt;/em&gt;. It is straightforward to show that if a given interpretation \(\rho\) is a partial function on the basic vocabulary of a language (if it never over-assigns values to the extension of any predicate in that language), then it remains so over every sentence in that language. Those sentences can be assigned gaps, but no gluts. Similarly, if an interpretation is decisive over the basic vocabulary of some language (it never under-assigns values to the extensions of any predicate in that language), then it remains so over every sentence of that language. These sentences can be assigned gluts, but no gaps. If an evaluation is &lt;em&gt;sharp&lt;/em&gt; (if it allows for neither gaps nor gluts in the interpretation of any predicate), then it remains so over the whole language.&lt;/p&gt;
+
+&lt;p&gt;Relational evaluations are a natural model for &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;. They show it to be an elemenary generalisation of classical logic, allowing for gaps between truth values and over-assignment of those values. The interpretation of the connectives and the quantifiers remains as classical as in two-valued logic, except for the generalisation to allow for gaps and gluts between the two semantic values.&lt;/p&gt;
+
+&lt;h3 id=&#34;fde-and-four-values&#34;&gt;FDE and four values&lt;/h3&gt;
+
+&lt;p&gt;We can also see &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; in another light, not as a logic allowing for gaps and gluts between two truth values, but as a logic allowing for &lt;em&gt;four&lt;/em&gt; semantic values. For clarity, we will write these four values: \(t\), \(b\), \(n\) and \(f\). We can translate between the two-valued and four-valued languages as follows. Given a relational valuation \(\rho\) we define a functional valuation \(v\) which assigns&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\(v(A)=t\) iff \(A\rho 1\) but not \(A{\rho} 0\)&lt;/li&gt;
+&lt;li&gt;\(v(A)=b\) iff \(A\rho 1\) and \(A\rho 0\)&lt;/li&gt;
+&lt;li&gt;\(v(A)=f\) iff \(A\rho 0\) but not \(A{\rho} 1\)&lt;/li&gt;
+&lt;li&gt;\(v(A)=n\) iff neither \(A{\rho} 1\) nor \(A{\rho} 0\)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It follows then, that&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\(A\rho 1\) iff \(v(A)=t\) or \(v(A)=b\), and&lt;/li&gt;
+&lt;li&gt;\(A\rho 0\) iff \(v(A)=f\) or \(v(A)=b\).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Evaluation relations that are partial functions can be understood as functional evaluations taking semantic values from \(t,n,f\) &amp;mdash; and the evaluation clauses in this case give us the familiar logic &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;: Kleene&amp;rsquo;s strong three valued logic. Evaluation relations that are decisive, allowing for no gaps, can be understood as taking semantic values from \(t,b,f\) &amp;mdash; and the evaluation clauses in this case give us the familiar logic &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt;: Priest&amp;rsquo;s logic of paradox. In what follows, I will move between functional and relational vocabulary as seems appropriate.&lt;/p&gt;
+
+&lt;p&gt;\(\def\ydash{\succ}\)&lt;/p&gt;
+
+&lt;h3 id=&#34;fde-and-sequents&#34;&gt;FDE and Sequents&lt;/h3&gt;
+
+&lt;p&gt;There are many different ways we can use &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluations to analyse truth and consequence in the language of first order logic. One important notion goes like this: An interpretation \(\rho\) is said to be a &lt;em&gt;counterexample&lt;/em&gt; to the sequent \(X\ydash Y\) if and only if \(\rho\) relates each member of \(X\) to \(1\) while it relates no member of \(Y\) to \(1\). In other words, an interpretation provides a counterexample to a sequent if it shows some way that the sequent fails to preserve truth. Given some set \(\mathcal M\) of evaluations, a sequent is said to be \(\mathcal M\)-valid if it has no counterexamples in the set \(\mathcal M\). We reserve the term &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-valid for those sequents which have no counterexamples at all. A sequent is said to be &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;-valid if it has no counterexamples among partial function evaluations, and a sequent is said to be &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt;-valid if it has no counterexamples among decisive valuations.&lt;/p&gt;
+
+&lt;p&gt;All this is very well known in the literature on non-classical logics&amp;mdash;see, for example (Priest 2008, Chapter 8) for details. The &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; validities include all of distributive lattice logic with a de Morgan negation.  Sequents such as these
+\[
+\neg (A\land B)\ydash \neg A\lor \neg B\quad
+ \neg (A\lor B)\ydash \neg A\land \neg B
+\]
+\[
+\neg A\lor \neg B\ydash \neg (A\land B)\quad
+\neg A\land \neg B\ydash \neg (A\lor B)
+\]
+\[
+A\ydash\neg\neg A \quad \neg\neg A\ydash A
+\]
+are  &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; valid. The next sequents are not valid in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;, but they are valid in &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;:
+\[
+{A,\neg A\ydash~}\quad
+A\lor B,\neg A\ydash B
+\]
+In both cases, an &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; interpretation which relates \(A\) to both \(0\) and \(1\) (but which fails to relate \(B\) to \(1\)) serves as a counterexample.
+Similarly, the following sequents are &lt;em&gt;not&lt;/em&gt; valid in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;, but they are valid in &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt;:
+\[
+{\ydash~A,\neg A}\quad
+B\ydash A\land B,\neg A
+\]
+In both cases, an &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; interpretation which relates \(A\) to neither \(0\) nor \(1\) (but which relates \(B\) to \(1\)) serves as a counterexample.&lt;/p&gt;
+
+&lt;h3 id=&#34;fde-theories-and-bitheories&#34;&gt;FDE, Theories and Bitheories&lt;/h3&gt;
+
+&lt;p&gt;From sequents we move to theories. A the usual definition has it that a &lt;em&gt;theory&lt;/em&gt; may be defined as a set of sentences closed under a logical consequence relation. So, given some collection \(\mathcal M\) of interpretations,  \(T\) is an \(\mathcal M\)-theory if and only if whenever the sequent \(T\ydash A\) (where \(A\) is a single formula) is \(\mathcal M\)-valid, then \(A\) is a member of \(T\). \(\mathcal M\)-theories contain their own \(\mathcal M\)-consequences. We can think of theories as representing what is held to be true according to a certain stance&amp;mdash;a consequences of what is held true is also (implicitly) held true. Elsewhere (Restall 2013) I have argued that in logics like &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; we have good reason to consider not only what is held true, but what is held *un*true. Sequents give us a straightforward vocabulary for describing this. We say that the disjoint pair \(\langle T,U\rangle\) is an \(\mathcal M\)-&lt;em&gt;bitheory&lt;/em&gt; if and only if whenever the sequent \(T\ydash A,U\) (where \(A\) is a single formula) is \(\mathcal M\)-valid, then \(A\) is a member of \(T\), and whenever \(T,A\ydash U\) is \(\mathcal M\)-valid, then \(A\) is a member of \(U\). Now, \(\langle T,U\rangle\) is a pair, consisting of what is (according to that bitheory) held true (to be related to \(1\)) on the one hand and what is held untrue (to be unrelated to \(1\)), on the other.  Suppose \(\mathcal M&amp;rsquo;\subseteq\mathcal M\) is another set of interpretations. If we define \(T&lt;em&gt;{\mathcal M&amp;rsquo;}\) to be the set of all sentences true (related to \(1\)) in all \(\mathcal M&amp;rsquo;\)-interpretations and likewise \(U&lt;/em&gt;{\mathcal M&amp;rsquo;}\) to be the set of all sentences untrue (not related to \(1\)) in those interpretations, then \(\langle T&lt;em&gt;{\mathcal M&amp;rsquo;},U&lt;/em&gt;{\mathcal M&amp;rsquo;}\rangle\) is a \(\mathcal M\)-bitheory. Indeed, if \(\mathcal M&amp;rsquo;\) is a singleton set, consisting of one interpretation, then the bitheory \(\langle T&lt;em&gt;{\mathcal M&amp;rsquo;},U&lt;/em&gt;{\mathcal M&amp;rsquo;}\rangle\) is a partition of the language, deciding every formula to be either true or untrue. If the set \(\mathcal M&amp;rsquo;\) is larger, containing interpretations which give a sentence \(A\) different verdicts, then the corresponding bitheory will no longer be a partition. If one interpretation judges \(A\) to be true, another judges it untrue, then \(A\) will neither feature in the left set nor the right set.&lt;/p&gt;
+
+&lt;h3 id=&#34;fde-and-truth&#34;&gt;FDE and Truth&lt;/h3&gt;
+
+&lt;p&gt;The puzzle under consideration in this note arises from the behaviour of paradoxical sentences in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;. The details of the paradoxes are not important to us, but regardless, let&amp;rsquo;s consider a concrete case, the paradoxes of truth. We will consider a transparent account of truth, so let us focus on first order languages in which we have a one-place predicate \(T\) for truth. Since the truth predicate is a &lt;em&gt;predicate&lt;/em&gt;, it will apply to objects in the domain. To allow for fixed points (sentences which ascribe truth or falsity to sentences in the language, including themselves) we extend the language with quotation names for sentences in that very same language. So, for each sentence \(A\) we have a name \(\ulcorner A\urcorner\). Fixed point constructions for truth in the style of Kripke, Brady, Woodruff and Gilmore generate &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-interpretations for a language in which the sentence \(A\) and the sentence \(T\ulcorner A\urcorner\) are assigned the same semantic values. We will call such interpretations &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;\(^T\) interpretations. The construction method for &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;\(^T\)-interpretations assigns the extension of \(T\) in stages, keeping the rest of the evaluation as given, including the denotation for constants. The details of the proof are not important to us, but one essential idea is useful: the notion of &lt;em&gt;preservation&lt;/em&gt; between evaluations. For two evaluations \(\rho\) and \(\rho&amp;rsquo;\), we have \(\rho\sqsubseteq\rho&amp;rsquo;\) if and only if whenever \(\rho\) relates an atomic formula to a given truth value \(0\) or \(1\), so does \(\rho&amp;rsquo;\). It is a straightforward induction on the complexity of formulas that this then extends to all of the formulas in the language: for any formula \(A\), if \(A\rho 0\) then \(A\rho&amp;rsquo; 0\) too, and if \(A\rho 1\) then \(A\rho&amp;rsquo; 1\) too. The evaluations \(\rho\) and \(\rho&amp;rsquo;\) may still differ, because \(\rho\) might leave a &lt;em&gt;gap&lt;/em&gt; where \(\rho&amp;rsquo;\) fills in a value, \(0\) or \(1\), or where \(\rho\) assigned only one value, \(\rho&amp;rsquo;\) might assign &lt;em&gt;both&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The only requirement on quotation names for this fixed point construction to succeed is that quotation names for different sentences are different. This means that the construction will work &lt;em&gt;whatever&lt;/em&gt; we take the denotation of other constants to be. So, let&amp;rsquo;s consider a language with a countable supply of constants \(\lambda,\lambda_1,\lambda_2,\ldots\) whose denotation can be freely set however we please.&lt;/p&gt;
+
+&lt;p&gt;So &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; is the set of relational &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluations for this language in which \(T\) is a fixed point&amp;mdash;that is, for any sentence \(A\), that sentence receives the same evaluation as \(T\ulcorner A\urcorner\). &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; can also be considered as a theory (or bitheory), if we wish to consider what holds (and fails to hold) in all such evaluations. We can do the same for &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt;, when we restrict our attention to evaluations in which there are no truth value gluts or gaps respectively. Kripke&amp;rsquo;s original construction shows us how to make &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; evaluations, and the construction generalises to &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; straightforwardly.&lt;/p&gt;
+
+&lt;p&gt;Now, to consider the behaviour of the paradoxical sentences, let&amp;rsquo;s fix the referent of the term \(\lambda\) to be the same as the referent of  the quotation name \(\ulcorner\neg T\lambda\urcorner\), containing the term \(\lambda\) itself. It follows then that \(T\lambda\) has the same value as \(T\ulcorner\neg T\lambda\urcorner\), which has the same value as \(\neg T\lambda\). \(\lambda\) denotes a liar sentence, which says of itself that it&amp;rsquo;s not true. That is, the sentence \(\neg T\lambda\) (and its mate, \(T\lambda\)) must be assigned the value \(b\) or \(n\), since it is a fixed point for negation. The fixed point construction allows us to generate interpretations for the truth predicate in which sentences like \(\neg T\lambda\) have the value \(n\), and interpretations where those sentences have the value \(b\)&amp;mdash;in fact, one can make the fixed point construction purely in &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; or in &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt;&amp;mdash;and there are also mixed models in which some paradoxical sentences have the value \(n\) and others the value \(b\).&lt;/p&gt;
+
+&lt;p&gt;So, if we take &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; to be an adequate &lt;em&gt;logic&lt;/em&gt; of truth, then it seems as if we should be agnostic about whether a liar sentence like \(\neg T\lambda\) has value \(n\) or \(b\), unless we can find some consideration which breaks the tie between them. This position was named ``agnostaletheism&amp;rdquo;, by Terence Parsons (1990).&lt;/p&gt;
+
+&lt;p&gt;Perhaps there &lt;em&gt;is&lt;/em&gt; a tie-breaking consideration. If we were to be agnostic between assigning \(\neg T\lambda\) the value \(b\) and the value \(n\), this looks a lot like assigning the value \(n\). After all, according to both theories, we don&amp;rsquo;t assert \(T\lambda\) and we don&amp;rsquo;t assert its negation.  This is the puzzling question: Is there an instability in &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt;? Does &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; collapse into &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt;?&lt;/p&gt;
+
+&lt;h3 id=&#34;symmetry-in-fde-theories&#34;&gt;Symmetry in FDE Theories&lt;/h3&gt;
+
+&lt;p&gt;The profound symmetry between gaps and gluts in first degree entailment is manifest in the behaviour of the Routley star&amp;mdash;a function on evaluations&amp;mdash;introduced by Richard and Valerie Routley in the 1970s (Routley and Routley 1972). Given an evaluation \(\rho\), we can define its &lt;em&gt;dual&lt;/em&gt; evaluation \(\rho^\ast\) as follows:&lt;/p&gt;
+
+&lt;p&gt;For each \(n\)-place predicate \(F\), we set:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\(\langle d_1,\ldots,d_n\rangle\rho^\ast_F 1\) holds iff \(\langle d_1,\ldots,d_n\rangle\rho_F 0\) doesn&amp;rsquo;t hold.&lt;/li&gt;
+&lt;li&gt;\(\langle d_1,\ldots,d_n\rangle\rho^\ast_F 0\) holds iff \(\langle d_1,\ldots,d_n\rangle\rho_F 1\) doesn&amp;rsquo;t hold.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In other words, an atomic formula is &lt;em&gt;true&lt;/em&gt; according to \(\rho{^\ast}\) if and only if to \(\rho\) it is not false, and it is &lt;em&gt;false&lt;/em&gt; according to \(\rho{^\ast}\) if and only if to \(\rho\) it is not true. This means that atomic formulas which are \(t\) by \(\rho\)&amp;rsquo;s lights are also \(t\) by \(\rho^\ast\)&amp;rsquo;s, and similarly for \(f\). But a formula that is \(n\) according to \(\rho\) is \(b\) to \(\rho^\ast\), and a formula that is \(b\) according to \(\rho\) is \(n\) to \(\rho^\ast\). The dual evaluation turns gaps into gluts, and gluts into gaps, for atomic formulas.&lt;/p&gt;
+
+&lt;p&gt;This fact generalises to all of the formulas in the language of &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: For any formula \(A\) in the language of &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\(A\rho^\ast 1\) holds iff \(A\rho 0\) doesn&amp;rsquo;t hold.&lt;/li&gt;
+&lt;li&gt;\(A\rho^\ast 0\) holds iff \(A\rho 1\) doesn&amp;rsquo;t hold.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This fact is established by a simple induction on the complexity of the formula \(A\). The crucial feature of the connectives that makes this proof work is the balance between the positive and negative conditions in an evaluation \(\rho\). For example, with conjunction we have&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)&lt;/li&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) or \(B\rho_\alpha 0\)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So we can proceed as follows (assuming that the fact holds for the simpler formulas \(A\) and \(B\)), \((A\land B)\rho^\ast_\alpha 1\) iff \(A\rho^\ast_\alpha 1\) and \(B\rho^\ast_\alpha 1\) iff \(A\rho_\alpha 0\) doesn&amp;rsquo;t hold and \(B\rho_\alpha 0\) doesn&amp;rsquo;t hold, iff neither \(A\rho_\alpha 0\) nor \(B\rho_\alpha 0\) hold, iff \(A\land B\rho_\alpha 0\) doesn&amp;rsquo;t hold. We have appealed to the parallel between these two clauses:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 1\) holds iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\) don&amp;rsquo;t hold.&lt;/li&gt;
+&lt;li&gt;\((A\land B)\rho_\alpha 0\) doesn&amp;rsquo;t hold iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\) don&amp;rsquo;t hold.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the same way, for example, with the existential quantifier:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\((\exists x)A\rho_\alpha 1\) holds iff \(A\rho_{\alpha[x:=d]} 1\) holds for some \(d\) in \(D\).&lt;/li&gt;
+&lt;li&gt;\((\exists x)A\rho_\alpha 0\) doesn&amp;rsquo;t hold iff \(A\rho_{\alpha[x:=d]} 0\) doesn&amp;rsquo;t hold for some \(d\) in \(D\).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and the same form of argument applies. What holds for the existential quantifier and conjunction holds for the other connectives and quantifier of first degree entailment.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Excursus&lt;/em&gt;: This argument would fail if we had connectives or quantifiers in our language whose truth and falsity conditions are less well matched. For example, we could have a connective which is conjunctive with regard to truth and disjunctive with regard to falsity:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\((A\times B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)&lt;/li&gt;
+&lt;li&gt;\((A\times B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Given a evaluation \(\rho\) which relates the atomic formulas \(p\) to \(1\) only and \(q\) to \(0\) only, \(\rho^\ast\) does the same. According to both \(\rho\) and \(\rho^\ast\), \(p\times q\) is related to neither \(1\) nor \(0\), breaking the symmetry between gaps and gluts. &lt;em&gt;End of Excursus&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Routley star sends relational evaluations to relational evaluations. It does not send theories to theories. It is natural to define the star of a set of sentences as follows: For any set \(S\) of formulas, \(A\in S^\ast\) if and only if \(\neg A\not\in S\). However, the dual \(T^\ast\) of a theory  \(T\)is not always itself a theory. Take, for example, the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-theory \((\neg p\lor\neg q){\mathord\downarrow}\) consisting of all &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-consequences of \(\neg p\lor\neg q\) (it is the theory consisting of every sentence made true by by every evaluation \(\rho\) where either \(p\rho 0\) or \(q\rho 0\)). In particular, we have \(\neg p\lor\neg q\in (\neg p\lor\neg q){\mathord\downarrow}\) but \(\neg p\not\in (\neg p\lor\neg q){\mathord\downarrow}\) and \(\neg q\not\in (\neg p\lor\neg q){\mathord\downarrow}\). Now consider the dual set \((\neg p\lor\neg q){\mathord\downarrow}^\ast\). This is not a theory, because \(p\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg p\not\in(\neg p\lor\neg q){\mathord\downarrow})\)) and \(q\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg q\not\in(\neg p\lor\neg q){\mathord\downarrow})\)) but the conjunction is not in the set: \(p\land q\not\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg p\lor\neg q\in(\neg p\lor\neg q){\mathord\downarrow})\) ensures that \(\neg(p\land q)\in(\neg p\lor\neg q){\mathord\downarrow}\) too).&lt;/p&gt;
+
+&lt;p&gt;However, it is straightforward to show the following fact, relating the Routley star and &lt;em&gt;bi&lt;/em&gt;-theories.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: For any \(\mathcal M\)-bitheory \(\langle T,U\rangle\), the pair \(\langle \overline{U^\ast},\overline{T^\ast}\rangle\) is an \(\mathcal M^\ast\)-bitheory, where \(\overline{U^\ast}\) and \(\overline{T^\ast}\) are the sets of sentences &lt;em&gt;not&lt;/em&gt; in \(U^\ast\) and \(T^\ast\) respectively.&lt;/p&gt;
+
+&lt;p&gt;Here is why: The interpretation \(\rho\) is a counterexample to \(T \ydash U\) has a counterexample iff \(\rho^\ast\) is a counterexample to \(\neg U \ydash \neg T\). It follows that \(\overline{U^\ast}\ydash A,\overline{T^\ast}\) fails at \(\rho^\ast\) iff \(\neg\overline{T^\ast},\neg A\ydash\neg\overline{U^\ast}\) fails at \(\rho\), but that means \(T,\neg A\ydash U\) fails at \(\rho^\ast\). So, \(\overline{U^\ast}\ydash A,\overline{T^\ast}\) holds in \(\mathcal M^\ast\) iff \(T,\neg A\ydash U\) holds in \(\mathcal M\). So, since \(\langle T,U\rangle\) is an \(\mathcal M\)-bitheory, we have \(\neg A\in U\), which means \(A\in \overline{U^\ast}\) as desired. The case for \(\overline{U^\ast},A\ydash \overline{T^\ast}\) to \(A\in\overline{T^\ast}\) is dual.&lt;/p&gt;
+
+&lt;p&gt;Armed with these facts concerning the Routley star, we can attend to the behaviour of our theories (and bitheories) with gaps and gluts.&lt;/p&gt;
+
+&lt;h3 id=&#34;two-kinds-of-incompleteness&#34;&gt;Two Kinds of Incompleteness&lt;/h3&gt;
+
+&lt;p&gt;Theories in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; can be incomplete in two distinct ways. Consider the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;-theory consisting of every sentence true in those evaluations which relate \(p\) to \(1\) and relate \(q\) to neither \(0\) nor \(1\), and which relate \(r\) to either \(1\) or \(0\). This set of sentences contains \(p\) and it doesn&amp;rsquo;t contain \(\neg p\). It holds \(p\) to be &lt;em&gt;true&lt;/em&gt;. However, it is incomplete concerning \(q\) and \(r\)&amp;mdash;the theory doesn&amp;rsquo;t contain \(q\) or \(\neg q\), and it also doesn&amp;rsquo;t contain \(r\) or \(\neg r\). However, the theory has &lt;em&gt;settled&lt;/em&gt; \(q\) to be neither true nor false. (In all of the evaluations, \(q\) receives the value \(n\).) On the other hand, the value of \(r\) is &lt;em&gt;unsettled&lt;/em&gt;. In some evaluations, \(r\) is true, in others it is false.  In this way, &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; allows for two different kinds of incompleteness.&lt;/p&gt;
+
+&lt;p&gt;Now consider theories like &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt;. Recall, &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; is given by all &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluations for which \(T\ulcorner A\urcorner\) and \(A\) receive the same value, and  &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; is given by all &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; valuations with the same property. If we focus on the &lt;em&gt;theories&lt;/em&gt; determined by each class of valuations, we see that a liar sentence like \(T\lambda\) is &lt;em&gt;incomplete&lt;/em&gt; in both theories. In &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt;, it is because in any such valuation, \(T\lambda\) receives the value \(n\)&amp;mdash;it is never true. In &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; it is because in any such valuation, \(T\lambda\) either receives the value \(n\) or the value \(b\). In some valuations it is true (those where it is \(b\)) and in others, it fails to be true. Again, the theory is incomplete concerning \(T\lambda\).&lt;/p&gt;
+
+&lt;p&gt;Is there any way to distinguish these theories or distinguish this incompleteness?&lt;/p&gt;
+
+&lt;p&gt;In one sense, the answer will be &lt;em&gt;no&lt;/em&gt;. The following fact contains the core of the reason why:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: For any &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluation \(\rho\), the theory determined by \(\rho\) and the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; theory determined by the two evaluations \(\rho\) and \(\rho^\ast\) are identical.&lt;/p&gt;
+
+&lt;p&gt;It is easy to see that \(\rho\sqsubseteq \rho^\ast\) in the case where \(\rho\) is a &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluation. It follows that the truths according to \(\rho\) are exactly the truths according to both \(\rho\) and \(\rho^\ast\).&lt;/p&gt;
+
+&lt;p&gt;This fact &lt;em&gt;generalises&lt;/em&gt;. Consider an evaluation \(\rho\), which may involve both gaps and gluts. We can define the evaluation \(\rho^{n}\), which assigns \(n\) to any atomic formula assigned either \(n\) or \(b\) by \(\rho\), and which leaves \(t\) and \(f\) fixed. It is straightforward to see that \(\rho^{n}\sqsubseteq \rho\). We can also define the evaluation \(\rho^{b}\), which assigns \(b\) to any atomic formula assigned either \(n\) or \(b\) by \(\rho\), and which leaves \(t\) and \(f\) fixed. In this case, we have \(\rho\sqsubseteq \rho^b\). So, in general any &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluation \(\rho\) is sandwiched between a &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluation and an &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt; evaluation like so: \(\rho^n\sqsubseteq\rho\sqsubseteq \rho^b\).&lt;/p&gt;
+
+&lt;p&gt;The generalisation of our previous fact can now be stated:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: For any &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluation \(\rho\), the &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; theory determined by \(\rho^{n}\) and the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; theory determined by the two evaluations \(\rho\) and \(\rho^{n}\) are identical.&lt;/p&gt;
+
+&lt;p&gt;The proof is as before: Now \(\rho^n\sqsubseteq \rho\), so it follows that the truths according to \(\rho^n\) are exactly the truths according to both \(\rho^n\) and \(\rho\).&lt;/p&gt;
+
+&lt;p&gt;Now, the operation of sending all gaps and gluts either to &lt;em&gt;gaps&lt;/em&gt; or to &lt;em&gt;gluts&lt;/em&gt; does not disturb the logic of truth.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: If \(\rho\) is an &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; evaluation, then so are \(\rho^n\) and \(\rho^b\).&lt;/p&gt;
+
+&lt;p&gt;The only way that \(\rho^n\) could fail to be an an &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; evaluation is if for some formula \(A\), the values in \(\rho^n\) of \(A\) and \(T\ulcorner A\urcorner\) differ. But if values of two formulas differ in \(\rho^n\), they also differ in \(\rho\). (The same holds for \(\rho^b\), too.)&lt;/p&gt;
+
+&lt;p&gt;Now we can state our general fact, concerning truth theories in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;. The basic idea is that the theories are identical, since theories that take the paradoxical sentences to be \(n\) and those that are agnostic between \(n\) and \(b\) take the same claims to be &lt;em&gt;true&lt;/em&gt;. This is fair enough as far as it goes, but stated in this bald way, it does not go very far at all. The theories &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; &lt;em&gt;obviously&lt;/em&gt; have the same theorems&amp;mdash;they both have &lt;em&gt;no&lt;/em&gt; theorems. The &lt;em&gt;silent&lt;/em&gt; evaluation which sends absolutely every every formula to \(n\) is a &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; (and hence, &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt;) evaluation, and this shows that both &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; have no theorems at all. So, merely showing that &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; share theorems does not say very much at all. We can do much better than this.&lt;/p&gt;
+
+&lt;p&gt;Suppose we have a set \(\mathcal M\) of evaluations, such that whenever \(\rho\in\mathcal M\) we also have \(\rho^n\in \mathcal M\). Let \(\mathcal M^n\) be the set of &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluations in \(\mathcal M\)&amp;mdash;so \({\mathcal M^n}=\lbrace\rho^n:\rho\in\mathcal M\rbrace\). We have the following result:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: The theory \(T_\mathcal{M}\) of sentences true in all evaluations in \(\mathcal{M}\) is identical to the theory \(T_{\mathcal{M}^n}\), of sentences  in all evaluations in \(\mathcal{M}^n\).&lt;/p&gt;
+
+&lt;p&gt;Clearly \(T_\mathcal{M}\subseteq T_{\mathcal M^n}\). To show the converse, suppose the formula \(A\) is not in \(T_\mathcal{M}\). So, it fails to be true on some evaluation \(\rho\in\mathcal{M}\). It also fails in \(\rho^n\), which is in \(\mathcal{M^n}\).&lt;/p&gt;
+
+&lt;p&gt;So, for example, if we have some &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; valuation \(\rho\) for a language without the truth predicate, and we consider the set \(\mathcal M\) of all &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; evaluations, extending \(\rho\) with a truth predicate. Here, grounded \(T\)-sentences will receive values as determined by the underlying valuation \(\rho\), while other sentences will vary among all four values, \(t\), \(f\), \(n\) and \(b\), constrained only by the requirement that \(A\) and \(T\ulcorner A\urcorner\) agree in value. The set \(\mathcal M^n\) is the subset of such evaluations in which the \(T\)-sentences receive the values \(t\), \(f\) or \(n\), not \(b\). Our fact tells us the theories of \(\mathcal M\) and \(\mathcal M^n\) are indistinguishable. At the level of theories, we cannot distinguish between paradoxical sentences determinately receiving a gap value, and agnosticism between gaps and gluts.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, we don&amp;rsquo;t need to remain at the level of &lt;em&gt;theories&lt;/em&gt;. The sets \(\mathcal M\) and \(\mathcal M^n\) determine the same set of theorems, but they determine different sets of _co_theorems. While they rule &lt;em&gt;in&lt;/em&gt; the same sentences, they rule out different sentences. The liar sentence \(\neg T\lambda\) is &lt;em&gt;true&lt;/em&gt; in some valuations in \(\mathcal M\) (those that assign it the value \(b\)) while it is true in no valuations in \(\mathcal M^n\). In all valuations in \(\mathcal M^n\) a liar sentence must receive the value \(n\), so it is true in no valuation at all.  The &lt;em&gt;untruths&lt;/em&gt; of \(\mathcal M\) differ from the untruths of \(\mathcal M^n\).&lt;/p&gt;
+
+&lt;p&gt;If we attend to bitheories, the symmetry between gaps and gluts is completely restored. For our facts concerning gaps, we have matching facts concerning gluts.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: For any &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; evaluation \(\rho\), the &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt; cotheory determined by \(\rho^{b}\) (the formulas \(U_{\rho^b}\) untrue in \(\rho^b\)) and the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; cotheory determined by the two evaluations \(\rho\) and \(\rho^{b}\) (the formulas \(U_{\lbrace\rho,\rho^b\rbrace}\)) are identical.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: If \(\mathcal M\) is a set of valuations where for every \(\rho\) in \(\mathcal M\) the valuation\(\rho^b\) is also in \(\mathcal M\), then the cotheory \(U_\mathcal{M}\) of sentences untrue in all evaluations in \(\mathcal{M}\) is identical to the cotheory \(U_{\mathcal{M}^b}\), of sentences untrue in all evaluations in \(\mathcal{M}^b\).&lt;/p&gt;
+
+&lt;p&gt;Symmetry is regained, and we can distinguish between agnostalethism concerning paradoxical sentences and those views which assign them a gap, or assign them a glut. Glut views are distinguished from agnostaletheism as &lt;em&gt;theories&lt;/em&gt;&amp;mdash;they hold different things to be true, while gap views are distinguished from
+agnostaletheism as &lt;em&gt;cotheories&lt;/em&gt;&amp;mdash;they hold different things to be untrue.&lt;/p&gt;
+
+&lt;p&gt;That is all well and good when it comes to formally distinguishing these three views of paradoxical sentences. However, the puzzle wasn&amp;rsquo;t just a puzzle about the formal development of these views. It is also a puzzle concerning what it is to &lt;em&gt;hold&lt;/em&gt; those views, and this issue remains, even if we reject the model theory and the technical devices of theories, cotheories and bitheories.&lt;/p&gt;
+
+&lt;h3 id=&#34;assertion-and-denial-in-fde-k3-and-lp&#34;&gt;Assertion and Denial in FDE, K3 and LP&lt;/h3&gt;
+
+&lt;p&gt;To answer the puzzle in those terms, we should say something about the speech acts of assertion and denial, or the cognitive states of accepting and rejecting. These are the practical analogues of the theoretical and abstract notions of theory and cotheory.  To connect talk of accepting and rejecting (or assertion and denial) with logical notions, we need some kind of bridge principle. A principle I have endorsed elsewhere (Restall 2005, 2013, 2015) goes like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;bridge principle 1&lt;/span&gt;: If the sequent \(X\ydash Y\) is valid, then don&amp;rsquo;t accept (or assert) every member of \(X\) and reject (or deny) every member of \(Y\).&lt;/p&gt;
+
+&lt;p&gt;To constrain what you accept and reject in line with such a bridge principle is to maintain a kind of coherence in your cognitive state. Since \(A\lor B\ydash A,B\) is valid, you would not accept the disjunction \(A\lor B\) and reject both disjuncts \(A\) and \(B\). If (as &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt; would have it) \(\ydash C\lor \neg C\) is valid, you would not reject that instance of the law of the excluded middle. If (as &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; would have it) \(D\land\neg D\ydash\) is valid, you would not accept that contradiction.&lt;/p&gt;
+
+&lt;p&gt;With this bridge principle at hand, we can distinguish the agnostaletheist (who uses a range of &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; valuations to define validity), the &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;-theorist (who restricts her attention to &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; valuations) and the &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt;-theorist (who restricts his attention to &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt; valuations). The &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; theorist will not accept any contradiction. Contradictions are never true in any evaluation of theirs. The &lt;span class=&#34;caps&#34;&gt;lp&lt;/span&gt; theorist will never reject any excluded middle. Excluded middle disjunctions are never untrue in their evaluations. The &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; theorist, on the other hand, can reject excluded middles and accept contradictions. That concerns &lt;em&gt;validity&lt;/em&gt; and the first bridge principle, which amounts to a kind of coherence (or consistency) principle.&lt;/p&gt;
+
+&lt;p&gt;To accept a contingent &lt;em&gt;theory&lt;/em&gt;, or &lt;em&gt;bitheory&lt;/em&gt; \(\langle T,U\rangle\) is to constrain your acceptings and rejectings further.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;caps&#34;&gt;bridge principle 2&lt;/span&gt;: To accept a bitheory \(\langle T,U\rangle\) is to accept each member of \(T\) and to reject each member of \(U\).&lt;/p&gt;
+
+&lt;p&gt;This constraint is compatible with the first bridge principle if pair \(\langle T,U\rangle\) is indeed a bitheory. In that case, the sequent \(T\ydash U\) is not valid (if it were, then each formula \(A\) would be in \(T\), since \(T\ydash A,U\) is valid, and in \(U\), since \(T,A\ydash U\) is valid, but that is impossible, since \(T\) and \(U\) are, by definition, disjoint), so there is no issue with accepting all of \(T\) and rejecting all of \(U\).&lt;/p&gt;
+
+&lt;p&gt;If we consider our three different views of the truth predicate (1) &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; allowing both gaps and gluts, (2) &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; allowing only gaps, and (3) &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt; allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt bridge principle 2 for each bitheory in turn. If we accept &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt;, we reject all contradictions, even those involving the liar sentence \(T\lambda\land\neg T\lambda\). If we accept &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt;, we accept all excluded middles, including the excluded middle involving the liar: \(T\lambda\lor\neg T\lambda\). But the agnostalethic position, accepting &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; commits us to neither: we are free to accept
+the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  \(T\lambda\lor\neg T\lambda\).&lt;/p&gt;
+
+&lt;p&gt;So, an agnostaletheist and a gap theorist indeed agree on what to accept, but they disagree on what is to be rejected. In a similar way, an agnostaletheist and an glut theorist agree on what to reject, but they disagree on what to accept. Keeping the symmetry between accepting and rejecting in view, we have parity between gaps and gluts, and the agnostalethic position can be distinguished from its two neighbours.&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Terence Parsons (1990), “&lt;a href=&#34;http://www.jstor.org/stable/40231701&#34;&gt;True Contradictions&lt;/a&gt;”
+&lt;em&gt;Canadian Journal of Philosophy&lt;/em&gt; 20:3, 335-353&lt;/p&gt;
+
+&lt;p&gt;Graham Priest (2008), &lt;a href=&#34;https://www.amazon.com/Introduction-Non-Classical-Logic-Introductions-Philosophy/dp/0521670268/consequentlyorg&#34;&gt;&lt;em&gt;An Introduction to Non-Classical Logic&lt;/em&gt;: &lt;em&gt;From If to Is&lt;/em&gt;&lt;/a&gt;, Second Edition, Cambridge University Press.&lt;/p&gt;
+
+&lt;p&gt;Greg Restall (2005) “&lt;a href=&#34;https://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;,” pages 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings&amp;rsquo; College Publications.&lt;/p&gt;
+
+&lt;p&gt;Greg Restall (2013) “&lt;a href=&#34;https://consequently.org/writing/adnct&#34;&gt;Assertion, Denial and Non-Classical Theories&lt;/a&gt;,” pp. 81–99 in &lt;em&gt;Paraconsistency&lt;/em&gt;: &lt;em&gt;Logic and Applications&lt;/em&gt;, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli.&lt;/p&gt;
+
+&lt;p&gt;Greg Restall (2015) “&lt;a href=&#34;https://consequently.org/writing/assertiondenialparadox/&#34;&gt;Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox&lt;/a&gt;,” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.&lt;/p&gt;
+
+&lt;p&gt;Richard Routley and Val Routley (1972) “&lt;a href=&#34;http://www.jstor.org/stable/2214309&#34;&gt;The Semantics of First Degree Entailment&lt;/a&gt;,” &lt;em&gt;No&amp;ucirc;s&lt;/em&gt; 6:4, 335&amp;ndash;359.&lt;/p&gt;
+</description>
+</item>
+    
 <item>
 <title>PHIL30043: The Power and Limits of Logic</title>
 <link>https://consequently.org/class/2016/PHIL30043/</link>
@@ -1347,19 +1607,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;/figure&gt;
 
 &lt;p&gt;This entry was originally published at &lt;a href=&#34;http://www.tear.org.au/news/sydney-road-street-festival&#34;&gt;TEAR News&lt;/a&gt;. Visit the &lt;a href=&#34;http://www.tear.org.au/act/tear-groups&#34;&gt;TEAR site&lt;/a&gt; for more information about &lt;a href=&#34;http://www.tear.org.au/act/tear-groups&#34;&gt;TEAR Groups near you&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Our Thinking Behind Logic Teaching on Coursera</title>
-<link>https://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</link>
-<pubDate>Mon, 16 Mar 2015 14:46:22 AEDT</pubDate>
-<guid>https://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</guid>
-<description>&lt;p&gt;Just today, I stumbled across &lt;a href=&#34;https://vimeo.com/102098742&#34;&gt;a video of an interview with me from 2013&lt;/a&gt;, explaining our thinking behind &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera/&#34;&gt;teaching introductory logic&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera/&#34;&gt;on Coursera&lt;/a&gt;, and the connections between this and &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;classroom teaching&lt;/a&gt;. Come for the ideas, stay for the crazy hand gestures.&lt;/p&gt;
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/102098742&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/div&gt;
 </description>
 </item>
     
