@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 27 Jul 2016 00:56:47 AEST</updated>
+    <updated>Wed, 27 Jul 2016 01:00:21 AEST</updated>
 
 
 <item>
@@ -238,7 +238,7 @@ In both cases, an &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; interpretati
 
 &lt;p&gt;So, for example, if we have some &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; valuation \(\rho\) for a language without the truth predicate, and we consider the set \(\mathcal M\) of all &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; evaluations, extending \(\rho\) with a truth predicate. Here, grounded \(T\)-sentences will receive values as determined by the underlying valuation \(\rho\), while other sentences will vary among all four values, \(t\), \(f\), \(n\) and \(b\), constrained only by the requirement that \(A\) and \(T\ulcorner A\urcorner\) agree in value. The set \(\mathcal M^n\) is the subset of such evaluations in which the \(T\)-sentences receive the values \(t\), \(f\) or \(n\), not \(b\). Our fact tells us the theories of \(\mathcal M\) and \(\mathcal M^n\) are indistinguishable. At the level of theories, we cannot distinguish between paradoxical sentences determinately receiving a gap value, and agnosticism between gaps and gluts.&lt;/p&gt;
 
-&lt;p&gt;Thankfully, we don&amp;rsquo;t need to remain at the level of &lt;em&gt;theories&lt;/em&gt;. The sets \(\mathcal M\) and \(\mathcal M^n\) determine the same set of theorems, but they determine different sets of _co_theorems. While they rule &lt;em&gt;in&lt;/em&gt; the same sentences, they rule out different sentences. The liar sentence \(\neg T\lambda\) is &lt;em&gt;true&lt;/em&gt; in some valuations in \(\mathcal M\) (those that assign it the value \(b\)) while it is true in no valuations in \(\mathcal M^n\). In all valuations in \(\mathcal M^n\) a liar sentence must receive the value \(n\), so it is true in no valuation at all.  The &lt;em&gt;untruths&lt;/em&gt; of \(\mathcal M\) differ from the untruths of \(\mathcal M^n\).&lt;/p&gt;
+&lt;p&gt;Thankfully, we don&amp;rsquo;t need to remain at the level of &lt;em&gt;theories&lt;/em&gt;. The sets \(\mathcal M\) and \(\mathcal M^n\) determine the same set of theorems, but they determine different sets of cotheorems. While they rule &lt;em&gt;in&lt;/em&gt; the same sentences, they rule out different sentences. The liar sentence \(\neg T\lambda\) is &lt;em&gt;true&lt;/em&gt; in some valuations in \(\mathcal M\) (those that assign it the value \(b\)) while it is true in no valuations in \(\mathcal M^n\). In all valuations in \(\mathcal M^n\) a liar sentence must receive the value \(n\), so it is true in no valuation at all.  The &lt;em&gt;untruths&lt;/em&gt; of \(\mathcal M\) differ from the untruths of \(\mathcal M^n\).&lt;/p&gt;
 
 &lt;p&gt;If we attend to bitheories, the symmetry between gaps and gluts is completely restored. For our facts concerning gaps, we have matching facts concerning gluts.&lt;/p&gt;
 
