@@ -218,14 +218,14 @@ To constrain what you accept and reject in line with such a bridge principle is 
 
 With this bridge principle at hand, we can distinguish the agnostaletheist (who uses a range of <span class="caps">fde\\(^T\\)</span> valuations to define validity), the <span class="caps">k3</span>-theorist (who restricts her attention to <span class="caps">k3\\(^T\\)</span> valuations) and the <span class="caps">lp</span>-theorist (who restricts his attention to <span class="caps">lp\\(^T\\)</span> valuations). The <span class="caps">k3</span> theorist will not accept any contradiction. Contradictions are never true in any evaluation of theirs. The <span class="caps">lp</span> theorist will never reject any excluded middle. Excluded middle disjunctions are never untrue in their evaluations. The <span class="caps">fde</span> theorist, on the other hand, can reject excluded middles and accept contradictions. That concerns _validity_ and the first bridge principle, which amounts to a kind of coherence (or consistency) principle.
 
-To accept a contingent _theory_, or _bitheory_ \\(\langle T,U\rangle\\) is to constrain your acceptings and rejectings further. 
+To accept a contingent _theory_, or better, the _bitheory_ \\(\langle T,U\rangle\\) is to constrain your acceptings and rejectings further. 
 
 <span class="caps">bridge principle 2</span>: To accept a bitheory \\(\langle T,U\rangle\\) is to accept each member of \\(T\\) and to reject each member of \\(U\\). 
 
 This constraint is compatible with the first bridge principle if pair \\(\langle T,U\rangle\\) is indeed a bitheory. In that case, the sequent \\(T\ydash U\\) is not valid (if it were, then each formula \\(A\\) would be in \\(T\\), since \\(T\ydash A,U\\) is valid, and in \\(U\\), since \\(T,A\ydash U\\) is valid, but that is impossible, since \\(T\\) and \\(U\\) are, by definition, disjoint), so there is no issue with accepting all of \\(T\\) and rejecting all of \\(U\\).
 
 
-If we consider our three different views of the truth predicate (1) <span class="caps">fde\\(^T\\)</span> allowing both gaps and gluts, (2) <span class="caps">k3\\(^T\\)</span> allowing only gaps, and (3) <span class="caps">lp\\(^T\\)</span> allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt bridge principle 2 for each bitheory in turn. If we accept <span class="caps">k3\\(^T\\)</span>, we reject all contradictions, even those involving the liar sentence \\(T\lambda\land\neg T\lambda\\). If we accept <span class="caps">lp\\(^T\\)</span>, we accept all excluded middles, including the excluded middle involving the liar: \\(T\lambda\lor\neg T\lambda\\). But the agnostalethic position, accepting <span class="caps">fde\\(^T\\)</span>, commits us to neither: we are free to accept 
+If we consider our three different views of the truth predicate (1) <span class="caps">fde\\(^T\\)</span> allowing both gaps and gluts, (2) <span class="caps">k3\\(^T\\)</span> allowing only gaps, and (3) <span class="caps">lp\\(^T\\)</span> allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt *bridge principle 2* for each bitheory in turn. If we accept <span class="caps">k3\\(^T\\)</span>, we reject all contradictions, even those involving the liar sentence \\(T\lambda\land\neg T\lambda\\). If we accept <span class="caps">lp\\(^T\\)</span>, we accept all excluded middles, including the excluded middle involving the liar: \\(T\lambda\lor\neg T\lambda\\). But the agnostalethic position, accepting <span class="caps">fde\\(^T\\)</span>, commits us to neither: we are free to accept 
 the contradiction  \\(T\lambda\land\neg T\lambda\\) or to reject the disjunction  \\(T\lambda\lor\neg T\lambda\\).
 
 So, an agnostaletheist and a gap theorist indeed agree on what to accept, but they disagree on what is to be rejected. In a similar way, an agnostaletheist and an glut theorist agree on what to reject, but they disagree on what to accept. Keeping the symmetry between accepting and rejecting in view, we have parity between gaps and gluts, and the agnostalethic position can be distinguished from its two neighbours.
@@ -234,7 +234,7 @@ So, an agnostaletheist and a gap theorist indeed agree on what to accept, but th
 
 
 Terence Parsons (1990), “[True Contradictions](http://www.jstor.org/stable/40231701)”
-*Canadian Journal of Philosophy* 20:3, 335-353
+*Canadian Journal of Philosophy* 20:3, 335-353.
 
 Graham Priest (2008), [*An Introduction to Non-Classical Logic*: *From If to Is*](https://www.amazon.com/Introduction-Non-Classical-Logic-Introductions-Philosophy/dp/0521670268/consequentlyorg), Second Edition, Cambridge University Press.
 
