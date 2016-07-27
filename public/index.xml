@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 27 Jul 2016 11:40:00 AEST</updated>
+    <updated>Wed, 27 Jul 2016 11:40:51 AEST</updated>
 
 
 <item>
@@ -232,7 +232,7 @@ In both cases, an &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; interpretati
 
 &lt;p&gt;Now we can state our general fact, concerning truth theories in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt;. The basic idea is that the theories are identical, since theories that take the paradoxical sentences to be \(n\) and those that are agnostic between \(n\) and \(b\) take the same claims to be &lt;em&gt;true&lt;/em&gt;. This is fair enough as far as it goes, but stated in this bald way, it does not go very far at all. The theories &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; &lt;em&gt;obviously&lt;/em&gt; have the same theorems&amp;mdash;they both have &lt;em&gt;no&lt;/em&gt; theorems. The &lt;em&gt;silent&lt;/em&gt; evaluation which sends absolutely every every formula to \(n\) is a &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; (and hence, &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt;) evaluation, and this shows that both &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; have no theorems at all. So, merely showing that &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; and &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; share theorems does not say very much at all. We can do much better than this.&lt;/p&gt;
 
-&lt;p&gt;Suppose we have a set \(\mathcal M\) of evaluations, such that whenever \(\rho\in\mathcal M\) we also have \(\rho^n\in \mathcal M\). Let \(\mathcal M^n\) be the set of &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluations in \(\mathcal M\)&amp;mdash;so \({\mathcal M^n}=\lbrace\rho^n:\rho\in\mathcal M\rbrace\). We have the following result:&lt;/p&gt;
+&lt;p&gt;Suppose we have a set \(\mathcal M\) of evaluations, such that whenever \(\rho\in\mathcal M\) we also have \(\rho^n\in \mathcal M\). Let \(\mathcal M^n\) be the set of &lt;span class=&#34;caps&#34;&gt;k3&lt;/span&gt; evaluations in \(\mathcal M\)&amp;mdash;so \({\mathcal M^n}\) is \(\lbrace\rho^n:\rho\in\mathcal M\rbrace\). We have the following result:&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&#34;caps&#34;&gt;fact&lt;/span&gt;: The theory \(T_\mathcal{M}\) of sentences true in all evaluations in \(\mathcal{M}\) is identical to the theory \(T_{\mathcal{M}^n}\), of sentences  in all evaluations in \(\mathcal{M}^n\).&lt;/p&gt;
 
