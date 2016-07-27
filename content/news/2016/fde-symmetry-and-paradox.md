@@ -5,7 +5,9 @@ description = "I attempt to answer a puzzle about paradoxes, truth value gaps an
 
 +++
 
-Talking to [Jc Beall](http://entailments.net) during his recent visit to Australia got me thinking about *first degree entailment* again. Here is a puzzle, which I learned from Terence Parsons in his “[True Contradictions](http://www.jstor.org/stable/40231701)”. First degree entailment (FDE) is a logic which allows for truth value *gaps* as well as truth value *gluts*.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you're happy with FDE), then how does this differ, in effect, from assigning them a _gap_ value? After all, on both views you end up with a theory that doesn't commit you to the paradoxical sentence or its negation. 
+Talking to [Jc Beall](http://entailments.net) during his recent visit to Australia, I got thinking about *first degree entailment* again. 
+
+Here is a puzzle, which I learned from Terence Parsons in his “[True Contradictions](http://www.jstor.org/stable/40231701)”. *First Degree Entailment* (FDE) is a logic which allows for truth value *gaps* as well as truth value *gluts*.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you're happy with FDE), then how does this differ, in effect, from assigning them a _gap_ value? After all, on both views you end up with a theory that doesn't commit you to the paradoxical sentence or its negation. 
 
 I think I have a clear answer to this puzzle---an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone. But to explain the answer and show how it works, I need to spell things out in more detail. If you want to see how the answer goes, read on. 
 
