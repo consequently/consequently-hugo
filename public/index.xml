@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 27 Jul 2016 11:33:07 AEST</updated>
+    <updated>Wed, 27 Jul 2016 11:36:01 AEST</updated>
 
 
 <item>
@@ -38,9 +38,9 @@
 
 &lt;p&gt;Talking to &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt; during his recent visit to Australia, I got thinking about &lt;em&gt;first degree entailment&lt;/em&gt; again.&lt;/p&gt;
 
-&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his “&lt;a href=&#34;http://www.jstor.org/stable/40231701&#34;&gt;True Contradictions&lt;/a&gt;”. &lt;em&gt;First Degree Entailment&lt;/em&gt; (FDE) is a logic which allows for truth value &lt;em&gt;gaps&lt;/em&gt; as well as truth value &lt;em&gt;gluts&lt;/em&gt;.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you&amp;rsquo;re happy with FDE), then how does this differ, in effect, from assigning them a &lt;em&gt;gap&lt;/em&gt; value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation.&lt;/p&gt;
+&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his “&lt;a href=&#34;http://www.jstor.org/stable/40231701&#34;&gt;True Contradictions&lt;/a&gt;”. &lt;em&gt;First Degree Entailment&lt;/em&gt; (&lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;) is a logic which allows for truth value &lt;em&gt;gaps&lt;/em&gt; as well as truth value &lt;em&gt;gluts&lt;/em&gt;.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you&amp;rsquo;re happy with &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;), then this looks no different, in effect, from assigning them a &lt;em&gt;gap&lt;/em&gt; value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation.  How is the &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt; theory any different from the theory with gaps alone?&lt;/p&gt;
 
-&lt;p&gt;I think I have a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone. But to explain the answer and show how it works, I need to spell things out in more detail. If you want to see how the answer goes, read on.&lt;/p&gt;
+&lt;p&gt;I think I have a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone. But to explain the answer and show how it works, I need to spell things out in more detail. If you want to see how this answer goes, read on.&lt;/p&gt;
 
 &lt;p&gt;First degree entailment (&lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;) is a logic well suited to fixed point solutions to the paradoxes. Perhaps it is &lt;em&gt;too&lt;/em&gt; well suited, because it allows paradoxical sentences to be evaluated in two distinct ways: Paradoxical sentences can be assigned the value \(n\) (neither true nor false: \(\lbrace\rbrace\)) or \(b\) (both true and false&amp;mdash;or \(\lbrace 0,1\rbrace\)) equally well. Are two possible values better than one? And more importantly, is agnosticism between &lt;em&gt;which&lt;/em&gt; value to assign a paradoxical sentence like the liar&amp;mdash;a stance Terence Parsons calls “agnostaletheism”&amp;mdash;any different from assigning it the truth value \(n\) instead of \(b\)? After all, on either stance, neither the liar sentence nor its negation are to be accepted. In this note, I explore the symmetry that is available in &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;, and I show how agnostaletheism may be clearly distinguished from the view according to which paradoxes are simply neither true nor false.&lt;/p&gt;
 
