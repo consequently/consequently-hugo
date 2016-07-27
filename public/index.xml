@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 27 Jul 2016 11:37:43 AEST</updated>
+    <updated>Wed, 27 Jul 2016 11:39:24 AEST</updated>
 
 
 <item>
@@ -269,7 +269,7 @@ agnostaletheism as &lt;em&gt;cotheories&lt;/em&gt;&amp;mdash;they hold different
 
 &lt;p&gt;This constraint is compatible with the first bridge principle if pair \(\langle T,U\rangle\) is indeed a bitheory. In that case, the sequent \(T\ydash U\) is not valid (if it were, then each formula \(A\) would be in \(T\), since \(T\ydash A,U\) is valid, and in \(U\), since \(T,A\ydash U\) is valid, but that is impossible, since \(T\) and \(U\) are, by definition, disjoint), so there is no issue with accepting all of \(T\) and rejecting all of \(U\).&lt;/p&gt;
 
-&lt;p&gt;If we consider our three different views of the truth predicate (1) &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; allowing both gaps and gluts, (2) &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; allowing only gaps, and (3) &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt; allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt bridge principle 2 for each bitheory in turn. If we accept &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt;, we reject all contradictions, even those involving the liar sentence \(T\lambda\land\neg T\lambda\). If we accept &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt;, we accept all excluded middles, including the excluded middle involving the liar: \(T\lambda\lor\neg T\lambda\). But the agnostalethic position, accepting &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; commits us to neither: we are free to accept
+&lt;p&gt;If we consider our three different views of the truth predicate (1) &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt; allowing both gaps and gluts, (2) &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt; allowing only gaps, and (3) &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt; allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt bridge principle 2 for each bitheory in turn. If we accept &lt;span class=&#34;caps&#34;&gt;k3\(^T\)&lt;/span&gt;, we reject all contradictions, even those involving the liar sentence \(T\lambda\land\neg T\lambda\). If we accept &lt;span class=&#34;caps&#34;&gt;lp\(^T\)&lt;/span&gt;, we accept all excluded middles, including the excluded middle involving the liar: \(T\lambda\lor\neg T\lambda\). But the agnostalethic position, accepting &lt;span class=&#34;caps&#34;&gt;fde\(^T\)&lt;/span&gt;, commits us to neither: we are free to accept
 the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  \(T\lambda\lor\neg T\lambda\).&lt;/p&gt;
 
 &lt;p&gt;So, an agnostaletheist and a gap theorist indeed agree on what to accept, but they disagree on what is to be rejected. In a similar way, an agnostaletheist and an glut theorist agree on what to reject, but they disagree on what to accept. Keeping the symmetry between accepting and rejecting in view, we have parity between gaps and gluts, and the agnostalethic position can be distinguished from its two neighbours.&lt;/p&gt;
