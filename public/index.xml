@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 27 Jul 2016 11:44:48 AEST</updated>
+    <updated>Fri, 05 Aug 2016 17:38:32 AEST</updated>
 
 
 <item>
@@ -67,7 +67,7 @@ Given a non-empty domain \(D\) of objects, an &lt;span class=&#34;caps&#34;&gt;f
 
 &lt;p&gt;The only deviation from classical first order predicate logic is that we allow for truth value gaps (\(\rho\) may fail to relate a given formula to a truth value) or gluts (\(\rho\) may relate a given formula to both truth values). Indeed, these features are, in a sense, &lt;em&gt;modular&lt;/em&gt;. It is straightforward to show that if a given interpretation \(\rho\) is a partial function on the basic vocabulary of a language (if it never over-assigns values to the extension of any predicate in that language), then it remains so over every sentence in that language. Those sentences can be assigned gaps, but no gluts. Similarly, if an interpretation is decisive over the basic vocabulary of some language (it never under-assigns values to the extensions of any predicate in that language), then it remains so over every sentence of that language. These sentences can be assigned gluts, but no gaps. If an evaluation is &lt;em&gt;sharp&lt;/em&gt; (if it allows for neither gaps nor gluts in the interpretation of any predicate), then it remains so over the whole language.&lt;/p&gt;
 
-&lt;p&gt;Relational evaluations are a natural model for &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;. They show it to be an elemenary generalisation of classical logic, allowing for gaps between truth values and over-assignment of those values. The interpretation of the connectives and the quantifiers remains as classical as in two-valued logic, except for the generalisation to allow for gaps and gluts between the two semantic values.&lt;/p&gt;
+&lt;p&gt;Relational evaluations are a natural model for &lt;span class=&#34;caps&#34;&gt;fde&lt;/span&gt;. They show it to be an elementary generalisation of classical logic, allowing for gaps between truth values and over-assignment of those values. The interpretation of the connectives and the quantifiers remains as classical as in two-valued logic, except for the generalisation to allow for gaps and gluts between the two semantic values.&lt;/p&gt;
 
 &lt;h3 id=&#34;fde-and-four-values&#34;&gt;FDE and four values&lt;/h3&gt;
 
