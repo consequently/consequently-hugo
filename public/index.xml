@@ -26,9 +26,34 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 05 Aug 2016 17:38:32 AEST</updated>
+    <updated>Tue, 09 Aug 2016 22:13:31 AEST</updated>
 
 
+<item>
+<title>What Proofs and Truthmakers are About</title>
+<link>https://consequently.org/presentation/2016/what-proofs-are-about/</link>
+<pubDate>Tue, 05 Jul 2016 00:00:00 UTC</pubDate>
+<guid>https://consequently.org/presentation/2016/what-proofs-are-about/</guid>
+<description>&lt;p&gt;I was originally scheduled to give a talk entitled “What Proofs are About” at the &lt;a href=&#34;http://philevents.org/event/show/24086&#34;&gt;&lt;em&gt;About Aboutness&lt;/em&gt; Workshop&lt;/a&gt; at the University of Melbourne on Saturday, July 16, 2016, but my plane back to Melbourne was delayed and I didn&amp;rsquo;t get to present the paper then.&lt;/p&gt;
+
+&lt;p&gt;So, I&amp;rsquo;m presenting it at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how three different approaches to subject matter treat some pairs of statements that say &lt;em&gt;different things&lt;/em&gt; but are (classically) logically equivalent. The pairs are&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;\(p\lor\neg p\) and \(\top\)&lt;/li&gt;
+&lt;li&gt;\(p\lor(p\land q)\) and \(p\)&lt;/li&gt;
+&lt;li&gt;\((p\lor\neg p)\lor(q\lor\neg q)\) and \((p\lor\neg p)\land(q\lor\neg q)\).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I compare and contrast the notion of subject matter introduced in Stephen Yablo&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;,” and the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/what-proofs-are-about.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
 <item>
 <title>First Degree Entailment, Symmetry and Paradox</title>
 <link>https://consequently.org/news/2016/fde-symmetry-and-paradox/</link>
@@ -486,29 +511,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>What Proofs and Truthmakers are About</title>
-<link>https://consequently.org/presentation/2016/what-proofs-are-about/</link>
-<pubDate>Tue, 05 Jul 2016 00:00:00 UTC</pubDate>
-<guid>https://consequently.org/presentation/2016/what-proofs-are-about/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “What Proofs are About” at the &lt;a href=&#34;http://philevents.org/event/show/24086&#34;&gt;&lt;em&gt;About Aboutness&lt;/em&gt; Workshop&lt;/a&gt; at the University of Melbourne on Saturday, July 16, 2016.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how three different approaches to subject matter treat some pairs of statements that say &lt;em&gt;different things&lt;/em&gt; but are (classically) logically equivalent. The pairs are&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;\(p\lor\neg p\) and \(\top\)&lt;/li&gt;
-&lt;li&gt;\(p\lor(p\land q)\) and \(p\)&lt;/li&gt;
-&lt;li&gt;\((p\lor\neg p)\lor(q\lor\neg q)\) and \((p\lor\neg p)\land(q\lor\neg q)\).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I compare and contrast the notion of subject matter introduced in Stephen Yablo&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;,” and the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/what-proofs-are-about.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
