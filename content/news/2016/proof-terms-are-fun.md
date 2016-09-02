@@ -1,6 +1,9 @@
 +++
 date = "2016-09-02T17:35:21+11:00"
 title = "Proof Terms are fun"
+description = "I scribbled out a large annotated sequent derivation on my whiteboard. Here I explain a little bit of what it involves."
+largeimage = true
+image = "images/proof-terms.jpg"
 
 +++
 
