@@ -1,7 +1,7 @@
-baseurl = "https://consequently.org"
+baseurl = "http://consequently.org"
 languageCode = "en-us"
 title = "consequently.org: Greg Restall’s website"
-RSSLink = "https://consequently.org/index.xml"
+RSSLink = "http://consequently.org/index.xml"
 
 [params]
    description = "Greg Restall’s website"
