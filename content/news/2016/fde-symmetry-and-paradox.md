@@ -238,10 +238,10 @@ Terence Parsons (1990), “[True Contradictions](http://www.jstor.org/stable/402
 
 Graham Priest (2008), [*An Introduction to Non-Classical Logic*: *From If to Is*](https://www.amazon.com/Introduction-Non-Classical-Logic-Introductions-Philosophy/dp/0521670268/consequentlyorg), Second Edition, Cambridge University Press.
 
-Greg Restall (2005) “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/),” pages 189–205 in _Logic, Methodology and Philosophy of Science_: _Proceedings of the Twelfth International Congress_, edited by Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings' College Publications.
+Greg Restall (2005) “[Multiple Conclusions](http://consequently.org/writing/multipleconclusions/),” pages 189–205 in _Logic, Methodology and Philosophy of Science_: _Proceedings of the Twelfth International Congress_, edited by Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings' College Publications.
 
-Greg Restall (2013) “[Assertion, Denial and Non-Classical Theories](https://consequently.org/writing/adnct),” pp. 81–99 in *Paraconsistency*: *Logic and Applications*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli.
+Greg Restall (2013) “[Assertion, Denial and Non-Classical Theories](http://consequently.org/writing/adnct),” pp. 81–99 in *Paraconsistency*: *Logic and Applications*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli.
 
-Greg Restall (2015) “[Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox](https://consequently.org/writing/assertiondenialparadox/),” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.
+Greg Restall (2015) “[Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox](http://consequently.org/writing/assertiondenialparadox/),” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.
 
 Richard Routley and Val Routley (1972) “[The Semantics of First Degree Entailment](http://www.jstor.org/stable/2214309),” *No&ucirc;s* 6:4, 335--359.

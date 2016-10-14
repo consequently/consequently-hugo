@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title>Classes in consequently.org: Greg Restall’s website </title>
+      <title>Class-rsses in consequently.org: Greg Restall’s website </title>
 	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
 	  <itunes:author>Greg Restall</itunes:author>
 	  <itunes:owner>
@@ -22,7 +22,7 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://consequently.org/class/</link>
+    <link>http://consequently.org/class/index.xml</link>
     <language>en-us</language>
     
     
@@ -267,7 +267,7 @@
 &lt;h4 id=&#34;substructural-logics&#34;&gt;Substructural Logics&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Greg Restall, &lt;em&gt;&lt;a href=&#34;https://consequently.org/writing/isl/&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;, Routledge 2000.&lt;/li&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/isl/&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;, Routledge 2000.&lt;/li&gt;
 &lt;li&gt;Francesco Paoli, &lt;a href=&#34;https://www.amazon.com/Substructural-Logics-Primer-F-Paoli/dp/9048160146&#34;&gt;&lt;em&gt;Substructural Logics&lt;/em&gt;: &lt;em&gt;A Primer&lt;/em&gt;&lt;/a&gt;, Springer 2002.&lt;/li&gt;
 &lt;li&gt;Greg Restall,
 “&lt;a href=&#34;http://consequently.org/writing/HPPLrssl/&#34;&gt;Relevant and Substructural Logics&lt;/a&gt;”, pp. 289–396 in &lt;em&gt;Logic and the Modalities in the Twentieth Century&lt;/em&gt;, Dov Gabbay and John Woods (editors), Elsevier 2006.&lt;/li&gt;
@@ -277,7 +277,7 @@
 &lt;em&gt;Entailment&lt;/em&gt;: &lt;em&gt;The Logic of Relevance and Necessity&lt;/em&gt;, Volume 2, Princeton University Press, 1992&lt;/li&gt;
 &lt;li&gt;Edwin D. Mares, &lt;a href=&#34;https://www.amazon.com/Relevant-Logic-Interpretation-Edwin-Mares/dp/0521039258/consequentlyorg&#34;&gt;&lt;em&gt;Relevant Logic&lt;/em&gt;: &lt;em&gt;A Philosophical Interpretation&lt;/em&gt;&lt;/a&gt;, Cambridge University Press, 2004&lt;/li&gt;
 &lt;li&gt;J. Michael Dunn and Greg Restall,
-“&lt;a href=&#34;https://consequently.org/writing/rle/&#34;&gt;Relevance Logic&lt;/a&gt;,” pp. 1–136 in &lt;em&gt;The Handbook of Philosophical Logic&lt;/em&gt;, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)&lt;/li&gt;
+“&lt;a href=&#34;http://consequently.org/writing/rle/&#34;&gt;Relevance Logic&lt;/a&gt;,” pp. 1–136 in &lt;em&gt;The Handbook of Philosophical Logic&lt;/em&gt;, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)&lt;/li&gt;
 &lt;li&gt;Jean-Yves Girard, “&lt;a href=&#34;http://iml.univ-mrs.fr/~girard/linear.pdf&#34;&gt;Linear Logic&lt;/a&gt;,” &lt;em&gt;Theoretical Computer Science&lt;/em&gt;, 50:1–101, 1987&lt;/li&gt;
 &lt;li&gt;Jean-Yves Girard, Yves Lafont and Paul Taylor, &lt;em&gt;&lt;a href=&#34;http://www.paultaylor.eu/stable/Proofs+Types.html&#34;&gt;Proofs and Types&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 1989&lt;/li&gt;
 &lt;li&gt;Joachim Lambek, “&lt;a href=&#34;http://www.jstor.org/stable/2310058&#34;&gt;The Mathematics of Sentence Structure&lt;/a&gt;,” &lt;em&gt;American Mathematical Monthly&lt;/em&gt;, 65(3):154–170, 1958&lt;/li&gt;
@@ -319,13 +319,13 @@
 &lt;li&gt;Nuel Belnap, “&lt;a href=&#34;http://www.jstor.org/stable/3326862&#34;&gt;Tonk, Plonk and Plink&lt;/a&gt;,” &lt;em&gt;Analysis&lt;/em&gt;, 22(6): 130–134, 1962.&lt;/li&gt;
 &lt;li&gt;Nuel Nelnap “&lt;a href=&#34;https://www.researchgate.net/profile/Nuel_Belnap/publication/225896511_Declaratives_are_not_enough/links/53f645c90cf2fceacc7128ff.pdf&#34;&gt;Declaratives Are Not Enough&lt;/a&gt;.” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 59(1): 1–30, 1990.&lt;/li&gt;
 &lt;li&gt;Jaroslav Peregrin “&lt;a href=&#34;https://jarda.peregrin.cz/mybibl/PDFTxt/526.pdf&#34;&gt;An Inferentialist Approach to Semantics: Time for a New Kind of Structuralism?&lt;/a&gt;” &lt;em&gt;Philosophy Compass&lt;/em&gt;, 3(6): 1208–1223, 2008.&lt;/li&gt;
-&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;” pp. 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by P. Ha&amp;#x301;jek, L. Valde&amp;#x301;s-Villanueva and D. Westersta&amp;#x30A;hl, KCL Publications, 2005.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;” pp. 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by P. Ha&amp;#x301;jek, L. Valde&amp;#x301;s-Villanueva and D. Westersta&amp;#x30A;hl, KCL Publications, 2005.&lt;/li&gt;
 &lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/tvpt&#34;&gt;Truth Values and Proof Theory&lt;/a&gt;” &lt;em&gt;Studia Logica&lt;/em&gt;, 92(2):241–264, 2009.&lt;/li&gt;
 &lt;li&gt;Raymond Smullyan, &lt;em&gt;First-Order Logic&lt;/em&gt;. Springer-Verlag, 1968.&lt;/li&gt;
 &lt;li&gt;Gaisi Takeuti, &lt;em&gt;Proof Theory&lt;/em&gt;, 2nd edition. Elsevier, 1987.&lt;/li&gt;
 &lt;li&gt;Michael Kremer “&lt;a href=&#34;http://www.jstor.org/stable/30226394&#34;&gt;Kripke and the Logic of Truth&lt;/a&gt;.” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt;, 17:225–278, 1988&lt;/li&gt;
 &lt;li&gt;Sara Negri and Jan von Plato, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg&#34;&gt;Structural Proof Theory&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 2002.&lt;/li&gt;
-&lt;li&gt;Greg Testall “&lt;a href=&#34;https://consequently.org/writing/adnct/&#34;&gt;Assertion, Denial and Non-Classical Theories&lt;/a&gt;.” In &lt;em&gt;&lt;a href=&#34;http://link.springer.com/book/10.1007/978-94-007-4438-7&#34;&gt;Paraconsistency: Logic and Applications&lt;/a&gt;&lt;/em&gt;, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013&lt;/li&gt;
+&lt;li&gt;Greg Testall “&lt;a href=&#34;http://consequently.org/writing/adnct/&#34;&gt;Assertion, Denial and Non-Classical Theories&lt;/a&gt;.” In &lt;em&gt;&lt;a href=&#34;http://link.springer.com/book/10.1007/978-94-007-4438-7&#34;&gt;Paraconsistency: Logic and Applications&lt;/a&gt;&lt;/em&gt;, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013&lt;/li&gt;
 &lt;li&gt;Anne Troelstra and Helmut Schwichtenberg, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg&#34;&gt;Basic Proof Theory&lt;/a&gt;&lt;/em&gt;, 2nd ed. Cambridge University Press, 2000.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -342,7 +342,7 @@
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
       <link>http://consequently.org/class/2016/UNIB10002/</link>
-      <pubDate>Mon, 29 Feb 2016 00:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2016/UNIB10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
@@ -398,7 +398,7 @@
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
       <link>http://consequently.org/class/2015/UNIB10002/</link>
-      <pubDate>Mon, 02 Mar 2015 00:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2015/UNIB10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
@@ -411,7 +411,7 @@
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
       <link>http://consequently.org/class/2015/PHIL30043/</link>
-      <pubDate>Mon, 02 Mar 2015 00:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2015/PHIL30043/</guid>
       <description>&lt;![CDATA[
@@ -498,7 +498,7 @@
     <item>
       <title>Logic: Language and Information 1</title>
       <link>http://consequently.org/class/2015/logic1_coursera/</link>
-      <pubDate>Tue, 24 Feb 2015 18:00:00 &#43;1100</pubDate>
+      <pubDate>Tue, 24 Feb 2015 18:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2015/logic1_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -600,7 +600,7 @@
     <item>
       <title>MULT10016: Reason</title>
       <link>http://consequently.org/class/2014/MULT10016/</link>
-      <pubDate>Mon, 03 Mar 2014 00:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2014/MULT10016/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In 2014, I participated in the Arts Foundation subject &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/MULT10016&#34;&gt;MULT10016: Reason&lt;/a&gt;. I taught six classes, on Plato, Aristotle and Hume.&lt;/p&gt;
@@ -611,7 +611,7 @@
     <item>
       <title>Logic: Language and Information 1</title>
       <link>http://consequently.org/class/2014/logic1_coursera/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 &#43;1100</pubDate>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/class/2014/logic1_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I taught &lt;em&gt;Logic Language and Information 1&lt;/em&gt; (an introduction to propositional logic and its applications) through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; for the first time in 2014. An archive of the material is available  &lt;a href=&#34;https://class.coursera.org/logic1-001&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

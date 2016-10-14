@@ -30,7 +30,7 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 
 #### Substructural Logics
 
-* Greg Restall, *[An Introduction to Substructural Logics](https://consequently.org/writing/isl/)*, Routledge 2000.
+* Greg Restall, *[An Introduction to Substructural Logics](http://consequently.org/writing/isl/)*, Routledge 2000.
 * Francesco Paoli, [*Substructural Logics*: *A Primer*](https://www.amazon.com/Substructural-Logics-Primer-F-Paoli/dp/9048160146), Springer 2002.
 * Greg Restall,
 “[Relevant and Substructural Logics](http://consequently.org/writing/HPPLrssl/)”, pp. 289–396 in *Logic and the Modalities in the Twentieth Century*, Dov Gabbay and John Woods (editors), Elsevier 2006.
@@ -40,7 +40,7 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 *Entailment*: *The Logic of Relevance and Necessity*, Volume 2, Princeton University Press, 1992
 * Edwin D. Mares, [*Relevant Logic*: *A Philosophical Interpretation*](https://www.amazon.com/Relevant-Logic-Interpretation-Edwin-Mares/dp/0521039258/consequentlyorg), Cambridge University Press, 2004
 * J. Michael Dunn and Greg Restall,
-“[Relevance Logic](https://consequently.org/writing/rle/),” pp. 1–136 in *The Handbook of Philosophical Logic*, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)
+“[Relevance Logic](http://consequently.org/writing/rle/),” pp. 1–136 in *The Handbook of Philosophical Logic*, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)
 * Jean-Yves Girard, “[Linear Logic](http://iml.univ-mrs.fr/~girard/linear.pdf),” *Theoretical Computer Science*, 50:1–101, 1987
 * Jean-Yves Girard, Yves Lafont and Paul Taylor, *[Proofs and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)*, Cambridge University Press, 1989
 * Joachim Lambek, “[The Mathematics of Sentence Structure](http://www.jstor.org/stable/2310058),” *American Mathematical Monthly*, 65(3):154–170, 1958
@@ -77,13 +77,13 @@ This is an intensive class on logical and philosophical issues in proof theory, 
 * Nuel Belnap, “[Tonk, Plonk and Plink](http://www.jstor.org/stable/3326862),” *Analysis*, 22(6): 130–134, 1962.
 * Nuel Nelnap “[Declaratives Are Not Enough](https://www.researchgate.net/profile/Nuel_Belnap/publication/225896511_Declaratives_are_not_enough/links/53f645c90cf2fceacc7128ff.pdf).” *Philosophical Studies*, 59(1): 1–30, 1990.
 * Jaroslav Peregrin “[An Inferentialist Approach to Semantics: Time for a New Kind of Structuralism?](https://jarda.peregrin.cz/mybibl/PDFTxt/526.pdf)” *Philosophy Compass*, 3(6): 1208–1223, 2008.
-* Greg Restall, “[Multiple Conclusions](https://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Ha&#x301;jek, L. Valde&#x301;s-Villanueva and D. Westersta&#x30A;hl, KCL Publications, 2005.
+* Greg Restall, “[Multiple Conclusions](http://consequently.org/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Ha&#x301;jek, L. Valde&#x301;s-Villanueva and D. Westersta&#x30A;hl, KCL Publications, 2005.
 * Greg Restall, “[Truth Values and Proof Theory](http://consequently.org/writing/tvpt)” *Studia Logica*, 92(2):241–264, 2009.
 * Raymond Smullyan, *First-Order Logic*. Springer-Verlag, 1968.
 * Gaisi Takeuti, *Proof Theory*, 2nd edition. Elsevier, 1987.
 * Michael Kremer “[Kripke and the Logic of Truth](http://www.jstor.org/stable/30226394).” *Journal of Philosophical Logic*, 17:225–278, 1988
 * Sara Negri and Jan von Plato, *[Structural Proof Theory](https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg)*, Cambridge University Press, 2002.
-* Greg Testall “[Assertion, Denial and Non-Classical Theories](https://consequently.org/writing/adnct/).” In *[Paraconsistency: Logic and Applications](http://link.springer.com/book/10.1007/978-94-007-4438-7)*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013
+* Greg Testall “[Assertion, Denial and Non-Classical Theories](http://consequently.org/writing/adnct/).” In *[Paraconsistency: Logic and Applications](http://link.springer.com/book/10.1007/978-94-007-4438-7)*, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013
 * Anne Troelstra and Helmut Schwichtenberg, *[Basic Proof Theory](https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg)*, 2nd ed. Cambridge University Press, 2000.
 
 ### Links

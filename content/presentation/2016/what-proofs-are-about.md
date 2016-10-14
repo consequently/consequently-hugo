@@ -16,6 +16,6 @@ So, I'm presenting it at the [Melbourne Logic Seminar](http://blogs.unimelb.edu.
 2. \\(p\lor(p\land q)\\) and \\(p\\)
 3. \\((p\lor\neg p)\lor(q\lor\neg q)\\) and \\((p\lor\neg p)\land(q\lor\neg q)\\).
 
-I compare and contrast the notion of subject matter introduced in Stephen Yablo's *[Aboutness](https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg)* (Princeton University Press, 2014), truthmakers conceived of as situations, as discussed in my “[Truthmakers, Entailment and Necessity](http://consequently.org/writing/ten/),” and the *proof invariants* I have explored [in recent work](https://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/).
+I compare and contrast the notion of subject matter introduced in Stephen Yablo's *[Aboutness](https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg)* (Princeton University Press, 2014), truthmakers conceived of as situations, as discussed in my “[Truthmakers, Entailment and Necessity](http://consequently.org/writing/ten/),” and the *proof invariants* I have explored [in recent work](http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/).
 
 * The [slides are available here](http://consequently.org/slides/what-proofs-are-about.pdf).

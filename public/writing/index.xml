@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title>Writings in consequently.org: Greg Restall’s website </title>
+      <title>Writing-rsses in consequently.org: Greg Restall’s website </title>
 	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
 	  <itunes:author>Greg Restall</itunes:author>
 	  <itunes:owner>
@@ -22,11 +22,24 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://consequently.org/writing/</link>
+    <link>http://consequently.org/writing/index.xml</link>
     <language>en-us</language>
     
     
-    <updated>Mon, 03 Oct 2016 00:00:00 UTC</updated>
+    <updated>Fri, 14 Oct 2016 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>First Degree Entailment, Symmetry and Paradox</title>
+      <link>http://consequently.org/writing/fde-symmetry-paradox/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Here is apuzzle, which I learned from Terence Parsons in his paper “TrueContradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
+
+&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>

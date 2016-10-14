@@ -7,13 +7,13 @@ largeimage = false
 +++
 
 
-Prompted by a colleague and friend (thanks [Ruth](https://unimelb.academia.edu/RuthBoeker)!), I've been asking students who took my [upper level](https://consequently.org/class/2015/PHIL20030/) [logic subjects](https://consequently.org/class/2015/PHIL30043/) last year what they learned about *how to learn* logic. This is helpful for me&mdash;I get a better understanding of how students are learning. It's hopefully helpful for them, too, to reflect more explicitly on how they learn. But most of all, I hope that their reflections will help students who [come after them](https://consequently.org/class/).  After all, advice from *peers* is fresh and direct in ways that advice from someone whose first encounter with the material was nearly 30 years *isn't*.
+Prompted by a colleague and friend (thanks [Ruth](https://unimelb.academia.edu/RuthBoeker)!), I've been asking students who took my [upper level](http://consequently.org/class/2015/PHIL20030/) [logic subjects](http://consequently.org/class/2015/PHIL30043/) last year what they learned about *how to learn* logic. This is helpful for me&mdash;I get a better understanding of how students are learning. It's hopefully helpful for them, too, to reflect more explicitly on how they learn. But most of all, I hope that their reflections will help students who [come after them](http://consequently.org/class/).  After all, advice from *peers* is fresh and direct in ways that advice from someone whose first encounter with the material was nearly 30 years *isn't*.
 
 I've been *so* impressed with the answers students sent me. They're thoughtful and insightful and I'm sure the advice will useful for future students. I thought I'd share them, in case it helps you to learn logic, or to teach it to others.
 
 ---
 
-Here is advice from two students from my subject [<span class="caps">phil20030</span>: *Meaning, Possibility and Paradox*](https://consequently.org/class/2016/PHIL20030/). This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It's taught using [video lectures](https://vimeo.com/album/2470375), a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes. 
+Here is advice from two students from my subject [<span class="caps">phil20030</span>: *Meaning, Possibility and Paradox*](http://consequently.org/class/2016/PHIL20030/). This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It's taught using [video lectures](https://vimeo.com/album/2470375), a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes. 
 
 #### Advice from *Student 1*
 
@@ -46,7 +46,7 @@ I hope your new students have as much fun as I did!
 ---
 
 
-And here is advice from three third year students, from [<span class="caps">phil30043</span>: *The Power and Limits of Logic*](https://consequently.org/class/2015/PHIL30043/). This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&ouml;del's incompleteness theorems and L&ouml;b's Theorem. It's taught using [video lectures](https://vimeo.com/album/2262409) a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.
+And here is advice from three third year students, from [<span class="caps">phil30043</span>: *The Power and Limits of Logic*](http://consequently.org/class/2015/PHIL30043/). This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&ouml;del's incompleteness theorems and L&ouml;b's Theorem. It's taught using [video lectures](https://vimeo.com/album/2262409) a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.
 
 #### Advice from *Student 3*
 
