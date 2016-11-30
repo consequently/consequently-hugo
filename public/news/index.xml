@@ -26,7 +26,94 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 02 Sep 2016 17:35:21 &#43;1100</updated>
+    <updated>Wed, 30 Nov 2016 11:22:42 AEDT</updated>
+    
+ 
+    <item>
+      <title>A Puzzle for Brandom&#39;s Account of Singular Terms</title>
+      <link>http://consequently.org/news/2016/a-puzzle-for-bob/</link>
+      <pubDate>Wed, 30 Nov 2016 11:22:42 AEDT</pubDate>
+      
+      <guid>http://consequently.org/news/2016/a-puzzle-for-bob/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been interested in &lt;a href=&#34;http://www.pitt.edu/~rbrandom/&#34;&gt;Robert Brandom&lt;/a&gt;’s inferentialism since I picked up a copy of &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Making-Explicit-Representing-Discursive-Commitment/dp/0674543300/consequentlyorg&#34;&gt;Making it Explicit&lt;/a&gt;&lt;/em&gt; back in 1996.  One interesting component of Brandom&amp;rsquo;s inferentialism is his account of what it is to be a singular term. There are a number of ways to understand inferentialism, but the important point here is the centrality of &lt;em&gt;material inference&lt;/em&gt; to semantics. An inference like “Melbourne is south of Sydney, therefore Sydney is north of Melbourne” is a materially good inference. Material inferences, for Brandom, are not to be understood as grounded in a more primitive notion of logical consequence—we shouldn’t explain the inference in terms of the validity of the form “\(a\) is south of \(b\), for all \(x\) and \(y\) if \(x\) is south of \(y\) then \(y\) is north of \(x\), therefore, \(b\) is north of \(a\)” and the fact that the extra premise is common knowledge or a part of the norms governing the concepts of north and south. No, according the inferentialist, we are to explain those facts in terms of materially good inferences, and not &lt;em&gt;vice versa&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well, one of the distinctive features of Brandom’s inferentialism is that he takes there to be an inferentialist account of what it is for a term to be a &lt;em&gt;singular term&lt;/em&gt;&amp;mdash;a name or other device that picks out an &lt;em&gt;object&lt;/em&gt;, rather than a &lt;em&gt;predicate&lt;/em&gt; that describes something, or some other kind of connective or modifier.&lt;/p&gt;
+
+&lt;p&gt;Here’s a one sentence slogan summarising the account of what it is to be a singular term:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A grammatical item is a &lt;em&gt;singular term&lt;/em&gt; if and only if the &lt;em&gt;substitution inferences&lt;/em&gt; in which that item is &lt;em&gt;materially involved&lt;/em&gt; are &lt;em&gt;symmetric&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(See Brandom’s &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Articulating-Reasons-Inferentialism-Robert-Brandom/dp/0674006925/consequentlyorg&#34;&gt;Articulating Reasons&lt;/a&gt;&lt;/em&gt;, Chapter 4, especially Section II for details and exposition.)&lt;/p&gt;
+
+&lt;p&gt;There are at least three complex concepts in this slogan that require explanation:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Substitution inferences&lt;/strong&gt;: A substitution inference involving a term \(t\) is an inference from a sentence using \(t\) to a sentence found by replacing the occurrences if \(t\) in the sentence with some other term of the same grammatical type. For example, the inference from “Greg is a philosophical logician” to “Greg is a philosopher” is a substitution inference involving “philosophical logician”—the term “philosopher” is substituted is in place of “philosophical logician.” The inference “Greg is a philosophical logician” to “The author of this note is a philosophical logician” is also a substitution inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Material involvement&lt;/strong&gt;: A term is &lt;em&gt;materially involved&lt;/em&gt; in an inference if it cannot be replaced without altering the status of the inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Symmetric&lt;/strong&gt;: An inference from &lt;em&gt;A&lt;/em&gt; to &lt;em&gt;B&lt;/em&gt; is (materially) symmetric if and only if whenever that inference is materially good, so is the converse, from &lt;em&gt;B&lt;/em&gt; to &lt;em&gt;A&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There’s something insightful about this. The inference from “Greg is a philosophical logician” to “The author of this note is a philosophical logician” is materially good (at least, in some contexts), if that’s good so is the converse inference. Why? Because I (Greg) am the author of this note. But the inference from “Greg is a philosophical logician” to “Greg is a philosopher” is good in the way that the converse need not be. There are clearly asymmetric material inferences resulting from the substitution of weaker predicates for stronger predicates. There don’t seem to be anything “weaker” or “stronger” singular terms. What would such things be? It really looks like there is something important going on in the difference between substitution of singular terms and the substitution of predicates (or predicate modifiers, or other grammatical units) in these inferences.&lt;/p&gt;
+
+&lt;p&gt;However, I am struck by the following puzzle. Consider an inference like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;23 is a small number, therefore 22 is small number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I take this is a materially good inference. Whatever standard of smallness you invoke, if 23 counts as a small number, so does 22. Why? Because 22 is smaller than 23.&lt;/p&gt;
+
+&lt;p&gt;In fact, each inference of the form:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;\(m\) is a small number, therefore \(n\) is a small number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Looks materially good to me, for any numerals \(m\) and \(n\) where \(n\) names a larger number than \(m\) does. Because, as before, \(m\) is &lt;em&gt;indeed&lt;/em&gt; smaller than \(n\), and in those cases, the inference is good.&lt;/p&gt;
+
+&lt;p&gt;However, the converse inferences seem nowhere near as good. While &lt;em&gt;some&lt;/em&gt; of the converse inferences might be good (I have some &lt;a href=&#34;http://davewripley.rocks&#34;&gt;friends&lt;/a&gt; who take it that every inference of the form &lt;em&gt;\(m\) is small, so \(m+1\) is small&lt;/em&gt; is good), but you shouldn’t think that &lt;em&gt;all&lt;/em&gt; of them are good. If you can find a number \(n\) that is small and a larger number \(m\) that is &lt;em&gt;not&lt;/em&gt; small, then the converse inference&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;\(n\) is a small number, therefore \(m\) is a small number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;is not only materially bad—it has a true premise and a false conclusion. It’s as bad as an argument can get.&lt;/p&gt;
+
+&lt;p&gt;This looks to me to be a clear counterexample to Brandom’s account of singular terms. Here’s why.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Numerals really do look like they are singular terms. (In the formalised language of mathematics, we treat numerals as singular terms. It’s a natural thing to do.) While numbers aren’t the same sorts of objects as objects we can see or touch, measure or weigh, the terms certainly seem to act like singular terms.&lt;/li&gt;
+&lt;li&gt;The inferences from \(n\) &lt;em&gt;is small&lt;/em&gt; to \(m\) &lt;em&gt;is small&lt;/em&gt; (where \(m\) is smaller than \(n\)) really do seem to be materially good. If we’re going to rule these out&lt;/li&gt;
+&lt;li&gt;The inference from \(n\) &lt;em&gt;is small&lt;/em&gt; to \(m\) &lt;em&gt;is small&lt;/em&gt; looks for all the world like a substitution inference where \(n\) is replaced by \(m\). It would be a strange grammatical analysis to take it to not be a substitution inference.&lt;/li&gt;
+&lt;li&gt;The term \(n\) appears materially in the inference from &lt;em&gt;\(n\) is small&lt;/em&gt; to &lt;em&gt;\(m\) is small&lt;/em&gt;. (If this inference is valid, replace \(n\) by something smaller than \(m\) to make the resulting inference invalid. Conversely if the inference is invalid, we replace \(n\) by some number smaller than \(m\), to find a valid inference.) I can’t see any way to understand material involvement if this is not a case of it.&lt;/li&gt;
+&lt;li&gt;These inferences, though materially valid, are not all symmetric, unless either &lt;em&gt;no&lt;/em&gt; number is small or &lt;em&gt;every&lt;/em&gt; number is.  But that’s to make a nonsense of our concepts of “small.”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Despite appearances, this has nothing to do with the sorites paradox, or to do with the context sensitivity of “small.” We could have run the same argument with the inference&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;23 is smaller than \(N\), therefore 22 is smaller than \(N\).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;where \(N\) is some fixed (possibly known, possibly unknown) number, and the result would have been the same. All inferences&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;\(n\) is smaller than \(N\), therefore \(m\) is smaller than \(N\).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;are materially good, in those cases where \(m\) is smaller than \(n\). And obviously, some of the converse inferences are bad.&lt;/p&gt;
+
+&lt;p&gt;(We could do the same with more prosaic examples, too. The inference from “Wellington is south of Melbourne” to “Wellington is south of Sydney” seems materially good, while the converse inference seems much less compelling.)&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;think&lt;/em&gt; this means that Brandom’s account can’t work as it stands, unless I’ve misunderstood it. Even though there aren’t &lt;em&gt;general&lt;/em&gt; inferential asymmetries between singular terms, there are &lt;em&gt;local&lt;/em&gt; asymmetries, relative to particular substitution inferences. Any account of the distinctive behaviour of singular terms will need to paint the distinction somewhere other than the symmetry  or asymmetry of &lt;em&gt;all&lt;/em&gt; substitution inferences.&lt;/p&gt;
+
+&lt;p&gt;What do &lt;em&gt;you&lt;/em&gt; think?&lt;/p&gt;
+
+&lt;p&gt;(Thanks to &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn Standefer&lt;/a&gt; and Kai Tanter for conversations that prompted these thoughts.)&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
