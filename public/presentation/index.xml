@@ -26,7 +26,24 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 07 Oct 2016 13:30:00 &#43;0800</updated>
+    <updated>Fri, 09 Dec 2016 13:00:00 AEDT</updated>
+    
+ 
+    <item>
+      <title>Proof Terms as Invariants</title>
+      <link>http://consequently.org/presentation/2016/proof-terms-invariants/</link>
+      <pubDate>Fri, 09 Dec 2016 13:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/proof-terms-invariants/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is a talk on proof theory for &lt;a href=&#34;http://philevents.org/event/show/27034&#34;&gt;Melbourne Logic Day&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, I will explain how proof terms for derivations in classical propositional logic are invariants for derivations under a natural class of permutations of rules. The result is two independent characterisations of one underlying notion of proof identity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-invariants-logicday-2016.pdf&#34;&gt;slides&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>

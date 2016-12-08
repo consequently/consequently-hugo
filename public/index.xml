@@ -26,9 +26,24 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 30 Nov 2016 11:25:23 AEDT</updated>
+    <updated>Fri, 09 Dec 2016 08:58:18 AEDT</updated>
 
 
+<item>
+<title>Proof Terms as Invariants</title>
+<link>http://consequently.org/presentation/2016/proof-terms-invariants/</link>
+<pubDate>Thu, 08 Dec 2016 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2016/proof-terms-invariants/</guid>
+<description>&lt;p&gt;This is a talk on proof theory for &lt;a href=&#34;http://philevents.org/event/show/27034&#34;&gt;Melbourne Logic Day&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, I will explain how proof terms for derivations in classical propositional logic are invariants for derivations under a natural class of permutations of rules. The result is two independent characterisations of one underlying notion of proof identity.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-invariants-logicday-2016.pdf&#34;&gt;slides&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
 <item>
 <title>A Puzzle for Brandom&#39;s Account of Singular Terms</title>
 <link>http://consequently.org/news/2016/a-puzzle-for-bob/</link>
@@ -1660,17 +1675,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</title>
-<link>http://consequently.org/writing/assertiondenialparadox/</link>
-<pubDate>Sun, 01 Feb 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/assertiondenialparadox/</guid>
-<description>&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
-
-&lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
