@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://consequently.org/</loc>
-    <lastmod>2016-12-09T13:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://consequently.org/presentation/2016/proof-terms-invariants/</loc>
     <lastmod>2016-12-09T13:00:00+11:00</lastmod>
   </url>
@@ -1832,7 +1827,7 @@
   </url>
   
   <url>
-    <loc>http://consequently.org/news/2003/01/08/a_crackpot_index/</loc>
+    <loc>http://consequently.org/news/</loc>
     <lastmod>2003-01-08T16:31:48+11:00</lastmod>
   </url>
   
@@ -2589,6 +2584,30 @@
   <url>
     <loc>http://consequently.org/writing/nstlp/</loc>
     <lastmod>1992-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/class/</loc>
+    <lastmod>2016-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/</loc>
+    <lastmod>2016-12-09T13:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/writing/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/</loc>
+    <lastmod>2016-12-09T13:00:00+11:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

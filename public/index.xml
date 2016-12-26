@@ -8,7 +8,7 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-      <title> in consequently.org: Greg Restall’s website </title>
+      <title>consequently.org: Greg Restall’s website in consequently.org: Greg Restall’s website </title>
 	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
 	  <itunes:author>Greg Restall</itunes:author>
 	  <itunes:owner>
@@ -26,9 +26,25 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 09 Dec 2016 10:38:12 AEDT</updated>
+    <updated>Mon, 26 Dec 2016 20:36:34 AEDT</updated>
 
 
+<item>
+<title>consequently.org: Greg Restall’s website</title>
+<link>http://consequently.org/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Presentations</title>
+<link>http://consequently.org/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/</guid>
+<description></description>
+</item>
+    
 <item>
 <title>Proof Terms as Invariants</title>
 <link>http://consequently.org/presentation/2016/proof-terms-invariants/</link>
@@ -127,6 +143,14 @@
 
 &lt;p&gt;(Thanks to &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn Standefer&lt;/a&gt; and Kai Tanter for conversations that prompted these thoughts.)&lt;/p&gt;
 </description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
 </item>
     
 <item>
@@ -477,6 +501,14 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;Greg Restall (2015) “&lt;a href=&#34;http://consequently.org/writing/assertiondenialparadox/&#34;&gt;Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox&lt;/a&gt;,” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.&lt;/p&gt;
 
 &lt;p&gt;Richard Routley and Val Routley (1972) “&lt;a href=&#34;http://www.jstor.org/stable/2214309&#34;&gt;The Semantics of First Degree Entailment&lt;/a&gt;,” &lt;em&gt;No&amp;ucirc;s&lt;/em&gt; 6:4, 335&amp;ndash;359.&lt;/p&gt;</description>
+</item>
+    
+<item>
+<title>Classes</title>
+<link>http://consequently.org/class/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/</guid>
+<description></description>
 </item>
     
 <item>
@@ -1562,120 +1594,6 @@ and the result is a de Morgan negation. That&amp;rsquo;s fair enough. But there&
 So there are at least 2 different ways to take a Kripke model for intuitionistic logic and to embed it into a structure supporting a de Morgan negation, and thus allowing the de Morgan laws to interdefine the intuitionistic conditional and dual intuitionistic subtraction. This shows that intuitionistic propositional logic is conservatively extended by a de Morgan negation, and this de Morgan negation can be used to define the weird binary connective of subtraction&amp;mdash;all without doing damage to the underlying propositional logic.&lt;/p&gt;
 
 &lt;p&gt;Thanks, Tomasz, for a fun &lt;a href=&#34;http://philevents.org/event/show/17572&#34;&gt;logic seminar&lt;/a&gt; yesterday, and for reminding me of these results. After spending over seven years concentrating on proof theory, it feels comfortable to slip back into working with algebras and frames.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>Verbal Disputes in Oxford (Workshop Report #1)</title>
-<link>http://consequently.org/news/2015/verbal-disputes-in-oxford/</link>
-<pubDate>Wed, 27 May 2015 15:56:45 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/verbal-disputes-in-oxford/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m back from last week&amp;rsquo;s &lt;a href=&#34;http://consequently.org/news/2015/quick-trip-to-oxford/&#34;&gt;quick trip to Oxford for a workshop on Verbal Disputes&lt;/a&gt;, just in time to wrap up the last week of teaching in my two &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;undergraduate&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043&#34;&gt;units&lt;/a&gt; as the semester winds up here in Melbourne.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;This&lt;/a&gt; was an &lt;em&gt;excellent&lt;/em&gt; two-day workshop, capably organised by &lt;a href=&#34;http://www.ertegun.ox.ac.uk/staff-scholars/trevor-teitel&#34;&gt;Trevor Teitel&lt;/a&gt;, and funded by the &lt;a href=&#34;http://www.ertegun.ox.ac.uk/&#34;&gt;Ertegun Graduate Scholarship Programme for the Humanities&lt;/a&gt;. There was a &lt;em&gt;lot&lt;/em&gt; to think about in the papers presented at the conference, and the informal discussions between talks.  In another entry, I&amp;rsquo;ll comment on &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;&amp;rsquo;s talk &amp;ldquo;Pinning Down the Meanings of Quantifiers.&amp;rdquo; In this entry I&amp;rsquo;ll make some general remarks about the workshop and, in particular, about &lt;a href=&#34;http://www.amiethomasson.org/&#34;&gt;Amie Thomasson&lt;/a&gt;&amp;rsquo;s talk &amp;ldquo;Metaphysical Disputes and Metalinguistic Negotiation&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;A highlight of a workshop like this is &lt;em&gt;meeting&lt;/em&gt; people, maintaining contact with those you&amp;rsquo;ve met before, and making new connections with new friends and colleagues. While there were lots of different views expressed at the conference, there was enough common ground&amp;mdash;and more than enough good will and good humour&amp;mdash;to have fruitful and productive conversations. This was a great workshop.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The workshop as a whole had seven presentations. The first day kicked off with a talk by &lt;a href=&#34;http://robert-williams.org&#34;&gt;Robbie Williams&lt;/a&gt;, on representation.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-robbie.JPG&#34; alt=&#34;Robbie Williams&#34;&gt;
-    &lt;figcaption&gt;Robbie Williams&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This was followed by &lt;a href=&#34;http://people.umass.edu/mayae/&#34;&gt;Maya Eddon&lt;/a&gt;, on whether the parthood relation was perfectly natural or not. This was filled with elegant examples of cases where parthood fails to supervene on natural properties&amp;mdash;unless parthood (or something like it) is admitted to the supervenience base.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-maya.JPG&#34; alt=&#34;Maya Eddon&#34;&gt;
-    &lt;figcaption&gt;Maya Eddon&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The first day wrapped up with a talk from &lt;a href=&#34;http://www.philosophy.ox.ac.uk/members/philosophy_panel/tim_williamson&#34;&gt;Tim Williamson&lt;/a&gt; on &lt;em&gt;graceful degradation&lt;/em&gt; and disputes over meanings of terms. For Williamson, we degrade our language if we avoid a disputed term, using in its place other terms already in the vocabulary. It&amp;rsquo;s a Good Thing if we can do this without catastrophic consequences.&lt;/p&gt;
-
-&lt;p&gt;In each case, the talks were clear, interesting, and not &lt;em&gt;directly&lt;/em&gt; focussed on verbal disputes as such, but on issues in metaphysics and philosophy of language in and around that debate. I was reasonably jetlagged for the first day of the workshop (having landed in the UK the previous afternoon), so I don&amp;rsquo;t have many precise or detailed comments to make about those talks. Regardless, they were an enjoyable way to ease into the conference and to think about the themes under discussion.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-tim.JPG&#34; alt=&#34;Tim Williamson&#34;&gt;
-    &lt;figcaption&gt;Tim Williamson&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Day two started with &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;my talk&lt;/a&gt; (which included an obligatory Led Zeppelin reference, in honour of Ahmet Ertegun&amp;rsquo;s connection with the band, having signed them to Atlantic Records). This effort was &lt;em&gt;completely&lt;/em&gt; upstaged by Dave Chalmers in his talk, which was a recapitulation of the issues in his long and influential paper &amp;ldquo;&lt;a href=&#34;http://consc.net/papers/verbal.pdf&#34;&gt;Verbal Disputes&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-dave.JPG&#34; alt=&#34;Dave Chalmers&#34;&gt;
-    &lt;figcaption&gt;Dave Chalmers&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Thanks to Dave&amp;rsquo;s presentation, I now understand how it is that Led Zeppelin embrace &lt;em&gt;semantic externalism&lt;/em&gt; and the possibility of &lt;em&gt;radical skepticism&lt;/em&gt; in such insightful lines as &amp;ldquo;sometimes all of our thoughts are misgiven.&amp;rdquo; Thanks, Dave. I&amp;rsquo;ll never listen to &amp;lsquo;Stairway to Heaven&amp;rsquo; in quite the same way, ever.&lt;/p&gt;
-
-&lt;p&gt;The highlights for me in the workshop, though, were the &lt;em&gt;other&lt;/em&gt; two talks on the second day. &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;&amp;rsquo;s talk on the &lt;em&gt;semantics of quantifiers&lt;/em&gt; (which I&amp;rsquo;ll discuss in another post) and &lt;a href=&#34;http://www.amiethomasson.org&#34;&gt;Amie Thomasson&lt;/a&gt;&amp;rsquo;s, on &lt;em&gt;metalinguistic negotiation&lt;/em&gt;.  I&amp;rsquo;ll write about Cian&amp;rsquo;s work on quantifiers in another entry. Here, I&amp;rsquo;ll focus on Amie&amp;rsquo;s presentation.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-amie.JPG&#34; alt=&#34;Amie Thomasson&#34;&gt;
-    &lt;figcaption&gt;Amie Thomasson&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Amie&amp;rsquo;s talk posed a problem for two views: &lt;em&gt;her own&lt;/em&gt; &amp;ldquo;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199385119.do&#34;&gt;easy ontology&lt;/a&gt;,&amp;rdquo; and Eli Hirsch&amp;rsquo;s &amp;ldquo;&amp;rdquo;&lt;a href=&#34;http://onlinelibrary.wiley.com/doi/10.1111/j.1758-2237.2002.tb00061.x/abstract&#34;&gt;quantifier&lt;/a&gt; &lt;a href=&#34;https://books.google.com.au/books?id=iPRqtcjeHPsC&#34;&gt;variance&lt;/a&gt;&amp;rdquo;. According to &lt;em&gt;Easy Ontology&lt;/em&gt; a metaphysical question like &amp;ldquo;there are numbers&amp;rdquo; is decided by the meanings of mathematical terms involved in the expressions, and nothing more than that. On a &lt;em&gt;Quantifier Variance&lt;/em&gt; picture, a debate between a nominalist and a platonist about whether there &lt;em&gt;really are&lt;/em&gt; numbers is resolved when you recognise that the proponents of the different metaphyiscal views are using quantifiers in different ways, and a charitable interpretation of both speakers would have them speaking past one another. When a platonist says there are numbers, and a nominalist denies it, they are speaking different languages, roughly speaking, at least. For Amie, both views are faced with a &lt;em&gt;worry&lt;/em&gt;: they seem to make certain sorts of debate all too &lt;em&gt;easy&lt;/em&gt;. The &lt;a href=&#34;http://brokopp.casinocitytimes.com/article/are-race-horses-athletes-you-bet-they-are-19697&#34;&gt;debate over whether a horse could count as an athlete&lt;/a&gt; is not the kind of thing that can be solved by a simple disambiguation, or by inspecting the clear and distinct semantics of the term &amp;ldquo;athlete&amp;rdquo; to see what is allowed and what is forbidden.&lt;/p&gt;
-
-&lt;p&gt;Imagine wading into the debate and saying this: &amp;ldquo;There are two things one could mean by &amp;lsquo;athlete,&amp;rsquo; one of which includes horses and the other of which is restricted to sentient and sapient creatures. &lt;a href=&#34;http://en.wikipedia.org/wiki/Secretariat_(horse) is clearly an *athlete*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; and clearly not an *athlete*&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;, and that&#39;s all there is to say.&amp;quot; While this might helpfully clarify the discussion, it wouldn&#39;t stop the debate. What *everyone* wants to know is whether *athlete*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; or *athlete*&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; (or any other precisification of the concept&#34;&gt;Secretariat&lt;/a&gt; is what we mean&amp;mdash;or what we &lt;em&gt;should&lt;/em&gt; mean&amp;mdash;by &amp;ldquo;athlete.&amp;rdquo; After all, we might be deciding on whether a horse could be in the running for &lt;a href=&#34;http://brokopp.casinocitytimes.com/article/are-race-horses-athletes-you-bet-they-are-19697&#34;&gt;Athlete of the Year&lt;/a&gt; or not. The award was established as &amp;ldquo;Athlete of the Year,&amp;rdquo; not as &amp;ldquo;Athlete&lt;sub&gt;1&lt;/sub&gt; of the Year&amp;rdquo; or &amp;ldquo;Athlete&lt;sub&gt;2&lt;/sub&gt; of the Year.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Or, take a more significant debate. We can argue as to whether a particular act counts as &lt;em&gt;sexual harassment&lt;/em&gt;. It may clarify things to say that in one sense it counts as sexual harassment and in another sense it doesn&amp;rsquo;t. However, such a disambiguation doesn&amp;rsquo;t end discussion, because the term &amp;ldquo;sexual harassment&amp;rdquo; is used in many different contexts, and&amp;mdash;in effect&amp;mdash;replacing that term by two different terms &amp;ldquo;sexual harassment&lt;sub&gt;1&lt;/sub&gt;&amp;rdquo; and &amp;ldquo;sexual harassment&lt;sub&gt;2&lt;/sub&gt;&amp;rdquo; &lt;em&gt;multiplies&lt;/em&gt; all of our problems, because now we need to go back to look at all of the other ways we used the term, to see how this new distinction bears on &lt;em&gt;those&lt;/em&gt; discussions. That&amp;rsquo;s a significant part of the debate, and it&amp;rsquo;s nothing like a free and arbitrary choice.&lt;/p&gt;
-
-&lt;p&gt;Amie characterised this sort of debate as a kind of &lt;em&gt;metalinguistic negotiation&lt;/em&gt;, using the terminology introduced by David Plunkett and Timothy Sundell in their paper &amp;ldquo;&lt;a href=&#34;http://hdl.handle.net/2027/spo.3521354.0013.023&#34;&gt;Disagreement and the Semantics of Normative and Evaluative Terms&lt;/a&gt;&amp;rdquo; &lt;em&gt;Philosophers&amp;rsquo; Imprint&lt;/em&gt;, 13 (2013) (see page 6). The core idea is that these sorts of debates are ways to settle &lt;em&gt;how a term ought to be used&lt;/em&gt; by way of a first order debate about matters &lt;em&gt;involving&lt;/em&gt; that term. Given that we want to continue to use the one term (&amp;ldquo;athlete&amp;rdquo;, &amp;ldquo;sexual harassment&amp;rdquo;, etc.) trying to come to some kind of agreement over whether this horse counts as an athlete or that act counts as sexual harassment is a way to come to grips with how to use the vocabulary from now on. Or so the account goes.  The result is that neither an easy ontology view nor a quantifier variance view is committed to the claim that what might be thought of as a verbal dispute (over whether there &lt;em&gt;are&lt;/em&gt; numbers or not) is at all &lt;em&gt;straightforward&lt;/em&gt;, because it&amp;rsquo;s actually a debate over how are are to go on to use our vocabulary, and that vocabulary is a complex network of connections.&lt;/p&gt;
-
-&lt;p&gt;So far, so good. But I&amp;rsquo;m curious about &lt;em&gt;how&lt;/em&gt; such a metalinguistic negotiation might work, and one other event in Oxford, &lt;a href=&#34;http://www.philosophy.ox.ac.uk/podcasts/john_locke_lectures&#34;&gt;Rae Langton&amp;rsquo;s Locke Lectures&lt;/a&gt; gives me an idea. Here is a conjecture. The process of semantic coordination involved in a debate over a contested term proceeds by way of &lt;em&gt;accommodation&lt;/em&gt;. In particular, if one party in a debate offers an &lt;em&gt;argument&lt;/em&gt; or a &lt;em&gt;reason&lt;/em&gt; for a conclusion (she&amp;rsquo;s an athlete, because &amp;hellip;; that&amp;rsquo;s harassment, since &amp;hellip;), then in the conversational context, the premises are being offered as a reason for the conclusion. When I assert: &lt;em&gt;C&lt;/em&gt;, since &lt;em&gt;P&lt;/em&gt;, I&amp;rsquo;m not only asserting &lt;em&gt;C&lt;/em&gt; and asserting &lt;em&gt;P&lt;/em&gt;, but I&amp;rsquo;m presenting &lt;em&gt;P&lt;/em&gt; as a reason for &lt;em&gt;C&lt;/em&gt;. The explicit context of what I&amp;rsquo;ve asserted is &lt;em&gt;P&lt;/em&gt; and &lt;em&gt;C&lt;/em&gt;, but I&amp;rsquo;ve also implicitly made the conditional claim &amp;ldquo;if &lt;em&gt;P&lt;/em&gt; then &lt;em&gt;C&lt;/em&gt;&amp;rdquo; or &amp;ldquo;&lt;em&gt;P&lt;/em&gt; is a reason for &lt;em&gt;C&lt;/em&gt;&amp;rdquo;. If you don&amp;rsquo;t object, we accommodate for this in the common ground of the discussion&amp;mdash;we grant that this is an acceptable transition. If you &lt;em&gt;do&lt;/em&gt; object to my claim, you could either object to the explicit content of what I&amp;rsquo;ve said (you could disagree with &lt;em&gt;C&lt;/em&gt; or with &lt;em&gt;P&lt;/em&gt;), or you could take issue with the connection.&lt;/p&gt;
-
-&lt;p&gt;When we have a debate over the disputed vocabulary, we often find ourselves with a whole pile of reasons out on the table. Some are granted and others are contested. At the end of the process, we may not find agreement, but the aim is to sort out what connections involving our concepts and our claims are to be endorsed and what are to be rejected. As to why this might be an appropriate way to conduct a debate over disputed conecept, there&amp;rsquo;s much more to be said. But I think that this is a fruitful start, and it&amp;rsquo;s a connection I hope to explore more.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>Workshop on Verbal Disputes and their Philosophical Significance</title>
-<link>http://consequently.org/presentation/2015/verbal-disputes-oxford/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/verbal-disputes-oxford/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a presentation, entitled &amp;ldquo;Merely Verbal Disputes and Coordinating on Logical Constants,&amp;rdquo; on proof theory, modality, existence and verbal disputes at a workshop held at the University of Oxford in May, 2015.&lt;/p&gt;
-
-&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants, how they can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re &lt;em&gt;really&lt;/em&gt; careful&amp;mdash;modal operators.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The website for the workshop &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;verbaldisputesoxford.wordpress.com&lt;/a&gt; contains more details.&lt;/li&gt;
-&lt;li&gt;Slides: &lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants-oxford.pdf&#34;&gt;Merely Verbal Disputes and Coordinating on Logical Constants&amp;mdash;Slides&lt;/a&gt; (1.8MB PDF)&lt;/li&gt;
-&lt;li&gt;Handout: &lt;a href=&#34;http://consequently.org/handouts/mvd-logical-constants-oxford-handout.pdf&#34;&gt;Merely Verbal Disputes and Coordinating on Logical Constants&amp;mdash;Handout&lt;/a&gt; (600KB PDF)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>One Quick Trip to Oxford</title>
-<link>http://consequently.org/news/2015/quick-trip-to-oxford/</link>
-<pubDate>Sun, 17 May 2015 22:19:26 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/quick-trip-to-oxford/</guid>
-<description>&lt;figure&gt;
-    &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;&lt;img src=&#34;http://consequently.org/images/cropped-oxford.jpg&#34; alt=&#34;Oxford&#34; &gt;&lt;/a&gt;
-    &lt;figcaption&gt;I&#39;m here for May 20 and 21&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Tomorrow I head off on a &lt;em&gt;flying visit&lt;/em&gt; to Oxford for a &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Workshop on Verbal Disputes and their Philosophical Significance&lt;/a&gt;. I&amp;rsquo;m looking forward to catching up with old friends and making new ones. The lineup for the workshop is fantastic, so it looks like it&amp;rsquo;ll be a great time. If you&amp;rsquo;re in the area, please do come along and say &amp;ldquo;hi&amp;rdquo;. If you can&amp;rsquo;t come, I&amp;rsquo;ve posted the slides and handout for my talk &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt; I&amp;rsquo;m away from Melbourne from late May 18, and I return on May 24. Six nights away, two nights in planes and four in the UK. It&amp;rsquo;s a ridiculously short trip, given that I&amp;rsquo;m flying halfway across the world. But I teach classes on Mondays and I don&amp;rsquo;t want to cancel any of those so near to the end of the semester, so this time it will be a very quick trip.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
-<link>http://consequently.org/presentation/2015/mvd-logicmelb/</link>
-<pubDate>Tue, 05 May 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/mvd-logicmelb/</guid>
-<description>&lt;p&gt;This is a dry run for my &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;talk&lt;/a&gt; at the &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Oxford Workshop on Verbal Disputes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;d like to attend, keep track &lt;a href=&#34;http://philevents.org/event/show/17569&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
 </item>
     
   </channel>
