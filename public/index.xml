@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 10 Jan 2017 23:20:32 AEDT</updated>
+    <updated>Mon, 13 Feb 2017 01:30:15 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,25 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Proof Terms for Classical Derivations</title>
+<link>http://consequently.org/writing/proof-terms-for-classical-derivations/</link>
+<pubDate>Sun, 12 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/proof-terms-for-classical-derivations/</guid>
+<description>&lt;p&gt;I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
+
+&lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -143,14 +162,6 @@
 
 &lt;p&gt;(Thanks to &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn Standefer&lt;/a&gt; and Kai Tanter for conversations that prompted these thoughts.)&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>http://consequently.org/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1534,66 +1545,6 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
 
 &lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/3faRnyFQy1/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;A photo posted by Greg Restall (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-06-04T02:39:45+00:00&#34;&gt;Jun 3, 2015 at 7:39pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Adventures in Bi-Intuitionistic Logic</title>
-<link>http://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</link>
-<pubDate>Sat, 30 May 2015 04:04:25 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/adventures-in-bi-intuitionistic-logic/</guid>
-<description>&lt;p&gt;In yesterday&amp;rsquo;s &lt;a href=&#34;http://philevents.org/event/show/17572&#34;&gt;Logic Seminar&lt;/a&gt;, &lt;a href=&#34;http://www.latrobe.edu.au/psy/about/staff/profile?uname=TKowalski&#34;&gt;Tomasz&lt;/a&gt; &lt;a href=&#34;http://tomasz-kowalski.ltumathstats.com&#34;&gt;Kowalski&lt;/a&gt; introduced some lovely results about analytic cut and interpolation in sequent systems for bi-intuitionistic logic. After the seminar, Lloyd Humberstone, Dave Ripley, Tomasz and I got talking about various features of bi-intuitionistic logic, some of which should be more well known than they are &amp;hellip; so I may as well post them here. Read on, if you&amp;rsquo;re into non-classical logic, algebras and frames.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The conditional in intuitionistic logic satisfies the lovely residuation principle:
-\[
-p\land q \le r
-\quad
-\Leftrightarrow
-\quad
-p\land q\supset r
-\]
-where \(\le\) is entailment&amp;mdash;the underlying lattice ordering on propositions&amp;ndash;and \(\land\) is conjunction.  Bi-intuitionistic logic is found by adding to the vocabulary a  two-place connective (&lt;em&gt;dual&lt;/em&gt; to the conditional) of &lt;em&gt;subtraction&lt;/em&gt;, satisfying the dual residuation principle:
-\[
-p\le q\lor r
-\quad
-\Leftrightarrow
-\quad
-p-q \le r
-\]
-This has lots of lovely (and strange) properties. If \(p\supset 0\) defines the strong intuitionist negation (which is a contrary but not sub-contrary forming operator) then \(1-p\) forms a weak dual negation (which is a sub-contrary but not contrary forming operator). It is a conservative addition to the &lt;em&gt;propositional&lt;/em&gt; inuitionist logic. (All complete and completely distributive lattices can be equipped with a subtraction operator, defined by setting \(p-q\) to be \(\bigwedge\{r:p\le q\lor r\}\), and all Heyting lattices can be embedded into complete and completly distributive Heyting lattices.) It is &lt;em&gt;not&lt;/em&gt; a conservative extension of first-order intuitionist logic. (With subtraction, you can show that \(\forall x(Fx\lor Gx)\) entails \(\forall x Fx\lor \exists xGx\), which is underivable in intuitionist logic.)&lt;/p&gt;
-
-&lt;p&gt;The result I thought should be more well known is that the dual intuitionist substraction can be &lt;em&gt;defined&lt;/em&gt; if you add a de Morgan negation to intiutionst logic, and this addition is also conservative in the propositional case. A de Morgan negation is an operator \(\sim\) such that \({\mathord\sim}{\mathord\sim}p=p\) and \(p\le q\) only if \({\mathord\sim}q\le {\mathord\sim}p\). It&amp;rsquo;s called a &amp;ldquo;de Morgan negation&amp;rdquo; because in a &lt;em&gt;lattice&lt;/em&gt;, these conditions mean that all four de Morgan laws hold connecting \({\mathord\sim}\), \(\land\) and \(\lor\).&lt;/p&gt;
-
-&lt;p&gt;Lemma 9.35 in my substructural logic book (&lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/isl&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;) is a construction that embeds a lattice into one including a de Morgan negation. (This construction&amp;mdash;like many results in this field&amp;mdash;uses techniques due to &lt;a href=&#34;http://projecteuclid.org/euclid.ndjfl/1093890896&#34;&gt;Bob Meyer&lt;/a&gt;.) The construction is straightforward. It doesn&amp;rsquo;t &lt;em&gt;quite&lt;/em&gt; work in the Heyting lattice case, but it&amp;rsquo;s very close to working. That construction takes the original lattice, adds a top element (if not already present) and adds an inverted copy of the structure below the original structure. This construction doesn&amp;rsquo;t preserve the bottom element (that&amp;rsquo;s no good, as we can express this in intuitionistic logic, with \(p\land\neg p\)), and it&amp;rsquo;s fiddly to see how you might do that using algebraic surgery. Perhaps you can, but I worry about getting the cases correct.&lt;/p&gt;
-
-&lt;p&gt;However, it suggest a way to do it relatively straightforwardly, using Kripke frames.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s well known that in frame semantics, a de Morgan negation can be modelled using a &lt;a href=&#34;http://consequently.org/writing/negrl/&#34;&gt;Routley star&lt;/a&gt; operation. A unary function on points in the frame such that \(x^{&amp;ast;&amp;ast;}=x\) and if \(x\sqsubseteq y\) then \(y^{&amp;ast;}\sqsubseteq x^{&amp;ast;}\). Then we define
-\[
-x\Vdash {\mathord\sim}A
-\quad
-\Leftrightarrow
-x^{&amp;ast;}\not\Vdash A
-\]
-and the result is a de Morgan negation. That&amp;rsquo;s fair enough. But there&amp;rsquo;s no way, in general, to take a Kripke frame for intuitionistic logic and slap a de Morgan negation onto it. Take the three-point tree on the set \(\{a,b,c\}\) where \(a\sqsubset b\) and \(a\sqsubset c\). There aren&amp;rsquo;t enough candidates for \(b^{&amp;ast;}\) and \(c^{&amp;ast;}\). They need to be &lt;em&gt;different&lt;/em&gt; and they need to be &lt;em&gt;earlier&lt;/em&gt; than \(a^{&amp;ast;}\) in the ordering, but there&amp;rsquo;s not enough objects in the frame to satisfy this. To do this, we need three objects \(\{e,f,g\}\)&amp;mdash;somewhere&amp;ndash;where \(f\sqsubset e\) and \(g\sqsubset e\), so we can let \(a^{&amp;ast;}=e\), \(b^{&amp;ast;}=f\) and  \(c^{&amp;ast;}=g\).&lt;/p&gt;
-
-&lt;p&gt;One way to do this to &lt;em&gt;any&lt;/em&gt; Kripke model \(\langle P,\sqsubseteq,\vDash\rangle\) is to add a new set \(P^{&amp;ast;}\)&amp;mdash;an extra copy of \(P\), so we operate on the disjoint union \(P\cup P^{&amp;ast;}\).  We define the operation \({&amp;ast;}\) in the obvious way: if \(x\) is in \(P\), then its star is the copy \(x^{&amp;ast;}\) in \(P^{&amp;ast;}\). Define the ordering by allowing \(x^{&amp;ast;}\sqsubseteq y\) but not \(y \sqsubseteq x^{&amp;ast;}\) for each \(x,y\) in \(P\) (so each of the \(P^{&amp;ast;}\) points come &lt;em&gt;before&lt;/em&gt; the \(P\) points) and setting \(x^{&amp;ast;} \sqsubseteq y^{&amp;ast;}\) iff \(y \sqsubseteq x\).&lt;/p&gt;
-
-&lt;p&gt;(In other words, we take a copy of our Kripke frame, &lt;em&gt;invert&lt;/em&gt; it, and have all of those points come &lt;em&gt;before&lt;/em&gt; each of the original points.)&lt;/p&gt;
-
-&lt;p&gt;The operation &amp;ast; is a &lt;a href=&#34;http://consequently.org/writing/negrl/&#34;&gt;Routley star&lt;/a&gt; on the structure, and it&amp;rsquo;s still a poset, so we have a Kripke frame. We can use &amp;ast; on the frame to define a de Morgan negation.&lt;/p&gt;
-
-&lt;p&gt;Given the original model \(\langle P,\sqsubseteq,\Vdash\rangle\), extend the valuation to the new domain \(P \cup P^{&amp;ast;}\) as required by heredity on frames. Any atom true at some point in \(P\) is true at all points in \(P^{&amp;ast;}\), but any atom not true anywhere in \(P\) can remain not true everywhere in \(P^{&amp;ast;}\). An easy induction shows that if formula is true at a point in \(P\) in the original model iff it’s true at that point in the extended model. (The extension \([\![p]\!]\) of an atom in the new model is now closed upward under \(\sqsubseteq\), and \([\![p]\!]\cap P\) remains the same as the extension of \(p\) in the old model. Furthermore, since all evaluation conditions for intuitionist connectives &lt;em&gt;look forward&lt;/em&gt;, the restriction of \([\![A]\!]\) (for any complex formula \(A\)) to \(P\) is identical to the extension of  \([\![A]\!]\) in the old model, by an induction on the construction of \(A\).&lt;/p&gt;
-
-&lt;p&gt;This construction shows how to embed the new propositions between the bottom element and anything else in the original Heyting algebra.&lt;/p&gt;
-
-&lt;p&gt;A &lt;em&gt;dual&lt;/em&gt; construction could add the elements in the Kripke frame &lt;em&gt;after&lt;/em&gt; the original elements (and then everything gets embedded just below the top element), or they could be &lt;em&gt;&lt;a href=&#34;https://www.theincomparable.com&#34;&gt;incomparable&lt;/a&gt;&lt;/em&gt; with the objects in original frame. But as Lloyd Humberstone pointed out to me, the dual construction is not conservative, because the evaluation of formulas on the original set \(P\) now looks &lt;em&gt;forward&lt;/em&gt; to more points, those in \(P^{&amp;ast;}\), and this can change the truth of intuitionist formulas. For example, given a model consisting two points \(a,b\) which are incomparable through \(\sqsubseteq\), where we set \(a\Vdash p\) but \(b\not\Vdash p\), then if we add \(a^{&amp;ast;}\) and \(b^{&amp;ast;}\) to both occur &lt;em&gt;after&lt;/em&gt; both \(a\) and \(b\) then we are in a quandry. Since \(p\) is true at \(a\), and since \(a\sqsubseteq a^{&amp;ast;}\) we must have \(a^{&amp;ast;}\Vdash p\). But then it follows that in the &lt;em&gt;new&lt;/em&gt; model, \(b\not\Vdash \neg p\), despite the fact that in the &lt;em&gt;original&lt;/em&gt; model, \(b\Vdash\neg p\). The addition does not preserve the logical structure of propositions on the original frame, so it cannot be used to demonstrate conservative extensions.&lt;/p&gt;
-
-&lt;p&gt;However, the construction where the new points are placed &lt;em&gt;before&lt;/em&gt; the original points, or where they are &lt;em&gt;alongside&lt;/em&gt; (and incomparable) have no such problems.
-So there are at least 2 different ways to take a Kripke model for intuitionistic logic and to embed it into a structure supporting a de Morgan negation, and thus allowing the de Morgan laws to interdefine the intuitionistic conditional and dual intuitionistic subtraction. This shows that intuitionistic propositional logic is conservatively extended by a de Morgan negation, and this de Morgan negation can be used to define the weird binary connective of subtraction&amp;mdash;all without doing damage to the underlying propositional logic.&lt;/p&gt;
-
-&lt;p&gt;Thanks, Tomasz, for a fun &lt;a href=&#34;http://philevents.org/event/show/17572&#34;&gt;logic seminar&lt;/a&gt; yesterday, and for reminding me of these results. After spending over seven years concentrating on proof theory, it feels comfortable to slip back into working with algebras and frames.&lt;/p&gt;</description>
 </item>
     
   </channel>

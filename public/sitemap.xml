@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://consequently.org/writing/proof-terms-for-classical-derivations/</loc>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2016/proof-terms-invariants/</loc>
     <lastmod>2016-12-09T13:00:00+11:00</lastmod>
   </url>
@@ -2600,13 +2605,13 @@
   
   <url>
     <loc>http://consequently.org/writing/</loc>
-    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2016-12-09T13:00:00+11:00</lastmod>
+    <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
