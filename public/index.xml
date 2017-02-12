@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 13 Feb 2017 01:30:15 AEDT</updated>
+    <updated>Mon, 13 Feb 2017 01:47:33 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,15 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>A New Paper</title>
+<link>http://consequently.org/news/2017/a-new-paper/</link>
+<pubDate>Mon, 13 Feb 2017 01:32:58 AEDT</pubDate>
+<guid>http://consequently.org/news/2017/a-new-paper/</guid>
+<description>&lt;p&gt;It&amp;rsquo;s a new year, and it&amp;rsquo;s time for a new paper, so here is &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; I&amp;rsquo;ve been working on these ideas for about a year, from some &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/&#34;&gt;rough&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/&#34;&gt;talks&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;over&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/what-proofs-are-about/&#34;&gt;most&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/proof-terms-invariants/&#34;&gt;of&lt;/a&gt; 2016, to many conversations with my colleague &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn&lt;/a&gt; as I attempted to iron out the details, to many more hours in front of whiteboards, I&amp;rsquo;ve finally got something I&amp;rsquo;m happy to show in public. It&amp;rsquo;s still rough, but the ideas are all there, and I think the theorems are all correct. The paper is under 50 pages&amp;mdash;but only just! It proposes a new account of proof terms for classical propositional logic. These proof terms give a new account of what it is for one sequent derivation to represent the &amp;ldquo;same underlying proof&amp;rdquo; as another.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -1533,17 +1542,6 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Another Day at the Office</title>
-<link>http://consequently.org/news/2015/another-view-of-the-old-quad/</link>
-<pubDate>Thu, 04 Jun 2015 12:44:46 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2015/another-view-of-the-old-quad/</guid>
-<description>&lt;p&gt;The view from my desk.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/3faRnyFQy1/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;A photo posted by Greg Restall (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-06-04T02:39:45+00:00&#34;&gt;Jun 3, 2015 at 7:39pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
 </item>
     
