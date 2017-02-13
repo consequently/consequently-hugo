@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 13 Feb 2017 02:02:08 AEDT</updated>
+    <updated>Mon, 13 Feb 2017 22:24:09 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,38 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>With Gratitude to Raymond Smullyan</title>
+<link>http://consequently.org/news/2017/with-gratitude-to-smullyan/</link>
+<pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
+<guid>http://consequently.org/news/2017/with-gratitude-to-smullyan/</guid>
+<description>&lt;p&gt;While I was busy writing my most recent paper, &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo;, I heard that &lt;a href=&#34;https://www.nytimes.com/2017/02/11/us/raymond-smullyan-dead-puzzle-creator.html?smid=tw-share&#34;&gt;Raymond Smullyan had died at the age of 97&lt;/a&gt;. I &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;posted a tweet&lt;/a&gt; with a photo of a page from the draft of the paper I was writing at the time, expressing loss at hearing of his death and gratitude for his life.&lt;/p&gt;
+
+&lt;p&gt;There are many reasons to love Professor Smullyan. As a teenager, I learned combinatory logic from his delightful puzzle book &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Mock-Mockingbird-Raymond-Smullyan/dp/0192801422/consequentlyorg&#34;&gt;To Mock a Mockingbird&lt;/a&gt;&lt;/em&gt;, and he was famous for many more puzzle books like that. He was not only bright and sharp, he was also &lt;a href=&#34;https://www.amazon.com/Tao-Silent-Raymond-M-Smullyan/dp/0060674695/consequentlyorg&#34;&gt;warmly&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/Who-Knows-Study-Religious-Consciousness/dp/0253215749/&#34;&gt;humane&lt;/a&gt;. However, the focus of my gratitude was something else. In my tweet, I hinted at one reason why I&amp;rsquo;m especially grateful for Smullyan&amp;rsquo;s genius&amp;mdash;his deep understanding of proof theory. I am convinced that his analysis of inference rules in the tableaux system for classical logic rewards repeated reflection. (See his &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/First-Order-Logic-Dover-Books-Mathematics/dp/0486683702/consequentlyorg&#34;&gt;First-Order Logic&lt;/a&gt;&lt;/em&gt;, Chapter 2, Section 1 for details.) I&amp;rsquo;ll try to explain why it&amp;rsquo;s important and insightful here.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In memory of Raymond Smullyan (1919-2017), with appreciation, fondness, and a sense of loss. &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;pic.twitter.com/g5e54e0eo6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Greg Restall (@consequently) &lt;a href=&#34;https://twitter.com/consequently/status/829517048346705921&#34;&gt;February 9, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Step back a moment and think about &lt;em&gt;proof theory&lt;/em&gt;, that branch of logic which concentrates&amp;mdash;unlike model theory&amp;mdash;on the &lt;em&gt;positive&lt;/em&gt; definition of the core logical notions of validity, inconsistency, etc. An argument is valid if and only if &lt;em&gt;there is some&lt;/em&gt; proof from the premises to the conclusion. A set of sentences is inconsistent if and only if &lt;em&gt;there is some&lt;/em&gt; refutation of (i.e., proof of a contradiction from) that set of sentences. On the contrary, model theoretic approaches define those notions negatively. An argument is valid if and only if &lt;em&gt;there is no&lt;/em&gt; model satisfying the premises but failing to satisfy the conclusion; a set of sentences is inconsistent if &lt;em&gt;there is no&lt;/em&gt; model satisfying all of them. For proof theory to be precise, we need to know what counts as a proof. The way this is typically done in different accounts of proof (whether &lt;a href=&#34;https://www.amazon.com/Natural-Deduction-Proof-Theoretical-Study-Mathematics/dp/0486446557/consequentlyorg&#34;&gt;natural deduction&lt;/a&gt;, Gentzen&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Theory-Cambridge-Theoretical-Computer-Science/dp/0521779111/consequentlyorg&#34;&gt;sequent&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521068428/consequentlyorg&#34;&gt;calculus&lt;/a&gt;, or &lt;a href=&#34;https://www.amazon.com/First-Order-Logic-Dover-Books-Mathematics/dp/0486683702/consequentlyorg&#34;&gt;tableaux&lt;/a&gt;), there are different rules for each different logical connective or quantifier. In well behaved proof systems, there tend to be two rules for each connective, explaining what you can deduce &lt;em&gt;from&lt;/em&gt; (for example) a conjunction, and how you could make a deduction &lt;em&gt;to&lt;/em&gt; a conjunction. The same for a conditional, a disjunction, a negation, a universally quantified statement, and so on.&lt;/p&gt;
+
+&lt;p&gt;That makes for a &lt;em&gt;lot&lt;/em&gt; of different rules.&lt;/p&gt;
+
+&lt;p&gt;A &lt;em&gt;proof&lt;/em&gt; is then is some structured collection of statements, linked together in ways specified by the rules. You demonstrate things &lt;em&gt;about&lt;/em&gt; proofs typically by showing that the feature you want to prove holds for &lt;em&gt;basic&lt;/em&gt; proofs (the smallest possible cases), and then you show that if the property holds for a proof, it also holds for a proof you can make out of that one by extending it by a new inference step. If you have \(9\) different rules, then there are \(9\) different cases to check. Worse than that, if you were &lt;em&gt;mad enough&lt;/em&gt; to try to &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations&#34;&gt;prove something about what happens when you rearrange proofs&lt;/a&gt; by swapping inference steps around, then welcome to the world of combinatorial explosion of cases. If you have \(9\) different kinds of rules, then there are \(9 \times 9 = 81\) different cases you have to consider. There&amp;rsquo;s something inherently unsatisfying about having to consider \(81\) different cases in a proof. You have the nagging feeling that you&amp;rsquo;re not looking at this at the right level of complexity. There is no wonder that the insightful and influential proof theorist &lt;a href=&#34;http://iml.univ-mrs.fr/~girard/Accueil.html&#34;&gt;Jean-Yves Girard&lt;/a&gt; complained:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;One can see &amp;hellip; technical limitations in current proof-theory: The lack in &lt;em&gt;modularity&lt;/em&gt;: in general, neigbouring problems can be attacked by neighbouring methods; but it is only exceptionally that one of the problems will be a corollary of the other &amp;hellip; Most of the time, a completely new proof will be necessary (but without any new idea).  This renders work in the domain quite long and tedious.  For instance, if we prove a cut-elimination theorem for a certain system of rules, and then consider a new system including just a new pair of rules, then it is necessary to make a complete new proof from the beginning.  Of course 90% of the two proofs will be identical, but it is rather shocking not to have a reasonable &amp;laquo;modular&amp;raquo; approach to such a question: a main theorem, to which one could add various &amp;laquo;modules&amp;raquo; corresponding to various directions.  Maybe this is inherent in the subject; one may hope that this only reflects the rather low level of our conceptualization!&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://www.amazon.com/Proof-Theory-Logical-Complexity-Studies/dp/0444987150/consequentlyorg&#34;&gt;Proof Theory and Logical Complexity&lt;/a&gt;, pages 15 and 16.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the case of permutations of rules, the usual proof of a theorem like this would have \(n\times n\) cases where you have a proof system with \(n\) different inference rules. And if you decided to try to extend your result it to a proof system with another \(m\) rules, you not only need to prove the fact all over again for your new rules, you also need to one-by-one add the \(n\times m\) cases of interaction betwen the old rules and your new ones. Ugh.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s where Smullyan&amp;rsquo;s insight comes in. He divided the rules of his tableaux system for classical propositional logic into two kinds. The \(\alpha\) (linear) rules are single-premise single-conclusion rules, while the \(beta\) (branching) rules infer a conclusion from &lt;em&gt;two&lt;/em&gt; premises.  It turns out that you can prove very many things about rules operating at this level of generality.  Many features of rules are shared by &lt;em&gt;all&lt;/em&gt; \(\alpha\) rules or &lt;em&gt;all&lt;/em&gt; \(\beta\) rules. And in &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations&#34;&gt;my paper&lt;/a&gt; I was pleased to see that the \(81\) different cases of permutations I had to consider could be simplified into \(3\) different cases. Swapping an \(\alpha\) step around an \(\alpha\) step; a \(\beta\) around a \(\beta\) and an \(\alpha\) around a \(\beta\) (and back). Instead of writing a paper where I considered \(n\) different cases out of \(81\), and leave the rest to the reader, using Smullyan&amp;rsquo;s insight I could show that any rules of the required two general shapes can be permuted around using the general schemas I formulate. Every case is covered. And what&amp;rsquo;s more, if you extend the proof system with &lt;em&gt;other&lt;/em&gt; rules, provided that they are \(\alpha\) or \(\beta\) rules, the results still hold.  It&amp;rsquo;s a much better way to do proof theory. It&amp;rsquo;s a &lt;em&gt;modular&lt;/em&gt; proof of a theorem, in just the way that Girard hoped for.&lt;/p&gt;
+
+&lt;p&gt;Thanks, Professor Smullyan!&lt;/p&gt;</description>
 </item>
     
 <item>
@@ -1538,20 +1570,6 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Contingent Existence and Modal Definedness</title>
-<link>http://consequently.org/presentation/2015/cemd-aal/</link>
-<pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/cemd-aal/</guid>
-<description>&lt;p&gt;A presentation for the &lt;a href=&#34;http://www-personal.usyd.edu.au/~njjsmith/aal2015/&#34;&gt;Australasian Association for Logic Conference&lt;/a&gt; at the University of Sydney. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
