@@ -26,7 +26,20 @@
     <language>en-us</language>
     
     
-    <updated>Sun, 12 Feb 2017 00:00:00 UTC</updated>
+    <updated>Thu, 23 Feb 2017 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>First Degree Entailment, Symmetry and Paradox</title>
+      <link>http://consequently.org/writing/fde-symmetry-paradox/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
+
+&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -86,19 +99,6 @@
       <description>&lt;![CDATA[&lt;p&gt;Graham Priest defends the use of a nonmonotonic logic, &lt;em&gt;LPm&lt;/em&gt;, in his analysis of reasoning in the face of true contradictions, such as those arising from the paradoxes of self-reference. In the course of defending the choice of this logic in the face of the criticism that &lt;em&gt;LPm&lt;/em&gt; is not truth preserving, Priest argued that requirement is too much to ask: since &lt;em&gt;LPm&lt;/em&gt; is a nonmonotonic logic, it necessarily fails to preserve truth. In this paper, I show that this assumption is incorrect, and I explain why nonmonotonic logics can nonetheless be truth preserving. Finally, I diagnose Priest&amp;rsquo;s error, to explain when nonmonotonic logics do indeed fail to preserve truth.&lt;/p&gt;
 
 &lt;p&gt;Graham Priest has written a &lt;a href=&#34;http://dx.doi.org/10.1002/tht3.204&#34;&gt;very short reply&lt;/a&gt; to this article, which also appears in &lt;em&gt;Thought&lt;/em&gt;.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>First Degree Entailment, Symmetry and Paradox</title>
-      <link>http://consequently.org/writing/fde-symmetry-paradox/</link>
-      <pubDate>Tue, 23 Feb 2016 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
-
-&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
 ]]></description>
     </item>
     

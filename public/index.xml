@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 23 Feb 2017 13:45:37 AEDT</updated>
+    <updated>Thu, 23 Feb 2017 13:47:11 AEDT</updated>
 
 
 <item>
@@ -195,6 +195,25 @@
 </item>
     
 <item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>First Degree Entailment, Symmetry and Paradox</title>
+<link>http://consequently.org/writing/fde-symmetry-paradox/</link>
+<pubDate>Fri, 14 Oct 2016 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
+<description>&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
+
+&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
 <title>With Gratitude to Raymond Smullyan</title>
 <link>http://consequently.org/news/2017/with-gratitude-to-smullyan/</link>
 <pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
@@ -244,14 +263,6 @@
 
 &lt;p&gt;If this looks interesting to you, please &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;take a look&lt;/a&gt;. I&amp;rsquo;d appreciate your feedback. Thanks!&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>http://consequently.org/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1269,17 +1280,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>First Degree Entailment, Symmetry and Paradox</title>
-<link>http://consequently.org/writing/fde-symmetry-paradox/</link>
-<pubDate>Fri, 14 Oct 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
-<description>&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
-
-&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
 </description>
 </item>
     

@@ -9,7 +9,7 @@ tag: fde-symmetry-paradox
 file: fde-symmetry-paradox.pdf
 subjects: first_degree_entailment paradox symmetry models
 comments: yes
-date: 2016-02-23
+date: 2017-02-23
 doi: 10.12775/LLP.2016.028
 publishdate: 2016-10-14
 filter:
