@@ -2,9 +2,9 @@
 title: "First Degree Entailment, Symmetry and Paradox"
 
 author: Greg Restall
-status: In Progress
-type: unpublished
-citation: "&ldquo;First Degree Entailment, Symmetry and Paradox,&rdquo; article to appear in <em>Logic and Logical Philosophy</em>."
+status: Published in 2017
+type: published
+citation: "&ldquo;First Degree Entailment, Symmetry and Paradox,&rdquo; <em>Logic and Logical Philosophy</em>, 26:1 (2017), 3-18"
 tag: fde-symmetry-paradox
 file: fde-symmetry-paradox.pdf
 subjects: first_degree_entailment paradox symmetry models
