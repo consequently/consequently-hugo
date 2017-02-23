@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 18 Feb 2017 15:04:04 AEDT</updated>
+    <updated>Thu, 23 Feb 2017 12:55:18 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,61 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Presentations</title>
+<link>http://consequently.org/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Proof Identity, Invariants and Hyperintensionality</title>
+<link>http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/</link>
+<pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how different approaches to hyperintensionality, aboutness and subject matter treat (classically) logically equivalent statements. I compare and contrast two different notions of subject matter that might be thought to be representational or truth first &amp;ndash; &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), and truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;.” I contrast this with the kind of inferentialist account of hyperintensionality arising out of the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;http://projects.illc.uva.nl/conceivability/Events/event/38/Hyperintensionality-proof-theory-and-semantics&#34;&gt;Hyperintensionality Afternoon&lt;/a&gt;, held by Francesco Berto&amp;rsquo;s project on the &lt;a href=&#34;http://projects.illc.uva.nl/conceivability/&#34;&gt;Logic of Conceivability&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-identity-invariants-and-hyperintensionality.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Proof Terms for Classical Derivations</title>
+<link>http://consequently.org/presentation/2017/proof-terms-invariants-talk-amsterdam/</link>
+<pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2017/proof-terms-invariants-talk-amsterdam/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
+
+&lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;https://www.illc.uva.nl/lgc/seminar/2017/02/lira-session-greg-restall/&#34;&gt;LIRa Seminar&lt;/a&gt;, at the University of Amsterdam&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-invariants-talk-amsterdam.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Logical Pluralism: Meaning, Rules and Counterexamples</title>
+<link>http://consequently.org/presentation/2017/logical-pluralism-meaning-counterexamples/</link>
+<pubDate>Wed, 22 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2017/logical-pluralism-meaning-counterexamples/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I attempt to give a &lt;em&gt;pluralist&lt;/em&gt; and &lt;em&gt;syntax-independent&lt;/em&gt; account of classical and constructive &lt;em&gt;proof&lt;/em&gt;, grounded in univocal rules for evaluating assertions and denials for judgments featuring the logical the connectives, interpretable as governing warrants &lt;em&gt;for&lt;/em&gt; and &lt;em&gt;against&lt;/em&gt; claims, and which results inan interpretation of classical and constructive counterexamples to invalid arguments.&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;Logical Pluralism: Meaning, Rules and Counterexamples&#34;&gt;Pluralisms Workshop&lt;/a&gt;, hosted at the University of Bonn, March 2-4, 2017.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/logical-pluralism-meaning-counterexamples.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -106,14 +161,6 @@
 
 &lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>http://consequently.org/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1529,47 +1576,6 @@ are non-trivial, since neither of them are logically equivalent to the inconsist
 &lt;ul&gt;
 &lt;li&gt;Details of the session are available at the &lt;a href=&#34;https://clmps2015.sched.org/event/23c5aa71523e3e3db99e8e2dd8623e72&#34;&gt;event page on sched.org&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-clmps-2015.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>PHIL20030: Meaning, Possibility and Paradox</title>
-<link>http://consequently.org/class/2015/PHIL20030/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/PHIL20030/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
-
-&lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
-
-&lt;p&gt;In the second part of the subject, we examine closely the assumption that every statement we make is either true or false but not both. We will examine the paradoxes of truth (like the so-called &amp;lsquo;liar paradox&amp;rsquo;) and vagueness (the ‘sorites paradox&amp;rsquo;), and we will investigate different ways attempts at resolving these paradoxes by going beyond our traditional views of truth (using &amp;lsquo;many valued logics&amp;rsquo;) or by defending the traditional perspective.&lt;/p&gt;
-
-&lt;p&gt;The subject serves as an introduction to ways that logic is applied in the study of language, epistemology and metaphysics, so it is useful to those who already know some philosophy and would like to see how logic relates to those issues. It is also useful to those who already know some logic and would like to learn new logical techniques and see how these techniques can be applied.&lt;/p&gt;
-
-&lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
-<link>http://consequently.org/class/2015/PHIL40013/</link>
-<pubDate>Sat, 31 Jan 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2015/PHIL40013/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2015, I will cover some topic introducing logic and its applications to issues in metaphysics, epistemology or philosophy of language. For further information, contact me. To participate, check &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL40013&#34;&gt;the handbook&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
-<link>http://consequently.org/presentation/2015/verbal-disputes-aap/</link>
-<pubDate>Wed, 01 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/verbal-disputes-aap/</guid>
-<description>&lt;p&gt;This is a talk at the &lt;a href=&#34;http://www.aap-conferences.org.au&#34;&gt;2015 Australasian Association for Philosophy Conference&lt;/a&gt; at Macquarie University in Sydney. I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
