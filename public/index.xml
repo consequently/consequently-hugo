@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 23 Feb 2017 12:55:18 AEDT</updated>
+    <updated>Thu, 23 Feb 2017 12:59:48 AEDT</updated>
 
 
 <item>
@@ -88,6 +88,108 @@
 
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/logical-pluralism-meaning-counterexamples.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>Classes</title>
+<link>http://consequently.org/class/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>UNIB10002: Logic, Language and Information</title>
+<link>http://consequently.org/class/2017/UNIB10002/</link>
+<pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2017/UNIB10002/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.org/class/2017/PHIL30043/</link>
+<pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2017/PHIL30043/</guid>
+<description>
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;prelude&#34;&gt;Prelude&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59401942&#34;&gt;Logical Equivalence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403292&#34;&gt;Disjunctive Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403535&#34;&gt;Why DNF Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59463569&#34;&gt;Prenex Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59466141&#34;&gt;Models for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59880539&#34;&gt;Trees for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;completeness&#34;&gt;Completeness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59883806&#34;&gt;Introducing Soundness and Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60249309&#34;&gt;Soundness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60250515&#34;&gt;Completeness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61677028&#34;&gt;Hilbert Proofs for Propositional Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61685762&#34;&gt;Conditional Proof&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/62221512&#34;&gt;Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103720089&#34;&gt;Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103757399&#34;&gt;Soundness and Completeness for Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;compactness&#34;&gt;Compactness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454250&#34;&gt;Counting Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Compactness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63455121&#34;&gt;Non-Standard Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462354&#34;&gt;Inexpressibility of Finitude&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462519&#34;&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;computability&#34;&gt;Computability&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64162062&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64167354&#34;&gt;Register Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64207986&#34;&gt;Recursive Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64435763&#34;&gt;Register Machine computable functions are Recursive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64604717&#34;&gt;The Uncomputable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;undecidability-and-incompleteness&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65382456&#34;&gt;Deductively Defined Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65392670&#34;&gt;The Finite Model Property&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65393543&#34;&gt;Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65440901&#34;&gt;Introducing Robinson&amp;rsquo;s Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65442289&#34;&gt;Induction and Peano Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65443650&#34;&gt;Representing Functions and Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65483655&#34;&gt;G&amp;ouml;del Numbering and Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65497886&#34;&gt;Q (and any consistent extension of Q) is undecidable, and incomplete if it&amp;rsquo;s deductively defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65498016&#34;&gt;First Order Predicate Logic is Undecidable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
@@ -611,14 +713,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;Greg Restall (2015) “&lt;a href=&#34;http://consequently.org/writing/assertiondenialparadox/&#34;&gt;Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox&lt;/a&gt;,” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.&lt;/p&gt;
 
 &lt;p&gt;Richard Routley and Val Routley (1972) “&lt;a href=&#34;http://www.jstor.org/stable/2214309&#34;&gt;The Semantics of First Degree Entailment&lt;/a&gt;,” &lt;em&gt;No&amp;ucirc;s&lt;/em&gt; 6:4, 335&amp;ndash;359.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>Classes</title>
-<link>http://consequently.org/class/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1553,31 +1647,6 @@ then I&amp;rsquo;ve “pinned down” what there is to know about the conjunctio
 are non-trivial, since neither of them are logically equivalent to the inconsistent concept \({}^{\langle x\rangle}\sem{\bot}\), and it&amp;rsquo;s an open question as to which one of them is satisfied by the object \(a\). If \(a\) and \(b\) are rigid designators, then on the orthodox Kripkean line, one of these concepts is necessarily false, but they need not be &lt;em&gt;analytically&lt;/em&gt; false or &lt;em&gt;known&lt;/em&gt; to be false. If we allow for concept identity to be more finely grained than simple agreement of extension in all possible worlds, and if we allow for modalities stronger than necessity (say, &lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;analyticity, or a priori knowability&lt;/a&gt;) then it seems that Cian&amp;rsquo;s argument applies equally well to them, too. It&amp;rsquo;s one thing to be a &lt;em&gt;necessitist&lt;/em&gt; about objects, and think that the same objects exist in all possible worlds. Do we also want to also take the objects to persist across all epistemic scenarios, whether possible or impossible?&lt;/p&gt;
 
 &lt;!--more--&gt;</description>
-</item>
-    
-<item>
-<title>Generality and Existence I: Quantification and Free Logic</title>
-<link>http://consequently.org/writing/generality-and-existence-1/</link>
-<pubDate>Thu, 14 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/generality-and-existence-1/</guid>
-<description>&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Fixed Point Models for Theories of Properties and Classes</title>
-<link>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
-<pubDate>Fri, 31 Jul 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the first 2015 meeting of the &lt;a href=&#34;http://clmps.helsinki.fi&#34;&gt;15th Congress on Logic, Methodology, and Philosophy of Science&lt;/a&gt;, in Helsinki.&lt;/p&gt;
-
-&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Details of the session are available at the &lt;a href=&#34;https://clmps2015.sched.org/event/23c5aa71523e3e3db99e8e2dd8623e72&#34;&gt;event page on sched.org&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-clmps-2015.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
 </item>
     
   </channel>
