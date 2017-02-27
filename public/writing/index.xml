@@ -238,5 +238,68 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
 ]]></description>
     </item>
     
+ 
+    <item>
+      <title>Bradwardine Hypersequents</title>
+      <link>http://consequently.org/writing/bradwardine-hypersequents/</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine-hypersequents/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;According to Stephen Read, Thomas Bradwardine&amp;rsquo;s theory of truth provides an independently motivated solution to the paradoxes of truth, such as the liar. In a series of papers, I have discussed modal models for Read&amp;rsquo;s reconstruction of Bradwardine&amp;rsquo;s theory. In this paper, provide a hypersequent calculus for this theory, and I show that the cut rule is admissible in the hypersequent calculus.&lt;/p&gt;
+
+&lt;p&gt;(This paper is dedicated to Professor Stephen Read, whose work has been a profound influence on my own. His work on relevant logic, on proof theoretical harmony, on the logic of identity and on Thomas Brad- wardine&amp;rsquo;s theory of truth have been a rich source of insight, of stimulation and of provocation. In an attempt to both honour Stephen, and hopefully to give him some pleasure, I am going to attempt to cook up something original using some of the many and varied ingredients he has provided us. In this paper, I will mix and match ideas and techniques from Stephen&amp;rsquo;s papers on proof theory, on Bradwardine&amp;rsquo;s theory of truth, and on identity to offer a harmonious sequent system for a theory of truth inspired by Stephen Read&amp;rsquo;s recovery of the work of Thomas Bradwardine.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Interpreting and Applying Proof Theories for Modal Logics</title>
+      <link>http://consequently.org/writing/interp-apply-ptml/</link>
+      <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/interp-apply-ptml/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Proof theory for modal logic has blossomed over recent years. Many ex- tensions of the classical sequent calculus have been proposed in order to give natural and appealing accounts of proof in modal logics like K, T, S4, S5, provability logics, and other modal systems. The common feature of each of these different proof systems consists in the general structure of the rules for modal operators. They provide introduction and elimination rules for statements of the form  &amp;#x25A1;&amp;#x10FC05;A (and &amp;#x25C7;&amp;#x10FC06;A), which show how those statements can feature as conclusions or as premises in deduction. These rules give an account of the deductive power of a modal formula 􏰅&amp;#x25A1;&amp;#x10FC05;A (and 􏰆&amp;#x25C7;&amp;#x10FC06;A) in terms of the constituent formula A.&lt;/p&gt;
+
+&lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
+
+&lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>History of Logical Consequence</title>
+      <link>http://consequently.org/writing/hlc/</link>
+      <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/hlc/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On the ternary relation and conditionality</title>
+      <link>http://consequently.org/writing/ternary-cond/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ternary-cond/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Molinism and the Thin Red Line</title>
+      <link>http://consequently.org/writing/molinism-trl/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/molinism-trl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Molinism is an attempt to do equal justice to divine foreknowledge and human freedom.  For Molinists, human freedom &lt;em&gt;fits&lt;/em&gt; in this universe for the future is open or unsettled.  However, God&amp;rsquo;s middle knowledge &amp;ndash; God&amp;rsquo;s contingent knowledge of what agents would freely do in this or that circumstance &amp;ndash; underwrites God&amp;rsquo;s omniscience in the midst of this openness.&lt;/p&gt;
+
+&lt;p&gt;In this paper I rehearse Nuel Belnap and Mitchell Green&amp;rsquo;s argument in &amp;lsquo;Indeterminism and the Thin Red Line&amp;rsquo; against the reality of a distinguished single future in the context of branching time, and show that it applies applies equally against Molinism + branching time.  In the process, we show how contemporary work in the logic of temporal notions in the context of branching time (specifically, Prior&amp;ndash;Thomason semantics) can illuminate discussions in the metaphysics of freedom and divine knowledge.&lt;/p&gt;
+]]></description>
+    </item>
+    
   </channel>
 </rss>

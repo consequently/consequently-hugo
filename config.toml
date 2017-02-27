@@ -6,4 +6,4 @@ RSSLink = "http://consequently.org/index.xml"
 [params]
    description = "Greg Restall’s website"
    author = "Greg Restall"
-   
+   rssLimit = 20
