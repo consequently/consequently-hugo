@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>http://consequently.org/writing/fixed-point-models/</loc>
+    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/class/2017/PHIL30043/</loc>
     <lastmod>2017-02-27T00:00:00+11:00</lastmod>
   </url>
@@ -149,11 +154,6 @@
   <url>
     <loc>http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</loc>
     <lastmod>2016-05-06T11:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/writing/fixed-point-models/</loc>
-    <lastmod>2016-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2640,7 +2640,7 @@
   
   <url>
     <loc>http://consequently.org/writing/</loc>
-    <lastmod>2017-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

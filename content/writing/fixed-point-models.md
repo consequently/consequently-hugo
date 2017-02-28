@@ -1,14 +1,14 @@
 +++
 title = "Fixed Point Models for Theories of Properties and Classes"
 author = "Greg Restall"
-status = "In Progress"
+status = "To Appear"
 type = "unpublished"
-citation = "&ldquo;Fixed Point Models for Theories of Properties and Classes,&rdquo; article under submission."
+citation = "&ldquo;Fixed Point Models for Theories of Properties and Classes,&rdquo; to appear in the <em>Australasian Journal of Logic</em>."
 tag = "fixed-point-models"
 file = "fixed-point-models.pdf"
 subjects = "paradoxes class_theory property_theory"
 comments = "yes"
-date = "2016-05-02"
+date = "2017-02-28"
 publishdate = "2016-05-02"
 
 +++
