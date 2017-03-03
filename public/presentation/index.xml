@@ -26,13 +26,13 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 07 Mar 2017 14:15:00 &#43;0100</updated>
+    <updated>Tue, 07 Mar 2017 14:15:00 CET</updated>
     
  
     <item>
       <title>Proof Identity, Invariants and Hyperintensionality</title>
       <link>http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/</link>
-      <pubDate>Tue, 07 Mar 2017 14:15:00 &#43;0100</pubDate>
+      <pubDate>Tue, 07 Mar 2017 14:15:00 CET</pubDate>
       
       <guid>http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how different approaches to hyperintensionality, aboutness and subject matter treat (classically) logically equivalent statements. I compare and contrast two different notions of subject matter that might be thought to be representational or truth first &amp;ndash; &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), and truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;.” I contrast this with the kind of inferentialist account of hyperintensionality arising out of the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
@@ -49,7 +49,7 @@
     <item>
       <title>Proof Terms for Classical Derivations</title>
       <link>http://consequently.org/presentation/2017/proof-terms-invariants-talk-amsterdam/</link>
-      <pubDate>Mon, 06 Mar 2017 16:00:00 &#43;0100</pubDate>
+      <pubDate>Mon, 06 Mar 2017 16:00:00 CET</pubDate>
       
       <guid>http://consequently.org/presentation/2017/proof-terms-invariants-talk-amsterdam/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
@@ -68,7 +68,7 @@
     <item>
       <title>Logical Pluralism: Meaning, Rules and Counterexamples</title>
       <link>http://consequently.org/presentation/2017/logical-pluralism-meaning-counterexamples/</link>
-      <pubDate>Fri, 03 Mar 2017 17:40:00 &#43;0100</pubDate>
+      <pubDate>Fri, 03 Mar 2017 17:40:00 CET</pubDate>
       
       <guid>http://consequently.org/presentation/2017/logical-pluralism-meaning-counterexamples/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I attempt to give a &lt;em&gt;pluralist&lt;/em&gt; and &lt;em&gt;syntax-independent&lt;/em&gt; account of classical and constructive &lt;em&gt;proof&lt;/em&gt;, grounded in univocal rules for evaluating assertions and denials for judgments featuring the logical the connectives, interpretable as governing warrants &lt;em&gt;for&lt;/em&gt; and &lt;em&gt;against&lt;/em&gt; claims, and which results in an interpretation of classical and constructive counterexamples to invalid arguments.&lt;/p&gt;
@@ -85,7 +85,7 @@
     <item>
       <title>Proof Terms as Invariants</title>
       <link>http://consequently.org/presentation/2016/proof-terms-invariants/</link>
-      <pubDate>Fri, 09 Dec 2016 13:00:00 AEDT</pubDate>
+      <pubDate>Fri, 09 Dec 2016 13:00:00 &#43;1100</pubDate>
       
       <guid>http://consequently.org/presentation/2016/proof-terms-invariants/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This is a talk on proof theory for &lt;a href=&#34;http://philevents.org/event/show/27034&#34;&gt;Melbourne Logic Day&lt;/a&gt;.&lt;/p&gt;
@@ -274,7 +274,7 @@
     <item>
       <title>Fixed Point Models for Theories of Properties and Classes</title>
       <link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
-      <pubDate>Tue, 26 Jan 2016 13:38:19 AEDT</pubDate>
+      <pubDate>Tue, 26 Jan 2016 13:38:19 &#43;1100</pubDate>
       
       <guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
@@ -291,7 +291,7 @@
     <item>
       <title>Generality and Existence 3: Substitution and Identity</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
-      <pubDate>Fri, 11 Dec 2015 14:00:00 AEDT</pubDate>
+      <pubDate>Fri, 11 Dec 2015 14:00:00 &#43;1100</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
