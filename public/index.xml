@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 08 Mar 2017 23:16:44 CET</updated>
+    <updated>Sun, 19 Mar 2017 09:25:21 AEDT</updated>
 
 
 <item>
@@ -225,7 +225,7 @@
 <item>
 <title>With Gratitude to Raymond Smullyan</title>
 <link>http://consequently.org/news/2017/with-gratitude-to-smullyan/</link>
-<pubDate>Mon, 13 Feb 2017 22:12:50 &#43;1100</pubDate>
+<pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
 <guid>http://consequently.org/news/2017/with-gratitude-to-smullyan/</guid>
 <description>&lt;p&gt;While I was busy writing my most recent paper, &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo;, I heard that &lt;a href=&#34;https://www.nytimes.com/2017/02/11/us/raymond-smullyan-dead-puzzle-creator.html?smid=tw-share&#34;&gt;Raymond Smullyan had died at the age of 97&lt;/a&gt;. I &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;posted a tweet&lt;/a&gt; with a photo of a page from the draft of the paper I was writing at the time, expressing loss at hearing of his death and gratitude for his life.&lt;/p&gt;
 
@@ -257,7 +257,7 @@
 <item>
 <title>A New Paper</title>
 <link>http://consequently.org/news/2017/a-new-paper/</link>
-<pubDate>Mon, 13 Feb 2017 01:32:58 &#43;1100</pubDate>
+<pubDate>Mon, 13 Feb 2017 01:32:58 AEDT</pubDate>
 <guid>http://consequently.org/news/2017/a-new-paper/</guid>
 <description>&lt;p&gt;It&amp;rsquo;s a new year, and it&amp;rsquo;s time for a new paper, so here is &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; I&amp;rsquo;ve been working on these ideas for about a year, from some &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/&#34;&gt;rough&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/&#34;&gt;talks&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;over&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/what-proofs-are-about/&#34;&gt;most&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/proof-terms-invariants/&#34;&gt;of&lt;/a&gt; 2016, to many conversations with my colleague &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn&lt;/a&gt; as I attempted to iron out the details, to many more hours in front of whiteboards, I&amp;rsquo;ve finally got something I&amp;rsquo;m happy to show in public.&lt;/p&gt;
 
@@ -303,7 +303,7 @@
 <item>
 <title>A Puzzle for Brandom&#39;s Account of Singular Terms</title>
 <link>http://consequently.org/news/2016/a-puzzle-for-bob/</link>
-<pubDate>Wed, 30 Nov 2016 11:22:42 &#43;1100</pubDate>
+<pubDate>Wed, 30 Nov 2016 11:22:42 AEDT</pubDate>
 <guid>http://consequently.org/news/2016/a-puzzle-for-bob/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been interested in &lt;a href=&#34;http://www.pitt.edu/~rbrandom/&#34;&gt;Robert Brandom&lt;/a&gt;’s inferentialism since I picked up a copy of &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Making-Explicit-Representing-Discursive-Commitment/dp/0674543300/consequentlyorg&#34;&gt;Making it Explicit&lt;/a&gt;&lt;/em&gt; back in 1996.  One interesting component of Brandom&amp;rsquo;s inferentialism is his account of what it is to be a singular term. There are a number of ways to understand inferentialism, but the important point here is the centrality of &lt;em&gt;material inference&lt;/em&gt; to semantics. An inference like “Melbourne is south of Sydney, therefore Sydney is north of Melbourne” is a materially good inference. Material inferences, for Brandom, are not to be understood as grounded in a more primitive notion of logical consequence—we shouldn’t explain the inference in terms of the validity of the form “\(a\) is south of \(b\), for all \(x\) and \(y\) if \(x\) is south of \(y\) then \(y\) is north of \(x\), therefore, \(b\) is north of \(a\)” and the fact that the extra premise is common knowledge or a part of the norms governing the concepts of north and south. No, according the inferentialist, we are to explain those facts in terms of materially good inferences, and not &lt;em&gt;vice versa&lt;/em&gt;.&lt;/p&gt;
 
@@ -1286,7 +1286,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <item>
 <title>Models for Compatibility</title>
 <link>http://consequently.org/news/2016/models-for-compatibility/</link>
-<pubDate>Thu, 11 Feb 2016 16:57:01 &#43;1100</pubDate>
+<pubDate>Thu, 11 Feb 2016 16:57:01 AEDT</pubDate>
 <guid>http://consequently.org/news/2016/models-for-compatibility/</guid>
 <description>&lt;p&gt;This morning I received an email from &lt;a href=&#34;https://philosophy.stanford.edu/people/rachael-briggs&#34;&gt;Rachael Briggs&lt;/a&gt;, asking me some questions about the notion of &lt;em&gt;compatibility&lt;/em&gt; as it appears in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/negrl/&#34;&gt;Negation in Relevant Logics&lt;/a&gt;.&amp;rdquo; These questions got me to thinking that there were some ideas in &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=3319676480145120321&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;that paper&lt;/a&gt; and a &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=828496633310229772&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;much-less-read&lt;/a&gt; paper of mine &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/modelling/&#34;&gt;Modelling Truthmaking&lt;/a&gt;&amp;rdquo;, which might be worth reflecting on some more. So I&amp;rsquo;ll try to do that here.&lt;/p&gt;
 
@@ -1328,7 +1328,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <item>
 <title>Congratulations to Bruce French, AO</title>
 <link>http://consequently.org/news/2016/congratulations-bruce-french-ao/</link>
-<pubDate>Fri, 29 Jan 2016 00:30:47 &#43;1100</pubDate>
+<pubDate>Fri, 29 Jan 2016 00:30:47 AEDT</pubDate>
 <guid>http://consequently.org/news/2016/congratulations-bruce-french-ao/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been away from home in Auckland at a &lt;a href=&#34;https://sites.google.com/site/fnclmp/&#34;&gt;conference&lt;/a&gt; over the last couple of days, so I&amp;rsquo;m a bit behind on the news, but tonight I&amp;rsquo;ve finally found a few moments to write something in honour of my friend and mentor, Bruce French, who was&amp;mdash;three days ago&amp;mdash;&lt;a href=&#34;http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476&#34;&gt;named an Officer of the Order of Australia&lt;/a&gt; in the 2016 Australia Day Honour&amp;rsquo;s list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it &lt;a href=&#34;http://foodplantsinternational.com&#34;&gt;freely available to anyone who can use it&lt;/a&gt;.&lt;/p&gt;
 
@@ -1365,7 +1365,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <item>
 <title>On Priest on nonmonotonic and inductive logic</title>
 <link>http://consequently.org/news/2016/just-how-reassured/</link>
-<pubDate>Fri, 22 Jan 2016 00:55:52 &#43;1100</pubDate>
+<pubDate>Fri, 22 Jan 2016 00:55:52 AEDT</pubDate>
 <guid>http://consequently.org/news/2016/just-how-reassured/</guid>
 <description>&lt;p&gt;Thanks to a recent visit from &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt;, I was reminded of a critical discussion between Jc and our colleague and friend &lt;a href=&#34;http://grahampriest.net&#34;&gt;Graham Priest&lt;/a&gt; in the pages of &lt;a href=&#34;http://analysis.oxfordjournals.org&#34;&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/a&gt;. Jc was puzzled by a claim that Graham made &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;in his reply&lt;/a&gt; to &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Jc&amp;rsquo;s paper&lt;/a&gt;, concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&amp;rsquo;ll explain the disagreement between Jc and Graham, and why Graham&amp;rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.&lt;/p&gt;
 
@@ -1536,7 +1536,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <item>
 <title>Language, Logic and Existential Commitment</title>
 <link>http://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
-<pubDate>Wed, 18 Nov 2015 11:49:21 &#43;1100</pubDate>
+<pubDate>Wed, 18 Nov 2015 11:49:21 AEDT</pubDate>
 <guid>http://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
 <description>&lt;p&gt;In between wrapping up &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;teaching for the&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL40013/&#34;&gt;end of Semester 2&lt;/a&gt;, and getting ready for a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;short trip to Scotland&lt;/a&gt;, I&amp;rsquo;m spending some time &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-1-arche/&#34;&gt;thinking about free logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-2-arche/&#34;&gt;quantified modal logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-3-arche/&#34;&gt;identity&lt;/a&gt;. This is difficult but exciting terrain to cover.  There is no obvious way to tie together the logic of quantifiers, the modalities and identity in a way that commands broad appeal&amp;mdash;there is no default quantified modal logic that has the same &amp;lsquo;market reach&amp;rsquo; as classical first order logic.&lt;/p&gt;
 
@@ -1566,7 +1566,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <item>
 <title>Logic at Melbourne finally has a presence on the web</title>
 <link>http://consequently.org/news/2015/logic-at-melbourne/</link>
-<pubDate>Thu, 29 Oct 2015 17:02:04 &#43;1100</pubDate>
+<pubDate>Thu, 29 Oct 2015 17:02:04 AEDT</pubDate>
 <guid>http://consequently.org/news/2015/logic-at-melbourne/</guid>
 <description>&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
 
@@ -1586,7 +1586,7 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
 <item>
 <title>Cian Dorr on Defining Quantifiers (Verbal Disputes Workshop Report #2)</title>
 <link>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
-<pubDate>Sat, 24 Oct 2015 15:27:36 &#43;1100</pubDate>
+<pubDate>Sat, 24 Oct 2015 15:27:36 AEDT</pubDate>
 <guid>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
 <description>&lt;p&gt;There&amp;rsquo;s something very attractive in the idea that meanings of logical concepts—such as conjunction, negation, the quantifiers—can be specified by the role they play in proofs. If I learn the rules for conjunction:
 \(
