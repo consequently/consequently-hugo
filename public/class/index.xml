@@ -22,7 +22,7 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://consequently.org/class/index.xml</link>
+    <link>http://consequently.org/class/</link>
     <language>en-us</language>
     
     
@@ -31,10 +31,10 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>http://consequently.org/class/2017/UNIB10002/</link>
+      <link>http://consequently.org/class/2017/unib10002/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2017/UNIB10002/</guid>
+      <guid>http://consequently.org/class/2017/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -44,10 +44,10 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>http://consequently.org/class/2017/PHIL30043/</link>
+      <link>http://consequently.org/class/2017/phil30043/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2017/PHIL30043/</guid>
+      <guid>http://consequently.org/class/2017/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
@@ -129,10 +129,10 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>http://consequently.org/class/2016/PHIL30043/</link>
+      <link>http://consequently.org/class/2016/phil30043/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2016/PHIL30043/</guid>
+      <guid>http://consequently.org/class/2016/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
@@ -214,10 +214,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>http://consequently.org/class/2016/PHIL20030/</link>
+      <link>http://consequently.org/class/2016/phil20030/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2016/PHIL20030/</guid>
+      <guid>http://consequently.org/class/2016/phil20030/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
@@ -332,10 +332,10 @@
  
     <item>
       <title>Proof Theory: Logical and Philosophical Aspects</title>
-      <link>http://consequently.org/class/2016/PTPLA-NASSLLI/</link>
+      <link>http://consequently.org/class/2016/ptpla-nasslli/</link>
       <pubDate>Mon, 11 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2016/PTPLA-NASSLLI/</guid>
+      <guid>http://consequently.org/class/2016/ptpla-nasslli/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;This is an intensive class on logical and philosophical issues in proof theory, taught by &lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and me at &lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;. We  cover cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in. Here are the slides for each day of the course.&lt;/p&gt;
@@ -439,10 +439,10 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>http://consequently.org/class/2016/UNIB10002/</link>
+      <link>http://consequently.org/class/2016/unib10002/</link>
       <pubDate>Mon, 29 Feb 2016 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2016/UNIB10002/</guid>
+      <guid>http://consequently.org/class/2016/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -452,10 +452,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>http://consequently.org/class/2015/PHIL20030/</link>
+      <link>http://consequently.org/class/2015/phil20030/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2015/PHIL20030/</guid>
+      <guid>http://consequently.org/class/2015/phil20030/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -473,10 +473,10 @@
  
     <item>
       <title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
-      <link>http://consequently.org/class/2015/PHIL40013/</link>
+      <link>http://consequently.org/class/2015/phil40013/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 &#43;1100</pubDate>
       
-      <guid>http://consequently.org/class/2015/PHIL40013/</guid>
+      <guid>http://consequently.org/class/2015/phil40013/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2015, I will cover some topic introducing logic and its applications to issues in metaphysics, epistemology or philosophy of language. For further information, contact me. To participate, check &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL40013&#34;&gt;the handbook&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
@@ -495,10 +495,10 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>http://consequently.org/class/2015/UNIB10002/</link>
+      <link>http://consequently.org/class/2015/unib10002/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2015/UNIB10002/</guid>
+      <guid>http://consequently.org/class/2015/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -508,10 +508,10 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>http://consequently.org/class/2015/PHIL30043/</link>
+      <link>http://consequently.org/class/2015/phil30043/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2015/PHIL30043/</guid>
+      <guid>http://consequently.org/class/2015/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
@@ -606,10 +606,10 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>http://consequently.org/class/2014/PHIL30043/</link>
+      <link>http://consequently.org/class/2014/phil30043/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/PHIL30043/</guid>
+      <guid>http://consequently.org/class/2014/phil30043/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -619,10 +619,10 @@
  
     <item>
       <title>PHIL10003: Philosophy, the Great Thinkers</title>
-      <link>http://consequently.org/class/2014/PHIL10003/</link>
+      <link>http://consequently.org/class/2014/phil10003/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/PHIL10003/</guid>
+      <guid>http://consequently.org/class/2014/phil10003/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -632,10 +632,10 @@
  
     <item>
       <title>Proof Theory and Philosophy</title>
-      <link>http://consequently.org/class/2014/PTP-NIP/</link>
+      <link>http://consequently.org/class/2014/ptp-nip/</link>
       <pubDate>Wed, 25 Jun 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/PTP-NIP/</guid>
+      <guid>http://consequently.org/class/2014/ptp-nip/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I taught an intensive class on proof theory and its applications to Philosophy at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=474&#34;&gt;NIP Summer School on the Foundations of Logic and Mathematics&lt;/a&gt;, June&amp;nbsp;July 2014.&lt;/p&gt;
 ]]></description>
     </item>
@@ -654,10 +654,10 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>http://consequently.org/class/2014/UNIB10002/</link>
+      <link>http://consequently.org/class/2014/unib10002/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/UNIB10002/</guid>
+      <guid>http://consequently.org/class/2014/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;UNIB10002: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2014/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2014/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -667,10 +667,10 @@
  
     <item>
       <title>PHIL40007: Philosophy of Language and Mind</title>
-      <link>http://consequently.org/class/2014/PHIL40007/</link>
+      <link>http://consequently.org/class/2014/phil40007/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/PHIL40007/</guid>
+      <guid>http://consequently.org/class/2014/phil40007/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
 ]]></description>
     </item>
@@ -678,10 +678,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>http://consequently.org/class/2014/PHIL20030/</link>
+      <link>http://consequently.org/class/2014/phil20030/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://consequently.org/class/2014/PHIL20030/</guid>
+      <guid>http://consequently.org/class/2014/phil20030/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL20030: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we looked at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -697,10 +697,10 @@
  
     <item>
       <title>MULT10016: Reason</title>
-      <link>http://consequently.org/class/2014/MULT10016/</link>
+      <link>http://consequently.org/class/2014/mult10016/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 AEDT</pubDate>
       
-      <guid>http://consequently.org/class/2014/MULT10016/</guid>
+      <guid>http://consequently.org/class/2014/mult10016/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In 2014, I participated in the Arts Foundation subject &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/MULT10016&#34;&gt;MULT10016: Reason&lt;/a&gt;. I taught six classes, on Plato, Aristotle and Hume.&lt;/p&gt;
 ]]></description>
     </item>

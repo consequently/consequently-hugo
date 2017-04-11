@@ -22,11 +22,11 @@
 	  <itunes:explicit>no</itunes:explicit>
 	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://consequently.org/index.xml</link>
+    <link>http://consequently.org/</link>
     <language>en-us</language>
     
     
-    <updated>Thu, 23 Mar 2017 08:58:20 AEDT</updated>
+    <updated>Tue, 11 Apr 2017 21:54:09 AEST</updated>
 
 
 <item>
@@ -119,9 +119,9 @@
     
 <item>
 <title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2017/UNIB10002/</link>
+<link>http://consequently.org/class/2017/unib10002/</link>
 <pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2017/UNIB10002/</guid>
+<guid>http://consequently.org/class/2017/unib10002/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -130,9 +130,9 @@
     
 <item>
 <title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2017/PHIL30043/</link>
+<link>http://consequently.org/class/2017/phil30043/</link>
 <pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2017/PHIL30043/</guid>
+<guid>http://consequently.org/class/2017/phil30043/</guid>
 <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
@@ -220,6 +220,14 @@
 
 &lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
 </description>
+</item>
+    
+<item>
+<title>News</title>
+<link>http://consequently.org/news/</link>
+<pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
+<guid>http://consequently.org/news/</guid>
+<description></description>
 </item>
     
 <item>
@@ -726,9 +734,9 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     
 <item>
 <title>PHIL30043: The Power and Limits of Logic</title>
-<link>http://consequently.org/class/2016/PHIL30043/</link>
+<link>http://consequently.org/class/2016/phil30043/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PHIL30043/</guid>
+<guid>http://consequently.org/class/2016/phil30043/</guid>
 <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
@@ -809,9 +817,9 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     
 <item>
 <title>PHIL20030: Meaning, Possibility and Paradox</title>
-<link>http://consequently.org/class/2016/PHIL20030/</link>
+<link>http://consequently.org/class/2016/phil20030/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PHIL20030/</guid>
+<guid>http://consequently.org/class/2016/phil20030/</guid>
 <description>
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
@@ -925,9 +933,9 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     
 <item>
 <title>Proof Theory: Logical and Philosophical Aspects</title>
-<link>http://consequently.org/class/2016/PTPLA-NASSLLI/</link>
+<link>http://consequently.org/class/2016/ptpla-nasslli/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/PTPLA-NASSLLI/</guid>
+<guid>http://consequently.org/class/2016/ptpla-nasslli/</guid>
 <description>
 
 &lt;p&gt;This is an intensive class on logical and philosophical issues in proof theory, taught by &lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and me at &lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;. We  cover cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in. Here are the slides for each day of the course.&lt;/p&gt;
@@ -1104,9 +1112,9 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     
 <item>
 <title>Proofs and what they’re good for</title>
-<link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-ACU/</link>
+<link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</link>
 <pubDate>Mon, 23 May 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-ACU/</guid>
+<guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</guid>
 <description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars&#34;&gt;Australian Catholic University Philosophy Seminar&lt;/a&gt; on &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars/professor_greg_restall_-_27_may&#34;&gt;May 27, 2016&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
@@ -1274,9 +1282,9 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     
 <item>
 <title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2016/UNIB10002/</link>
+<link>http://consequently.org/class/2016/unib10002/</link>
 <pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/UNIB10002/</guid>
+<guid>http://consequently.org/class/2016/unib10002/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
@@ -1581,72 +1589,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <description>&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
 In this essay, I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Cian Dorr on Defining Quantifiers (Verbal Disputes Workshop Report #2)</title>
-<link>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
-<pubDate>Sat, 24 Oct 2015 15:27:36 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
-<description>&lt;p&gt;There&amp;rsquo;s something very attractive in the idea that meanings of logical concepts—such as conjunction, negation, the quantifiers—can be specified by the role they play in proofs. If I learn the rules for conjunction:
-\(
-\def\sem#1{[\![#1]\!]}
-\)
-\[
-\frac{A\land B}{A}
-\quad
-\frac{A\land B}{B}
-\qquad
-\frac{A\quad B}{A\land B}
-\]
-then I&amp;rsquo;ve “pinned down” what there is to know about the conjunction connective “\(\land\)”. The quantifiers are an interesting case. The rules for quantifiers, like \((\exists x)\) prove to be more complex.
-\[
-\frac{A(t)}{(\exists x)A(x)}
-\qquad
-\frac{
-{{{}\atop{\large }}\atop{\large (\exists x)A(x)}}
-\quad
-{{{\LARGE A(n)}\atop{\large \vdots}}\atop{\large C}}
-}
-{C}
-\]
-(where in the second rule, the name \(n\) is not present in \(C\) or in the other premises of the subproof from \(A(n)\) to \(C\)). In these rules, we unwrap the quantified expression \((\exists x)A(x)\) into a simpler expression which is an &lt;em&gt;instance&lt;/em&gt; of the schema \(A(x)\). In the introduction rule, \(A(t)\) is an instance formed by substituting any singular term \(t\) for \(x\), while in the elimination rule, it must be a &lt;em&gt;name&lt;/em&gt; (or an eigenvariable). The details can be worked out in many different ways, but one feature remains the same: the semantics of quantifiers is tied closely to the semantics of singular terms. Can we avoid this connection? Is there a way to define the semantics of quantifiers in by way of their rules in proof which do not tie them so closely to the semantics of singular terms.&lt;/p&gt;
-
-&lt;p&gt;This was one of the goals of &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;’s talk “Pinning Down the Meanings of Quantifiers” at the &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Verbal Disputes&lt;/a&gt; conference, and is a central theme in his paper “&lt;a href=&#34;http://philpapers.org/rec/DORQVA&#34;&gt;Quantifier Variance and the Collapse Theorems&lt;/a&gt;”. There’s a lot in the paper (it&amp;rsquo;s 67 pages long!), and I won’t engage with most of it, but I’d like to discuss this central theme of the paper here.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-cian.JPG&#34; alt=&#34;Cian Dorr&#34;&gt;
-    &lt;figcaption&gt;Cian Dorr&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The crucial insight is that we can think of the quantifier proof rules not as relating propositions or sentences or judgements, but as relating &lt;em&gt;concepts&lt;/em&gt;. The step from \(Fx\) to \((\exists x)Fx\) need not lead from a particular judgement that a given thing \(x\) is \(F\), but rather, from the concept &lt;em&gt;being \(F\)&lt;/em&gt;. The step from ‘\(x\) is green’ to ‘\(x\) is coloured’ corresponds to a relationship between the concepts of being green and being coloured. The relationship of entailment between propositions is filled out to include entailment &lt;em&gt;between concepts&lt;/em&gt;, and between concepts of higher arities—for binary, ternary, relations, etc., and between concepts and propositions, which can be understood as zero-place concepts. The crucial point is that this relationship of concept entailment is not to be reduced to propositional entailment. We are not to define ‘\(c\) entails \(d\)’ as ‘Necessarily, everything that falls under \(c\) falls under \(d\)’ because this would be to put the cart before the horse. Instead of defining concept entailment in terms of quantifiers and propositional entailment, the goal is to define quantifiers in terms of concept entailment.&lt;/p&gt;
-
-&lt;p&gt;How are we to understand concept entailment? Cian gives an interesting discussion of the connection between concept entailment and concept &lt;em&gt;identity&lt;/em&gt; (offering analyses like this: \(c\) entails \(d\) if and only if to fall under \(c\) is to fall under \(c\) and to fall under \(d\)). The details of any such definition need not concern us now, suffice to note that all such analyses offered in the paper “Quantifier Variance and the Collapse Theorems” feature conjunction and some kind of concept identity.&lt;/p&gt;
-
-&lt;p&gt;After some useful and clear thinking on how one is to identify and distinguish higher arity concepts&amp;mdash;explaining the sense in which semantic values of predicates is related to the variables used in the presentation of those predicates:  \({}^{\langle x,y\rangle}\sem{x\textrm{ loves }y} = {}^{\langle y,x\rangle}\sem{y\textrm{ loves }x}\), which is the concept &lt;em&gt;loving&lt;/em&gt;, while  \({}^{\langle x,y\rangle}\sem{y\textrm{ loves }x}\) is the concept &lt;em&gt;being loved by&lt;/em&gt;, and specifying a sensible constraint on concept entailment, that it is indifferent to the choice of sequence of variables used to present the entailment&amp;mdash;we get to the point where we can specify a reading of the quantifier rules free of singular terms.&lt;/p&gt;
-
-&lt;p&gt;\(\exists v\) is an existential quantifier if and only if (for all sequences \(\sigma\) of variables including all free variables in \(A\) and \(B\), and where the variable \(v\) is not free in \(B\)) (1) \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{(\exists v)A}\) (that&amp;rsquo;s the introduction rule), and (2) if \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{B}\) then \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{(\exists v)B}\) (that&amp;rsquo;s the elimination rule).&lt;/p&gt;
-
-&lt;p&gt;This is beautiful and elegant. The logic of concept identity and entailment determines the logic of the quantifiers. I say the quantifier&lt;em&gt;&lt;b&gt;s&lt;/b&gt;&lt;/em&gt; because what holds for the existential quantifier holds for the universal quantifier, too. In fact, Cian points out that the quantifier rules are exceedingly natural as the left and right adjoints of the &lt;em&gt;concept expansion&lt;/em&gt; function. (What is concept expansion? The expansion of a concept is the variant which adds a redundant argument place. The expansion of the concept &lt;em&gt;being red&lt;/em&gt; (or \({}^{\langle x\rangle}\sem{x\textrm{ is red}}\)) is the two-place concept \({}^{\langle x,y\rangle}\sem{x\textrm{ is red}}\) which says of two things that the first is red.) Adjoints (or Galois connections, residuals, display equivalences, wrapping and unwrapping) are wonderful things.&lt;/p&gt;
-
-&lt;p&gt;This is beautiful, but the &lt;em&gt;logic&lt;/em&gt; is not surprising or news to those who are familiar with proof theory or categories and logic. The central concepts are present, for example, in Lambek and Scott’s &lt;em&gt;&lt;a href=&#34;http://www.openisbn.com/isbn/0521356539/&#34;&gt;Introduction to Higher Order Categorical Logic&lt;/a&gt;&lt;/em&gt;, though Cian explains them differently. What is new here is the philosophical setting and the applications. In the talk in Oxford, Cian explained the consequences of this view of the quantifiers for discussions of &lt;em&gt;necessitism&lt;/em&gt; and quantifier variance.&lt;/p&gt;
-
-&lt;p&gt;Consider the concept “not being identical to anything” understood as
-\({}^{\langle x\rangle}\sem{\neg (\exists y)x=y}\) (there is no \(y\) to which \(x\) are identical). If objects exist contingently, it seems that the application of this concept to some contingently existing object (say, &lt;em&gt;me&lt;/em&gt;) is contingently false. On this picture, I am identical to something, but had I not existed, I wouldn&amp;rsquo;t have been identical to something. On the other hand, even for the contingentist, the proposition \(\sem{(\exists x)\neg (\exists y)x=y}\) is &lt;em&gt;necessarily&lt;/em&gt; false. It&amp;rsquo;s impossible that there be an object which is not identical to any object, because&amp;mdash;of necessity&amp;mdash;all objects are self-identical. If the contingentist has granted both of those points, it’s relatively straightforward to show that the contingentist’s existential quantifier is &lt;em&gt;not&lt;/em&gt; the adjoint of expansion. In particular, it does not satisfy the elimination rule, because \({}^{\langle x\rangle}\sem{\neg (\exists y)x=y}\) does not entail \(\sem{(\exists x)\neg (\exists y)x=y}\), since nothing contingently false  entails anything necessarily false.&lt;/p&gt;
-
-&lt;p&gt;So far, so good, and Cian uses these results to put pressure on the contingentist and the quantifier variantist, and to lend support for necessitism. (I want to be careful not to misconstrue Cian&amp;rsquo;s position—at the workshop, at least, he was not &lt;em&gt;committed&lt;/em&gt; to necessitism. He was exploring these arguments and seeing where they lead.) I think that the situation here is complex, and interesting, and worth exploring. In particular, I think that there&amp;rsquo;s no direct route from concept entailment (and the definition of the quantifiers as adjoints) to necessitism.&lt;/p&gt;
-
-&lt;p&gt;The key issue centres around the behaviour of concept entailment, and its definition of concept identity. For the analysis to work, concept identity is not to be identified with identity of &lt;em&gt;extension&lt;/em&gt;. Even if all every object that happens to be a renate also happens to be a chordate, and &lt;em&gt;vice versa&lt;/em&gt;, it doesn&amp;rsquo;t follow that &lt;em&gt;being a renate&lt;/em&gt; is the same concept as &lt;em&gt;being a chordate&lt;/em&gt;. If we collapse concept identity into identity of extension, there is no pressure towards necessitism. On the other hand, we cannot have a too-fine notion of concept identity which distinguishes logically equivalent sentences (or logically equivalent predicates). &lt;em&gt;Being a renate and chordate&lt;/em&gt; should be the same concept as &lt;em&gt;being a chordate and a renate&lt;/em&gt;, and the same concept as &lt;em&gt;being a chordate and either a renate or a non-chordate&lt;/em&gt; (at least given the standard classical equivalence of \(Fx\land Gx\) with \(Fx\land(Gx\lor\neg Fx)\), which is not in question here).  Our concept identity is not &lt;em&gt;that&lt;/em&gt; intensional that it distinguishes logically equivalent statements or predicates. But requiring that logically equivalent statements determine the one concept still leaves much room for open questions concerning concept identity. Consider two names, \(a\) and \(b\), where it&amp;rsquo;s an open question concerning whether they are identical or not. Then, it seems that the concepts
-\[
-{}^{\langle x\rangle}\sem{(x=a)\land(x\neq b)}
-\quad
-{}^{\langle x\rangle}\sem{(x=a)\land(x=b)}
-\]
-are non-trivial, since neither of them are logically equivalent to the inconsistent concept \({}^{\langle x\rangle}\sem{\bot}\), and it&amp;rsquo;s an open question as to which one of them is satisfied by the object \(a\). If \(a\) and \(b\) are rigid designators, then on the orthodox Kripkean line, one of these concepts is necessarily false, but they need not be &lt;em&gt;analytically&lt;/em&gt; false or &lt;em&gt;known&lt;/em&gt; to be false. If we allow for concept identity to be more finely grained than simple agreement of extension in all possible worlds, and if we allow for modalities stronger than necessity (say, &lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;analyticity, or a priori knowability&lt;/a&gt;) then it seems that Cian&amp;rsquo;s argument applies equally well to them, too. It&amp;rsquo;s one thing to be a &lt;em&gt;necessitist&lt;/em&gt; about objects, and think that the same objects exist in all possible worlds. Do we also want to also take the objects to persist across all epistemic scenarios, whether possible or impossible?&lt;/p&gt;
-
-&lt;p&gt;HUGOMORE42&lt;/p&gt;</description>
 </item>
     
   </channel>
