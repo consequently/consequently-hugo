@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 19 May 2017 00:56:34 AEST</updated>
+    <updated>Fri, 19 May 2017 01:00:48 AEST</updated>
 
 
 <item>
@@ -50,9 +50,9 @@
 <link>http://consequently.org/presentation/2017/a-category-of-classical-proofs-logicmelb/</link>
 <pubDate>Thu, 18 May 2017 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/2017/a-category-of-classical-proofs-logicmelb/</guid>
-<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I show that the cut-free proof terms defined in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; form a well-behaved category. The talk is intended to be accessible enough for those who don&amp;rsquo;t know any category theory to follow along. I show that the category is not cartesian, and that we&amp;rsquo;d be wrong to think that it should be (it has no products or coproducts, or intial and final objects), but nonetheless, it is well behaved.&lt;/p&gt;
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I show that the cut-free proof terms defined in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; form a well-behaved category. The talk is intended to be accessible enough for those who don&amp;rsquo;t know any category theory to follow along. I show that the category is not Cartesian &amp;ndash; and that we&amp;rsquo;d be wrong to expect to be.  It has no products or coproducts, nor any intial or final objects.  Nonetheless, it is quite well behaved.&lt;/p&gt;
 
-&lt;p&gt;I show that the term category is star autonomous (so it fits well within the family of categories for multiplicative linear logic), with internal monoids and comonoids taking care of weakening and contraction. The category is enriched in the category of semilattices, as proofs are closed under the &lt;em&gt;blend&lt;/em&gt; rule (also called &amp;ldquo;mix&amp;rdquo; in the literature).&lt;/p&gt;
+&lt;p&gt;I show that the term category is &lt;em&gt;star autonomous&lt;/em&gt; (so it fits well within the family of categories for multiplicative linear logic), with internal &lt;em&gt;monoids&lt;/em&gt; and &lt;em&gt;comonoids&lt;/em&gt; taking care of weakening and contraction. The category is enriched in the category of semilattices, as proofs are closed under the &lt;em&gt;blend&lt;/em&gt; rule (also called &amp;ldquo;mix&amp;rdquo; in the literature).&lt;/p&gt;
 
 &lt;p&gt;This is a talk presented at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
 
