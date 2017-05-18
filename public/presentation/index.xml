@@ -26,7 +26,26 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 07 Mar 2017 14:15:00 &#43;0100</updated>
+    <updated>Fri, 19 May 2017 12:00:00 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>A Category of Classical Proofs</title>
+      <link>http://consequently.org/presentation/2017/a-category-of-classical-proofs-logicmelb/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2017/a-category-of-classical-proofs-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: I show that the cut-free proof terms defined in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; form a well-behaved category. The talk is intended to be accessible enough for those who don&amp;rsquo;t know any category theory to follow along. I show that the category is not cartesian, and that we&amp;rsquo;d be wrong to think that it should be (it has no products or coproducts, or intial and final objects), but nonetheless, it is well behaved.&lt;/p&gt;
+
+&lt;p&gt;I show that the term category is star autonomous (so it fits well within the family of categories for multiplicative linear logic), with internal monoids and comonoids taking care of weakening and contraction. The category is enriched in the category of semilattices, as proofs are closed under the &lt;em&gt;blend&lt;/em&gt; rule (also called &amp;ldquo;mix&amp;rdquo; in the literature).&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/a-category-of-classical-proofs-logicmelb.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -374,24 +393,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Details of the workshop program&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/writing/generality-and-existence-1&#34;&gt;Draft paper&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-1-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Fixed Point Models for Theories of Properties and Classes</title>
-      <link>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
-      <pubDate>Wed, 05 Aug 2015 11:00:00 &#43;0100</pubDate>
-      
-      <guid>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the first 2015 meeting of the &lt;a href=&#34;http://clmps.helsinki.fi&#34;&gt;15th Congress on Logic, Methodology, and Philosophy of Science&lt;/a&gt;, in Helsinki.&lt;/p&gt;
-
-&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Details of the session are available at the &lt;a href=&#34;https://clmps2015.sched.org/event/23c5aa71523e3e3db99e8e2dd8623e72&#34;&gt;event page on sched.org&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-clmps-2015.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
