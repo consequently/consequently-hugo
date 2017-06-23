@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/</loc>
+    <lastmod>2017-06-28T15:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2017/a-category-of-classical-proofs-logicmelb/</loc>
     <lastmod>2017-05-19T12:00:00+11:00</lastmod>
   </url>
@@ -2651,7 +2656,7 @@
   
   <url>
     <loc>http://consequently.org/presentation/</loc>
-    <lastmod>2017-05-19T12:00:00+11:00</lastmod>
+    <lastmod>2017-06-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2668,7 +2673,7 @@
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2017-05-19T12:00:00+11:00</lastmod>
+    <lastmod>2017-06-28T15:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
