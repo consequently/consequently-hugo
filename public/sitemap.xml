@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://consequently.org/news/2017/typesetting-flow-graphs/</loc>
+    <lastmod>2017-07-11T11:17:18+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/</loc>
     <lastmod>2017-06-28T15:00:00+02:00</lastmod>
   </url>
@@ -2650,7 +2655,7 @@
   
   <url>
     <loc>http://consequently.org/news/</loc>
-    <lastmod>2017-02-13T22:12:50+11:00</lastmod>
+    <lastmod>2017-07-11T11:17:18+11:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2673,7 +2678,7 @@
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2017-06-28T15:00:00+02:00</lastmod>
+    <lastmod>2017-07-11T11:17:18+11:00</lastmod>
     <priority>0</priority>
   </url>
   

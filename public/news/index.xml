@@ -26,7 +26,23 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 13 Feb 2017 22:12:50 AEDT</updated>
+    <updated>Tue, 11 Jul 2017 11:17:18 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Typesetting Flow Graphs with tikz</title>
+      <link>http://consequently.org/news/2017/typesetting-flow-graphs/</link>
+      <pubDate>Tue, 11 Jul 2017 11:17:18 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/typesetting-flow-graphs/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In a few &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;papers&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/&#34;&gt;talks&lt;/a&gt;, I&amp;rsquo;ve been using &lt;em&gt;flow graphs&lt;/em&gt; to display the flow of information in proofs. These are the kinds of things that are easy to draw, but they&amp;rsquo;re not so straightforward to typeset. Here&amp;rsquo;s an example:
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/flowgraph.jpg&#34; alt=&#34;a flow graph on a natural deduction proof&#34;&gt;
+    &lt;figcaption&gt;A flow graph on a natural deduction proof.&lt;/figcaption&gt;
+&lt;/figure&gt;
+Thankfully, the tools to typset flow graphs are readily available, at least if you use &lt;a href=&#34;http://tug.org&#34;&gt;LaTeX&lt;/a&gt;. I&amp;rsquo;ve written up a little document explaining how to do this, and the document and source are now &lt;a href=&#34;https://github.com/consequently/flowgraphs&#34;&gt;available on Github&lt;/a&gt; for you to use as you see fit. If you&amp;rsquo;ve got any questions, feedback or recommendations, don&amp;rsquo;t hesitate to get in touch. I hope it&amp;rsquo;s helpful.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -1025,41 +1041,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s around the corner from the shot I took &lt;a href=&#34;http://consequently.org/news/2015/back-in-the-office/&#34;&gt;a couple of months ago&lt;/a&gt;. If you go between the two trees in the middle of the picture and turn left, you can enter the Old Quad’s hidden back staircase, and make your way to my office.&lt;/p&gt;]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Advocacy on Sydney Road</title>
-      <link>http://consequently.org/news/2015/advocacy-on-sydney-road/</link>
-      <pubDate>Thu, 19 Mar 2015 12:49:30 AEDT</pubDate>
-      
-      <guid>http://consequently.org/news/2015/advocacy-on-sydney-road/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;On the afternoon of Sunday March 1, Sydney Road in Brunswick was transformed by its annual &lt;a href=&#34;http://www.brunswickmusicfestival.com.au/sydney-road-street-party.htm&#34;&gt;Street Party&lt;/a&gt;. Over four blocks of this busy inner north thoroughfare was closed to trams and cars, lined by stalls, punctuated with live bands, and filled with crowds. Everyone was sampling wares, eating, drinking and soaking in the atmosphere. It&amp;rsquo;s a distinctive slice of multicultural Brunswick life, and an opportunity for everyone to get out and sample that Brunswick experience in all its variety.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-bands.jpg&#34; alt=&#34;Live music at the Sydney Road Street Party&#34;&gt;
-    &lt;figcaption&gt;Live music at the Sydney Road Street Party&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Four of us from the Melbourne Inner North &lt;a href=&#34;http://tear.org.au&#34;&gt;TEAR&lt;/a&gt; Group were there, between a Scout Group sausage sizzle on the one side and the Animal Protection Society, with its vegan cookbooks and petitions on the other. We ran a little stall lined with &lt;a href=&#34;http://www.tear.org.au/learn/target/&#34;&gt;TEAR Targets&lt;/a&gt;, information about Australian Aid and its positive impact on poverty and development in our region, and postcards to send to the Foreign Minister, &lt;a href=&#34;http://www.juliebishop.com.au&#34;&gt;Julie Bishop&lt;/a&gt;. We were encouraging our fellow residents of the Inner North to urge Julie Bishop and our government to our commitments towards meeting the Millennium Development Goals. In honour of International Women&amp;rsquo;s Day, we made flowers for passers by to attach to their postcard, and we collected nearly 50 to send along to Canberra to help the government to get the message that our community takes helping our neighbours to be an important part of our national character, and not something to be dropped when some difficult decisions need to be made.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-Postcards.jpg&#34; alt=&#34;Signed Postcards with Flowers for Julie Bishop&#34;&gt;
-    &lt;figcaption&gt;Signed Postcards with Flowers for Julie Bishop&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Over the afternoon we had many interesting conversations with passers by, young and old, including local politicians from the Greens and the ALP, many students, local Brunswick residents and visitors from further afield, and a couple of anarchists up from Tasmania&amp;mdash;who agreed with our aims but thought that our methods were far too conservative. All our conversations were friendly, whether passers by agreed with us or disagreed, and many were happy to see a Christian organisation like &lt;a href=&#34;http://tear.org.au&#34;&gt;TEAR&lt;/a&gt; with a presence on the day.&lt;/p&gt;
-
-&lt;p&gt;Most likely, 50 signatures on petitions is not enough on its own to change a Minister&amp;rsquo;s mind—even if the flowers everyone attached were very attractive—but this was one small part of an ongoing community conversation. May that conversation continue, and may the wider community find its voice so that we all recognise what it means to be a good neighbour to those around us.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/SRSP-stall.jpg&#34; alt=&#34;TEAR Stall at the Sydney Road Street Party&#34;&gt;
-    &lt;figcaption&gt;TEAR Stall at the Sydney Road Street Party&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This entry was originally published at &lt;a href=&#34;http://www.tear.org.au/news/sydney-road-street-festival&#34;&gt;TEAR News&lt;/a&gt;. Visit the &lt;a href=&#34;http://www.tear.org.au/act/tear-groups&#34;&gt;TEAR site&lt;/a&gt; for more information about &lt;a href=&#34;http://www.tear.org.au/act/tear-groups&#34;&gt;TEAR Groups near you&lt;/a&gt;.&lt;/p&gt;]]></description>
     </item>
     
   </channel>

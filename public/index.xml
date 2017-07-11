@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 04 Jul 2017 19:31:18 AEST</updated>
+    <updated>Tue, 11 Jul 2017 11:27:19 AEST</updated>
 
 
 <item>
@@ -35,6 +35,28 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>News</title>
+<link>http://consequently.org/news/</link>
+<pubDate>Tue, 11 Jul 2017 11:17:18 &#43;1100</pubDate>
+<guid>http://consequently.org/news/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Typesetting Flow Graphs with tikz</title>
+<link>http://consequently.org/news/2017/typesetting-flow-graphs/</link>
+<pubDate>Tue, 11 Jul 2017 11:17:18 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/typesetting-flow-graphs/</guid>
+<description>&lt;p&gt;In a few &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;papers&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/&#34;&gt;talks&lt;/a&gt;, I&amp;rsquo;ve been using &lt;em&gt;flow graphs&lt;/em&gt; to display the flow of information in proofs. These are the kinds of things that are easy to draw, but they&amp;rsquo;re not so straightforward to typeset. Here&amp;rsquo;s an example:
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/flowgraph.jpg&#34; alt=&#34;a flow graph on a natural deduction proof&#34;&gt;
+    &lt;figcaption&gt;A flow graph on a natural deduction proof.&lt;/figcaption&gt;
+&lt;/figure&gt;
+Thankfully, the tools to typset flow graphs are readily available, at least if you use &lt;a href=&#34;http://tug.org&#34;&gt;LaTeX&lt;/a&gt;. I&amp;rsquo;ve written up a little document explaining how to do this, and the document and source are now &lt;a href=&#34;https://github.com/consequently/flowgraphs&#34;&gt;available on Github&lt;/a&gt; for you to use as you see fit. If you&amp;rsquo;ve got any questions, feedback or recommendations, don&amp;rsquo;t hesitate to get in touch. I hope it&amp;rsquo;s helpful.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -252,14 +274,6 @@
 
 &lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>News</title>
-<link>http://consequently.org/news/</link>
-<pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
-<guid>http://consequently.org/news/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1571,36 +1585,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-1-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-</item>
-    
-<item>
-<title>Language, Logic and Existential Commitment</title>
-<link>http://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
-<pubDate>Wed, 18 Nov 2015 11:49:21 AEDT</pubDate>
-<guid>http://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
-<description>&lt;p&gt;In between wrapping up &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;teaching for the&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL40013/&#34;&gt;end of Semester 2&lt;/a&gt;, and getting ready for a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;short trip to Scotland&lt;/a&gt;, I&amp;rsquo;m spending some time &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-1-arche/&#34;&gt;thinking about free logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-2-arche/&#34;&gt;quantified modal logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-3-arche/&#34;&gt;identity&lt;/a&gt;. This is difficult but exciting terrain to cover.  There is no obvious way to tie together the logic of quantifiers, the modalities and identity in a way that commands broad appeal&amp;mdash;there is no default quantified modal logic that has the same &amp;lsquo;market reach&amp;rsquo; as classical first order logic.&lt;/p&gt;
-
-&lt;p&gt;This is a shame, because many important arguments involve quantification, identity and possibility and necessity&amp;mdash;and claims about existence and nonexistence. Understanding the &lt;em&gt;logic&lt;/em&gt; of these arguments better would help us gain some kind of systematic understanding of the positions in play. In the absence of a clear picture of the logic implicit in our concepts, we&amp;rsquo;re playing the dialectical game in ignorance of the rules.&lt;/p&gt;
-
-&lt;p&gt;Not that there&amp;rsquo;s anything wrong with that.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;You can engage in a practice without an explicit understanding of the rules of that practice. (For many kinds of practice, that is the only way to start. Think of learning your first language.) Nonetheless, making the practice explicit, and reflecting on the rules of that practice gives the participant a kind of skill that she might not have had before&amp;mdash;an ability to comprehend the possibilities, and the boundary between what is allowed and what is not.&lt;/p&gt;
-
-&lt;p&gt;These thoughts came to mind when I read Alexander Pruss&amp;rsquo;s thoughts on free logic and modal logic in his blog post &amp;ldquo;&lt;a href=&#34;http://alexanderpruss.blogspot.com.au/2015/05/existential-commitments-of-first-order.html&#34;&gt;Existential commitments of first order Logic&lt;/a&gt;&amp;rdquo;. There he considers the fact that names in first order logic are existentially committing, and which seems undesirable, since objects so named need not exist &lt;em&gt;necessarily&lt;/em&gt;. He comes to terms with this tension by concluding that languages involve presuppositions, and there is no issue in granting a language with contingent presuppositions&amp;mdash;including classical first order logic when the names are applied to contingently existing things.  He concludes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;We could search for a logic without presuppositions. That&amp;rsquo;s a worthwhile quest, and leads to exploring various free logics. But we shouldn&amp;rsquo;t go overboard in worrying about the metaphysical consequences if we don&amp;rsquo;t find a good one. Likewise, we shouldn&amp;rsquo;t worry too much if we can&amp;rsquo;t find a satisfactory quantified modal logic. These are just tools. Nice to have, but people have done just fine with modal and other arguments for centuries without much of a formal logic.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Alexander Pruss on &lt;a href=&#34;http://alexanderpruss.blogspot.com.au/2015/05/existential-commitments-of-first-order.html&#34;&gt;Existential commitments of First Order Logic&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is a sensible conclusion. There is nothing wrong, &lt;em&gt;per se&lt;/em&gt;, in reasoning about possibility and necessity and existence and nonexistence and identity, etc., without a clear picture of consequences of the claims you are making. Insofar as you have a clear understanding of what follows from what is said, you have a logic.  Insofar as you don&amp;rsquo;t have a logic, you don&amp;rsquo;t have a clear understanding of what positions are consistent and which are not. Speaking a language with significant contingent presuppositions is not invariably a problem&amp;mdash;but when you&amp;rsquo;re engaged in an argument about those very presuppositions, there comes a time when you have to get as clear about them as you can. That&amp;rsquo;s when you find yourself doing some logic.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s not an easy task, but it&amp;rsquo;s worthwhile. That&amp;rsquo;s what I&amp;rsquo;m spending some time on over the next few weeks.&lt;/p&gt;
-
-&lt;p&gt;HUGOMORE42&lt;/p&gt;</description>
 </item>
     
   </channel>
