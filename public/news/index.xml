@@ -35,13 +35,29 @@
       <pubDate>Tue, 11 Jul 2017 11:17:18 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2017/typesetting-flow-graphs/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In a few &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;papers&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/&#34;&gt;talks&lt;/a&gt;, I&amp;rsquo;ve been using &lt;em&gt;flow graphs&lt;/em&gt; to display the flow of information in proofs. These are the kinds of things that are easy to draw, but they&amp;rsquo;re not so straightforward to typeset. Here&amp;rsquo;s an example:
+      <description>&lt;![CDATA[&lt;p&gt;In a few &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;recent&lt;/a&gt; &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;papers&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/a-category-of-classical-proofs-tacl/&#34;&gt;and&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2017/proof-identity-invariants-and-hyperintensionality/&#34;&gt;talks&lt;/a&gt;, I&amp;rsquo;ve been using &lt;em&gt;flow graphs&lt;/em&gt; to display the flow of information in proofs. These are the kinds of things that are easy to draw, but they&amp;rsquo;re not so straightforward to typeset.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example:
 &lt;figure&gt;
     &lt;img src=&#34;http://consequently.org/images/flowgraph.jpg&#34; alt=&#34;a flow graph on a natural deduction proof&#34;&gt;
     &lt;figcaption&gt;A flow graph on a natural deduction proof.&lt;/figcaption&gt;
-&lt;/figure&gt;
-Thankfully, the tools to typset flow graphs are readily available, at least if you use &lt;a href=&#34;http://tug.org&#34;&gt;LaTeX&lt;/a&gt;. I&amp;rsquo;ve written up a little document explaining how to do this, and the document and source are now &lt;a href=&#34;https://github.com/consequently/flowgraphs&#34;&gt;available on Github&lt;/a&gt; for you to use as you see fit. If you&amp;rsquo;ve got any questions, feedback or recommendations, don&amp;rsquo;t hesitate to get in touch. I hope it&amp;rsquo;s helpful.&lt;/p&gt;
-]]></description>
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;They&amp;rsquo;re not easy to typset, because they&amp;rsquo;re an overlay over a proof. The arrows indicate the flow of information inside a proof.&lt;/p&gt;
+
+&lt;p&gt;As an aside, I love the flow graph on this natural deduction proof because the &amp;ldquo;action at a distance&amp;rdquo; nature of the disjunction elimination step is called out by those two sweeping blue and green arcs&amp;mdash;the \(q\) and \(r\) assumptions are discharged by the appeal to the disjunctive conclusion \(q\lor r\). These are the only non-local informational connections in the proof. Each other arc in the flow graph is local, from a premise to a conclusion.&lt;/p&gt;
+
+&lt;p&gt;Now, typesetting these things is not straightforward, because the locations of the arrows are defined by typesetting the underlying proof (here, the black text) and the coloured arcs are typeset on top. How do you do that? And how do you do that in an algorithmic and structural way, focussing on the structure and not hand positioning each of the lines?&lt;/p&gt;
+
+&lt;p&gt;Thankfully, the tools to typset flow graphs are readily available, at least if you use &lt;a href=&#34;http://tug.org&#34;&gt;LaTeX&lt;/a&gt;. I&amp;rsquo;ve written up a little document explaining how to do this, and the document and source are now &lt;a href=&#34;https://github.com/consequently/flowgraphs&#34;&gt;available on Github&lt;/a&gt; for you to use as you see fit. If you&amp;rsquo;ve got any questions, feedback or recommendations for how to extend the technique, please don&amp;rsquo;t hesitate to get in touch.&lt;/p&gt;
+
+&lt;p&gt;I hope it&amp;rsquo;s helpful.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/consequently/flowgraphs&#34;&gt;https://github.com/consequently/flowgraphs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;]]></description>
     </item>
     
  
