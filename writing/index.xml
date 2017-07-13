@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+      <title>Writings in consequently.org: Greg Restall’s website </title>
+	  <itunes:subtitle>Greg Restall's publications on logic and philosophy</itunes:subtitle>
+	  <itunes:author>Greg Restall</itunes:author>
+	  <itunes:owner>
+	  <itunes:name>Greg Restall</itunes:name>
+	  <itunes:email>greg@consequently.org</itunes:email>
+	  </itunes:owner>
+	  <itunes:category text="Education">
+	  <itunes:category text="Higher Education"/>
+	  </itunes:category>
+	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
+	  <itunes:explicit>no</itunes:explicit>
+	  <itunes:image href="http://consequently.org/img/avatar2.jpg" />
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://consequently.org/writing/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 28 Feb 2017 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://consequently.org/writing/fixed-point-models/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/fixed-point-models/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>First Degree Entailment, Symmetry and Paradox</title>
+      <link>http://consequently.org/writing/fde-symmetry-paradox/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
+
+&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proof Terms for Classical Derivations</title>
+      <link>http://consequently.org/writing/proof-terms-for-classical-derivations/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/proof-terms-for-classical-derivations/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
+
+&lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Existence and Definedness: the semantics of possibility and necessity</title>
+      <link>http://consequently.org/writing/existence-definedness/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/existence-definedness/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper, I will address just some of Professor Williamson&amp;rsquo;s treatment of necessitism in his &lt;em&gt;Modal Logic as Metaphysics&lt;/em&gt;. I will give an account of what space might remain for a principled and logically disciplined contingentism. I agree with Williamson that those interested in the metaphysics of modality would do well to take quantified modal logic&amp;mdash;and its semantics&amp;mdash;seriously in order to be clear, systematic and precise concerning the commitments we undertake in adopting an account of modality and ontology. Where we differ is in how we present the semantics of that modal logic. I will illustrate how &lt;em&gt;proof theory&lt;/em&gt; may play a distinctive role in elaborating a quantified modal logic, and in the development of theories of meaning, and in the metaphysics of modality.&lt;/p&gt;
+
+&lt;p&gt;The paper was first written for presentation in a &lt;a href=&#34;http://www.philo.ntu.edu.tw/lmmgroup/?mode=events_detail&amp;amp;n=1&#34;&gt;workshop on Tim Williamson&amp;rsquo;s work, at the Asian Workshop in Philosophical Logic and the Taiwan Philosophical Logic Colloquium&lt;/a&gt; at the National Taiwan University. The slides from that talk are &lt;a href=&#34;http://consequently.org/presentation/2016/existence-definedness-awpl-tplc&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Review of Thomas Piecha and Peter Schroeder-Heister (editors), Advances in Proof-Theoretic Semantics</title>
+      <link>http://consequently.org/writing/advances-in-pts-review/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/advances-in-pts-review/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;What could you mean by the term &amp;ldquo;proof-theoretic semantics&amp;rdquo; (PTS)? At first glance, it could mean either the semantics &lt;em&gt;of&lt;/em&gt; proof theory, or perhaps it&amp;rsquo;s more likely to mean semantics conducted &lt;em&gt;using the tools of proof theory&lt;/em&gt;. And &lt;em&gt;that&lt;/em&gt;&amp;rsquo;s the enterprise that the fifteen authors intend to advance in the sixteen papers in this edited collection&amp;hellip;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On Priest on Nonmonotonic and Inductive Logic</title>
+      <link>http://consequently.org/writing/on-priest-on-nonmonotonic/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/on-priest-on-nonmonotonic/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Graham Priest defends the use of a nonmonotonic logic, &lt;em&gt;LPm&lt;/em&gt;, in his analysis of reasoning in the face of true contradictions, such as those arising from the paradoxes of self-reference. In the course of defending the choice of this logic in the face of the criticism that &lt;em&gt;LPm&lt;/em&gt; is not truth preserving, Priest argued that requirement is too much to ask: since &lt;em&gt;LPm&lt;/em&gt; is a nonmonotonic logic, it necessarily fails to preserve truth. In this paper, I show that this assumption is incorrect, and I explain why nonmonotonic logics can nonetheless be truth preserving. Finally, I diagnose Priest&amp;rsquo;s error, to explain when nonmonotonic logics do indeed fail to preserve truth.&lt;/p&gt;
+
+&lt;p&gt;Graham Priest has written a &lt;a href=&#34;http://dx.doi.org/10.1002/tht3.204&#34;&gt;very short reply&lt;/a&gt; to this article, which also appears in &lt;em&gt;Thought&lt;/em&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Three Cultures—or: what place for logic in the humanities?</title>
+      <link>http://consequently.org/writing/three-cultures/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/three-cultures/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Logic has been an important part of philosophy since the work of Aristotle in the 4th Century BCE. Developments of the 19th and the 20th Century saw an incredible flowering of mathematical techniques in logic, and the discipline transformed beyond recognition into something that can seem forbiddingly technical and formal. The discipline of logic plays a vital role in mathematics, linguistics, computer science and electrical engineering, and it may seem that it no longer has a place within the humanities.
+In this essay, I show why this perception is misplaced and dangerous, and that in a time of increasing specialisation and differentiation between the cultures of the humanities, the sciences, and of engineering, logic not only has much to give to the humanities, it also has much to learn.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence I: Quantification and Free Logic</title>
+      <link>http://consequently.org/writing/generality-and-existence-1/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/generality-and-existence-1/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</title>
+      <link>http://consequently.org/writing/assertiondenialparadox/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/assertiondenialparadox/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Proponents of a dialethic or &amp;ldquo;truth-value glut&amp;rdquo; response to the paradoxes of self-reference argue that &amp;ldquo;truth-value gap&amp;rdquo; analyses of the paradoxes fall foul of the extended liar paradox: &amp;ldquo;this sentence is not true.&amp;rdquo; If we pay attention to the role of assertion and denial and the behaviour of negation in both &amp;ldquo;gap&amp;rdquo; and &amp;ldquo;glut&amp;rdquo; analyses, we see that the situation with these approaches has a pleasing symmetry: gap approaches take some denials to not be expressible by negation, and glut approaches take some negations to not express denials. But in the light of this symmetry, considerations against a gap view point to parallel considerations against a glut view. Those who find some reason to prefer one view over another (and this is almost everyone) must find some reason to break this symmetry.&lt;/p&gt;
+
+&lt;p&gt;This short paper was written for presentation at &lt;a href=&#34;http://www.philosophy.unimelb.edu.au/aap2004&#34;&gt;AAP2004&lt;/a&gt;. After very many revisions, it&amp;rsquo;s finally going to be published in an edited collection from members and friends of the &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/projects/logic/&#34;&gt;Arché project on Foundations of Logical Consequence&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Normal Proofs, Cut Free Derivations and Structural Rules</title>
+      <link>http://consequently.org/writing/npcfdsr/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/npcfdsr/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Different natural deduction proof systems for intuitionistic and classical logic&amp;mdash;and related logical systems&amp;mdash;differ in fundamental properties while sharing significant family resemblances. These differences become quite stark when it comes to the structural rules of contraction and weakening. In this paper, I show how Gentzen and Jas&amp;#x301;kowski&amp;rsquo;s natural deduction systems differ in fine structure. I also motivate directed proof nets as another natural deduction system which shares some of the design features of Genzen and Jas&amp;#x301;kowski&amp;rsquo;s systems, but which differs again in its treatment of the structural rules, and has a range of virtues absent from traditional natural deduction systems.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Pluralism and Proofs</title>
+      <link>http://consequently.org/writing/pluralism-and-proofs/</link>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pluralism-and-proofs/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Beall and Restall&amp;rsquo;s &lt;em&gt;Logical Pluralism&lt;/em&gt; (2006) characterises pluralism about logical consequence in terms of the different ways cases can be selected in the analysis of logical consequence as preservation of truth over a class of cases. This is not the only way to understand or to motivate pluralism about logical consequence. Here, I will examine pluralism about logical consequence in terms of different standards of proof. We will focus on sequent derivations for classical logic, imposing two different restrictions on classical derivations to produce derivations focusr intuitionistic logic and for dual intuitionistic logic. The result is another way to understand the manner in which we can have different consequence relations in the same language. Furthermore, the proof-theoretic perspective gives us a different explanation of how the one concept of negation can have three different truth conditions, those in classical, intuitionistic and dual-intuitionistic models.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Assertion, Denial and Non-Classical Theories</title>
+      <link>http://consequently.org/writing/adnct/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/adnct/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I urge friends of truth-value gaps and truth-value gluts &amp;ndash; proponents of paracomplete and paraconsistent logics &amp;ndash; to consider theories not merely as sets of sentences, but as &lt;em&gt;pairs&lt;/em&gt; of sets of sentences, or what I call &amp;lsquo;bitheories,&amp;rsquo; which keep track not only of what &lt;em&gt;holds&lt;/em&gt; according to the theory, but also what &lt;em&gt;fails&lt;/em&gt; to hold according to the theory.  I explain the connection between bitheories, sequents, and the speech acts of assertion and denial. I illustrate the usefulness of bitheories by showing how they make available a technique for characterising different theories while abstracting away from logical vocabulary such as connectives or quantifiers, thereby making theoretical commitments independent of the choice of this or that particular non-classical logic.&lt;/p&gt;
+
+&lt;p&gt;Examples discussed include theories of numbers, classes and truth.  In the latter two cases, the bitheoretical perspective brings to light some heretofore unconsidered puzzles for friends of na&amp;iuml;ve theories of classes and truth.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Special Issue of the Logic Journal of the IGPL: Non-Classical Mathematics</title>
+      <link>http://consequently.org/writing/ncm-igpl-2013/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ncm-igpl-2013/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A special issue of the Logic Journal of the IGPL, on Non-Classical Mathematics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Editorial Preface&lt;/em&gt;, Libor B&amp;#x115;hounek, Greg Restall, and Giovanni Sambin.&lt;/li&gt;
+&lt;li&gt;&amp;quot;Mathematical pluralism,&amp;quot; Graham Priest&lt;/li&gt;
+&lt;li&gt;&amp;quot;A first constructive look at the comparison of projections,&amp;quot; Douglas S. Bridges and Lumini&amp;#x163;a S. V&amp;icirc;&amp;#x163;a&lt;/li&gt;
+&lt;li&gt;&amp;quot;Lipschitz functions in constructive reverse mathematics,&amp;quot; Iris Loeb&lt;/li&gt;
+&lt;li&gt;&amp;quot;Constructive version of Boolean algebra,&amp;quot; Francesco Ciraulo, Maria Emilia Maietti, and Paola Toto&lt;/li&gt;
+&lt;li&gt;&amp;quot;A generalized cut characterization of the fullness axiom in CZF,&amp;quot; Laura Crosilla, Erik Palmgren, and Peter Schuster&lt;/li&gt;
+&lt;li&gt;&amp;quot;Interpreting lattice-valued set theory in fuzzy set theory,&amp;quot; Petr H&amp;aacute;jek and Zuzana Hanikov&amp;aacute;&lt;/li&gt;
+&lt;li&gt;&amp;quot;On equality and natural numbers in Cantor-&amp;#x141;ukasiewicz set theory,&amp;quot; Petr H&amp;aacute;jek&lt;/li&gt;
+&lt;li&gt;&amp;quot;Identity taken seriously: a non-classical approach,&amp;quot; Chris Mortensen&lt;/li&gt;
+&lt;li&gt;&amp;quot;Strong, universal and provably non-trivial set theory by means of adaptive logic,&amp;quot; Peter Verdee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The entire issue can be &lt;a href=&#34;http://jigpal.oxfordjournals.org/content/21/1.toc&#34;&gt;found here&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>New Waves in Philosophical Logic</title>
+      <link>http://consequently.org/writing/new-waves-in-philosophical-logic/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/new-waves-in-philosophical-logic/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Philosophical logic has been, and continues to be, a driving force behind much progress and development in philosophy more broadly. This collection of 12 original papers by 15 up-and-coming philosophical logicians deals with a broad range of topics, including proof-theory, probability, context-sensitivity, dialetheism and dynamic semantics. If the discipline&amp;rsquo;s past influence on the core areas of philosophy is anything to go by, then the scholars and the ideas in these pages are the ones to watch. Here are the essays in the volume.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/papers/NewWavesIntroduction.pdf&#34;&gt;Introduction&lt;/a&gt;, Greg Restall and Gillian Russell&lt;/li&gt;
+&lt;li&gt;How Things Are Elsewhere, Wolfgang Schwarz&lt;/li&gt;
+&lt;li&gt;Information Change and First-Order Dynamic Logic, Barteld Kooi&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/writing/interp-apply-ptml&#34;&gt;Interpreting and Applying Proof Theories for Modal Logic&lt;/a&gt;, Francesca Poggiolesi and Greg Restall&lt;/li&gt;
+&lt;li&gt;The Logic(s) of Modal Knowledge, Daniel Cohnitz&lt;/li&gt;
+&lt;li&gt;From Type-Free Truth to Type-Free Probability, Hannes Leitgeb&lt;/li&gt;
+&lt;li&gt;Dogmatism, Probability and Logical Uncertainty, David Jehle and Brian Weatherson&lt;/li&gt;
+&lt;li&gt;Skepticism about Reasoning, Sherrilyn Roush, Kelty Allen and Ian Herbert&lt;/li&gt;
+&lt;li&gt;Lessons in Philosophy of Logic from Medieval Obligationes, Catarina Dutilh Novaes&lt;/li&gt;
+&lt;li&gt;How to Rule Out Things with Words:Strong Paraconsistency and the Algebra of Exclusion, Francesco Berto&lt;/li&gt;
+&lt;li&gt;Lessons from the Logic of Demonstratives, Gillian Russell&lt;/li&gt;
+&lt;li&gt;The Multitude View on Logic, Matti Eklund&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Cut-Free Sequent System for Two-Dimensional Modal Logic, and why it matters</title>
+      <link>http://consequently.org/writing/cfss2dml/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/cfss2dml/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The two-dimensional modal logic of Davies and Humberstone is an important aid to our understanding the relationship between actuality, necessity and a priori knowability. I show how a cut-free hypersequent calculus for 2d modal logic not only captures the logic precisely, but may be used to address issues in the epistemology and metaphysics of our modal concepts. I will explain how use of our concepts motivates the inference rules of the sequent calculus, and then show that the completeness of the calculus for Davies&amp;ndash;Humberstone models explains why those concepts have the structure described by those models. The result is yet another application of the completeness theorem.&lt;/p&gt;
+
+&lt;p&gt;(This paper was awarded a Silver Medal for the Kurt Go&amp;#x308;del Prize in 2011.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Bradwardine Hypersequents</title>
+      <link>http://consequently.org/writing/bradwardine-hypersequents/</link>
+      <pubDate>Fri, 03 Aug 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine-hypersequents/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;According to Stephen Read, Thomas Bradwardine&amp;rsquo;s theory of truth provides an independently motivated solution to the paradoxes of truth, such as the liar. In a series of papers, I have discussed modal models for Read&amp;rsquo;s reconstruction of Bradwardine&amp;rsquo;s theory. In this paper, provide a hypersequent calculus for this theory, and I show that the cut rule is admissible in the hypersequent calculus.&lt;/p&gt;
+
+&lt;p&gt;(This paper is dedicated to Professor Stephen Read, whose work has been a profound influence on my own. His work on relevant logic, on proof theoretical harmony, on the logic of identity and on Thomas Brad- wardine&amp;rsquo;s theory of truth have been a rich source of insight, of stimulation and of provocation. In an attempt to both honour Stephen, and hopefully to give him some pleasure, I am going to attempt to cook up something original using some of the many and varied ingredients he has provided us. In this paper, I will mix and match ideas and techniques from Stephen&amp;rsquo;s papers on proof theory, on Bradwardine&amp;rsquo;s theory of truth, and on identity to offer a harmonious sequent system for a theory of truth inspired by Stephen Read&amp;rsquo;s recovery of the work of Thomas Bradwardine.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Interpreting and Applying Proof Theories for Modal Logics</title>
+      <link>http://consequently.org/writing/interp-apply-ptml/</link>
+      <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/interp-apply-ptml/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Proof theory for modal logic has blossomed over recent years. Many ex- tensions of the classical sequent calculus have been proposed in order to give natural and appealing accounts of proof in modal logics like K, T, S4, S5, provability logics, and other modal systems. The common feature of each of these different proof systems consists in the general structure of the rules for modal operators. They provide introduction and elimination rules for statements of the form  &amp;#x25A1;&amp;#x10FC05;A (and &amp;#x25C7;&amp;#x10FC06;A), which show how those statements can feature as conclusions or as premises in deduction. These rules give an account of the deductive power of a modal formula 􏰅&amp;#x25A1;&amp;#x10FC05;A (and 􏰆&amp;#x25C7;&amp;#x10FC06;A) in terms of the constituent formula A.&lt;/p&gt;
+
+&lt;p&gt;The distinctive feature for the modal operators in contemporary proof systems for modal logics is that the step introducing or eliminating 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is at the cost of introducing or eliminating some kind of extra structure in the proof. In this way, the proof rules for modal concepts such as 􏰅􏰅&amp;#x25A1;&amp;#x10FC05; run in parallel with the truth conditions for these concepts in a Kripke model, in which the truth of 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A stands or falls with the truth of A, but at the cost of checking that truth elsewhere, at points in the model accessible from the point at which 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A is evaluated.&lt;/p&gt;
+
+&lt;p&gt;In this paper we will introduce these recent advances in proof theory for a general audience, and then we will show how they are connected  with different—metaphysical and epistemic—conceptions of modality. We will show that these different pictures are nothing but different ways of connecting the statement 􏰅􏰅&amp;#x25A1;&amp;#x10FC05;A with the statement A, of showing the significance of modalising. In the light of this result we will draw conclusions about the link between analyticity and modality, and about the nature of a proof system for modal logics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>History of Logical Consequence</title>
+      <link>http://consequently.org/writing/hlc/</link>
+      <pubDate>Sat, 03 Mar 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/hlc/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On the ternary relation and conditionality</title>
+      <link>http://consequently.org/writing/ternary-cond/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ternary-cond/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Molinism and the Thin Red Line</title>
+      <link>http://consequently.org/writing/molinism-trl/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/molinism-trl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Molinism is an attempt to do equal justice to divine foreknowledge and human freedom.  For Molinists, human freedom &lt;em&gt;fits&lt;/em&gt; in this universe for the future is open or unsettled.  However, God&amp;rsquo;s middle knowledge &amp;ndash; God&amp;rsquo;s contingent knowledge of what agents would freely do in this or that circumstance &amp;ndash; underwrites God&amp;rsquo;s omniscience in the midst of this openness.&lt;/p&gt;
+
+&lt;p&gt;In this paper I rehearse Nuel Belnap and Mitchell Green&amp;rsquo;s argument in &amp;lsquo;Indeterminism and the Thin Red Line&amp;rsquo; against the reality of a distinguished single future in the context of branching time, and show that it applies applies equally against Molinism + branching time.  In the process, we show how contemporary work in the logic of temporal notions in the context of branching time (specifically, Prior&amp;ndash;Thomason semantics) can illuminate discussions in the metaphysics of freedom and divine knowledge.&lt;/p&gt;
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

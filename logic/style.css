@@ -1,0 +1,21 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 23:58:08 Mar 20, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:51:54 Mar 6, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body {		margin:auto; 		padding:15px;		font:12pt "Palatino";%		background: #dde8dd;
+background: #eff7ef;line-height:133%;}p { margin: 0.5em 0; }h1,h2,h3,h4 { font-family: "Gill Sans"; "Helvetica Neue", font-style:normal; font-weight:normal; text-align:left; color:#040; }h1 {font-size: 175%; margin-bottom:20px; font-weight:bold;}h2 {font-size: 166%; font-style:italic;}h3 {font-size: 125%;}h4 {font-size: 112%;}a { text-decoration:none; }a:link, a:visited {     border-bottom:1px dotted #060;     color: #060; }a:hover {      border-bottom: 1px solid #a33;     color: #a33; }textarea { width:100%; font-family: monospace !important;}a.definition:before { content:"[::"; }a.definition:after { content:"]"; }a.alias { text-decoration:none; border-bottom: thin dashed; }a.near:link { color:#093; }a.near:visited { color:#550; }a.upload:before { content:"<"; }a.upload:after { content:">"; }%a.outside:before { content:"["; }%a.outside:after { content:"]"; }img.logo { float: right; clear: right; border-style:none; }div.diff { padding-left:5%; padding-right:5%; }div.old { background-color:#FFFFAF; }div.new { background-color:#CFFFCF; }div.message { background-color:#FEE; }div.journal h1 { font-size:large; }table.history { border-style:none; }td.history { border-style:none; }span.result { font-family: "Gill Sans"; "Helvetica Neue", font-style:normal; font-weight:bold; text-align:left; color:#040;  }span.info { font-size:smaller; font-style:italic; }div.refer hr {display:none;}div.refer { padding-left:10px; padding-right:10px; font-size:80%;}div.refer div.refer {font-size:100%; margin-left:20px;}    div[class="content refer"] p { margin-top:1em; }    div.content div.refer { padding:0;  }    div.content div.refer p { margin:0; }    div.refer a { display:block; border-bottom: 0px;}div.rss { background-color:#EEF; }div.sister { float:left; margin-right:1ex; background-color:#FFF; }div.sister p { margin-top:0; }div.sister img { border:none; }div.near { background-color:#EFE; }div.near p { margin-top:0; }div.content, div.rc {background: #f7fff7; padding:10px; border:1px solid #cdc;}hr {height:1px; color:#cdc; background-color:#cdc; border:0;}div.content li, div.rc li {margin-bottom:5px;}div.preview {background: #f7fef7; padding:10px; border:1px solid #cdc;}@media print { body { font:10.5pt Palatino; } a, a:link, a:visited { color:#000; text-decoration:none; font-style:italic; border:0px;} h1 a, h2 a, h3 a, h4 a { font-style:normal; color:#000;} a.edit, div.footer, form, span.gotobar, a.number span, div.refer { display:none; } a[class="url number"]:after, a[class="inter number"]:after { content:"[" attr(href) "]"; } a[class="local number"]:after { content:"[" attr(title) "]"; } img[smiley] { line-height: inherit; } div.content, div.rc {background: #fff; padding:5px; border:0px;} }span.bar {font-family: "Gill Sans", sans; font-size:75%; text-align:left; font-weight:normal; color:#060; margin-bottom:16px; margin-top:16px;}span.bar a {        margin:0;        padding:0 0.33ex 0 0.66ex;        border-left:1px solid black;    }span.bar a:first-child, span.bar br + a {        padding-left:0;        border-left:none;}span.bar a, div.footer a {border-bottom:0px;}strong.match {font-weight:normal; background:#ffff99;}span.time {font-family: "Gill Sans", sans; font-size:75%; text-align:left; font-weight:normal; color:#363;margin-bottom:8px; margin-top:16px;}div.footer hr {display:none;}div.footer {line-height:150%; margin-top:16px; text-align:right;}div.footer form {font-family: "Gill Sans", sans; font-size:75%; text-align:right; font-weight:normal; color:#363;}div.rc hr {display:none;}
+
+table.user { boder-collapse:separate;
+border-spacing:0;
+border-top: 1px solid #dde8dd;border-right: 1px solid #dde8dd;}table.user td {border-left: 1px solid #dde8dd;border-bottom: 1px solid #dde8dd;padding: 4px;
+padding-left:6px;
+padding-right:6px;%background: #eff7ef;margin: 0px;}

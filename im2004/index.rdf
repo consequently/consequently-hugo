@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://consequently.org/im2004/">
+<title>Inference and Meaning 2004: papers</title>
+<link>http://consequently.org/im2004/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2004-04-14T09:21:35+10:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.2" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://consequently.org/im2004/000350.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000363.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000349.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000341.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000346.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000352.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000339.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000342.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000340.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000344.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000345.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000348.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000351.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000343.html" />
+<rdf:li rdf:resource="http://consequently.org/im2004/000347.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://consequently.org/im2004/000350.html">
+<title><![CDATA[M. J. Cresswell (Texas A&amp;M and Auckland)]]></title>
+<link>http://consequently.org/im2004/000350.html</link>
+<description>Does Semantics need Infinitary Logic?...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-14T09:21:35+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000363.html">
+<title>John Fox (La Trobe)</title>
+<link>http://consequently.org/im2004/000363.html</link>
+<description>On What Theories of Meaning Could Meanings be Constituted and Explained by Inference Rules?...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-14T00:00:50+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000349.html">
+<title><![CDATA[Mario G&oacute;mez-Torrente (Barcelona and UNAM Mexico)]]></title>
+<link>http://consequently.org/im2004/000349.html</link>
+<description>What Was Tarski&amp;#8217;s Thesis about Logical Truth? And Is It True?...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-13T09:23:27+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000341.html">
+<title>Karen Green (Monash)</title>
+<link>http://consequently.org/im2004/000341.html</link>
+<description>A Dummettian response to Armstrong and Martin...</description>
+<dc:subject>Invited Talk</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-12T09:49:39+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000346.html">
+<title>Andrew Jorgensen (University of Leeds)</title>
+<link>http://consequently.org/im2004/000346.html</link>
+<description>Inferentialism and the meaning of non-denoting terms...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-11T09:59:46+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000352.html">
+<title><![CDATA[Nils K&uuml;bris (Universit&auml;t Leipzig)]]></title>
+<link>http://consequently.org/im2004/000352.html</link>
+<description>Negation, Relevance and the Theory of Meaning...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-10T10:33:57+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000339.html">
+<title>Mark Lance (Georgetown)</title>
+<link>http://consequently.org/im2004/000339.html</link>
+<description>&amp;#8216;Yo&amp;#8217; and &amp;#8216;Lo&amp;#8217;: the pragmatics of the space of reasons...</description>
+<dc:subject>Invited Talk</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-09T09:51:22+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000342.html">
+<title>Jaroslav Peregrin (Prague)</title>
+<link>http://consequently.org/im2004/000342.html</link>
+<description>Can we see inference as the ultimate source of meaning?...</description>
+<dc:subject>Invited Talk</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-08T09:53:54+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000340.html">
+<title>Huw Price (Sydney)</title>
+<link>http://consequently.org/im2004/000340.html</link>
+<description>&amp;#8220;Not&amp;#8221; again...</description>
+<dc:subject>Invited Talk</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-07T09:54:00+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000344.html">
+<title>Greg Restall (University of Melbourne)</title>
+<link>http://consequently.org/im2004/000344.html</link>
+<description>Assertion and Denial, Commitment and Entitlement, and Incompatibility...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-06T09:55:32+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000345.html">
+<title>Gillian Russell (Princeton)</title>
+<link>http://consequently.org/im2004/000345.html</link>
+<description>Perjoratives...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-05T09:56:16+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000348.html">
+<title>Inna Semetsky (Monash University)</title>
+<link>http://consequently.org/im2004/000348.html</link>
+<description>Abductive inference, meaning, and complexity: a dynamic structure...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-04T10:08:11+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000351.html">
+<title>N. J. J. Smith (Wellington)</title>
+<link>http://consequently.org/im2004/000351.html</link>
+<description>Semantic Regularity and the Liar Paradox...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-03T10:27:54+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000343.html">
+<title><![CDATA[G&ouml;ran Sundholm (Leiden)]]></title>
+<link>http://consequently.org/im2004/000343.html</link>
+<description>Constructive Truth-Making...</description>
+<dc:subject>Invited Talk</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-02T09:54:18+10:00</dc:date>
+</item>
+<item rdf:about="http://consequently.org/im2004/000347.html">
+<title>Bernard Weiss (University of Cape Town)</title>
+<link>http://consequently.org/im2004/000347.html</link>
+<description>Anti-realism and Truth, Meaning and Inference...</description>
+<dc:subject>Submitted Paper</dc:subject>
+<dc:creator>Greg Restall</dc:creator>
+<dc:date>2004-04-01T10:55:18+10:00</dc:date>
+</item>
+
+
+</rdf:RDF>

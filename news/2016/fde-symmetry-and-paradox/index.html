@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>First Degree Entailment, Symmetry and Paradox</title>
+	
+	<link rel="amphtml" href="https://mercury.postlight.com/amp?url=http%3a%2f%2fconsequently.org%2fnews%2f2016%2ffde-symmetry-and-paradox%2f">
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='https://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='https://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2016/fde-symmetry-and-paradox/">
+	<meta name="twitter:title" content="First Degree Entailment, Symmetry and Paradox">
+	<meta name="twitter:description" content="I attempt to answer a puzzle about paradoxes, truth value gaps and gluts. The answer involves keeping track of what you accept and what your reject.">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-616836-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">First Degree Entailment, Symmetry and Paradox</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>July 27, 2016</h4></div>
+<div class="unit-60">
+<p>Talking to <a href="http://entailments.net">Jc Beall</a> during his recent visit to Australia, I got thinking about <em>first degree entailment</em> again.</p>
+
+<p>Here is a puzzle, which I learned from Terence Parsons in his “<a href="http://www.jstor.org/stable/40231701">True Contradictions</a>”. <em>First Degree Entailment</em> (<span class="caps">fde</span>) is a logic which allows for truth value <em>gaps</em> as well as truth value <em>gluts</em>.  If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you&rsquo;re happy with <span class="caps">fde</span>), then this looks no different, in effect, from assigning them a <em>gap</em> value? After all, on both views you end up with a theory that doesn&rsquo;t commit you to the paradoxical sentence or its negation.  How is the <span class="caps">fde</span> theory any different from the theory with gaps alone?</p>
+
+<p>I think I have a clear answer to this puzzle&mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone. But to explain the answer and show how it works, I need to spell things out in more detail. If you want to see how this answer goes, read on.</p>
+
+<p></p>
+
+<p>First degree entailment (<span class="caps">fde</span>) is a logic well suited to fixed point solutions to the paradoxes. Perhaps it is <em>too</em> well suited, because it allows paradoxical sentences to be evaluated in two distinct ways: Paradoxical sentences can be assigned the value \(n\) (neither true nor false: \(\lbrace\rbrace\)) or \(b\) (both true and false&mdash;or \(\lbrace 0,1\rbrace\)) equally well. Are two possible values better than one? And more importantly, is agnosticism between <em>which</em> value to assign a paradoxical sentence like the liar&mdash;a stance Terence Parsons calls “agnostaletheism”&mdash;any different from assigning it the truth value \(n\) instead of \(b\)? After all, on either stance, neither the liar sentence nor its negation are to be accepted. In this note, I explore the symmetry that is available in <span class="caps">fde</span>, and I show how agnostaletheism may be clearly distinguished from the view according to which paradoxes are simply neither true nor false.</p>
+
+<h3 id="fde-and-relational-evaluations">FDE and Relational Evaluations</h3>
+
+<p><em>First Degree Entailment</em> (<span class="caps">fde</span>) is a simple and elegant logic, well suited to many different applications. It can be defined and understood in a number of different ways, but for our purposes it suits to introduce it as the generalisation of classical two-valued logic according to which evaluations are no longer functions assigning each sentence of a language a truth value from \(\lbrace 0,1\rbrace\), but relations to those truth values. Relaxing the constraint that evaluations be Boolean functions means that sentences can be be <em>neither</em> true nor false (the evaluation fails to relate the sentence to either \(0\) or \(1\)) or <em>both</em> true and false (the evaluation relates the sentence to both truth values). This generalisation allows us to interpret the  suite of connectives and quantifiers of predicate logic in a straightforward manner, generalising the traditional evaluation conditions due to Boole and Tarski as follows.</p>
+
+<p>\(\def\semv#1{{[\![}#1{]\!]}}\)
+Given a non-empty domain \(D\) of objects, an <span class="caps">fde</span>-model for a language consists of a multi-sorted relation \(\rho\) defined as follows: For each \(n\)-place predicate \(F\), \(\rho_F\) relates \(n\)-tuples of objects from \(D\) to the truth values \(0,1\). For each constant \(c\) in the language, \(\rho_c\) selects a unique object from \(D\). An assignment \(\alpha\) of values to the variables is a function from those variables to  the domain \(D\). Given an assignment \(\alpha\) and the interpretation \(\rho\) we define the semantic value \(\semv{t}_{\rho,\alpha}\) of a term \(t\) to be given by \(\rho_t\) if \(t\) is a name and \(\alpha(t)\) if \(t\) is a variable. Then, relative to each assignment \(\alpha\) we define the relation \(\rho_\alpha\) which matches formulas in the language to truth values as follows:</p>
+
+<ul>
+<li>\((Ft_1\cdots t_n)\rho_\alpha i\) iff \(\langle \semv{t_1}_{\rho,\alpha},\ldots,\semv{t_n}_{\rho,\alpha}\rangle\rho_F i\)</li>
+<li>\((A\land B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)</li>
+<li>\((A\land B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) or \(B\rho_\alpha 0\)</li>
+<li>\((A\lor B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) or \(B\rho_\alpha 1\)</li>
+<li>\((A\lor B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\)</li>
+<li>\(\neg A\rho_\alpha 1\) iff \(A\rho_\alpha 0\)</li>
+<li>\(\neg A\rho_\alpha 0\) iff \(A\rho_\alpha 1\)</li>
+<li>\((\forall x)A\rho_\alpha 1\) iff \(A\rho_{\alpha[x:=d]} 1\) for every \(d\) in \(D\).</li>
+<li>\((\forall x)A\rho_\alpha 0\) iff \(A\rho_{\alpha[x:=d]} 0\) for some \(d\) in \(D\).</li>
+<li>\((\exists x)A\rho_\alpha 1\) iff \(A\rho_{\alpha[x:=d]} 1\) for some \(d\) in \(D\).</li>
+<li>\((\exists x)A\rho_\alpha 0\) iff \(A\rho_{\alpha[x:=d]} 0\) for every \(d\) in \(D\).</li>
+</ul>
+
+<p>The only deviation from classical first order predicate logic is that we allow for truth value gaps (\(\rho\) may fail to relate a given formula to a truth value) or gluts (\(\rho\) may relate a given formula to both truth values). Indeed, these features are, in a sense, <em>modular</em>. It is straightforward to show that if a given interpretation \(\rho\) is a partial function on the basic vocabulary of a language (if it never over-assigns values to the extension of any predicate in that language), then it remains so over every sentence in that language. Those sentences can be assigned gaps, but no gluts. Similarly, if an interpretation is decisive over the basic vocabulary of some language (it never under-assigns values to the extensions of any predicate in that language), then it remains so over every sentence of that language. These sentences can be assigned gluts, but no gaps. If an evaluation is <em>sharp</em> (if it allows for neither gaps nor gluts in the interpretation of any predicate), then it remains so over the whole language.</p>
+
+<p>Relational evaluations are a natural model for <span class="caps">fde</span>. They show it to be an elementary generalisation of classical logic, allowing for gaps between truth values and over-assignment of those values. The interpretation of the connectives and the quantifiers remains as classical as in two-valued logic, except for the generalisation to allow for gaps and gluts between the two semantic values.</p>
+
+<h3 id="fde-and-four-values">FDE and four values</h3>
+
+<p>We can also see <span class="caps">fde</span> in another light, not as a logic allowing for gaps and gluts between two truth values, but as a logic allowing for <em>four</em> semantic values. For clarity, we will write these four values: \(t\), \(b\), \(n\) and \(f\). We can translate between the two-valued and four-valued languages as follows. Given a relational valuation \(\rho\) we define a functional valuation \(v\) which assigns</p>
+
+<ul>
+<li>\(v(A)=t\) iff \(A\rho 1\) but not \(A{\rho} 0\)</li>
+<li>\(v(A)=b\) iff \(A\rho 1\) and \(A\rho 0\)</li>
+<li>\(v(A)=f\) iff \(A\rho 0\) but not \(A{\rho} 1\)</li>
+<li>\(v(A)=n\) iff neither \(A{\rho} 1\) nor \(A{\rho} 0\)</li>
+</ul>
+
+<p>It follows then, that</p>
+
+<ul>
+<li>\(A\rho 1\) iff \(v(A)=t\) or \(v(A)=b\), and</li>
+<li>\(A\rho 0\) iff \(v(A)=f\) or \(v(A)=b\).</li>
+</ul>
+
+<p>Evaluation relations that are partial functions can be understood as functional evaluations taking semantic values from \(t,n,f\) &mdash; and the evaluation clauses in this case give us the familiar logic <span class="caps">k3</span>: Kleene&rsquo;s strong three valued logic. Evaluation relations that are decisive, allowing for no gaps, can be understood as taking semantic values from \(t,b,f\) &mdash; and the evaluation clauses in this case give us the familiar logic <span class="caps">lp</span>: Priest&rsquo;s logic of paradox. In what follows, I will move between functional and relational vocabulary as seems appropriate.</p>
+
+<p>\(\def\ydash{\succ}\)</p>
+
+<h3 id="fde-and-sequents">FDE and Sequents</h3>
+
+<p>There are many different ways we can use <span class="caps">fde</span> evaluations to analyse truth and consequence in the language of first order logic. One important notion goes like this: An interpretation \(\rho\) is said to be a <em>counterexample</em> to the sequent \(X\ydash Y\) if and only if \(\rho\) relates each member of \(X\) to \(1\) while it relates no member of \(Y\) to \(1\). In other words, an interpretation provides a counterexample to a sequent if it shows some way that the sequent fails to preserve truth. Given some set \(\mathcal M\) of evaluations, a sequent is said to be \(\mathcal M\)-valid if it has no counterexamples in the set \(\mathcal M\). We reserve the term <span class="caps">fde</span>-valid for those sequents which have no counterexamples at all. A sequent is said to be <span class="caps">k3</span>-valid if it has no counterexamples among partial function evaluations, and a sequent is said to be <span class="caps">lp</span>-valid if it has no counterexamples among decisive valuations.</p>
+
+<p>All this is very well known in the literature on non-classical logics&mdash;see, for example (Priest <a href="https://www.amazon.com/Introduction-Non-Classical-Logic-Introductions-Philosophy/dp/0521670268/consequentlyorg">2008, Chapter 8</a>) for details. The <span class="caps">fde</span> validities include all of distributive lattice logic with a de Morgan negation.  Sequents such as these
+\[
+\neg (A\land B)\ydash \neg A\lor \neg B\quad
+ \neg (A\lor B)\ydash \neg A\land \neg B
+\]
+\[
+\neg A\lor \neg B\ydash \neg (A\land B)\quad
+\neg A\land \neg B\ydash \neg (A\lor B)
+\]
+\[
+A\ydash\neg\neg A \quad \neg\neg A\ydash A
+\]
+are  <span class="caps">fde</span> valid. The next sequents are not valid in <span class="caps">fde</span>, but they are valid in <span class="caps">k3</span>:
+\[
+{A,\neg A\ydash~}\quad
+A\lor B,\neg A\ydash B
+\]
+In both cases, an <span class="caps">fde</span> interpretation which relates \(A\) to both \(0\) and \(1\) (but which fails to relate \(B\) to \(1\)) serves as a counterexample.
+Similarly, the following sequents are <em>not</em> valid in <span class="caps">fde</span>, but they are valid in <span class="caps">lp</span>:
+\[
+{\ydash~A,\neg A}\quad
+B\ydash A\land B,\neg A
+\]
+In both cases, an <span class="caps">fde</span> interpretation which relates \(A\) to neither \(0\) nor \(1\) (but which relates \(B\) to \(1\)) serves as a counterexample.</p>
+
+<h3 id="fde-theories-and-bitheories">FDE, Theories and Bitheories</h3>
+
+<p>From sequents we move to theories. A the usual definition has it that a <em>theory</em> may be defined as a set of sentences closed under a logical consequence relation. So, given some collection \(\mathcal M\) of interpretations,  \(T\) is an \(\mathcal M\)-theory if and only if whenever the sequent \(T\ydash A\) (where \(A\) is a single formula) is \(\mathcal M\)-valid, then \(A\) is a member of \(T\). \(\mathcal M\)-theories contain their own \(\mathcal M\)-consequences. We can think of theories as representing what is held to be true according to a certain stance&mdash;a consequences of what is held true is also (implicitly) held true. Elsewhere (Restall 2013) I have argued that in logics like <span class="caps">fde</span> we have good reason to consider not only what is held true, but what is held *un*true. Sequents give us a straightforward vocabulary for describing this. We say that the disjoint pair \(\langle T,U\rangle\) is an \(\mathcal M\)-<em>bitheory</em> if and only if whenever the sequent \(T\ydash A,U\) (where \(A\) is a single formula) is \(\mathcal M\)-valid, then \(A\) is a member of \(T\), and whenever \(T,A\ydash U\) is \(\mathcal M\)-valid, then \(A\) is a member of \(U\). Now, \(\langle T,U\rangle\) is a pair, consisting of what is (according to that bitheory) held true (to be related to \(1\)) on the one hand and what is held untrue (to be unrelated to \(1\)), on the other.  Suppose \(\mathcal M&rsquo;\subseteq\mathcal M\) is another set of interpretations. If we define \(T_{\mathcal M&rsquo;}\) to be the set of all sentences true (related to \(1\)) in all \(\mathcal M&rsquo;\)-interpretations and likewise \(U_{\mathcal M&rsquo;}\) to be the set of all sentences untrue (not related to \(1\)) in those interpretations, then \(\langle T_{\mathcal M&rsquo;},U_{\mathcal M&rsquo;}\rangle\) is a \(\mathcal M\)-bitheory. Indeed, if \(\mathcal M&rsquo;\) is a singleton set, consisting of one interpretation, then the bitheory \(\langle T_{\mathcal M&rsquo;},U_{\mathcal M&rsquo;}\rangle\) is a partition of the language, deciding every formula to be either true or untrue. If the set \(\mathcal M&rsquo;\) is larger, containing interpretations which give a sentence \(A\) different verdicts, then the corresponding bitheory will no longer be a partition. If one interpretation judges \(A\) to be true, another judges it untrue, then \(A\) will neither feature in the left set nor the right set.</p>
+
+<h3 id="fde-and-truth">FDE and Truth</h3>
+
+<p>The puzzle under consideration in this note arises from the behaviour of paradoxical sentences in <span class="caps">fde</span>. The details of the paradoxes are not important to us, but regardless, let&rsquo;s consider a concrete case, the paradoxes of truth. We will consider a transparent account of truth, so let us focus on first order languages in which we have a one-place predicate \(T\) for truth. Since the truth predicate is a <em>predicate</em>, it will apply to objects in the domain. To allow for fixed points (sentences which ascribe truth or falsity to sentences in the language, including themselves) we extend the language with quotation names for sentences in that very same language. So, for each sentence \(A\) we have a name \(\ulcorner A\urcorner\). Fixed point constructions for truth in the style of Kripke, Brady, Woodruff and Gilmore generate <span class="caps">fde</span>-interpretations for a language in which the sentence \(A\) and the sentence \(T\ulcorner A\urcorner\) are assigned the same semantic values. We will call such interpretations <span class="caps">fde</span>\(^T\) interpretations. The construction method for <span class="caps">fde</span>\(^T\)-interpretations assigns the extension of \(T\) in stages, keeping the rest of the evaluation as given, including the denotation for constants. The details of the proof are not important to us, but one essential idea is useful: the notion of <em>preservation</em> between evaluations. For two evaluations \(\rho\) and \(\rho&rsquo;\), we have \(\rho\sqsubseteq\rho&rsquo;\) if and only if whenever \(\rho\) relates an atomic formula to a given truth value \(0\) or \(1\), so does \(\rho&rsquo;\). It is a straightforward induction on the complexity of formulas that this then extends to all of the formulas in the language: for any formula \(A\), if \(A\rho 0\) then \(A\rho&rsquo; 0\) too, and if \(A\rho 1\) then \(A\rho&rsquo; 1\) too. The evaluations \(\rho\) and \(\rho&rsquo;\) may still differ, because \(\rho\) might leave a <em>gap</em> where \(\rho&rsquo;\) fills in a value, \(0\) or \(1\), or where \(\rho\) assigned only one value, \(\rho&rsquo;\) might assign <em>both</em>.</p>
+
+<p>The only requirement on quotation names for this fixed point construction to succeed is that quotation names for different sentences are different. This means that the construction will work <em>whatever</em> we take the denotation of other constants to be. So, let&rsquo;s consider a language with a countable supply of constants \(\lambda,\lambda_1,\lambda_2,\ldots\) whose denotation can be freely set however we please.</p>
+
+<p>So <span class="caps">fde\(^T\)</span> is the set of relational <span class="caps">fde</span> evaluations for this language in which \(T\) is a fixed point&mdash;that is, for any sentence \(A\), that sentence receives the same evaluation as \(T\ulcorner A\urcorner\). <span class="caps">fde\(^T\)</span> can also be considered as a theory (or bitheory), if we wish to consider what holds (and fails to hold) in all such evaluations. We can do the same for <span class="caps">k3\(^T\)</span> and <span class="caps">lp\(^T\)</span>, when we restrict our attention to evaluations in which there are no truth value gluts or gaps respectively. Kripke&rsquo;s original construction shows us how to make <span class="caps">k3\(^T\)</span> evaluations, and the construction generalises to <span class="caps">lp\(^T\)</span> and <span class="caps">fde\(^T\)</span> straightforwardly.</p>
+
+<p>Now, to consider the behaviour of the paradoxical sentences, let&rsquo;s fix the referent of the term \(\lambda\) to be the same as the referent of  the quotation name \(\ulcorner\neg T\lambda\urcorner\), containing the term \(\lambda\) itself. It follows then that \(T\lambda\) has the same value as \(T\ulcorner\neg T\lambda\urcorner\), which has the same value as \(\neg T\lambda\). \(\lambda\) denotes a liar sentence, which says of itself that it&rsquo;s not true. That is, the sentence \(\neg T\lambda\) (and its mate, \(T\lambda\)) must be assigned the value \(b\) or \(n\), since it is a fixed point for negation. The fixed point construction allows us to generate interpretations for the truth predicate in which sentences like \(\neg T\lambda\) have the value \(n\), and interpretations where those sentences have the value \(b\)&mdash;in fact, one can make the fixed point construction purely in <span class="caps">k3</span> or in <span class="caps">lp</span>&mdash;and there are also mixed models in which some paradoxical sentences have the value \(n\) and others the value \(b\).</p>
+
+<p>So, if we take <span class="caps">fde\(^T\)</span> to be an adequate <em>logic</em> of truth, then it seems as if we should be agnostic about whether a liar sentence like \(\neg T\lambda\) has value \(n\) or \(b\), unless we can find some consideration which breaks the tie between them. This position was named ``agnostaletheism&rdquo;, by Terence Parsons (<a href="http://www.jstor.org/stable/40231701">1990</a>).</p>
+
+<p>Perhaps there <em>is</em> a tie-breaking consideration. If we were to be agnostic between assigning \(\neg T\lambda\) the value \(b\) and the value \(n\), this looks a lot like assigning the value \(n\). After all, according to both theories, we don&rsquo;t assert \(T\lambda\) and we don&rsquo;t assert its negation.  This is the puzzling question: Is there an instability in <span class="caps">fde\(^T\)</span>? Does <span class="caps">fde\(^T\)</span> collapse into <span class="caps">k3\(^T\)</span>?</p>
+
+<h3 id="symmetry-in-fde-theories">Symmetry in FDE Theories</h3>
+
+<p>The profound symmetry between gaps and gluts in first degree entailment is manifest in the behaviour of the Routley star&mdash;a function on evaluations&mdash;introduced by Richard and Valerie Routley in the 1970s (Routley and Routley 1972). Given an evaluation \(\rho\), we can define its <em>dual</em> evaluation \(\rho^\ast\) as follows:</p>
+
+<p>For each \(n\)-place predicate \(F\), we set:</p>
+
+<ul>
+<li>\(\langle d_1,\ldots,d_n\rangle\rho^\ast_F 1\) holds iff \(\langle d_1,\ldots,d_n\rangle\rho_F 0\) doesn&rsquo;t hold.</li>
+<li>\(\langle d_1,\ldots,d_n\rangle\rho^\ast_F 0\) holds iff \(\langle d_1,\ldots,d_n\rangle\rho_F 1\) doesn&rsquo;t hold.</li>
+</ul>
+
+<p>In other words, an atomic formula is <em>true</em> according to \(\rho{^\ast}\) if and only if to \(\rho\) it is not false, and it is <em>false</em> according to \(\rho{^\ast}\) if and only if to \(\rho\) it is not true. This means that atomic formulas which are \(t\) by \(\rho\)&rsquo;s lights are also \(t\) by \(\rho^\ast\)&rsquo;s, and similarly for \(f\). But a formula that is \(n\) according to \(\rho\) is \(b\) to \(\rho^\ast\), and a formula that is \(b\) according to \(\rho\) is \(n\) to \(\rho^\ast\). The dual evaluation turns gaps into gluts, and gluts into gaps, for atomic formulas.</p>
+
+<p>This fact generalises to all of the formulas in the language of <span class="caps">fde</span>.</p>
+
+<p><span class="caps">fact</span>: For any formula \(A\) in the language of <span class="caps">fde</span></p>
+
+<ul>
+<li>\(A\rho^\ast 1\) holds iff \(A\rho 0\) doesn&rsquo;t hold.</li>
+<li>\(A\rho^\ast 0\) holds iff \(A\rho 1\) doesn&rsquo;t hold.</li>
+</ul>
+
+<p>This fact is established by a simple induction on the complexity of the formula \(A\). The crucial feature of the connectives that makes this proof work is the balance between the positive and negative conditions in an evaluation \(\rho\). For example, with conjunction we have</p>
+
+<ul>
+<li>\((A\land B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)</li>
+<li>\((A\land B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) or \(B\rho_\alpha 0\)</li>
+</ul>
+
+<p>So we can proceed as follows (assuming that the fact holds for the simpler formulas \(A\) and \(B\)), \((A\land B)\rho^\ast_\alpha 1\) iff \(A\rho^\ast_\alpha 1\) and \(B\rho^\ast_\alpha 1\) iff \(A\rho_\alpha 0\) doesn&rsquo;t hold and \(B\rho_\alpha 0\) doesn&rsquo;t hold, iff neither \(A\rho_\alpha 0\) nor \(B\rho_\alpha 0\) hold, iff \(A\land B\rho_\alpha 0\) doesn&rsquo;t hold. We have appealed to the parallel between these two clauses:</p>
+
+<ul>
+<li>\((A\land B)\rho_\alpha 1\) holds iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\) don&rsquo;t hold.</li>
+<li>\((A\land B)\rho_\alpha 0\) doesn&rsquo;t hold iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\) don&rsquo;t hold.</li>
+</ul>
+
+<p>In the same way, for example, with the existential quantifier:</p>
+
+<ul>
+<li>\((\exists x)A\rho_\alpha 1\) holds iff \(A\rho_{\alpha[x:=d]} 1\) holds for some \(d\) in \(D\).</li>
+<li>\((\exists x)A\rho_\alpha 0\) doesn&rsquo;t hold iff \(A\rho_{\alpha[x:=d]} 0\) doesn&rsquo;t hold for some \(d\) in \(D\).</li>
+</ul>
+
+<p>and the same form of argument applies. What holds for the existential quantifier and conjunction holds for the other connectives and quantifier of first degree entailment.</p>
+
+<p><em>Excursus</em>: This argument would fail if we had connectives or quantifiers in our language whose truth and falsity conditions are less well matched. For example, we could have a connective which is conjunctive with regard to truth and disjunctive with regard to falsity:</p>
+
+<ul>
+<li>\((A\times B)\rho_\alpha 1\) iff \(A\rho_\alpha 1\) and \(B\rho_\alpha 1\)</li>
+<li>\((A\times B)\rho_\alpha 0\) iff \(A\rho_\alpha 0\) and \(B\rho_\alpha 0\)</li>
+</ul>
+
+<p>Given a evaluation \(\rho\) which relates the atomic formulas \(p\) to \(1\) only and \(q\) to \(0\) only, \(\rho^\ast\) does the same. According to both \(\rho\) and \(\rho^\ast\), \(p\times q\) is related to neither \(1\) nor \(0\), breaking the symmetry between gaps and gluts. <em>End of Excursus</em></p>
+
+<p>The Routley star sends relational evaluations to relational evaluations. It does not send theories to theories. It is natural to define the star of a set of sentences as follows: For any set \(S\) of formulas, \(A\in S^\ast\) if and only if \(\neg A\not\in S\). However, the dual \(T^\ast\) of a theory  \(T\)is not always itself a theory. Take, for example, the <span class="caps">fde</span>-theory \((\neg p\lor\neg q){\mathord\downarrow}\) consisting of all <span class="caps">fde</span>-consequences of \(\neg p\lor\neg q\) (it is the theory consisting of every sentence made true by by every evaluation \(\rho\) where either \(p\rho 0\) or \(q\rho 0\)). In particular, we have \(\neg p\lor\neg q\in (\neg p\lor\neg q){\mathord\downarrow}\) but \(\neg p\not\in (\neg p\lor\neg q){\mathord\downarrow}\) and \(\neg q\not\in (\neg p\lor\neg q){\mathord\downarrow}\). Now consider the dual set \((\neg p\lor\neg q){\mathord\downarrow}^\ast\). This is not a theory, because \(p\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg p\not\in(\neg p\lor\neg q){\mathord\downarrow})\)) and \(q\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg q\not\in(\neg p\lor\neg q){\mathord\downarrow})\)) but the conjunction is not in the set: \(p\land q\not\in{(\neg p\lor\neg q){\mathord\downarrow}^\ast}\) (since \(\neg p\lor\neg q\in(\neg p\lor\neg q){\mathord\downarrow})\) ensures that \(\neg(p\land q)\in(\neg p\lor\neg q){\mathord\downarrow}\) too).</p>
+
+<p>However, it is straightforward to show the following fact, relating the Routley star and <em>bi</em>-theories.</p>
+
+<p><span class="caps">fact</span>: For any \(\mathcal M\)-bitheory \(\langle T,U\rangle\), the pair \(\langle \overline{U^\ast},\overline{T^\ast}\rangle\) is an \(\mathcal M^\ast\)-bitheory, where \(\overline{U^\ast}\) and \(\overline{T^\ast}\) are the sets of sentences <em>not</em> in \(U^\ast\) and \(T^\ast\) respectively.</p>
+
+<p>Here is why: The interpretation \(\rho\) is a counterexample to \(T \ydash U\) has a counterexample iff \(\rho^\ast\) is a counterexample to \(\neg U \ydash \neg T\). It follows that \(\overline{U^\ast}\ydash A,\overline{T^\ast}\) fails at \(\rho^\ast\) iff \(\neg\overline{T^\ast},\neg A\ydash\neg\overline{U^\ast}\) fails at \(\rho\), but that means \(T,\neg A\ydash U\) fails at \(\rho^\ast\). So, \(\overline{U^\ast}\ydash A,\overline{T^\ast}\) holds in \(\mathcal M^\ast\) iff \(T,\neg A\ydash U\) holds in \(\mathcal M\). So, since \(\langle T,U\rangle\) is an \(\mathcal M\)-bitheory, we have \(\neg A\in U\), which means \(A\in \overline{U^\ast}\) as desired. The case for \(\overline{U^\ast},A\ydash \overline{T^\ast}\) to \(A\in\overline{T^\ast}\) is dual.</p>
+
+<p>Armed with these facts concerning the Routley star, we can attend to the behaviour of our theories (and bitheories) with gaps and gluts.</p>
+
+<h3 id="two-kinds-of-incompleteness">Two Kinds of Incompleteness</h3>
+
+<p>Theories in <span class="caps">fde</span> can be incomplete in two distinct ways. Consider the <span class="caps">fde</span>-theory consisting of every sentence true in those evaluations which relate \(p\) to \(1\) and relate \(q\) to neither \(0\) nor \(1\), and which relate \(r\) to either \(1\) or \(0\). This set of sentences contains \(p\) and it doesn&rsquo;t contain \(\neg p\). It holds \(p\) to be <em>true</em>. However, it is incomplete concerning \(q\) and \(r\)&mdash;the theory doesn&rsquo;t contain \(q\) or \(\neg q\), and it also doesn&rsquo;t contain \(r\) or \(\neg r\). However, the theory has <em>settled</em> \(q\) to be neither true nor false. (In all of the evaluations, \(q\) receives the value \(n\).) On the other hand, the value of \(r\) is <em>unsettled</em>. In some evaluations, \(r\) is true, in others it is false.  In this way, <span class="caps">fde</span> allows for two different kinds of incompleteness.</p>
+
+<p>Now consider theories like <span class="caps">k3\(^T\)</span> and <span class="caps">fde\(^T\)</span>. Recall, <span class="caps">fde\(^T\)</span> is given by all <span class="caps">fde</span> evaluations for which \(T\ulcorner A\urcorner\) and \(A\) receive the same value, and  <span class="caps">k3\(^T\)</span> is given by all <span class="caps">k3</span> valuations with the same property. If we focus on the <em>theories</em> determined by each class of valuations, we see that a liar sentence like \(T\lambda\) is <em>incomplete</em> in both theories. In <span class="caps">k3\(^T\)</span>, it is because in any such valuation, \(T\lambda\) receives the value \(n\)&mdash;it is never true. In <span class="caps">fde\(^T\)</span> it is because in any such valuation, \(T\lambda\) either receives the value \(n\) or the value \(b\). In some valuations it is true (those where it is \(b\)) and in others, it fails to be true. Again, the theory is incomplete concerning \(T\lambda\).</p>
+
+<p>Is there any way to distinguish these theories or distinguish this incompleteness?</p>
+
+<p>In one sense, the answer will be <em>no</em>. The following fact contains the core of the reason why:</p>
+
+<p><span class="caps">fact</span>: For any <span class="caps">k3</span> evaluation \(\rho\), the theory determined by \(\rho\) and the <span class="caps">fde</span> theory determined by the two evaluations \(\rho\) and \(\rho^\ast\) are identical.</p>
+
+<p>It is easy to see that \(\rho\sqsubseteq \rho^\ast\) in the case where \(\rho\) is a <span class="caps">k3</span> evaluation. It follows that the truths according to \(\rho\) are exactly the truths according to both \(\rho\) and \(\rho^\ast\).</p>
+
+<p>This fact <em>generalises</em>. Consider an evaluation \(\rho\), which may involve both gaps and gluts. We can define the evaluation \(\rho^{n}\), which assigns \(n\) to any atomic formula assigned either \(n\) or \(b\) by \(\rho\), and which leaves \(t\) and \(f\) fixed. It is straightforward to see that \(\rho^{n}\sqsubseteq \rho\). We can also define the evaluation \(\rho^{b}\), which assigns \(b\) to any atomic formula assigned either \(n\) or \(b\) by \(\rho\), and which leaves \(t\) and \(f\) fixed. In this case, we have \(\rho\sqsubseteq \rho^b\). So, in general any <span class="caps">fde</span> evaluation \(\rho\) is sandwiched between a <span class="caps">k3</span> evaluation and an <span class="caps">lp</span> evaluation like so: \(\rho^n\sqsubseteq\rho\sqsubseteq \rho^b\).</p>
+
+<p>The generalisation of our previous fact can now be stated:</p>
+
+<p><span class="caps">fact</span>: For any <span class="caps">fde</span> evaluation \(\rho\), the <span class="caps">k3</span> theory determined by \(\rho^{n}\) and the <span class="caps">fde</span> theory determined by the two evaluations \(\rho\) and \(\rho^{n}\) are identical.</p>
+
+<p>The proof is as before: Now \(\rho^n\sqsubseteq \rho\), so it follows that the truths according to \(\rho^n\) are exactly the truths according to both \(\rho^n\) and \(\rho\).</p>
+
+<p>Now, the operation of sending all gaps and gluts either to <em>gaps</em> or to <em>gluts</em> does not disturb the logic of truth.</p>
+
+<p><span class="caps">fact</span>: If \(\rho\) is an <span class="caps">fde\(^T\)</span> evaluation, then so are \(\rho^n\) and \(\rho^b\).</p>
+
+<p>The only way that \(\rho^n\) could fail to be an an <span class="caps">fde\(^T\)</span> evaluation is if for some formula \(A\), the values in \(\rho^n\) of \(A\) and \(T\ulcorner A\urcorner\) differ. But if values of two formulas differ in \(\rho^n\), they also differ in \(\rho\). (The same holds for \(\rho^b\), too.)</p>
+
+<p>Now we can state our general fact, concerning truth theories in <span class="caps">fde</span> and <span class="caps">k3</span>. The basic idea is that the theories are identical, since theories that take the paradoxical sentences to be \(n\) and those that are agnostic between \(n\) and \(b\) take the same claims to be <em>true</em>. This is fair enough as far as it goes, but stated in this bald way, it does not go very far at all. The theories <span class="caps">fde\(^T\)</span> and <span class="caps">k3\(^T\)</span> <em>obviously</em> have the same theorems&mdash;they both have <em>no</em> theorems. The <em>silent</em> evaluation which sends absolutely every every formula to \(n\) is a <span class="caps">k3\(^T\)</span> (and hence, <span class="caps">fde\(^T\)</span>) evaluation, and this shows that both <span class="caps">k3\(^T\)</span> and <span class="caps">fde\(^T\)</span> have no theorems at all. So, merely showing that <span class="caps">k3\(^T\)</span> and <span class="caps">fde\(^T\)</span> share theorems does not say very much at all. We can do much better than this.</p>
+
+<p>Suppose we have a set \(\mathcal M\) of evaluations, such that whenever \(\rho\in\mathcal M\) we also have \(\rho^n\in \mathcal M\). Let \(\mathcal M^n\) be the set of <span class="caps">k3</span> evaluations in \(\mathcal M\)&mdash;so \({\mathcal M^n}\) is \(\lbrace\rho^n:\rho\in\mathcal M\rbrace\). We have the following result:</p>
+
+<p><span class="caps">fact</span>: The theory \(T_\mathcal{M}\) of sentences true in all evaluations in \(\mathcal{M}\) is identical to the theory \(T_{\mathcal{M}^n}\), of sentences  in all evaluations in \(\mathcal{M}^n\).</p>
+
+<p>Clearly \(T_\mathcal{M}\subseteq T_{\mathcal M^n}\). To show the converse, suppose the formula \(A\) is not in \(T_\mathcal{M}\). So, it fails to be true on some evaluation \(\rho\in\mathcal{M}\). It also fails in \(\rho^n\), which is in \(\mathcal{M^n}\).</p>
+
+<p>So, for example, if we have some <span class="caps">k3</span> valuation \(\rho\) for a language without the truth predicate, and we consider the set \(\mathcal M\) of all <span class="caps">fde\(^T\)</span> evaluations, extending \(\rho\) with a truth predicate. Here, grounded \(T\)-sentences will receive values as determined by the underlying valuation \(\rho\), while other sentences will vary among all four values, \(t\), \(f\), \(n\) and \(b\), constrained only by the requirement that \(A\) and \(T\ulcorner A\urcorner\) agree in value. The set \(\mathcal M^n\) is the subset of such evaluations in which the \(T\)-sentences receive the values \(t\), \(f\) or \(n\), not \(b\). Our fact tells us the theories of \(\mathcal M\) and \(\mathcal M^n\) are indistinguishable. At the level of theories, we cannot distinguish between paradoxical sentences determinately receiving a gap value, and agnosticism between gaps and gluts.</p>
+
+<p>Thankfully, we don&rsquo;t need to remain at the level of <em>theories</em>. The sets \(\mathcal M\) and \(\mathcal M^n\) determine the same set of theorems, but they determine different sets of cotheorems. While they rule <em>in</em> the same sentences, they rule out different sentences. The liar sentence \(\neg T\lambda\) is <em>true</em> in some valuations in \(\mathcal M\) (those that assign it the value \(b\)) while it is true in no valuations in \(\mathcal M^n\). In all valuations in \(\mathcal M^n\) a liar sentence must receive the value \(n\), so it is true in no valuation at all.  The <em>untruths</em> of \(\mathcal M\) differ from the untruths of \(\mathcal M^n\).</p>
+
+<p>If we attend to bitheories, the symmetry between gaps and gluts is completely restored. For our facts concerning gaps, we have matching facts concerning gluts.</p>
+
+<p><span class="caps">fact</span>: For any <span class="caps">fde</span> evaluation \(\rho\), the <span class="caps">lp</span> cotheory determined by \(\rho^{b}\) (the formulas \(U_{\rho^b}\) untrue in \(\rho^b\)) and the <span class="caps">fde</span> cotheory determined by the two evaluations \(\rho\) and \(\rho^{b}\) (the formulas \(U_{\lbrace\rho,\rho^b\rbrace}\)) are identical.</p>
+
+<p><span class="caps">fact</span>: If \(\mathcal M\) is a set of valuations where for every \(\rho\) in \(\mathcal M\) the valuation\(\rho^b\) is also in \(\mathcal M\), then the cotheory \(U_\mathcal{M}\) of sentences untrue in all evaluations in \(\mathcal{M}\) is identical to the cotheory \(U_{\mathcal{M}^b}\), of sentences untrue in all evaluations in \(\mathcal{M}^b\).</p>
+
+<p>Symmetry is regained, and we can distinguish between agnostalethism concerning paradoxical sentences and those views which assign them a gap, or assign them a glut. Glut views are distinguished from agnostaletheism as <em>theories</em>&mdash;they hold different things to be true, while gap views are distinguished from
+agnostaletheism as <em>cotheories</em>&mdash;they hold different things to be untrue.</p>
+
+<p>That is all well and good when it comes to formally distinguishing these three views of paradoxical sentences. However, the puzzle wasn&rsquo;t just a puzzle about the formal development of these views. It is also a puzzle concerning what it is to <em>hold</em> those views, and this issue remains, even if we reject the model theory and the technical devices of theories, cotheories and bitheories.</p>
+
+<h3 id="assertion-and-denial-in-fde-k3-and-lp">Assertion and Denial in FDE, K3 and LP</h3>
+
+<p>To answer the puzzle in those terms, we should say something about the speech acts of assertion and denial, or the cognitive states of accepting and rejecting. These are the practical analogues of the theoretical and abstract notions of theory and cotheory.  To connect talk of accepting and rejecting (or assertion and denial) with logical notions, we need some kind of bridge principle. A principle I have endorsed elsewhere (Restall <a href="http://consequently.org/writing/multipleconclusions/">2005</a>, <a href="http://consequently.org/writing/adnct">2013</a>, <a href="http://consequently.org/writing/assertiondenialparadox/">2015</a>) goes like this:</p>
+
+<p><span class="caps">bridge principle 1</span>: If the sequent \(X\ydash Y\) is valid, then don&rsquo;t accept (or assert) every member of \(X\) and reject (or deny) every member of \(Y\).</p>
+
+<p>To constrain what you accept and reject in line with such a bridge principle is to maintain a kind of coherence in your cognitive state. Since \(A\lor B\ydash A,B\) is valid, you would not accept the disjunction \(A\lor B\) and reject both disjuncts \(A\) and \(B\). If (as <span class="caps">lp</span> would have it) \(\ydash C\lor \neg C\) is valid, you would not reject that instance of the law of the excluded middle. If (as <span class="caps">k3</span> would have it) \(D\land\neg D\ydash\) is valid, you would not accept that contradiction.</p>
+
+<p>With this bridge principle at hand, we can distinguish the agnostaletheist (who uses a range of <span class="caps">fde\(^T\)</span> valuations to define validity), the <span class="caps">k3</span>-theorist (who restricts her attention to <span class="caps">k3\(^T\)</span> valuations) and the <span class="caps">lp</span>-theorist (who restricts his attention to <span class="caps">lp\(^T\)</span> valuations). The <span class="caps">k3</span> theorist will not accept any contradiction. Contradictions are never true in any evaluation of theirs. The <span class="caps">lp</span> theorist will never reject any excluded middle. Excluded middle disjunctions are never untrue in their evaluations. The <span class="caps">fde</span> theorist, on the other hand, can reject excluded middles and accept contradictions. That concerns <em>validity</em> and the first bridge principle, which amounts to a kind of coherence (or consistency) principle.</p>
+
+<p>To accept a contingent <em>theory</em>, or better, the <em>bitheory</em> \(\langle T,U\rangle\) is to constrain your acceptings and rejectings further.</p>
+
+<p><span class="caps">bridge principle 2</span>: To accept a bitheory \(\langle T,U\rangle\) is to accept each member of \(T\) and to reject each member of \(U\).</p>
+
+<p>This constraint is compatible with the first bridge principle if pair \(\langle T,U\rangle\) is indeed a bitheory. In that case, the sequent \(T\ydash U\) is not valid (if it were, then each formula \(A\) would be in \(T\), since \(T\ydash A,U\) is valid, and in \(U\), since \(T,A\ydash U\) is valid, but that is impossible, since \(T\) and \(U\) are, by definition, disjoint), so there is no issue with accepting all of \(T\) and rejecting all of \(U\).</p>
+
+<p>If we consider our three different views of the truth predicate (1) <span class="caps">fde\(^T\)</span> allowing both gaps and gluts, (2) <span class="caps">k3\(^T\)</span> allowing only gaps, and (3) <span class="caps">lp\(^T\)</span> allowing only gluts as determining bitheories, we can see the difference in our acceptings and rejectings if we adopt <em>bridge principle 2</em> for each bitheory in turn. If we accept <span class="caps">k3\(^T\)</span>, we reject all contradictions, even those involving the liar sentence \(T\lambda\land\neg T\lambda\). If we accept <span class="caps">lp\(^T\)</span>, we accept all excluded middles, including the excluded middle involving the liar: \(T\lambda\lor\neg T\lambda\). But the agnostalethic position, accepting <span class="caps">fde\(^T\)</span>, commits us to neither: we are free to accept
+the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  \(T\lambda\lor\neg T\lambda\).</p>
+
+<p>So, an agnostaletheist and a gap theorist indeed agree on what to accept, but they disagree on what is to be rejected. In a similar way, an agnostaletheist and an glut theorist agree on what to reject, but they disagree on what to accept. Keeping the symmetry between accepting and rejecting in view, we have parity between gaps and gluts, and the agnostalethic position can be distinguished from its two neighbours.</p>
+
+<h3 id="references">References</h3>
+
+<p>Terence Parsons (1990), “<a href="http://www.jstor.org/stable/40231701">True Contradictions</a>”
+<em>Canadian Journal of Philosophy</em> 20:3, 335-353.</p>
+
+<p>Graham Priest (2008), <a href="https://www.amazon.com/Introduction-Non-Classical-Logic-Introductions-Philosophy/dp/0521670268/consequentlyorg"><em>An Introduction to Non-Classical Logic</em>: <em>From If to Is</em></a>, Second Edition, Cambridge University Press.</p>
+
+<p>Greg Restall (2005) “<a href="http://consequently.org/writing/multipleconclusions/">Multiple Conclusions</a>,” pages 189–205 in <em>Logic, Methodology and Philosophy of Science</em>: <em>Proceedings of the Twelfth International Congress</em>, edited by Petr Hajek, Luis Valdes-Villanueva and Dag Westerstahl, Kings&rsquo; College Publications.</p>
+
+<p>Greg Restall (2013) “<a href="http://consequently.org/writing/adnct">Assertion, Denial and Non-Classical Theories</a>,” pp. 81–99 in <em>Paraconsistency</em>: <em>Logic and Applications</em>, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli.</p>
+
+<p>Greg Restall (2015) “<a href="http://consequently.org/writing/assertiondenialparadox/">Assertion, Denial, Accepting, Rejecting, Symmetry and Paradox</a>,” pages 310-321 in Foundations of Logical Consequence, edited by Colin R. Caret and Ole T. Hjortland, Oxford University Press.</p>
+
+<p>Richard Routley and Val Routley (1972) “<a href="http://www.jstor.org/stable/2214309">The Semantics of First Degree Entailment</a>,” <em>No&ucirc;s</em> 6:4, 335&ndash;359.</p>
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2016/the-poster-on-my-fence/"> &larr;&nbsp;I have a campaign poster on my picket fence</a> |
+
+<a href="http://consequently.org/news/#2016">News Archive</a>
+
+| <a href="http://consequently.org/news/2016/proof-terms-are-fun/">Proof Terms are fun&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="http://twitter.com/philosmelb">philosophy</a> and <a href="http://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="http://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="http://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="http://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="https://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2017. 
+</section>
+</footer>
+
+</body>
+</html>
+
+
