@@ -25,7 +25,7 @@
     {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
     {{ with .Site.Author.name }}<author>{{.}}</author>{{end}}
     {{ with .Site.Copyright }}<copyright>{{.}}</copyright>{{end}}
-    <updated>{{ .Now.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
+    <updated>{{ now.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
 
 {{ range first 50 .Site.Pages.ByDate.Reverse }}
 <item>
