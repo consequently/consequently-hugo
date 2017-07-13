@@ -1,6 +1,6 @@
 # Build the website
 script:
-  - ../binaries/hugo
+  - /binaries/hugo
 
 # Deploy to GitHub pages
 deploy:
