@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 22 Jul 2017 15:29:03 AEST</updated>
+    <updated>Sat, 22 Jul 2017 15:33:49 AEST</updated>
 
 
 <item>
@@ -85,7 +85,7 @@
 
 &lt;p&gt;That&amp;rsquo;s just a suspicion. It&amp;rsquo;d be nice to have a demonstration of this fact&amp;mdash;an explanation of how it is that these rules could be interpreted in different, incompatible ways.&lt;/p&gt;
 
-&lt;p&gt;Here&amp;rsquo;s &lt;em&gt;one&lt;/em&gt; way to show that the single premise / multiple conclusion conditional rules do not define a unique connective in closed set logic. We&amp;rsquo;ll use very simple algebras that are known to model closed set logic. Finite total orders. To be concrete, we&amp;rsquo;ll interpret propositions as taking values from some given subset of the interval \([0,1]\), at least including \(0\) and \(1\), so each formula \(A\) will take some value \(a\) in that set of values, and we&amp;rsquo;ll interpret a sequent \(A\ydash B_1,\ldots,B_n\) as saying that \(a\le \max(b_1,\ldots,b_n)\), which amounts to saying that \(a\le b_i\) for some \(i\). And similarly, \(\ydash B_1,\ldots,B_n\) amounts to \(1\le b_i\) for some \(i\). A sequent holds if the value of the left hand formula (or \(1\), if the formula is absent) is less than or equal to the value of one of the right hand formulas. (If the language has conjunction and disjunction, you can interpret them as \(\min\) and \(\max\) respectively, and the top and bottom values are \(0\) and \(1\).&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s &lt;em&gt;one&lt;/em&gt; way to show that the single premise / multiple conclusion conditional rules do not define a unique connective in closed set logic. We&amp;rsquo;ll use very simple algebras that are known to model closed set logic. Finite total orders. To be concrete, we&amp;rsquo;ll interpret propositions as taking values from some given subset of the interval \([0,1]\), at least including \(0\) and \(1\), so each formula \(A\) will take some value \(a\) in that set of values, and we&amp;rsquo;ll interpret a sequent \(A\ydash B_1,\ldots,B_n\) as saying that \(a\le \max(b_1,\ldots,b_n)\), which amounts to saying that \(a\le b_i\) for some \(i\). And similarly, \(\ydash B_1,\ldots,B_n\) amounts to \(1\le b_i\) for some \(i\). A sequent holds if the value of the left hand formula (or \(1\), if the formula is absent) is less than or equal to the value of one of the right hand formulas. (If the language has conjunction and disjunction, you can interpret them as \(\min\) and \(\max\) respectively, and the top and bottom values are \(0\) and \(1\).)&lt;/p&gt;
 
 &lt;p&gt;(What has this to do with closed set logic? An \(n+1\) valued algebra corresponds to the closed sets in the topological space of an \(n\)-element totally ordered set where the closure of a set is its upwards closure in the ordering. \(0\) is the empty set and \(1\) is the whole space.)&lt;/p&gt;
 
