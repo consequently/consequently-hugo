@@ -4,8 +4,6 @@ title = "A New Paper"
 description = "I've been working on this paper for many months, and now I have something to show for it."
 largeimage = true
 image = "images/three-derivations.jpg"
-
-
 +++
 
 It's a new year, and it's time for a new paper, so here is "[Proof Terms for Classical Derivations](http://consequently.org/writing/proof-terms-for-classical-derivations/)" I've been working on these ideas for about a year, from some [rough](http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/) [talks](http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/) [over](http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/) [most](http://consequently.org/presentation/2016/what-proofs-are-about/) [of](http://consequently.org/presentation/2016/proof-terms-invariants/) 2016, to many conversations with my colleague [Shawn](http://standefer.weebly.com) as I attempted to iron out the details, to many more hours in front of whiteboards, I've finally got something I'm happy to show in public. 

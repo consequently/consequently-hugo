@@ -26,7 +26,69 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 11 Jul 2017 11:17:18 &#43;1100</updated>
+    <updated>Sat, 22 Jul 2017 14:23:43 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Conditionals in Closed Set Logic</title>
+      <link>http://consequently.org/news/2017/closed-set-logic/</link>
+      <pubDate>Sat, 22 Jul 2017 14:23:43 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/closed-set-logic/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Over the last couple of days on Twitter, I was &lt;a href=&#34;https://twitter.com/sigfpe/status/887754687318966272&#34;&gt;involved in a thread&lt;/a&gt;, kicked off by &lt;a href=&#34;https://twitter.com/sigfpe&#34;&gt;Dan Piponi&lt;/a&gt;, discussing closed set logic&amp;mdash;the natural dual of intuitionistic logic in which the law of the excluded middle holds but the law of non-contradiction fails, and which has models in the closed sets of any topological space, as opposed to the open sets, which model intuitionistic logic.&lt;/p&gt;
+
+&lt;p&gt;\(\def\ydash{\succ}\)This logic also has a nice sequent calculus in which sequents have one premise (or zero) and multiple conclusions. In the thread I made the claim that this is a natural and beautiful sequent calculus (it is!) but that the structure of the sequents means that the logic doesn&amp;rsquo;t have a natural conditional. The &lt;em&gt;dual&lt;/em&gt; to the conditional (subtraction) can be defined, for which \(A\ydash B\lor C\)  if and only if \(A-B\ydash C\). But the traditional conditional rules don&amp;rsquo;t work so well.&lt;/p&gt;
+
+&lt;p&gt;I realised, when I thought about it a bit more, that this fact is something I&amp;rsquo;ve just believed for the last 20 years or so, but I&amp;rsquo;ve never seen written down, so now is as good as a time, and here is as good as a place as any to explain what I mean.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Consider the conditional rules in the classical sequent calculus. They look something like this (give or take variations in the presentation, all equivalent given the classical structural rules):&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/classical-conditional-rules.png&#34; alt=&#34;Classical Sequent Rules for the Conditional&#34;&gt;
+    &lt;figcaption&gt;Classical sequent rules for the conditional.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If we restrict these rules to multiple conclusion &lt;em&gt;single premise&lt;/em&gt; sequents, we get rules which look like these:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/closed-set-conditional-rules.png&#34; alt=&#34;closed set logic Sequent Rules for the Conditional&#34;&gt;
+    &lt;figcaption&gt;Closed set logic sequent rules for the conditional.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can see an immediate issue with the [\(\supset\)&lt;em&gt;R&lt;/em&gt;&amp;ast;] rule. The concluding sequent is \(\ydash A\supset B,Y\) which tells you when a conditional (with alternate conclusion cases) is derivable from &lt;em&gt;no&lt;/em&gt; premises. It does not tell you anything else about when a conditional (with alternate conclusion cases) is derivable from another premise. It does not tell us what to do if we want to derive \(C\ydash A\supset B,Y\) in any case where the \(C\) is doing some logical work. The best guidance we get is to ignore the \(C\) and to hope that we can derive \(\ydash A\supset B,Y\). (In classical logic, that&amp;rsquo;s fine, because we could stash the \(C\) premise away as an alternate conclusion \(\neg C\) among the \(Y\)s in the right hand side, but in an asymmetric sequent calculus like this, that&amp;rsquo;s not necessarily within our powers.)&lt;/p&gt;
+
+&lt;p&gt;The fact that the rules seem too weak to constrain arbitrary sequents of the form \(C\ydash A\supset B,Y\) gives us a hint that these rules might not be strong enough to actually &lt;em&gt;characterise&lt;/em&gt; or &lt;em&gt;uniquely define&lt;/em&gt; the connective \(\supset\). And that hint bears out when you attempt to derive uniqueness. Here&amp;rsquo;s the issue. Imagine that you and I both use rules like these to define a conditional connective. Yours is \(\supset_1\) and mine is \(\supset_2\). Try to derive the sequent \(p\supset_1 q\ydash p\supset_2 q\) and you&amp;rsquo;ll see that you get stuck:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/attempted-identity-derivation.png&#34; alt=&#34;Attempted derivation of an identity sequent&#34;&gt;
+    &lt;figcaption&gt;Attempted derivation of an identity sequent.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You get stuck at just the point where we&amp;rsquo;d like to know when \(p\supset_2 q\) follows from other premises, and our rules give us no guidance at all. So, it looks as if our rules are not uniquely characterising in this sequent calculus.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s just a suspicion. It&amp;rsquo;d be nice to have a demonstration of this fact&amp;mdash;an explanation of how it is that these rules could be interpreted in different, incompatible ways.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;em&gt;one&lt;/em&gt; way to show that the single premise / multiple conclusion conditional rules do not define a unique connective in closed set logic. We&amp;rsquo;ll use very simple algebras that are known to model closed set logic. Finite total orders. To be concrete, we&amp;rsquo;ll interpret propositions as taking values from some given subset of the interval \([0,1]\), at least including \(0\) and \(1\), so each formula \(A\) will take some value \(a\) in that set of values, and we&amp;rsquo;ll interpret a sequent \(A\ydash B_1,\ldots,B_n\) as saying that \(a\le \max(b_1,\ldots,b_n)\), which amounts to saying that \(a\le b_i\) for some \(i\). And similarly, \(\ydash B_1,\ldots,B_n\) amounts to \(1\le b_i\) for some \(i\). A sequent holds if the value of the left hand formula (or \(1\), if the formula is absent) is less than or equal to the value of one of the right hand formulas. (If the language has conjunction and disjunction, you can interpret them as \(\min\) and \(\max\) respectively, and the top and bottom values are \(0\) and \(1\).&lt;/p&gt;
+
+&lt;p&gt;(What has this to do with closed set logic? An \(n+1\) valued algebra corresponds to the closed sets in the topological space of an \(n\)-element totally ordered set where the closure of a set is its upwards closure in the ordering. \(0\) is the empty set and \(1\) is the whole space.)&lt;/p&gt;
+
+&lt;p&gt;Now, look at what the sequent rules for a conditional mean in this setting. Collapsing the finite set \(Y\) in the rules to a single formula \(C\) for simplicity&amp;rsquo;s sake (without any loss of generality), [\(\supset\)&lt;em&gt;R&lt;/em&gt;&amp;ast;]  tells us that if \(a\le\max(b,c)\) then \(1\le\max(a\supset b,c)\). That is, if \(a\le b\) or \(a\le c\) then either \(a\supset b=1\) or \(c=1\). This is to hold for all values for \(a\), \(b\) and \(c\).  A little bit of algebraic manipulation shows that this is equivalent to saying that when \(a\le b\) or \(a\lt 1\) then \(a\supset b=1\).&lt;/p&gt;
+
+&lt;p&gt;And [\(\supset\)&lt;em&gt;L&lt;/em&gt;&amp;ast;] tells us that if \(1\le \max(a,c)\) and \(b\le c\) then \(a\supset b\le c\) for all  \(a\), \(b\) and \(c\). That is, if either \(1\le a\) or \(1\le c\) and \(b\le c\) then \(a\supset b\le c\). Some more  manipulation tells shows that this holds if and only if \(1\supset b\le b\).&lt;/p&gt;
+
+&lt;p&gt;So, [\(\supset\)&lt;em&gt;L&lt;/em&gt;&amp;ast;] and [\(\supset\)&lt;em&gt;R&lt;/em&gt;&amp;ast;] are satisfied in our order models when we have&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;\(1\supset b\le b\)&lt;/li&gt;
+&lt;li&gt;If \(a\le b\) or \(a\lt 1\) then \(a\supset b=1\)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is enough to fix &lt;em&gt;many&lt;/em&gt; of the values of \(a\supset b\), but it is nowhere near enough to fix all of them. They do tell us that \(a\supset b=1\) whenever \(a\lt 1\), and also, when \(a=b=1\). But the values for \(1\supset b\) are less constrained. For example these rules are satisfied by setting \(1\supset b =b\) for all \(b\). And they&amp;rsquo;re also satisfied by setting \(1\supset 1 = 1\) and \(1\supset b=0\) when \(b\lt 1\).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;That&amp;rsquo;s&lt;/em&gt; what I meant when I said that the conditional rules were not so good in closed set logic. The rules tell us something about conditionals, but they are not specific or strong enough to characterise a single concept.&lt;/p&gt;]]></description>
+    </item>
     
  
     <item>
@@ -1040,23 +1102,6 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
 &lt;p&gt;Tomorrow I head off on a &lt;em&gt;flying visit&lt;/em&gt; to Oxford for a &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Workshop on Verbal Disputes and their Philosophical Significance&lt;/a&gt;. I&amp;rsquo;m looking forward to catching up with old friends and making new ones. The lineup for the workshop is fantastic, so it looks like it&amp;rsquo;ll be a great time. If you&amp;rsquo;re in the area, please do come along and say &amp;ldquo;hi&amp;rdquo;. If you can&amp;rsquo;t come, I&amp;rsquo;ve posted the slides and handout for my talk &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt; I&amp;rsquo;m away from Melbourne from late May 18, and I return on May 24. Six nights away, two nights in planes and four in the UK. It&amp;rsquo;s a ridiculously short trip, given that I&amp;rsquo;m flying halfway across the world. But I teach classes on Mondays and I don&amp;rsquo;t want to cancel any of those so near to the end of the semester, so this time it will be a very quick trip.&lt;/p&gt;]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Another View of the Old Quad</title>
-      <link>http://consequently.org/news/2015/another-day-at-the-office/</link>
-      <pubDate>Wed, 01 Apr 2015 00:23:10 AEDT</pubDate>
-      
-      <guid>http://consequently.org/news/2015/another-day-at-the-office/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Here&amp;rsquo;s another view of my building at work, in the autumn light.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://instagram.com/p/05L-ksFQ4j/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_top&#34;&gt;Old Quad, back entrance&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A photo posted by Greg Restall (@consequently) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-03-31T13:20:53+00:00&#34;&gt;Mar 31, 2015 at 6:20am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s around the corner from the shot I took &lt;a href=&#34;http://consequently.org/news/2015/back-in-the-office/&#34;&gt;a couple of months ago&lt;/a&gt;. If you go between the two trees in the middle of the picture and turn left, you can enter the Old Quad’s hidden back staircase, and make your way to my office.&lt;/p&gt;]]></description>
     </item>
     
   </channel>
