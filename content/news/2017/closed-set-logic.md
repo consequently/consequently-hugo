@@ -53,6 +53,14 @@ So, [\\(\supset\\)*L*&ast;] and [\\(\supset\\)*R*&ast;] are satisfied in our ord
 * \\(1\supset b\le b\\)
 * If \\(a\le b\\) or \\(a\lt 1\\) then \\(a\supset b=1\\)
 
-And this is enough to fix *many* of the values of \\(a\supset b\\), but it is nowhere near enough to fix all of them. They do tell us that \\(a\supset b=1\\) whenever \\(a\lt 1\\), and also, when \\(a=b=1\\). But the values for \\(1\supset b\\) are less constrained. For example these rules are satisfied by setting \\(1\supset b =b\\) for all \\(b\\). And they're also satisfied by setting \\(1\supset 1 = 1\\) and \\(1\supset b=0\\) when \\(b\lt 1\\).
+And this is enough to fix *many* of the values of \\(a\supset b\\), but it is nowhere near enough to fix all of them. They do tell us that \\(a\supset b=1\\) whenever \\(a\lt 1\\), and also, when \\(a=b=1\\). But the values for \\(1\supset b\\) are less constrained. For example these rules are satisfied by setting \\(1\supset b =b\\) for all \\(b\\). And they're also satisfied by setting \\(1\supset 1 = 1\\) and \\(1\supset b=0\\) when \\(b\lt 1\\). Provided that there's at least one extra value between \\(0\\) and \\(1\\) in the ordering, that gives us wiggle room.
+
+<figure>
+	<img src="/images/two-conditional-tables.png" alt="Two truth tables for conditionals">
+	<figcaption>Two truth tables for conditionals.</figcaption>
+</figure>
+
+No wonder we couldn't show that \\(p\supset\_1 q\\) entails \\(p\supset\_2 q\\)! In this case (when \\(p\\) takes the value \\(1\\) and \\(q\\) takes the value \\(\frac{1}{2}\\)) that inference takes us from \\(\frac{1}{2}\\) to \\(0\\). That sequent isn't valid. 
+
 
 *That's* what I meant when I said that the conditional rules were not so good in closed set logic. The rules tell us something about conditionals, but they are not specific or strong enough to characterise a single concept.

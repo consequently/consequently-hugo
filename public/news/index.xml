@@ -85,7 +85,14 @@
 &lt;li&gt;If \(a\le b\) or \(a\lt 1\) then \(a\supset b=1\)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;And this is enough to fix &lt;em&gt;many&lt;/em&gt; of the values of \(a\supset b\), but it is nowhere near enough to fix all of them. They do tell us that \(a\supset b=1\) whenever \(a\lt 1\), and also, when \(a=b=1\). But the values for \(1\supset b\) are less constrained. For example these rules are satisfied by setting \(1\supset b =b\) for all \(b\). And they&amp;rsquo;re also satisfied by setting \(1\supset 1 = 1\) and \(1\supset b=0\) when \(b\lt 1\).&lt;/p&gt;
+&lt;p&gt;And this is enough to fix &lt;em&gt;many&lt;/em&gt; of the values of \(a\supset b\), but it is nowhere near enough to fix all of them. They do tell us that \(a\supset b=1\) whenever \(a\lt 1\), and also, when \(a=b=1\). But the values for \(1\supset b\) are less constrained. For example these rules are satisfied by setting \(1\supset b =b\) for all \(b\). And they&amp;rsquo;re also satisfied by setting \(1\supset 1 = 1\) and \(1\supset b=0\) when \(b\lt 1\). Provided that there&amp;rsquo;s at least one extra value between \(0\) and \(1\) in the ordering, that gives us wiggle room.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/two-conditional-tables.png&#34; alt=&#34;Two truth tables for conditionals&#34;&gt;
+    &lt;figcaption&gt;Two truth tables for conditionals.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;No wonder we couldn&amp;rsquo;t show that \(p\supset_1 q\) entails \(p\supset_2 q\)! In this case (when \(p\) takes the value \(1\) and \(q\) takes the value \(\frac{1}{2}\)) that inference takes us from \(\frac{1}{2}\) to \(0\). That sequent isn&amp;rsquo;t valid.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;That&amp;rsquo;s&lt;/em&gt; what I meant when I said that the conditional rules were not so good in closed set logic. The rules tell us something about conditionals, but they are not specific or strong enough to characterise a single concept.&lt;/p&gt;]]></description>
     </item>
