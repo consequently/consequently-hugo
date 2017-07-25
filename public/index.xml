@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 22 Jul 2017 15:46:14 AEST</updated>
+    <updated>Tue, 25 Jul 2017 10:32:08 AEST</updated>
 
 
 <item>
@@ -35,6 +35,204 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Classes</title>
+<link>http://consequently.org/class/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
+<link>http://consequently.org/class/2017/phil40013/</link>
+<pubDate>Tue, 25 Jul 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2017/phil40013/</guid>
+<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in philosophical logic.&lt;/p&gt;
+
+&lt;p&gt;In 2017, we&amp;rsquo;re covering the connections between proof theory and philosophy. Here&amp;rsquo;s the reading list, if you&amp;rsquo;re interested in following along.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Introduction and Overview, Background&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Introduction to Inferentialism&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Robert Brandom, &lt;em&gt;Articulating Reasons: an introduction to inferentialism&lt;/em&gt;, Harvard University Press, 2000. Introduction and Chapter 1 “Semantic Inferentialism and Logical Expressivism.”&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Tonk Debate&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arthur Prior, “The Runabout Inference-Ticket“, &lt;em&gt;Analysis&lt;/em&gt; 21:2 (1960) 38–39.&lt;/li&gt;
+&lt;li&gt;J. T. Stevenson, “Roundabout the Runabout Inference-Ticket”, &lt;em&gt;Analysis&lt;/em&gt; 21:6 (1961) 124–128.&lt;/li&gt;
+&lt;li&gt;Nuel D. Belnap, “Tonk, Plonk and Plink”, &lt;em&gt;Analysis&lt;/em&gt; 22:6 (1962) 130–134.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Natural Deduction and Normalisation&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Meaning&lt;/em&gt; Draft, Chapter 1.&lt;/li&gt;
+&lt;li&gt;Dag Prawitz, &lt;em&gt;Natural Deduction: A Proof Theoretical Study&lt;/em&gt;, Almqvist and Wiksell, 1965. Chapters 1-4.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Harmony and Meaning&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prawitz “On the Idea of a General Proof Theory”, Synthese 27 (1974) 63–77.&lt;/li&gt;
+&lt;li&gt;Michael Dummett: &lt;em&gt;The Logical Basis of Metaphysics&lt;/em&gt;, Harvard University Press, 1991. Chapter 9 “Circularity, Consistency and Harmony”&lt;/li&gt;
+&lt;li&gt;Gillian Russell, “The Justification of the Basic Laws of Logic,” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt; 44:6 (2015) 793–803.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sequent Calculus and Cut Elimination&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Meaning&lt;/em&gt; Draft, Chapter 2&lt;/li&gt;
+&lt;li&gt;Michael Kremer, “Logic and Meaning: The Philosophical Significance of the Sequent Calculus“, &lt;em&gt;Mind&lt;/em&gt; 97 (1998), 50–72.&lt;/li&gt;
+&lt;li&gt;Francesca Poggiolesi, &lt;em&gt;Gentzen Calculi for Modal Propositional Logic&lt;/em&gt;, Springer, 2011. Chapter 1 “What Is a Good Sequent Calculus?”&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Assertion and Denial&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;P. T. Geach, “Assertion”, &lt;em&gt;The Philosophical Review&lt;/em&gt;, 74:4 (1965), 449–465.&lt;/li&gt;
+&lt;li&gt;Robert Brandom, “Asserting”, &lt;em&gt;Noûs&lt;/em&gt;, 17:4 (1983), 637–650.&lt;/li&gt;
+&lt;li&gt;Huw Price, “Why ‘Not’?”, &lt;em&gt;Mind&lt;/em&gt;, 99:394 (1990), 221–238.&lt;/li&gt;
+&lt;li&gt;Ian Rumfitt, “‘Yes’ and ‘No’”, &lt;em&gt;Mind&lt;/em&gt; 109:436 (2000), 781–823.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Multiple Conclusions&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, “Multiple Conclusions”, pp 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science: Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by Petr Hájek, Luis Valdés-Villanueva and Dag Westerståhl, KCL Publications, 2005.&lt;/li&gt;
+&lt;li&gt;Florian Steinberger, “Why Conclusions Should Remain Single,” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt; 40 (2011), 333–355.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Truth Values and Proof Theory&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greg Restall, “Truth Values and Proof Theory,” &lt;em&gt;Studia Logica&lt;/em&gt;, 92:2 (2009) 241–264.&lt;/li&gt;
+&lt;li&gt;Dave Ripley, “Bilateralism, Coherence and Warrant,” pp. 307–324 in &lt;em&gt;Act-Based Conceptions of Propositional Content&lt;/em&gt;, edited by Friederike Moltmann and Mark Textor, Oxford University Press, 2017.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Beyond Declaratives&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nuel Belnap, “Declaratives are Not Enough”, &lt;em&gt;Philosophical Studies&lt;/em&gt;, 59 (1990), 1–30.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For further information, contact me. To participate, check &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL40013&#34;&gt;the handbook&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL20030: Meaning, Possibility and Paradox</title>
+<link>http://consequently.org/class/2017/phil20030/</link>
+<pubDate>Tue, 25 Jul 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2017/phil20030/</guid>
+<description>
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
+
+&lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
+
+&lt;p&gt;In the second part of the subject, we examine closely the assumption that every statement we make is either true or false but not both. We will examine the paradoxes of truth (like the so-called &amp;lsquo;liar paradox&amp;rsquo;) and vagueness (the ‘sorites paradox&amp;rsquo;), and we will investigate different ways attempts at resolving these paradoxes by going beyond our traditional views of truth (using &amp;lsquo;many valued logics&amp;rsquo;) or by defending the traditional perspective.&lt;/p&gt;
+
+&lt;p&gt;The subject serves as an introduction to ways that logic is applied in the study of language, epistemology and metaphysics, so it is useful to those who already know some philosophy and would like to see how logic relates to those issues. It is also useful to those who already know some logic and would like to learn new logical techniques and see how these techniques can be applied.&lt;/p&gt;
+
+&lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+&lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;classical-logic&#34;&gt;Classical Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71195118&#34;&gt;On Logic and Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71196826&#34;&gt;Classical Logic&amp;mdash;Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71200032&#34;&gt;Classical Logic&amp;mdash;Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;meaning-sense-reference&#34;&gt;Meaning, Sense, Reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71206884&#34;&gt;Reference and Compositionality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71226471&#34;&gt;Sense and Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;basic-modal-logic&#34;&gt;Basic Modal Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71556216&#34;&gt;Introducing Possibility an Necessity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558401&#34;&gt;Models for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558696&#34;&gt;Tree Proofs for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71560394&#34;&gt;Soundness and Completeness for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;normal-modal-logics&#34;&gt;Normal Modal Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72135540&#34;&gt;What Are Possible Worlds?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137443&#34;&gt;Conditions on Accessibility Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137856&#34;&gt;Equivalence Relations, Universal Relations and S5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72139085&#34;&gt;Tree Proofs for Normal Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Applying Modal Logics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;double-indexing&#34;&gt;Double Indexing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Temporal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72143616&#34;&gt;Actuality and the Present&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72266887&#34;&gt;Two Dimensional Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;conditionality&#34;&gt;Conditionality&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74494229&#34;&gt;Strict Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74498276&#34;&gt;&lt;em&gt;Ceteris Paribus&lt;/em&gt; Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74504639&#34;&gt;Similarity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;three-values&#34;&gt;Three Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74628150&#34;&gt;More than Two Truth Values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74636384&#34;&gt;K3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680756&#34;&gt;&amp;#x141;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680954&#34;&gt;LP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74682689&#34;&gt;RM3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;four-values&#34;&gt;Four Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685077&#34;&gt;FDE: Relational Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685986&#34;&gt;FDE: Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74695340&#34;&gt;FDE: Routley Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;paradoxes&#34;&gt;Paradoxes&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76045884&#34;&gt;Truth and the Liar Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76049193&#34;&gt;Fixed Point Construction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76055233&#34;&gt;Curry&amp;rsquo;s Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76057722&#34;&gt;The Sorites Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76061452&#34;&gt;Fuzzy Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76066245&#34;&gt;Supervaluationism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070423&#34;&gt;Epistemicism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;what-to-do-with-so-many-logical-systems&#34;&gt;What to do with so many logical systems&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -244,14 +442,6 @@
 <guid>http://consequently.org/writing/fixed-point-models/</guid>
 <description>&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Classes</title>
-<link>http://consequently.org/class/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1617,38 +1807,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-4-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Generality and Existence 3: Substitution and Identity</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
-<pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
-<description>&lt;p&gt;I gave a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Generality and Existence 2: Modality and Quantifiers</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
-<pubDate>Fri, 30 Oct 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the &lt;em&gt;cut&lt;/em&gt; rule is admissible in the cut-free calculus, and explore the relationship between contingent ‘world-bound’ quantifiers and possibilist ‘world-undbound’ quantifiers in the system.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-2-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
