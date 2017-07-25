@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 25 Jul 2017 10:32:08 AEST</updated>
+    <updated>Tue, 25 Jul 2017 10:41:19 AEST</updated>
 
 
 <item>
@@ -52,6 +52,11 @@
 <guid>http://consequently.org/class/2017/phil40013/</guid>
 <description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in philosophical logic.&lt;/p&gt;
 
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/pro-con.jpg&#34; alt=&#34;Assertions and denials take a stand…&#34;&gt;
+&lt;figcaption&gt;Assertions and denials take a stand on something.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;In 2017, we&amp;rsquo;re covering the connections between proof theory and philosophy. Here&amp;rsquo;s the reading list, if you&amp;rsquo;re interested in following along.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -71,7 +76,7 @@
 &lt;li&gt;&lt;em&gt;Natural Deduction and Normalisation&lt;/em&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Meaning&lt;/em&gt; Draft, Chapter 1.&lt;/li&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Philosophy&lt;/em&gt; Draft, Chapter 1.&lt;/li&gt;
 &lt;li&gt;Dag Prawitz, &lt;em&gt;Natural Deduction: A Proof Theoretical Study&lt;/em&gt;, Almqvist and Wiksell, 1965. Chapters 1-4.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Harmony and Meaning&lt;/em&gt;
@@ -84,7 +89,7 @@
 &lt;li&gt;&lt;em&gt;Sequent Calculus and Cut Elimination&lt;/em&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Meaning&lt;/em&gt; Draft, Chapter 2&lt;/li&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;Proof Theory and Philosophy&lt;/em&gt; Draft, Chapter 2&lt;/li&gt;
 &lt;li&gt;Michael Kremer, “Logic and Meaning: The Philosophical Significance of the Sequent Calculus“, &lt;em&gt;Mind&lt;/em&gt; 97 (1998), 50–72.&lt;/li&gt;
 &lt;li&gt;Francesca Poggiolesi, &lt;em&gt;Gentzen Calculi for Modal Propositional Logic&lt;/em&gt;, Springer, 2011. Chapter 1 “What Is a Good Sequent Calculus?”&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
