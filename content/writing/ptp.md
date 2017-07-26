@@ -10,7 +10,7 @@ tag: ptp
 file: ptp.pdf
 subjects: proofs sequents meaning quantifiers non-classical_logic classical_logic
 comments: yes
-date: 2008-10-03
+date: 2017-07-26
 publishdate: 2010-10-03
 filter:
   - erb
@@ -32,4 +32,4 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <li /> I am (at this stage, at least) planning to make the book <a href="http://consequently.org/news/2004/03/18/publishing_a_book">available for download</a> as well as published by an academic publisher.
 </ol>
 
-The first couple of chapters are now available: <a href="http://consequently.org/papers/ptp.pdf">pdf with hyperlinks</a>, <a href="http://consequently.org/papers/ptp-2up.pdf">paper-saving 2up pdf</a>. 
+The first couple of chapters are now available here: <a href="http://consequently.org/papers/ptp.pdf">pdf with hyperlinks</a>. 
