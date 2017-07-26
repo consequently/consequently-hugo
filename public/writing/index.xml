@@ -26,7 +26,27 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 28 Feb 2017 00:00:00 UTC</updated>
+    <updated>Wed, 26 Jul 2017 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Proof Theory and Philosophy</title>
+      <link>http://consequently.org/writing/ptp/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ptp/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li /&gt; Be a useable textbook in philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
+&lt;li /&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to meaning theory and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this available, but I&amp;rsquo;d be happy to be shown wrong.)
+&lt;li /&gt; Present the duality between model theory and proof theory in a philosophically illuminating fashion.
+&lt;li /&gt; Teach both formal philosophical logic in such a way that is not doctrinaire or logically partisan.  That is, I will &lt;em&gt;not&lt;/em&gt; argue that classical logic, or that intuitionistic logic, or that My Favourite Logic is the One True Logic. (Of course, hearing me say this is &lt;a href=&#34;http://consequently.org/writing/logical_pluralism/&#34;&gt;not a surprise&lt;/a&gt;.)
+&lt;li /&gt; I am (at this stage, at least) planning to make the book &lt;a href=&#34;http://consequently.org/news/2004/03/18/publishing_a_book&#34;&gt;available for download&lt;/a&gt; as well as published by an academic publisher.
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;The first couple of chapters are now available here: &lt;a href=&#34;http://consequently.org/papers/ptp.pdf&#34;&gt;pdf with hyperlinks&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -285,19 +305,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
       
       <guid>http://consequently.org/writing/ternary-cond/</guid>
       <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Molinism and the Thin Red Line</title>
-      <link>http://consequently.org/writing/molinism-trl/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/molinism-trl/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Molinism is an attempt to do equal justice to divine foreknowledge and human freedom.  For Molinists, human freedom &lt;em&gt;fits&lt;/em&gt; in this universe for the future is open or unsettled.  However, God&amp;rsquo;s middle knowledge &amp;ndash; God&amp;rsquo;s contingent knowledge of what agents would freely do in this or that circumstance &amp;ndash; underwrites God&amp;rsquo;s omniscience in the midst of this openness.&lt;/p&gt;
-
-&lt;p&gt;In this paper I rehearse Nuel Belnap and Mitchell Green&amp;rsquo;s argument in &amp;lsquo;Indeterminism and the Thin Red Line&amp;rsquo; against the reality of a distinguished single future in the context of branching time, and show that it applies applies equally against Molinism + branching time.  In the process, we show how contemporary work in the logic of temporal notions in the context of branching time (specifically, Prior&amp;ndash;Thomason semantics) can illuminate discussions in the metaphysics of freedom and divine knowledge.&lt;/p&gt;
 ]]></description>
     </item>
     

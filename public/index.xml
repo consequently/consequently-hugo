@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 25 Jul 2017 10:44:37 AEST</updated>
+    <updated>Wed, 26 Jul 2017 13:27:23 AEST</updated>
 
 
 <item>
@@ -35,6 +35,32 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Proof Theory and Philosophy</title>
+<link>http://consequently.org/writing/ptp/</link>
+<pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/ptp/</guid>
+<description>&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li /&gt; Be a useable textbook in philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
+&lt;li /&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to meaning theory and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this available, but I&amp;rsquo;d be happy to be shown wrong.)
+&lt;li /&gt; Present the duality between model theory and proof theory in a philosophically illuminating fashion.
+&lt;li /&gt; Teach both formal philosophical logic in such a way that is not doctrinaire or logically partisan.  That is, I will &lt;em&gt;not&lt;/em&gt; argue that classical logic, or that intuitionistic logic, or that My Favourite Logic is the One True Logic. (Of course, hearing me say this is &lt;a href=&#34;http://consequently.org/writing/logical_pluralism/&#34;&gt;not a surprise&lt;/a&gt;.)
+&lt;li /&gt; I am (at this stage, at least) planning to make the book &lt;a href=&#34;http://consequently.org/news/2004/03/18/publishing_a_book&#34;&gt;available for download&lt;/a&gt; as well as published by an academic publisher.
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;The first couple of chapters are now available here: &lt;a href=&#34;http://consequently.org/papers/ptp.pdf&#34;&gt;pdf with hyperlinks&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -430,14 +456,6 @@
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/logical-pluralism-meaning-counterexamples.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>http://consequently.org/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1796,22 +1814,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Workshop Program&lt;/a&gt; at the Melbourne Logic Group.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-logic-workshop-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Generality and Existence 4: Identity and Modality</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
-<pubDate>Tue, 01 Dec 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 4: Identity and Modality” in the HPLM Seminar at the University of St Andrews.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-4-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
