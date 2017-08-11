@@ -26,7 +26,22 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 26 Jul 2017 00:00:00 UTC</updated>
+    <updated>Fri, 11 Aug 2017 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Two Negations are More than One</title>
+      <link>http://consequently.org/writing/two-negations/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/two-negations/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In models for paraconsistent logics, the semantic values of sentences and their negations are less tightly connected than in classical logic. In &amp;ldquo;American Plan&amp;rdquo; logics for negation, truth and falsity are, to some degree, independent. The truth of \({\mathord\sim}p\) is given by the falsity of \(p\), and the falsity of \({\mathord\sim}p\) is given by the truth of \(p\). Since truth and falsity are only loosely connected, \(p\) and \({\mathord\sim}p\) can both hold, or both fail to hold. In &amp;ldquo;Australian Plan&amp;rdquo; logics for negation, negation is treated rather like a modal operator, where the truth of \({\mathord\sim}p\) in a situation amounts to \(p\) failing in &lt;em&gt;certain other situations&lt;/em&gt;. Since those situations can be different from this one, \(p\) and \({\mathord\sim}p\) might both hold here, or might both fail here.&lt;/p&gt;
+
+&lt;p&gt;So much is well known in the semantics for paraconsistent logics, and for first degree entailment and logics like it, it is relatively easy to translate between the American Plan and the Australian Plan. It seems that the choice between them seems to be a matter of taste, or of preference for one kind of semantic treatment or another. This paper explores some of the differences between the American Plan and the Australian Plan by exploring the tools they have for modelling a language in which we have &lt;em&gt;two&lt;/em&gt; negations.&lt;/p&gt;
+
+&lt;p&gt;This paper is dedicated to my friend and mentor, Professor Graham Priest.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -294,17 +309,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
       
       <guid>http://consequently.org/writing/hlc/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Consequence is &lt;em&gt;a&lt;/em&gt;, if not &lt;em&gt;the&lt;/em&gt;, core subject matter of logic. Aristotle&amp;rsquo;s study of the syllogism instigated the task of categorising arguments into the logically good and the logically bad; the task remains an essential element of the study of logic. In this essay, we give a quick history of the way logical consequence has been studied from Aristotle to the present day.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>On the ternary relation and conditionality</title>
-      <link>http://consequently.org/writing/ternary-cond/</link>
-      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/ternary-cond/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
 ]]></description>
     </item>
     

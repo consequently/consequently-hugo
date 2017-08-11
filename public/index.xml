@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 10 Aug 2017 12:14:43 AEST</updated>
+    <updated>Sat, 12 Aug 2017 01:29:47 AEST</updated>
 
 
 <item>
@@ -43,6 +43,19 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/writing/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Two Negations are More than One</title>
+<link>http://consequently.org/writing/two-negations/</link>
+<pubDate>Fri, 11 Aug 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/two-negations/</guid>
+<description>&lt;p&gt;In models for paraconsistent logics, the semantic values of sentences and their negations are less tightly connected than in classical logic. In &amp;ldquo;American Plan&amp;rdquo; logics for negation, truth and falsity are, to some degree, independent. The truth of \({\mathord\sim}p\) is given by the falsity of \(p\), and the falsity of \({\mathord\sim}p\) is given by the truth of \(p\). Since truth and falsity are only loosely connected, \(p\) and \({\mathord\sim}p\) can both hold, or both fail to hold. In &amp;ldquo;Australian Plan&amp;rdquo; logics for negation, negation is treated rather like a modal operator, where the truth of \({\mathord\sim}p\) in a situation amounts to \(p\) failing in &lt;em&gt;certain other situations&lt;/em&gt;. Since those situations can be different from this one, \(p\) and \({\mathord\sim}p\) might both hold here, or might both fail here.&lt;/p&gt;
+
+&lt;p&gt;So much is well known in the semantics for paraconsistent logics, and for first degree entailment and logics like it, it is relatively easy to translate between the American Plan and the Australian Plan. It seems that the choice between them seems to be a matter of taste, or of preference for one kind of semantic treatment or another. This paper explores some of the differences between the American Plan and the Australian Plan by exploring the tools they have for modelling a language in which we have &lt;em&gt;two&lt;/em&gt; negations.&lt;/p&gt;
+
+&lt;p&gt;This paper is dedicated to my friend and mentor, Professor Graham Priest.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -1800,22 +1813,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;Priest, Graham. 2012. &amp;ldquo;&lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;The Sun may Not, Indeed, Rise Tomorrow: a reply to Beall&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Analysis&lt;/em&gt; 72:739-741.&lt;/p&gt;
 
 &lt;p&gt;Restall, Greg. 1997. &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/cantbe/&#34;&gt;Ways Things Can&amp;rsquo;t Be&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Notre Dame Journal of Formal Logic&lt;/em&gt; 38:583–596.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>Generality and Existence 3: Substitution and Identity</title>
-<link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
-<pubDate>Mon, 07 Dec 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
-<description>&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, extend a sequent proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is admissible) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Workshop Program&lt;/a&gt; at the Melbourne Logic Group.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-logic-workshop-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
 </item>
     
   </channel>
