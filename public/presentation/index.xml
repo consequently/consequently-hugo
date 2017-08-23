@@ -26,7 +26,22 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 28 Jun 2017 15:00:00 &#43;0200</updated>
+    <updated>Fri, 22 Sep 2017 11:00:00 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Negation on the Australian Plan</title>
+      <link>http://consequently.org/presentation/2017/negation-on-the-australian-plan/</link>
+      <pubDate>Fri, 22 Sep 2017 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2017/negation-on-the-australian-plan/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I explain the difference between &lt;em&gt;Australian Plan&lt;/em&gt; semantics for negation &amp;ndash; which treat negation as a kind of negative modality &amp;ndash; and semantics based on the &lt;em&gt;American Plan&lt;/em&gt;, which conceive of negation in terms of independent truth and falsity conditions. I will update the presentation of the Australian Plan (introduced in the 1970s in early days of the ternary relational semantics for relevant logics), in the light of more recent developments in logic, and defend this updated plan in the face of some recent criticisms due to &lt;a href=&#34;http://www.michaelde.com&#34;&gt;Michael De&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/hitoshiomori/home&#34;&gt;Hitoshi Omori&lt;/a&gt;, in their paper “&lt;a href=&#34;http://dx.doi.org/10.1007/s10992-017-9427-0&#34;&gt;There is More to Negation than Modality&lt;/a&gt;.” Along the way, I hope to draw out some insights into what we might want out of a representational semantics for a with a consequence relation.&lt;/p&gt;
+
+&lt;p&gt;This talk is based on joint work with &lt;a href=&#34;http://www.uva.nl/en/profile/b/e/f.berto/f.berto.html&#34;&gt;Professor Franz Berto&lt;/a&gt;, from the University of Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -373,24 +388,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Generality and Existence 2: Modality and Quantifiers</title>
-      <link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
-      <pubDate>Wed, 02 Dec 2015 10:00:00 &#43;0000</pubDate>
-      
-      <guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the &lt;em&gt;cut&lt;/em&gt; rule is admissible in the cut-free calculus, and explore the relationship between contingent ‘world-bound’ quantifiers and possibilist ‘world-undbound’ quantifiers in the system.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-2-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
