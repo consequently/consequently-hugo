@@ -1,7 +1,7 @@
 +++
 date = "2017-09-04T20:21:54+11:00"
 title = "Twelve things I love about philosophical logic"
-description = "I love working in philosophical logic. In this post I introduce a series of posts where I try to explain how this discipline delights me."
+description = "I love working in philosophical logic. Here I introduce a series of posts where I try to explain how this discipline delights me."
 largeimage = true
 image = "images/twelve-things.jpg"
 
