@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 04 Sep 2017 20:39:49 AEST</updated>
+    <updated>Tue, 05 Sep 2017 13:39:56 AEST</updated>
 
 
 <item>
@@ -61,9 +61,30 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Mon, 04 Sep 2017 20:21:54 &#43;1100</pubDate>
+<pubDate>Tue, 05 Sep 2017 13:36:03 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>The Dialectic (the first of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-01-the-dialectic/</link>
+<pubDate>Tue, 05 Sep 2017 13:36:03 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-01-the-dialectic/</guid>
+<description>&lt;p&gt;One thing I noticed when making my way from mathematics (my undergraduate degree was a B.Sc. in Mathematics at the &lt;a href=&#34;http://www.smp.uq.edu.au/mathematics&#34;&gt;University of Queensland&lt;/a&gt;) to philosophy was the different approach when doing research in the two disciplines. To put it very coarsely, in mathematics, you prove theorems. In philosophy, you argue about things.&lt;/p&gt;
+
+&lt;p&gt;The standards for success are very different in philosophy and in mathematics.  Witness &lt;a href=&#34;https://arxiv.org/abs/1708.03486&#34;&gt;Norbert Blum&amp;rsquo;s recent retraction&lt;/a&gt; of his paper which purported to prove that &lt;em&gt;P&lt;/em&gt; &amp;ne; &lt;em&gt;NP&lt;/em&gt;. While philosophers change their minds about things, I don&amp;rsquo;t recall anyone going so far as to retract a paper that argued for a position they now reject. That&amp;rsquo;s just not how philosophers work, and nor should they.&lt;/p&gt;
+
+&lt;p&gt;One of the joys about working in philosophical logic &amp;mdash; especially for someone with a relatively short attention span, like me &amp;mdash; is that I get to play on both sides of this street. I spend some time as a technical mathematical logician, playing the theorem-proving game, with all of the satisfaction of knowing that I&amp;rsquo;ve really &lt;em&gt;proved&lt;/em&gt; something solid in its own way: a mathematical &lt;em&gt;result&lt;/em&gt;. On the other hand, there&amp;rsquo;s more to life than theorems, and there&amp;rsquo;s more to &lt;em&gt;understanding&lt;/em&gt; than the making of proofs. I love that my discipline &amp;mdash; &lt;em&gt;philosophical&lt;/em&gt; logic &amp;mdash; gives equal time to the discursive, interpretive, philosophical side of the enterprise, that I can spend time writing papers attempting to give an account of &lt;em&gt;how&lt;/em&gt; something works, to argue with others, developing views about the &lt;em&gt;grounds&lt;/em&gt; or the &lt;em&gt;significance&lt;/em&gt; of different concepts or techniques, that there are no barriers to taking the synoptic view, where conjectures can be explored and where perspectives can clash and collide, without expecting that any option be closed off to inquiry.&lt;/p&gt;
+
+&lt;p&gt;The joy in working philosophical logic is more, though, than having two sides to the coin, the &lt;em&gt;formal&lt;/em&gt;/&lt;em&gt;technical&lt;/em&gt; and the &lt;em&gt;discursive&lt;/em&gt;/&lt;em&gt;interpretive&lt;/em&gt;. The delight I find in the discipline is in the &lt;em&gt;dialectic&lt;/em&gt; or the &lt;em&gt;interplay&lt;/em&gt; between these two aspects of the craft. This delight comes when some technical result can shed light on a philosophical conundrum, or when a different interpretive perspective on problem uncovers the way to a new approach to prove a theorem. A recent example dear to my heart on the interplay between the discursive and the formal is how Mark Lance and Heath White&amp;rsquo;s work on the two forms of supposition in their &amp;ldquo;&lt;a href=&#34;https://www.philosophersimprint.org/007004/&#34;&gt;Stereoscopic Vision&lt;/a&gt;&amp;rdquo; motivated and inspired my work on a &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;cut-free hypersequent calculus for two-dimensional modal logic&lt;/a&gt;, which, in turn, has philosophical significance of its own on how we might acquire modal concepts and coordinate on their use, even when we disagree on what might be necessary or &lt;em&gt;a priori&lt;/em&gt; knowable.&lt;/p&gt;
+
+&lt;p&gt;I find myself in a field where the best work involves formal results addressing issues that have philosophical significance, where discursive and the technical aspects play important, interlocking roles. If you formally model a theory, you nail your colours to the mast. You have to be specific and precise about what is being proposed. This (when done well) keeps you honest. It&amp;rsquo;s harder to hide or to fudge when you&amp;rsquo;re specific and precise about your theory&amp;rsquo;s commitments. On the other hand, the philosophical imperative &amp;mdash; to understand, to probe the foundations, and to take the synoptic view &amp;mdash; means that you don&amp;rsquo;t treat the formal theory as something to be explored for its own sake. Instead, you are always able to take the critical perspective, to ask whether &lt;em&gt;this&lt;/em&gt; is the best model for the phenomenon in question, and to push beyond.&lt;/p&gt;
+
+&lt;p&gt;It is the &lt;em&gt;dialectic&lt;/em&gt; between the formal and the discursive; the &lt;em&gt;dance&lt;/em&gt; between the technical and the critical, that makes philosophical logic such a joy.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Dialectic&lt;/em&gt; is the first of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -83,7 +104,7 @@
 &lt;p&gt;So, here&amp;rsquo;s what I&amp;rsquo;ll do: I&amp;rsquo;m going to spend some time expanding my &amp;ldquo;12 things&amp;rdquo; notes, and I&amp;rsquo;ll post them at roughly one per day, over the next couple of weeks. Come back &lt;em&gt;tomorrow&lt;/em&gt; for the first of the 12 things I love about working in philosophical logic. By the end, the list below will contain links to each entry.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;The Dialectic&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-01-the-dialectic/&#34;&gt;The Dialectic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Abstraction&lt;/li&gt;
 &lt;li&gt;Multiple Realisability&lt;/li&gt;
 &lt;li&gt;Interdisciplinarity&lt;/li&gt;
@@ -1735,28 +1756,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;Thanks, &lt;a href=&#34;https://philosophy.stanford.edu/people/rachael-briggs&#34;&gt;Rachael&lt;/a&gt;, for the questions, and for prompting this line of thought.&lt;/p&gt;
 
 &lt;p&gt;P.S. Rachael isn&amp;rsquo;t just a great philosopher. She&amp;rsquo;s also a &lt;a href=&#34;http://cordite.org.au/reviews/royal-briggs/&#34;&gt;fine&lt;/a&gt; &lt;a href=&#34;http://cordite.org.au/guncotton/plunkett-briggs/&#34;&gt;poet&lt;/a&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Congratulations to Bruce French, AO</title>
-<link>http://consequently.org/news/2016/congratulations-bruce-french-ao/</link>
-<pubDate>Fri, 29 Jan 2016 00:30:47 AEDT</pubDate>
-<guid>http://consequently.org/news/2016/congratulations-bruce-french-ao/</guid>
-<description>&lt;p&gt;I&amp;rsquo;ve been away from home in Auckland at a &lt;a href=&#34;https://sites.google.com/site/fnclmp/&#34;&gt;conference&lt;/a&gt; over the last couple of days, so I&amp;rsquo;m a bit behind on the news, but tonight I&amp;rsquo;ve finally found a few moments to write something in honour of my friend and mentor, Bruce French, who was&amp;mdash;three days ago&amp;mdash;&lt;a href=&#34;http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476&#34;&gt;named an Officer of the Order of Australia&lt;/a&gt; in the 2016 Australia Day Honour&amp;rsquo;s list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it &lt;a href=&#34;http://foodplantsinternational.com&#34;&gt;freely available to anyone who can use it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/zac-bruce.jpg&#34; alt=&#34;Bruce French with a young friend&#34;&gt;
-    &lt;figcaption&gt;Bruce French with a young friend, in 2012&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I&amp;rsquo;ve known Bruce since my second year at university, many years ago. During this time, I was involved in a student Christian group, and Bruce worked there with students, encouraging them to explore both their university studies and their faith in equal measure. Bruce had trained as an agricultural scientist, and as a Baptist pastor, and his enthusiasm for tropical plants, and his passion for loving God and loving his neighbour was infectious. Before coming to work at the University, Bruce had spent time in Papua New Guinea, and he&amp;rsquo;d seen both the incredible knowledge that indigenous people had for the opportunities for nutrition in the plants around them, and the devastating damage done by well-meaning but ignorant attempts at aid in times of famine, where inappropriate Western foodstuffs would be introduced, when local options were much more appropriate to the climate and the nutritional needs of community. From then on, Bruce devoted himself to finding out more about the tropical food plants, and making sure that local knowledge would be treasured and cared for rather than ignored. This devotion has resulted in a database of over &lt;a href=&#34;http://foodplantsinternational.com/plants/&#34;&gt;27,000 edible plant species&lt;/a&gt;, a treasure which will become only more important in times of increasing food insecurity as the climate is under more pressure in years to come.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d say that Bruce&amp;rsquo;s devotion to this cause over the last 50 years was remarkably foresighted, but I think that this would be selling things short. From my experience, this interest was not a quirk of interest or a strange happenstance&amp;mdash;it was the natural outworking of Bruce&amp;rsquo;s knowledge and talents together with his character and values. Bruce always described his passion in terms of his love for God and God&amp;rsquo;s world, and for his neighbours&amp;mdash;and whether he was working with University students in the 1980s and 1990s, or local villagers in PNG, the Pacific Islands, Asia or Africa, that love was shown in a patient attention and listening to others, an openness to what he had to learn from them. As Bruce would describe it, they are just as much God&amp;rsquo;s children as he is, and he has as much&amp;mdash;if not more&amp;mdash;to learn about God&amp;rsquo;s world from them than they might from him. This treasure trove of information is there for all of us to share, and to use is the fruits of many years of listening and learning, exploring and explaining. This indformation will become more and more useful in times of environmental stress in the years ahead.&lt;/p&gt;
-
-&lt;p&gt;During my own years at University, Bruce was a valued example, a mentor and friend. His advice and encouragement was invaluable when I struggled with the decision over staying in mathematics or moving to philosophy, and he has been a steady guide and sounding board at other life transitions since then.  While I never quite shared his passion for tropical plants, I hope and pray that I&amp;rsquo;ve acquired just &lt;em&gt;some&lt;/em&gt; of that attentive love for others, that passion for learning, and for sharing what we&amp;rsquo;ve found so that all may flourish. One of Bruce&amp;rsquo;s &lt;em&gt;other&lt;/em&gt; passions was the Hebrew prophets, and one verse he often repeats is Micah 6:8. What is it that is good, but to &amp;ldquo;to do justice, and to love kindness, and to walk humbly with your God.&amp;rdquo;  Bruce, you&amp;rsquo;ve done that over all of the years I&amp;rsquo;ve known you, and may you enjoy that walk ever more in the years ahead. Thank you, for all you&amp;rsquo;ve done for me.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;d like to know more about Bruce&amp;rsquo;s work with Food Plants International, or support his work, their &lt;a href=&#34;http://foodplantsinternational.com&#34;&gt;website&lt;/a&gt; has a wealth of information, and you can also &lt;a href=&#34;https://www.facebook.com/FoodPlantsInternational&#34;&gt;follow them on Facebook&lt;/a&gt;. &lt;a href=&#34;https://www.youtube.com/watch?v=cMGfbyMh5dc&#34;&gt;This short video&lt;/a&gt; explains some of his work.&lt;/p&gt;
 </description>
 </item>
     

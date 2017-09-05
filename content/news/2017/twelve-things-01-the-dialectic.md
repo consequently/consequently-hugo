@@ -1,0 +1,22 @@
++++
+date = "2017-09-05T13:36:03+11:00"
+title = "The Dialectic (the first of twelve things I love about philosophical logic)"
+description = "Here's the first thing I love about working as a philosophical logician: the dialectic between the formal and the philosophical."
+largeimage = true
+image = "images/twelve-things.jpg"
+
++++
+
+One thing I noticed when making my way from mathematics (my undergraduate degree was a B.Sc. in Mathematics at the [University of Queensland](http://www.smp.uq.edu.au/mathematics)) to philosophy was the different approach when doing research in the two disciplines. To put it very coarsely, in mathematics, you prove theorems. In philosophy, you argue about things. 
+
+The standards for success are very different in philosophy and in mathematics.  Witness [Norbert Blum&rsquo;s recent retraction](https://arxiv.org/abs/1708.03486) of his paper which purported to prove that *P* &ne; *NP*. While philosophers change their minds about things, I don&rsquo;t recall anyone going so far as to retract a paper that argued for a position they now reject. That&rsquo;s just not how philosophers work, and nor should they.  
+
+One of the joys about working in philosophical logic &mdash; especially for someone with a relatively short attention span, like me &mdash; is that I get to play on both sides of this street. I spend some time as a technical mathematical logician, playing the theorem-proving game, with all of the satisfaction of knowing that I&rsquo;ve really _proved_ something solid in its own way: a mathematical _result_. On the other hand, there&rsquo;s more to life than theorems, and there&rsquo;s more to _understanding_ than the making of proofs. I love that my discipline &mdash; *philosophical* logic &mdash; gives equal time to the discursive, interpretive, philosophical side of the enterprise, that I can spend time writing papers attempting to give an account of _how_ something works, to argue with others, developing views about the _grounds_ or the _significance_ of different concepts or techniques, that there are no barriers to taking the synoptic view, where conjectures can be explored and where perspectives can clash and collide, without expecting that any option be closed off to inquiry.
+
+The joy in working philosophical logic is more, though, than having two sides to the coin, the _formal_/_technical_ and the _discursive_/_interpretive_. The delight I find in the discipline is in the _dialectic_ or the _interplay_ between these two aspects of the craft. This delight comes when some technical result can shed light on a philosophical conundrum, or when a different interpretive perspective on problem uncovers the way to a new approach to prove a theorem. A recent example dear to my heart on the interplay between the discursive and the formal is how Mark Lance and Heath White&rsquo;s work on the two forms of supposition in their &ldquo;[Stereoscopic Vision](https://www.philosophersimprint.org/007004/)&rdquo; motivated and inspired my work on a [cut-free hypersequent calculus for two-dimensional modal logic](http://consequently.org/writing/cfss2dml/), which, in turn, has philosophical significance of its own on how we might acquire modal concepts and coordinate on their use, even when we disagree on what might be necessary or _a priori_ knowable. 
+
+I find myself in a field where the best work involves formal results addressing issues that have philosophical significance, where discursive and the technical aspects play important, interlocking roles. If you formally model a theory, you nail your colours to the mast. You have to be specific and precise about what is being proposed. This (when done well) keeps you honest. It&rsquo;s harder to hide or to fudge when you&rsquo;re specific and precise about your theory&rsquo;s commitments. On the other hand, the philosophical imperative &mdash; to understand, to probe the foundations, and to take the synoptic view &mdash; means that you don&rsquo;t treat the formal theory as something to be explored for its own sake. Instead, you are always able to take the critical perspective, to ask whether _this_ is the best model for the phenomenon in question, and to push beyond.
+
+It is the _dialectic_ between the formal and the discursive; the _dance_ between the technical and the critical, that makes philosophical logic such a joy.
+
+The _Dialectic_ is the first of [twelve things that I love about philosophical logic](http://consequently.org/news/2017/twelve-things-i-love/). 
