@@ -7,7 +7,7 @@ image = "images/twelve-things.jpg"
 
 +++
 
-As I mentioned in the previous entry, philosophical logic uses the tools and techniques from formal logic, and formal logic is nothing if it is not _abstract_. It gets its power and generality (as well as its weaknesses, to be sure) by abstracting from specifics and moving to generalities. We explain the virtues of a particular argument (in part) by looking at its form, the structure which is in common to other arguments of the same shape. This goes back, at least, to Aristotle, who taught us that it isn’t a coincidence that both syllogisms 
+As I mentioned in the previous entry, philosophical logic uses the tools and techniques from formal logic, and formal logic is nothing if it is not _abstract_. It gets its power --- as well as its weaknesses, to be sure --- by abstracting away from specifics and moving to generalities. We explain the virtues of a particular argument (in part) by looking at its form, the structure which is in common to other arguments of the same shape. This goes back, at least, to Aristotle, who taught us that it isn’t a coincidence that both syllogisms 
 
 > All footballers are bipeds. All bipeds have feet. Therefore all footballers have feet.
 

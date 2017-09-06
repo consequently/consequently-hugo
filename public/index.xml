@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 06 Sep 2017 13:20:15 AEST</updated>
+    <updated>Wed, 06 Sep 2017 13:25:42 AEST</updated>
 
 
 <item>
@@ -71,7 +71,7 @@
 <link>http://consequently.org/news/2017/twelve-things-02-abstraction/</link>
 <pubDate>Wed, 06 Sep 2017 13:00:03 &#43;1100</pubDate>
 <guid>http://consequently.org/news/2017/twelve-things-02-abstraction/</guid>
-<description>&lt;p&gt;As I mentioned in the previous entry, philosophical logic uses the tools and techniques from formal logic, and formal logic is nothing if it is not &lt;em&gt;abstract&lt;/em&gt;. It gets its power and generality (as well as its weaknesses, to be sure) by abstracting from specifics and moving to generalities. We explain the virtues of a particular argument (in part) by looking at its form, the structure which is in common to other arguments of the same shape. This goes back, at least, to Aristotle, who taught us that it isn’t a coincidence that both syllogisms&lt;/p&gt;
+<description>&lt;p&gt;As I mentioned in the previous entry, philosophical logic uses the tools and techniques from formal logic, and formal logic is nothing if it is not &lt;em&gt;abstract&lt;/em&gt;. It gets its power &amp;mdash; as well as its weaknesses, to be sure &amp;mdash; by abstracting away from specifics and moving to generalities. We explain the virtues of a particular argument (in part) by looking at its form, the structure which is in common to other arguments of the same shape. This goes back, at least, to Aristotle, who taught us that it isn’t a coincidence that both syllogisms&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;All footballers are bipeds. All bipeds have feet. Therefore all footballers have feet.&lt;/p&gt;
