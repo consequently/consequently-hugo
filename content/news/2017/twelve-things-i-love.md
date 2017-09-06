@@ -20,7 +20,7 @@ There was a _lot_ of junk in that big pile of text that I deleted on sight (thou
 So, here&rsquo;s what I&rsquo;ll do: I&rsquo;m going to spend some time expanding my &ldquo;12 things&rdquo; notes, and I&rsquo;ll post them at roughly one per day, over the next couple of weeks. Come back _tomorrow_ for the first of the 12 things I love about working in philosophical logic. By the end, the list below will contain links to each entry. 
 
 1. [The Dialectic](/news/2017/twelve-things-01-the-dialectic/)
-2. Abstraction
+2. [Abstraction](/news/2017/twelve-things-02-abstraction/)
 3. Multiple Realisability
 4. Interdisciplinarity
 5. The Moment of Recognition
