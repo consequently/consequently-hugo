@@ -21,7 +21,7 @@ So, here&rsquo;s what I&rsquo;ll do: I&rsquo;m going to spend some time expandin
 
 1. [The Dialectic](/news/2017/twelve-things-01-the-dialectic/)
 2. [Abstraction](/news/2017/twelve-things-02-abstraction/)
-3. Multiple Realisability
+3. [Multiple Realisability](/news/2017/twelve-things-03-multiple-realisability/)
 4. Interdisciplinarity
 5. The Moment of Recognition
 6. Conceptual Expansion

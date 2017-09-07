@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 06 Sep 2017 13:25:42 AEST</updated>
+    <updated>Thu, 07 Sep 2017 15:44:18 AEST</updated>
 
 
 <item>
@@ -61,9 +61,43 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Wed, 06 Sep 2017 13:00:03 &#43;1100</pubDate>
+<pubDate>Thu, 07 Sep 2017 15:34:51 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Multiple Realisability (the third of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-03-multiple-realisability/</link>
+<pubDate>Thu, 07 Sep 2017 15:34:51 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-03-multiple-realisability/</guid>
+<description>&lt;p&gt;Closely connected to the notion of &lt;em&gt;abstraction&lt;/em&gt;, I love the way that logical concepts are &lt;em&gt;multiply realisable&lt;/em&gt;. An abstract structure can be instantiated in different ways, and often in ways completely unforeseen when the original abstraction was made.&lt;/p&gt;
+
+&lt;p&gt;The twin moves of abstraction (moving from the particular to the general) and concretisation (going back from the general to the particular—perhaps to a new and &lt;em&gt;different&lt;/em&gt; particular) in different domains brings different insights, different models, and new connections. These new connections often bring fresh insight.&lt;/p&gt;
+
+&lt;p&gt;For example, the simple notion of a &lt;em&gt;Boolean algebra&lt;/em&gt; can be instantiated as a power set algebra (think of the subsets of a set and the operations of union, intersection and complementation). But this simple idea of a power set Boolean algebra can then be understood in different domains of application: you can think of the underlying set as a domain of &lt;em&gt;objects&lt;/em&gt; and the subsets are extensions of different predicates. Or you can think of them as a set of possible worlds, and the subsets are propositions. And so on. Shifting from one representation to another is often conceptually fruitful when thinking about these different domains, or thinking about the ways that the formal techniques are applied. And you can answer questions about anything that counts as a Boolean algebra in one go. Here’s how the Hungarian recursion theorist Rózsa Péter put it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument.&lt;/p&gt;
+
+&lt;p&gt;— Rózsa Péter &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Playing-Infinity-Mathematical-Explorations-Excursions/dp/0486232654/consequentlyorg&#34;&gt;Playing with Infinity&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/Rozsa-Peter.jpg&#34; alt=&#34;Rózsa Péter&#34;&gt;
+    &lt;figcaption&gt;Rózsa Péter.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But more than that, once you’ve studied Boolean algebras for a while you learn that not all Boolean algebras are (isomorphic to) power set algebras. Given a domain of objects, you can get  a Boolean algebra out of less than the collection of &lt;em&gt;all&lt;/em&gt; of the subsets of the underlying set of objects.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example: take an infinite set &lt;em&gt;D&lt;/em&gt;, and think of the finite subsets of &lt;em&gt;D&lt;/em&gt; — those with finitely many members — together with the co-finite subsets of &lt;em&gt;D&lt;/em&gt; — those which contain all of the elements of &lt;em&gt;D&lt;/em&gt; &lt;em&gt;except&lt;/em&gt; for finitely many members. (In the case of the natural numbers, the sets {0,1,2} and all of the numbers &lt;em&gt;other than&lt;/em&gt; {1,2,3} would be fine, but the set of even numbers doesn’t count, because it contains infinitely many members and excludes infinitely many members too.) Then these sets, the finite and co-finite subsets of &lt;em&gt;D&lt;/em&gt; form a Boolean algebra. (The union, intersection or complement of finite and co-finite sets is itself finite or co-finite.)&lt;/p&gt;
+
+&lt;p&gt;Once you see this, you see that there’s nothing in the idea of a Boolean algebra that means that the structure of truth values, or extensions of predicates, or propositions, &lt;em&gt;must&lt;/em&gt; look like a power set Boolean algebra. Maybe it does, but maybe it doesn’t.&lt;/p&gt;
+
+&lt;p&gt;The move from the particular to the general and back not only allows us to transfer insights from one domain to another, it also means that we can gain insight into unconsidered possibilities, and different ways our concepts can be realised.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Multiple realisability&lt;/em&gt; is the third of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -135,7 +169,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-01-the-dialectic/&#34;&gt;The Dialectic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-02-abstraction/&#34;&gt;Abstraction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Multiple Realisability&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Interdisciplinarity&lt;/li&gt;
 &lt;li&gt;The Moment of Recognition&lt;/li&gt;
 &lt;li&gt;Conceptual Expansion&lt;/li&gt;
@@ -1732,17 +1766,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <description>&lt;p&gt;Graham Priest defends the use of a nonmonotonic logic, &lt;em&gt;LPm&lt;/em&gt;, in his analysis of reasoning in the face of true contradictions, such as those arising from the paradoxes of self-reference. In the course of defending the choice of this logic in the face of the criticism that &lt;em&gt;LPm&lt;/em&gt; is not truth preserving, Priest argued that requirement is too much to ask: since &lt;em&gt;LPm&lt;/em&gt; is a nonmonotonic logic, it necessarily fails to preserve truth. In this paper, I show that this assumption is incorrect, and I explain why nonmonotonic logics can nonetheless be truth preserving. Finally, I diagnose Priest&amp;rsquo;s error, to explain when nonmonotonic logics do indeed fail to preserve truth.&lt;/p&gt;
 
 &lt;p&gt;Graham Priest has written a &lt;a href=&#34;http://dx.doi.org/10.1002/tht3.204&#34;&gt;very short reply&lt;/a&gt; to this article, which also appears in &lt;em&gt;Thought&lt;/em&gt;.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2016/unib10002/</link>
-<pubDate>Fri, 06 Nov 2015 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2016/unib10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     

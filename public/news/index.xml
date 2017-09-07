@@ -26,7 +26,43 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 06 Sep 2017 13:00:03 &#43;1100</updated>
+    <updated>Thu, 07 Sep 2017 15:34:51 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Multiple Realisability (the third of twelve things I love about philosophical logic)</title>
+      <link>http://consequently.org/news/2017/twelve-things-03-multiple-realisability/</link>
+      <pubDate>Thu, 07 Sep 2017 15:34:51 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/twelve-things-03-multiple-realisability/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Closely connected to the notion of &lt;em&gt;abstraction&lt;/em&gt;, I love the way that logical concepts are &lt;em&gt;multiply realisable&lt;/em&gt;. An abstract structure can be instantiated in different ways, and often in ways completely unforeseen when the original abstraction was made.&lt;/p&gt;
+
+&lt;p&gt;The twin moves of abstraction (moving from the particular to the general) and concretisation (going back from the general to the particular—perhaps to a new and &lt;em&gt;different&lt;/em&gt; particular) in different domains brings different insights, different models, and new connections. These new connections often bring fresh insight.&lt;/p&gt;
+
+&lt;p&gt;For example, the simple notion of a &lt;em&gt;Boolean algebra&lt;/em&gt; can be instantiated as a power set algebra (think of the subsets of a set and the operations of union, intersection and complementation). But this simple idea of a power set Boolean algebra can then be understood in different domains of application: you can think of the underlying set as a domain of &lt;em&gt;objects&lt;/em&gt; and the subsets are extensions of different predicates. Or you can think of them as a set of possible worlds, and the subsets are propositions. And so on. Shifting from one representation to another is often conceptually fruitful when thinking about these different domains, or thinking about the ways that the formal techniques are applied. And you can answer questions about anything that counts as a Boolean algebra in one go. Here’s how the Hungarian recursion theorist Rózsa Péter put it:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument.&lt;/p&gt;
+
+&lt;p&gt;— Rózsa Péter &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Playing-Infinity-Mathematical-Explorations-Excursions/dp/0486232654/consequentlyorg&#34;&gt;Playing with Infinity&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/Rozsa-Peter.jpg&#34; alt=&#34;Rózsa Péter&#34;&gt;
+    &lt;figcaption&gt;Rózsa Péter.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But more than that, once you’ve studied Boolean algebras for a while you learn that not all Boolean algebras are (isomorphic to) power set algebras. Given a domain of objects, you can get  a Boolean algebra out of less than the collection of &lt;em&gt;all&lt;/em&gt; of the subsets of the underlying set of objects.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example: take an infinite set &lt;em&gt;D&lt;/em&gt;, and think of the finite subsets of &lt;em&gt;D&lt;/em&gt; — those with finitely many members — together with the co-finite subsets of &lt;em&gt;D&lt;/em&gt; — those which contain all of the elements of &lt;em&gt;D&lt;/em&gt; &lt;em&gt;except&lt;/em&gt; for finitely many members. (In the case of the natural numbers, the sets {0,1,2} and all of the numbers &lt;em&gt;other than&lt;/em&gt; {1,2,3} would be fine, but the set of even numbers doesn’t count, because it contains infinitely many members and excludes infinitely many members too.) Then these sets, the finite and co-finite subsets of &lt;em&gt;D&lt;/em&gt; form a Boolean algebra. (The union, intersection or complement of finite and co-finite sets is itself finite or co-finite.)&lt;/p&gt;
+
+&lt;p&gt;Once you see this, you see that there’s nothing in the idea of a Boolean algebra that means that the structure of truth values, or extensions of predicates, or propositions, &lt;em&gt;must&lt;/em&gt; look like a power set Boolean algebra. Maybe it does, but maybe it doesn’t.&lt;/p&gt;
+
+&lt;p&gt;The move from the particular to the general and back not only allows us to transfer insights from one domain to another, it also means that we can gain insight into unconsidered possibilities, and different ways our concepts can be realised.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Multiple realisability&lt;/em&gt; is the third of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -103,7 +139,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-01-the-dialectic/&#34;&gt;The Dialectic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-02-abstraction/&#34;&gt;Abstraction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Multiple Realisability&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Interdisciplinarity&lt;/li&gt;
 &lt;li&gt;The Moment of Recognition&lt;/li&gt;
 &lt;li&gt;Conceptual Expansion&lt;/li&gt;
@@ -1043,19 +1079,6 @@ then I&amp;rsquo;ve “pinned down” what there is to know about the conjunctio
 are non-trivial, since neither of them are logically equivalent to the inconsistent concept \({}^{\langle x\rangle}\sem{\bot}\), and it&amp;rsquo;s an open question as to which one of them is satisfied by the object \(a\). If \(a\) and \(b\) are rigid designators, then on the orthodox Kripkean line, one of these concepts is necessarily false, but they need not be &lt;em&gt;analytically&lt;/em&gt; false or &lt;em&gt;known&lt;/em&gt; to be false. If we allow for concept identity to be more finely grained than simple agreement of extension in all possible worlds, and if we allow for modalities stronger than necessity (say, &lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;analyticity, or a priori knowability&lt;/a&gt;) then it seems that Cian&amp;rsquo;s argument applies equally well to them, too. It&amp;rsquo;s one thing to be a &lt;em&gt;necessitist&lt;/em&gt; about objects, and think that the same objects exist in all possible worlds. Do we also want to also take the objects to persist across all epistemic scenarios, whether possible or impossible?&lt;/p&gt;
 
 &lt;p&gt;HUGOMORE42&lt;/p&gt;]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Another Day at the Office</title>
-      <link>http://consequently.org/news/2015/another-view-of-the-old-quad/</link>
-      <pubDate>Thu, 04 Jun 2015 12:44:46 &#43;1100</pubDate>
-      
-      <guid>http://consequently.org/news/2015/another-view-of-the-old-quad/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;The view from my desk.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;4&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://instagram.com/p/3faRnyFQy1/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_top&#34;&gt;A photo posted by Greg Restall (@consequently)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2015-06-04T02:39:45+00:00&#34;&gt;Jun 3, 2015 at 7:39pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-]]></description>
     </item>
     
   </channel>
