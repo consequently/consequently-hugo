@@ -26,7 +26,30 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 07 Sep 2017 15:34:51 &#43;1100</updated>
+    <updated>Fri, 08 Sep 2017 14:27:05 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Interdisciplinarity (the fourth of twelve things I love about philosophical logic)</title>
+      <link>http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/</link>
+      <pubDate>Fri, 08 Sep 2017 14:27:05 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;multiple realisations&lt;/a&gt; of a concept in logic often come from different disciplines. One thing I’ve grown to love in philosophical logic is the way different ideas, disciplines and traditions are connected in the space of the wider generality of formal logic. In my own work over the years in &lt;a href=&#34;http://consequently.org/writing/isl&#34;&gt;substructural logic&lt;/a&gt;, &lt;a href=&#34;http://consequently.org/writing/pluralism/&#34;&gt;logical pluralism&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/writing/ptp&#34;&gt;proof theory&lt;/a&gt; (among other things), traditions in computer science, linguistics, mathematics and philosophy have all played distinct roles.&lt;/p&gt;
+
+&lt;p&gt;Each discipline has its own examples, its own traditions, its own heroes, its own villains—and its own concerns. If you are aware of the distinctive features of different traditions, this allows for the strengths of those disciplines to shine, for the insights and examples of one discipline to be brought to bear on the questions and problems of others.  If you’re a philosopher, you should, by nature, be interested in more than your own traditions—or at least you should if you understand philosophy in the way Wilfrid Sellars did:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. — Wilfrid Sellars, “Philosophy and the Scientific Image of Man”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Through the meeting ground of &lt;em&gt;logic&lt;/em&gt;, the linguist can speak to the mathematician, the computer programmer to the philosopher. All too often, we don’t step outside our own disciplinary bubbles, but in logic, staying inside your own hermetically sealed discipline actually takes effort on your own part. In the late 20th Century into the early 21st, the best work in logic is being done by linguists, computer scientists, mathematicians and philosophers. No one academic discipline is in the ascendancy in logic. You’re missing out if you don’t attend to the richer tapestry of that work, and in particular, you have much to gain by learning from the best work in traditions other than your own. Since logic is such a well-worn meeting place between these disciplines, those who have some training in logic have a head start when it comes to translating from one tradition to the other.&lt;/p&gt;
+
+&lt;p&gt;Sometimes interdisciplinary is understood as a relatively recent trend, and in many cases it is. Regardless, the concerns of logic naturally lend themselves to application in any different fields where we are concerned with judgement, with truth, with the way our claims hold together and bear on each other—and that is a broad tapestry. Logic has &lt;em&gt;always&lt;/em&gt; been connected to philosophy and to mathematics, and with the rise of newer disciplines such as linguistics and computer science, the concerns of logic are deeply embedded in many domains of inquiry. Being a logician gives you a passport into these fields, and it is a pleasure to be able to venture widely, and to enjoy different scenery.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Interdisicplinarity&lt;/em&gt; is the fourth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -140,7 +163,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-01-the-dialectic/&#34;&gt;The Dialectic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-02-abstraction/&#34;&gt;Abstraction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Interdisciplinarity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/&#34;&gt;Interdisciplinarity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The Moment of Recognition&lt;/li&gt;
 &lt;li&gt;Conceptual Expansion&lt;/li&gt;
 &lt;li&gt;Pragmatics&lt;/li&gt;
@@ -1011,74 +1034,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Cian Dorr on Defining Quantifiers (Verbal Disputes Workshop Report #2)</title>
-      <link>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
-      <pubDate>Sat, 24 Oct 2015 15:27:36 AEDT</pubDate>
-      
-      <guid>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;There&amp;rsquo;s something very attractive in the idea that meanings of logical concepts—such as conjunction, negation, the quantifiers—can be specified by the role they play in proofs. If I learn the rules for conjunction:
-\(
-\def\sem#1{[\![#1]\!]}
-\)
-\[
-\frac{A\land B}{A}
-\quad
-\frac{A\land B}{B}
-\qquad
-\frac{A\quad B}{A\land B}
-\]
-then I&amp;rsquo;ve “pinned down” what there is to know about the conjunction connective “\(\land\)”. The quantifiers are an interesting case. The rules for quantifiers, like \((\exists x)\) prove to be more complex.
-\[
-\frac{A(t)}{(\exists x)A(x)}
-\qquad
-\frac{
-{{{}\atop{\large }}\atop{\large (\exists x)A(x)}}
-\quad
-{{{\LARGE A(n)}\atop{\large \vdots}}\atop{\large C}}
-}
-{C}
-\]
-(where in the second rule, the name \(n\) is not present in \(C\) or in the other premises of the subproof from \(A(n)\) to \(C\)). In these rules, we unwrap the quantified expression \((\exists x)A(x)\) into a simpler expression which is an &lt;em&gt;instance&lt;/em&gt; of the schema \(A(x)\). In the introduction rule, \(A(t)\) is an instance formed by substituting any singular term \(t\) for \(x\), while in the elimination rule, it must be a &lt;em&gt;name&lt;/em&gt; (or an eigenvariable). The details can be worked out in many different ways, but one feature remains the same: the semantics of quantifiers is tied closely to the semantics of singular terms. Can we avoid this connection? Is there a way to define the semantics of quantifiers in by way of their rules in proof which do not tie them so closely to the semantics of singular terms.&lt;/p&gt;
-
-&lt;p&gt;This was one of the goals of &lt;a href=&#34;https://files.nyu.edu/cd50/public/&#34;&gt;Cian Dorr&lt;/a&gt;’s talk “Pinning Down the Meanings of Quantifiers” at the &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Verbal Disputes&lt;/a&gt; conference, and is a central theme in his paper “&lt;a href=&#34;http://philpapers.org/rec/DORQVA&#34;&gt;Quantifier Variance and the Collapse Theorems&lt;/a&gt;”. There’s a lot in the paper (it&amp;rsquo;s 67 pages long!), and I won’t engage with most of it, but I’d like to discuss this central theme of the paper here.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/mvd-cian.JPG&#34; alt=&#34;Cian Dorr&#34;&gt;
-    &lt;figcaption&gt;Cian Dorr&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The crucial insight is that we can think of the quantifier proof rules not as relating propositions or sentences or judgements, but as relating &lt;em&gt;concepts&lt;/em&gt;. The step from \(Fx\) to \((\exists x)Fx\) need not lead from a particular judgement that a given thing \(x\) is \(F\), but rather, from the concept &lt;em&gt;being \(F\)&lt;/em&gt;. The step from ‘\(x\) is green’ to ‘\(x\) is coloured’ corresponds to a relationship between the concepts of being green and being coloured. The relationship of entailment between propositions is filled out to include entailment &lt;em&gt;between concepts&lt;/em&gt;, and between concepts of higher arities—for binary, ternary, relations, etc., and between concepts and propositions, which can be understood as zero-place concepts. The crucial point is that this relationship of concept entailment is not to be reduced to propositional entailment. We are not to define ‘\(c\) entails \(d\)’ as ‘Necessarily, everything that falls under \(c\) falls under \(d\)’ because this would be to put the cart before the horse. Instead of defining concept entailment in terms of quantifiers and propositional entailment, the goal is to define quantifiers in terms of concept entailment.&lt;/p&gt;
-
-&lt;p&gt;How are we to understand concept entailment? Cian gives an interesting discussion of the connection between concept entailment and concept &lt;em&gt;identity&lt;/em&gt; (offering analyses like this: \(c\) entails \(d\) if and only if to fall under \(c\) is to fall under \(c\) and to fall under \(d\)). The details of any such definition need not concern us now, suffice to note that all such analyses offered in the paper “Quantifier Variance and the Collapse Theorems” feature conjunction and some kind of concept identity.&lt;/p&gt;
-
-&lt;p&gt;After some useful and clear thinking on how one is to identify and distinguish higher arity concepts&amp;mdash;explaining the sense in which semantic values of predicates is related to the variables used in the presentation of those predicates:  \({}^{\langle x,y\rangle}\sem{x\textrm{ loves }y} = {}^{\langle y,x\rangle}\sem{y\textrm{ loves }x}\), which is the concept &lt;em&gt;loving&lt;/em&gt;, while  \({}^{\langle x,y\rangle}\sem{y\textrm{ loves }x}\) is the concept &lt;em&gt;being loved by&lt;/em&gt;, and specifying a sensible constraint on concept entailment, that it is indifferent to the choice of sequence of variables used to present the entailment&amp;mdash;we get to the point where we can specify a reading of the quantifier rules free of singular terms.&lt;/p&gt;
-
-&lt;p&gt;\(\exists v\) is an existential quantifier if and only if (for all sequences \(\sigma\) of variables including all free variables in \(A\) and \(B\), and where the variable \(v\) is not free in \(B\)) (1) \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{(\exists v)A}\) (that&amp;rsquo;s the introduction rule), and (2) if \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{B}\) then \({}^\sigma\sem{A}\) entails \({}^\sigma\sem{(\exists v)B}\) (that&amp;rsquo;s the elimination rule).&lt;/p&gt;
-
-&lt;p&gt;This is beautiful and elegant. The logic of concept identity and entailment determines the logic of the quantifiers. I say the quantifier&lt;em&gt;&lt;b&gt;s&lt;/b&gt;&lt;/em&gt; because what holds for the existential quantifier holds for the universal quantifier, too. In fact, Cian points out that the quantifier rules are exceedingly natural as the left and right adjoints of the &lt;em&gt;concept expansion&lt;/em&gt; function. (What is concept expansion? The expansion of a concept is the variant which adds a redundant argument place. The expansion of the concept &lt;em&gt;being red&lt;/em&gt; (or \({}^{\langle x\rangle}\sem{x\textrm{ is red}}\)) is the two-place concept \({}^{\langle x,y\rangle}\sem{x\textrm{ is red}}\) which says of two things that the first is red.) Adjoints (or Galois connections, residuals, display equivalences, wrapping and unwrapping) are wonderful things.&lt;/p&gt;
-
-&lt;p&gt;This is beautiful, but the &lt;em&gt;logic&lt;/em&gt; is not surprising or news to those who are familiar with proof theory or categories and logic. The central concepts are present, for example, in Lambek and Scott’s &lt;em&gt;&lt;a href=&#34;http://www.openisbn.com/isbn/0521356539/&#34;&gt;Introduction to Higher Order Categorical Logic&lt;/a&gt;&lt;/em&gt;, though Cian explains them differently. What is new here is the philosophical setting and the applications. In the talk in Oxford, Cian explained the consequences of this view of the quantifiers for discussions of &lt;em&gt;necessitism&lt;/em&gt; and quantifier variance.&lt;/p&gt;
-
-&lt;p&gt;Consider the concept “not being identical to anything” understood as
-\({}^{\langle x\rangle}\sem{\neg (\exists y)x=y}\) (there is no \(y\) to which \(x\) are identical). If objects exist contingently, it seems that the application of this concept to some contingently existing object (say, &lt;em&gt;me&lt;/em&gt;) is contingently false. On this picture, I am identical to something, but had I not existed, I wouldn&amp;rsquo;t have been identical to something. On the other hand, even for the contingentist, the proposition \(\sem{(\exists x)\neg (\exists y)x=y}\) is &lt;em&gt;necessarily&lt;/em&gt; false. It&amp;rsquo;s impossible that there be an object which is not identical to any object, because&amp;mdash;of necessity&amp;mdash;all objects are self-identical. If the contingentist has granted both of those points, it’s relatively straightforward to show that the contingentist’s existential quantifier is &lt;em&gt;not&lt;/em&gt; the adjoint of expansion. In particular, it does not satisfy the elimination rule, because \({}^{\langle x\rangle}\sem{\neg (\exists y)x=y}\) does not entail \(\sem{(\exists x)\neg (\exists y)x=y}\), since nothing contingently false  entails anything necessarily false.&lt;/p&gt;
-
-&lt;p&gt;So far, so good, and Cian uses these results to put pressure on the contingentist and the quantifier variantist, and to lend support for necessitism. (I want to be careful not to misconstrue Cian&amp;rsquo;s position—at the workshop, at least, he was not &lt;em&gt;committed&lt;/em&gt; to necessitism. He was exploring these arguments and seeing where they lead.) I think that the situation here is complex, and interesting, and worth exploring. In particular, I think that there&amp;rsquo;s no direct route from concept entailment (and the definition of the quantifiers as adjoints) to necessitism.&lt;/p&gt;
-
-&lt;p&gt;The key issue centres around the behaviour of concept entailment, and its definition of concept identity. For the analysis to work, concept identity is not to be identified with identity of &lt;em&gt;extension&lt;/em&gt;. Even if all every object that happens to be a renate also happens to be a chordate, and &lt;em&gt;vice versa&lt;/em&gt;, it doesn&amp;rsquo;t follow that &lt;em&gt;being a renate&lt;/em&gt; is the same concept as &lt;em&gt;being a chordate&lt;/em&gt;. If we collapse concept identity into identity of extension, there is no pressure towards necessitism. On the other hand, we cannot have a too-fine notion of concept identity which distinguishes logically equivalent sentences (or logically equivalent predicates). &lt;em&gt;Being a renate and chordate&lt;/em&gt; should be the same concept as &lt;em&gt;being a chordate and a renate&lt;/em&gt;, and the same concept as &lt;em&gt;being a chordate and either a renate or a non-chordate&lt;/em&gt; (at least given the standard classical equivalence of \(Fx\land Gx\) with \(Fx\land(Gx\lor\neg Fx)\), which is not in question here).  Our concept identity is not &lt;em&gt;that&lt;/em&gt; intensional that it distinguishes logically equivalent statements or predicates. But requiring that logically equivalent statements determine the one concept still leaves much room for open questions concerning concept identity. Consider two names, \(a\) and \(b\), where it&amp;rsquo;s an open question concerning whether they are identical or not. Then, it seems that the concepts
-\[
-{}^{\langle x\rangle}\sem{(x=a)\land(x\neq b)}
-\quad
-{}^{\langle x\rangle}\sem{(x=a)\land(x=b)}
-\]
-are non-trivial, since neither of them are logically equivalent to the inconsistent concept \({}^{\langle x\rangle}\sem{\bot}\), and it&amp;rsquo;s an open question as to which one of them is satisfied by the object \(a\). If \(a\) and \(b\) are rigid designators, then on the orthodox Kripkean line, one of these concepts is necessarily false, but they need not be &lt;em&gt;analytically&lt;/em&gt; false or &lt;em&gt;known&lt;/em&gt; to be false. If we allow for concept identity to be more finely grained than simple agreement of extension in all possible worlds, and if we allow for modalities stronger than necessity (say, &lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;analyticity, or a priori knowability&lt;/a&gt;) then it seems that Cian&amp;rsquo;s argument applies equally well to them, too. It&amp;rsquo;s one thing to be a &lt;em&gt;necessitist&lt;/em&gt; about objects, and think that the same objects exist in all possible worlds. Do we also want to also take the objects to persist across all epistemic scenarios, whether possible or impossible?&lt;/p&gt;
-
-&lt;p&gt;HUGOMORE42&lt;/p&gt;]]></description>
     </item>
     
   </channel>

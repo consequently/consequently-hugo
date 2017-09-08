@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 07 Sep 2017 15:44:18 AEST</updated>
+    <updated>Fri, 08 Sep 2017 14:28:03 AEST</updated>
 
 
 <item>
@@ -61,9 +61,30 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Thu, 07 Sep 2017 15:34:51 &#43;1100</pubDate>
+<pubDate>Fri, 08 Sep 2017 14:27:05 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Interdisciplinarity (the fourth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/</link>
+<pubDate>Fri, 08 Sep 2017 14:27:05 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/</guid>
+<description>&lt;p&gt;The &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;multiple realisations&lt;/a&gt; of a concept in logic often come from different disciplines. One thing I’ve grown to love in philosophical logic is the way different ideas, disciplines and traditions are connected in the space of the wider generality of formal logic. In my own work over the years in &lt;a href=&#34;http://consequently.org/writing/isl&#34;&gt;substructural logic&lt;/a&gt;, &lt;a href=&#34;http://consequently.org/writing/pluralism/&#34;&gt;logical pluralism&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/writing/ptp&#34;&gt;proof theory&lt;/a&gt; (among other things), traditions in computer science, linguistics, mathematics and philosophy have all played distinct roles.&lt;/p&gt;
+
+&lt;p&gt;Each discipline has its own examples, its own traditions, its own heroes, its own villains—and its own concerns. If you are aware of the distinctive features of different traditions, this allows for the strengths of those disciplines to shine, for the insights and examples of one discipline to be brought to bear on the questions and problems of others.  If you’re a philosopher, you should, by nature, be interested in more than your own traditions—or at least you should if you understand philosophy in the way Wilfrid Sellars did:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. — Wilfrid Sellars, “Philosophy and the Scientific Image of Man”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Through the meeting ground of &lt;em&gt;logic&lt;/em&gt;, the linguist can speak to the mathematician, the computer programmer to the philosopher. All too often, we don’t step outside our own disciplinary bubbles, but in logic, staying inside your own hermetically sealed discipline actually takes effort on your own part. In the late 20th Century into the early 21st, the best work in logic is being done by linguists, computer scientists, mathematicians and philosophers. No one academic discipline is in the ascendancy in logic. You’re missing out if you don’t attend to the richer tapestry of that work, and in particular, you have much to gain by learning from the best work in traditions other than your own. Since logic is such a well-worn meeting place between these disciplines, those who have some training in logic have a head start when it comes to translating from one tradition to the other.&lt;/p&gt;
+
+&lt;p&gt;Sometimes interdisciplinary is understood as a relatively recent trend, and in many cases it is. Regardless, the concerns of logic naturally lend themselves to application in any different fields where we are concerned with judgement, with truth, with the way our claims hold together and bear on each other—and that is a broad tapestry. Logic has &lt;em&gt;always&lt;/em&gt; been connected to philosophy and to mathematics, and with the rise of newer disciplines such as linguistics and computer science, the concerns of logic are deeply embedded in many domains of inquiry. Being a logician gives you a passport into these fields, and it is a pleasure to be able to venture widely, and to enjoy different scenery.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Interdisicplinarity&lt;/em&gt; is the fourth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -170,7 +191,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-01-the-dialectic/&#34;&gt;The Dialectic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-02-abstraction/&#34;&gt;Abstraction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Interdisciplinarity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/&#34;&gt;Interdisciplinarity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The Moment of Recognition&lt;/li&gt;
 &lt;li&gt;Conceptual Expansion&lt;/li&gt;
 &lt;li&gt;Pragmatics&lt;/li&gt;
@@ -1755,17 +1776,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-logicmelb-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>On Priest on Nonmonotonic and Inductive Logic</title>
-<link>http://consequently.org/writing/on-priest-on-nonmonotonic/</link>
-<pubDate>Tue, 08 Mar 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/on-priest-on-nonmonotonic/</guid>
-<description>&lt;p&gt;Graham Priest defends the use of a nonmonotonic logic, &lt;em&gt;LPm&lt;/em&gt;, in his analysis of reasoning in the face of true contradictions, such as those arising from the paradoxes of self-reference. In the course of defending the choice of this logic in the face of the criticism that &lt;em&gt;LPm&lt;/em&gt; is not truth preserving, Priest argued that requirement is too much to ask: since &lt;em&gt;LPm&lt;/em&gt; is a nonmonotonic logic, it necessarily fails to preserve truth. In this paper, I show that this assumption is incorrect, and I explain why nonmonotonic logics can nonetheless be truth preserving. Finally, I diagnose Priest&amp;rsquo;s error, to explain when nonmonotonic logics do indeed fail to preserve truth.&lt;/p&gt;
-
-&lt;p&gt;Graham Priest has written a &lt;a href=&#34;http://dx.doi.org/10.1002/tht3.204&#34;&gt;very short reply&lt;/a&gt; to this article, which also appears in &lt;em&gt;Thought&lt;/em&gt;.&lt;/p&gt;
 </description>
 </item>
     
