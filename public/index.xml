@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 08 Sep 2017 14:28:03 AEST</updated>
+    <updated>Sat, 09 Sep 2017 14:35:41 AEST</updated>
 
 
 <item>
@@ -61,9 +61,28 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Fri, 08 Sep 2017 14:27:05 &#43;1100</pubDate>
+<pubDate>Sat, 09 Sep 2017 14:29:39 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>The Moment of Recognition (the fifth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-05-recognition/</link>
+<pubDate>Sat, 09 Sep 2017 14:29:39 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-05-recognition/</guid>
+<description>&lt;p&gt;Here is a more personal reflection on what I love in working in philosophical logic.&lt;/p&gt;
+
+&lt;p&gt;I love the &amp;ldquo;&lt;em&gt;aha&lt;/em&gt;!&amp;rdquo; moment of &lt;em&gt;recognition&lt;/em&gt;. This is the relief of  a proof completed, or a counterexample found. It is the delight of gaining clarity into something that you had only dimly understood, or the dawning realisation that an assumption you had made is in fact false and a whole new vista of possibilities opens up to you.&lt;/p&gt;
+
+&lt;p&gt;The particular kind of &amp;ldquo;aha&amp;rdquo; that I mean is the kind where you&amp;rsquo;re working out of the consequences of something you already know. This can be understood as a kind of &lt;em&gt;mastery&lt;/em&gt; that is gained when you become familiar with the conceptual tools you&amp;rsquo;re using. It is the acquisition of greater skill.&lt;/p&gt;
+
+&lt;p&gt;This is the &amp;ldquo;aha&amp;rdquo; that students in my second year logic class experienced when they figured out for themselves that not all symmetric and transitive relations must be reflexive.  In one sense, they already &lt;em&gt;knew&lt;/em&gt; the definitions of these concepts (at least, most of them did) and this fact was implicit in what they already knew, but now they had figured this out for themselves &amp;mdash; they &lt;em&gt;saw&lt;/em&gt; it for themselves. They understood something new about how these concepts fit together, how they relate.&lt;/p&gt;
+
+&lt;p&gt;There is a &lt;em&gt;lot&lt;/em&gt; of scope for this when working in philosophical logic. We&amp;rsquo;re pushing concepts to their limits, finding the boundaries of conceptual space. We map out its  topography. Sometimes you &lt;em&gt;think&lt;/em&gt; that things hang together in some way (say, your examples of symmetric and transitive relations all happened to be reflexive, too) and then you suddenly &lt;em&gt;see&lt;/em&gt; that they&amp;rsquo;re not. That moment of recognition is the dawning of new light, the opening up of new territory, the acquisition of new conceptual capacities, and moments like these are to something to be treasured.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Moment of Recognition&lt;/em&gt; is the fifth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -192,7 +211,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-02-abstraction/&#34;&gt;Abstraction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/&#34;&gt;Interdisciplinarity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Moment of Recognition&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;The Moment of Recognition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Conceptual Expansion&lt;/li&gt;
 &lt;li&gt;Pragmatics&lt;/li&gt;
 &lt;li&gt;Attention&lt;/li&gt;
@@ -1756,25 +1775,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-talk-gothenburg-2016-slides.pdf&#34;&gt;slides are available here (for screen)&lt;/a&gt;, and &lt;a href=&#34;http://consequently.org/slides/proof-terms-talk-gothenburg-2016-handout.pdf&#34;&gt;here is a version for printing&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
-<link>http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</link>
-<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
-
-&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;d like to attend, details are &lt;a href=&#34;http://philevents.org/event/show/22702&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-logicmelb-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
