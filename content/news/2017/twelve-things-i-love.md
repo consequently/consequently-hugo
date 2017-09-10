@@ -24,7 +24,7 @@ So, here&rsquo;s what I&rsquo;ll do: I&rsquo;m going to spend some time expandin
 3. [Multiple Realisability](/news/2017/twelve-things-03-multiple-realisability/)
 4. [Interdisciplinarity](/news/2017/twelve-things-04-interdisciplinarity/)
 5. [The Moment of Recognition](/news/2017/twelve-things-05-recognition/)
-6. Conceptual Expansion
+6. [Conceptual Expansion](/news/2017/twelve-things-06-expansion/)
 7. Pragmatics
 8. Attention
 9. Necessity

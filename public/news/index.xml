@@ -26,7 +26,39 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 09 Sep 2017 14:29:39 &#43;1100</updated>
+    <updated>Mon, 11 Sep 2017 09:26:50 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Conceptual Expansion (the sixth of twelve things I love about philosophical logic)</title>
+      <link>http://consequently.org/news/2017/twelve-things-06-expansion/</link>
+      <pubDate>Mon, 11 Sep 2017 09:26:50 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/twelve-things-06-expansion/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;There are different delights to be found in working with concepts. It is not all a matter of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;gaining greater mastery&lt;/a&gt; of the concepts you have already acquired. There is also a special delight to be found in acquiring &lt;em&gt;new&lt;/em&gt; concepts. I love that feeling of progress when you make a conceptual advance. A common way to do this is to &lt;em&gt;disambiguate&lt;/em&gt;, to clarify matters by noticing that what you took to be one thing is really &lt;em&gt;two&lt;/em&gt;. This is the clarity gained in uncovering a hidden confusion, the moment when ideas are sharpened and distinguished, when you form a new vocabulary and, as a result, you are able to say things you couldn’t express before. This one way to reap the rewards of &lt;em&gt;conceptual expansion&lt;/em&gt;. Our repertoire of concepts is larger than it was.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of this phenomenon. (It’s not an uncontroversial example, but it’s one that I find quite compelling.) Consider what it means to &lt;em&gt;suppose&lt;/em&gt; something. This is something we do regularly when we’re reasoning, when we’re planning, considering options, or discussing something with people who have different views. Often we “try a claim on for size”, suppose it’s the case, and reason from there. (This kind of dialectical move is something we not only &lt;em&gt;do&lt;/em&gt;, it’s also at the heart of different accounts of the &lt;a href=&#34;http://consequently.org/writing/ptp&#34;&gt;structure of proof&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;It’s an insight — a conceptual advance — to notice that the act of supposition can take different forms, that not all supposition is the same.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/kennedy-shot.jpg&#34; alt=&#34;NYT Times Kennedy Cover&#34;&gt;
+    &lt;figcaption&gt;Oswald shot Kennedy. But what if he hadn&#39;t? Or what if he &lt;b&gt;didn&#39;t&lt;/b&gt;?&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If I suppose that it’s not the case that Oswald shot Kennedy, I can do this in two different ways.&lt;/p&gt;
+
+&lt;p&gt;I can &lt;em&gt;counterfactually&lt;/em&gt; suppose (I can suppose that Oswald &lt;em&gt;hadn’t&lt;/em&gt; shot Kennedy) and here I still grant that Oswald &lt;em&gt;did&lt;/em&gt; shoot Kennedy (or at least, I leave it &lt;em&gt;open&lt;/em&gt; that he did) and I could explore what would have followed in the (not-necessarily actual) circumstances where he &lt;em&gt;didn’t&lt;/em&gt;. We do this sort of thing when we plan for the future or regret the past. We consider alternate possibilities, with an eye to understand what we can do, and what options are available to us.&lt;/p&gt;
+
+&lt;p&gt;But this is not the only form of supposition: we &lt;em&gt;indicatively&lt;/em&gt; suppose when we ask ourselves whether we might be wrong, or when we consider what things are like from a point of view other than ours. When we suppose that Oswald &lt;em&gt;didn’t&lt;/em&gt; shoot Kennedy, we take on a different view of how things &lt;em&gt;are&lt;/em&gt;. I consider the option that it didn&amp;rsquo;t happen as I have taken it to happen, but that it actually happened in some other way. This is the kind of supposition involved when we&amp;rsquo;re considering opposing views and weighing different theories of how things are.&lt;/p&gt;
+
+&lt;p&gt;Once you realise that we can be doing different things in different forms of supposition means that you have the space to allow these kinds of supposition to operate in different ways, and to explore their distinct features. (This is the direction I pursue things in my paper on a &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;cut-free hypersequent calculus for two-dimensional modal logic&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;The generation of &lt;em&gt;new&lt;/em&gt; concepts is a different kind of conceptual mastery than the working out of consequences I discussed in the &lt;a href=&#34;http://consequently.org&#34;&gt;previous entry&lt;/a&gt;. Here, instead of gaining mastery of an already established practice, we institute a new practice, and gain the ability to say new things.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Conceptual Expansion&lt;/em&gt; is the sixth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -186,7 +218,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-03-multiple-realisability/&#34;&gt;Multiple Realisability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/&#34;&gt;Interdisciplinarity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;The Moment of Recognition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conceptual Expansion&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;Conceptual Expansion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Pragmatics&lt;/li&gt;
 &lt;li&gt;Attention&lt;/li&gt;
 &lt;li&gt;Necessity&lt;/li&gt;
@@ -1011,38 +1043,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;Priest, Graham. 2012. &amp;ldquo;&lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;The Sun may Not, Indeed, Rise Tomorrow: a reply to Beall&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Analysis&lt;/em&gt; 72:739-741.&lt;/p&gt;
 
 &lt;p&gt;Restall, Greg. 1997. &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/cantbe/&#34;&gt;Ways Things Can&amp;rsquo;t Be&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Notre Dame Journal of Formal Logic&lt;/em&gt; 38:583–596.&lt;/p&gt;]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Language, Logic and Existential Commitment</title>
-      <link>http://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
-      <pubDate>Wed, 18 Nov 2015 11:49:21 AEDT</pubDate>
-      
-      <guid>http://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;In between wrapping up &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;teaching for the&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL40013/&#34;&gt;end of Semester 2&lt;/a&gt;, and getting ready for a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;short trip to Scotland&lt;/a&gt;, I&amp;rsquo;m spending some time &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-1-arche/&#34;&gt;thinking about free logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-2-arche/&#34;&gt;quantified modal logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-3-arche/&#34;&gt;identity&lt;/a&gt;. This is difficult but exciting terrain to cover.  There is no obvious way to tie together the logic of quantifiers, the modalities and identity in a way that commands broad appeal&amp;mdash;there is no default quantified modal logic that has the same &amp;lsquo;market reach&amp;rsquo; as classical first order logic.&lt;/p&gt;
-
-&lt;p&gt;This is a shame, because many important arguments involve quantification, identity and possibility and necessity&amp;mdash;and claims about existence and nonexistence. Understanding the &lt;em&gt;logic&lt;/em&gt; of these arguments better would help us gain some kind of systematic understanding of the positions in play. In the absence of a clear picture of the logic implicit in our concepts, we&amp;rsquo;re playing the dialectical game in ignorance of the rules.&lt;/p&gt;
-
-&lt;p&gt;Not that there&amp;rsquo;s anything wrong with that.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;You can engage in a practice without an explicit understanding of the rules of that practice. (For many kinds of practice, that is the only way to start. Think of learning your first language.) Nonetheless, making the practice explicit, and reflecting on the rules of that practice gives the participant a kind of skill that she might not have had before&amp;mdash;an ability to comprehend the possibilities, and the boundary between what is allowed and what is not.&lt;/p&gt;
-
-&lt;p&gt;These thoughts came to mind when I read Alexander Pruss&amp;rsquo;s thoughts on free logic and modal logic in his blog post &amp;ldquo;&lt;a href=&#34;http://alexanderpruss.blogspot.com.au/2015/05/existential-commitments-of-first-order.html&#34;&gt;Existential commitments of first order Logic&lt;/a&gt;&amp;rdquo;. There he considers the fact that names in first order logic are existentially committing, and which seems undesirable, since objects so named need not exist &lt;em&gt;necessarily&lt;/em&gt;. He comes to terms with this tension by concluding that languages involve presuppositions, and there is no issue in granting a language with contingent presuppositions&amp;mdash;including classical first order logic when the names are applied to contingently existing things.  He concludes:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;We could search for a logic without presuppositions. That&amp;rsquo;s a worthwhile quest, and leads to exploring various free logics. But we shouldn&amp;rsquo;t go overboard in worrying about the metaphysical consequences if we don&amp;rsquo;t find a good one. Likewise, we shouldn&amp;rsquo;t worry too much if we can&amp;rsquo;t find a satisfactory quantified modal logic. These are just tools. Nice to have, but people have done just fine with modal and other arguments for centuries without much of a formal logic.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Alexander Pruss on &lt;a href=&#34;http://alexanderpruss.blogspot.com.au/2015/05/existential-commitments-of-first-order.html&#34;&gt;Existential commitments of First Order Logic&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is a sensible conclusion. There is nothing wrong, &lt;em&gt;per se&lt;/em&gt;, in reasoning about possibility and necessity and existence and nonexistence and identity, etc., without a clear picture of consequences of the claims you are making. Insofar as you have a clear understanding of what follows from what is said, you have a logic.  Insofar as you don&amp;rsquo;t have a logic, you don&amp;rsquo;t have a clear understanding of what positions are consistent and which are not. Speaking a language with significant contingent presuppositions is not invariably a problem&amp;mdash;but when you&amp;rsquo;re engaged in an argument about those very presuppositions, there comes a time when you have to get as clear about them as you can. That&amp;rsquo;s when you find yourself doing some logic.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s not an easy task, but it&amp;rsquo;s worthwhile. That&amp;rsquo;s what I&amp;rsquo;m spending some time on over the next few weeks.&lt;/p&gt;
-
-&lt;p&gt;HUGOMORE42&lt;/p&gt;]]></description>
     </item>
     
   </channel>
