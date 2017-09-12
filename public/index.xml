@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 11 Sep 2017 09:26:56 AEST</updated>
+    <updated>Tue, 12 Sep 2017 14:48:21 AEST</updated>
 
 
 <item>
@@ -61,9 +61,32 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Mon, 11 Sep 2017 09:26:50 &#43;1100</pubDate>
+<pubDate>Tue, 12 Sep 2017 12:53:42 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Pragmatics (the sixth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-07-pragmatics/</link>
+<pubDate>Tue, 12 Sep 2017 12:53:42 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-07-pragmatics/</guid>
+<description>&lt;p&gt;Some of my phrasing in the last &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;two&lt;/a&gt; &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;posts&lt;/a&gt; about what I love about philosophical logic have emphasised &lt;em&gt;capacities&lt;/em&gt;, or &lt;em&gt;abilities&lt;/em&gt;. I’ve described the &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;pleasure of the “&lt;em&gt;aha&lt;/em&gt;!” moment&lt;/a&gt; in terms of the kinds of mastery you acquire in handling the concepts you have, and I described &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;the joys of conceptual expansion&lt;/a&gt; in terms of abilities gained. This is to take a &lt;em&gt;pragmatic&lt;/em&gt; perspective on logic, to consider the connection to practices and actions.&lt;/p&gt;
+
+&lt;p&gt;Thinking of things “pragmatically” can be understood in a very crude way, fixing in advance what how you want to measure costs and benefits, and then doing some naïve cost/benefit calculation and then choosing option that somehow maximises benefits and minimises the costs (if that is even possible). This is not what I mean when I consider the connection between logic and pragmatics. I don’t think that the best way to select some logical system or logical theory is on the basis of that kind of cost/benefit analysis. Rather, it’s that there are connections between features of logical systems and the practices of &lt;em&gt;asserting&lt;/em&gt;, &lt;em&gt;denying&lt;/em&gt;, &lt;em&gt;inferring&lt;/em&gt;, &lt;em&gt;questioning&lt;/em&gt;, etc. What kind of connections are there? It’s not that the laws of logic are descriptively correct as a theory about how assertion and denial and inference actually work in practice. Rather, they can be understood as norms governing how those acts can be evaluated. (In particular, I think that if the argument from the premise \(A\) to the conclusion \(B\) is &lt;em&gt;valid&lt;/em&gt;, then taking a position in which \(A\) is asserted and \(B\) is denied is &lt;em&gt;out of bounds&lt;/em&gt;. If you’ve asserted \(A\) and \(B\) follows from \(A\) then in some sense, \(B\) is &lt;em&gt;undeniable&lt;/em&gt;, in that any positions where you rule \(A\) in and \(B\) out are out of bounds. For more on this, take a look at my “&lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;Multiple Conclusions&lt;/a&gt;”, the &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=2800898225913341308&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;critical literature it’s spawned&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/writing/ptp&#34;&gt;manuscript I’m working on&lt;/a&gt; right now.) There’s much more to say about this, but I think that it’s a clarifying perspective on the connection between core concepts in logic and the different kinds of acts we can actually engage in, like asserting, or believing, like denying or rejecting. It is a &lt;em&gt;normative pragmatic&lt;/em&gt; position concerning logic, that the concepts provide norms or standards by which acts can be evaluated.&lt;/p&gt;
+
+&lt;p&gt;You might worry that thinking of logic in terms of rules for a contingent human practice makes those rules themselves contingent too. Now, there’s nothing wrong with laws and rules being contingent. However, it’s a radical view of &lt;em&gt;logic&lt;/em&gt; that takes the rules of logic contingent on human practices. If it’s a law of logic that either \(p\) or not \(p\) for all propositions \(p\), then it would seem to follow that either all non-avian dinosaurs were extinct by 65 million years ago, or not all non-avian dinosaurs were extinct by 65 million years ago, and that this &lt;em&gt;still&lt;/em&gt; would have been the case even if there weren’t any people (or sentient creatures) around to reason about it. Contingently existing human reasoners like us can reason about all sorts of things, including what went on before contingently existing human reasoners existed.&lt;/p&gt;
+
+&lt;p&gt;Here’s an analogy I find compelling and clarifying when it comes to understanding how we can have a contingent practice with non-contingent rules. It’s the example of arithmetic and our counting practices. It’s contingently useful to creatures like us to engage in counting practices, introducing vocabulary for things we call “numbers”, which codify various practices of enumerating and pairing things up. Given that we want to engage in such a contingent practice (we have reason to keep track of the number of sheep we have in our flock, to make sure trades are fair, etc., but there was a time before any humans were doing these things), we have (again, contingent) reasons to use counting practices like those we actually have. At the very least, our counting practices give us ways to attend to patterns among practices of pairing things up. (It’s easy enough to figure out that if you have five sheep and I promised to give you three bags of grain for each of your sheep that I’ll owe you 15 bags of grain, than to laboriously pair up three bags with each sheep.) But the (contingently existing) practice of using number vocabulary in this way gets its power by having results that apply &lt;em&gt;invariantly&lt;/em&gt; and &lt;em&gt;necessarily&lt;/em&gt;. It’s not necessary that we have the concepts of &lt;em&gt;3&lt;/em&gt; and &lt;em&gt;5&lt;/em&gt; and &lt;em&gt;multiplication&lt;/em&gt;, but it is necessary that if we do have concepts like these, governed in this way, then no matter what they’re counting, 3 times 5 is 15, and it is, necessarily. (Why do we want such &lt;em&gt;necessity&lt;/em&gt;? I’d say that this is tied up with interaction between  counting and planning: it is also true if I’ve promised three bags of grain for every sheep, then if I want 2 sheep, I owe you 6 bags; 3 sheep, then 9, etc. It’s not that the rules of counting apply differently in different hypothetical scenarios. They are applied the same way in all hypothetical scenarios.) A practice can be contingently useful while having norms that apply non-contingently.&lt;/p&gt;
+
+&lt;p&gt;The same holds, I think, for so-called logical laws, and the account &lt;a href=&#34;http://consequently.org/writing/multipleconclusions&#34;&gt;I prefer&lt;/a&gt; puts this down to norms governing assertion and denial. The laws of logic can be understood as arising out of fundamental norms governing the practices of assertion and denial, and their interrelationship. The &lt;em&gt;generality&lt;/em&gt; of certain laws of logic can be explained in terms of norms applying to assertion and denial &lt;em&gt;as such&lt;/em&gt;, independently of any specific subject matter of those assertions and denials. The behaviour of the regular propositional connectives can be explained as ways to make explicit what is already implicit in the practice of assertion and denial. The behaviour of modal operators can be understood in terms of making explicit &lt;a href=&#34;http://consequently.org/writing/cfss2dml/&#34;&gt;norms governing different kinds of supposition&lt;/a&gt;, while those for quantifiers make explicit relations of &lt;a href=&#34;http://consequently.org/writing/generality-and-existence-1/&#34;&gt;substitution and generality&lt;/a&gt;, once the practice of assertion and denial is rich enough to involve singular terms. The story, I think, is rich in connections.&lt;/p&gt;
+
+&lt;p&gt;I love how philosophical logic is—when rightly understood—tied up with &lt;em&gt;practices&lt;/em&gt; and &lt;em&gt;activities&lt;/em&gt;. Through these connections, we see that understanding the grounds of our conceptual capacities brings logicians into the realm of practical action, in a way rather different to the picture that logicians are calculators solving predefined problems. Instead, logic is a normative discipline which describes some of the norms governing  practices of assertion, denial, description, theorising, conjecture, and the like.&lt;/p&gt;
+
+&lt;p&gt;You don’t often find human concerns, our own contingent and local interests, preferences and desires — let alone the social and political concerns of life in a community — playing an explicit role inside a philosophical logician’s proof. These would be as alien there as they would inside a mathematical demonstration. However, this does not mean that these considerations are divorced from philosophical logic. After all, our interest in matters of logic have grown up with our interest in the communicative practices of asserting, denying, arguing and reasoning, and those are nothing if not social practices. Our own contingent and local circumstances and interests help explain why concepts like those from logic are worth using. It is a loss to the discipline if we don’t heed that connection.&lt;/p&gt;
+
+&lt;p&gt;The connection with &lt;em&gt;pragmatics&lt;/em&gt; is the seventh of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -243,7 +266,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-04-interdisciplinarity/&#34;&gt;Interdisciplinarity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;The Moment of Recognition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;Conceptual Expansion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Pragmatics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-07-pragmatics/&#34;&gt;Pragmatics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Attention&lt;/li&gt;
 &lt;li&gt;Necessity&lt;/li&gt;
 &lt;li&gt;Possibility&lt;/li&gt;
@@ -1705,90 +1728,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <pubDate>Sun, 15 May 2016 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/writing/advances-in-pts-review/</guid>
 <description>&lt;p&gt;What could you mean by the term &amp;ldquo;proof-theoretic semantics&amp;rdquo; (PTS)? At first glance, it could mean either the semantics &lt;em&gt;of&lt;/em&gt; proof theory, or perhaps it&amp;rsquo;s more likely to mean semantics conducted &lt;em&gt;using the tools of proof theory&lt;/em&gt;. And &lt;em&gt;that&lt;/em&gt;&amp;rsquo;s the enterprise that the fifteen authors intend to advance in the sixteen papers in this edited collection&amp;hellip;&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Advice from Undergraduate Logic Students</title>
-<link>http://consequently.org/news/2016/advice-from-undergraduate-logic-students/</link>
-<pubDate>Thu, 12 May 2016 22:49:30 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2016/advice-from-undergraduate-logic-students/</guid>
-<description>
-
-&lt;p&gt;Prompted by a colleague and friend (thanks &lt;a href=&#34;https://unimelb.academia.edu/RuthBoeker&#34;&gt;Ruth&lt;/a&gt;!), I&amp;rsquo;ve been asking students who took my &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;upper level&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;logic subjects&lt;/a&gt; last year what they learned about &lt;em&gt;how to learn&lt;/em&gt; logic. This is helpful for me&amp;mdash;I get a better understanding of how students are learning. It&amp;rsquo;s hopefully helpful for them, too, to reflect more explicitly on how they learn. But most of all, I hope that their reflections will help students who &lt;a href=&#34;http://consequently.org/class/&#34;&gt;come after them&lt;/a&gt;.  After all, advice from &lt;em&gt;peers&lt;/em&gt; is fresh and direct in ways that advice from someone whose first encounter with the material was nearly 30 years &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been &lt;em&gt;so&lt;/em&gt; impressed with the answers students sent me. They&amp;rsquo;re thoughtful and insightful and I&amp;rsquo;m sure the advice will useful for future students. I thought I&amp;rsquo;d share them, in case it helps you to learn logic, or to teach it to others.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here is advice from two students from my subject &lt;a href=&#34;http://consequently.org/class/2016/PHIL20030/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil20030&lt;/span&gt;: &lt;em&gt;Meaning, Possibility and Paradox&lt;/em&gt;&lt;/a&gt;. This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2470375&#34;&gt;video lectures&lt;/a&gt;, a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-1&#34;&gt;Advice from &lt;em&gt;Student 1&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Here are some things that worked well for me:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;most importantly I engaged with my group heaps. We met up regularly and talked over everything, which was super helpful both in understanding the content and solving all those really tricky puzzles.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;secondly I made an effort to really understand and take notes on all the lectures (well&amp;hellip; most&amp;hellip;), pretty much all the content it assessable, or at least potentially so, and the lectures were a great way to get it learned.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Things I could have done better:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;engaged more in the tutes. I often found it hard to concentrate through 2 hours of pure logic, and I let myself slip up a bit in that regard, which was a pity, because that just meant I had to re-learn what I missed without Greg there to correct me.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Checked my work before submitting. That is to say, I checked it, but I should have double checked it and then checked it again for good measure, it&amp;rsquo;s easy to make silly mistakes.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I hope your new students have as much fun as I did!&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-2&#34;&gt;Advice from &lt;em&gt;Student 2&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;: One thing I recall clearly is spending far too much time at the end of the semester compiling notes so that I could have a worthwhile set for the exam. I strongly recommend students collate their notes throughout the semester, so that at the end, they can focus on applying their skills to practice questions&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Team&lt;/em&gt;: My team was &lt;em&gt;invaluable&lt;/em&gt;, especially in working through difficult questions. The approach should be twofold: learning from others&amp;rsquo; approaches to difficult questions, and secondly, solidifying your knowledge through the process of explaining things to others. With that in mind, an effective strategy would be to allocate each member of the team some questions each week, and then meet before the class to discuss each person&amp;rsquo;s responses. In fact, I would argue that regularly utilising one&amp;rsquo;s team is &lt;em&gt;essential&lt;/em&gt; in order to succeed in this subject.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;What do I need to know?&lt;/em&gt; The content of the subject can appear to be broad, and it&amp;rsquo;s difficult to know what to do, in order to prepare for the exam. However, the information that is uploaded each week to the LMS contains a section that summarises clearly the intended learning outcomes for the week. I recommend using this as the first part of revision&amp;mdash;ensure you know every dot point, for every week, and have notes which you understand for each dot point. Once this has been achieved, you can be confident that you have all of the core skills required in order to answer exam-style application-based questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Assignments&lt;/em&gt;&amp;hellip; can be difficult. Start them as early as possible. Answer what you can, even if the final answer eludes you. And remember to use a high degree of clarity, neatness, precise definitions and wording (try to imitate the wording of the text-book). Precision and ensuring that each step of working has been explained, is a great way to gain marks (especially when you have understood the answer conceptually, but have merely failed to elaborate upon each step on paper).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Practice&lt;/em&gt;: Is the key to succeeding in the exam. I strongly recommend that students prepare themselves so that practice can be their priority (i.e. have their notes completed, understand the basic concepts, so that at the end of the semester, they have the opportunity to do every practice question from the past exams). Furthermore, upon completing each question, I would recommend turning the answer into a set of notes, by placing an explanation of the working, next to the answer. This way, the next time a similar question comes up, you can refer to your notes, to refresh the concepts that are needed in order to answer the question.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;And here is advice from three third year students, from &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil30043&lt;/span&gt;: &lt;em&gt;The Power and Limits of Logic&lt;/em&gt;&lt;/a&gt;. This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&amp;ouml;del&amp;rsquo;s incompleteness theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2262409&#34;&gt;video lectures&lt;/a&gt; a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-3&#34;&gt;Advice from &lt;em&gt;Student 3&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Definitely&lt;/em&gt; make sure you understand and be comfortable with the initial foundation part of the course before even attempting to understand the more difficult components.&lt;/p&gt;
-
-&lt;p&gt;If you are having trouble with a concept, use &lt;em&gt;Google&lt;/em&gt; and &lt;em&gt;YouTube&lt;/em&gt;. There are plenty of resources out there that try to explain logic concept in layman&amp;rsquo;s terms with pictures and diagrams.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-4&#34;&gt;Advice from &lt;em&gt;Student 4&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;My advice would be to not get too bogged down by symbol pushing and notation. At least until we got to the last bit (Löb&amp;rsquo;s theorem, Godel&amp;rsquo;s First and Second Incompleteness Theorems) I found that making simple pictures really helped to distill complex concepts into nice digestible chunks. This also saves a lot of writing time when it comes to making those exam notes&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Watch the videos before class and don&amp;rsquo;t &amp;lsquo;spray and pray&amp;rsquo; the LMS questions. Also work hard to participate during seminars (this is something I didn&amp;rsquo;t do enough of) and give everyone a chance to do the same.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-5&#34;&gt;Advice from &lt;em&gt;Student 5&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;At the beginning of the subject, start compiling one big document with all your notes for each topic. This will greatly help come exam time, when you already have your pages of notes to take in.&lt;/p&gt;
-
-&lt;p&gt;The notes should be updated each week&amp;hellip;and it’s really important that you keep up your understanding as you go, and make sure things make sense as you go. This is for two reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;It’s really not possible to ‘cram’ in way it is for many other subjects, seeing as a large part of the material is just understanding very difficult concepts. It’s very hard to get your head around concepts like these in a short period of time. Gradual learning with plenty of breaks helps.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It is likely that having learnt a topic you will have a few burning questions or uncertainties about it. The best case scenario is that you can just ask these at the next seminar. If it’s the night before the exam, you may have less luck. Particularly the last third or so of the course is conceptually quite difficult. It will help to be on top of everything at this point! That said, make sure you nail the more concrete and straightforward aspects, for example Hilbert Proofs, or DNF. These just require practice.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Lastly, the two ways I found to maintain passion and interest in the subject are&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Understanding&lt;/em&gt;. If you’re on top of the subject, the seminars are much more enjoyable, and you’ll get more out of them. They’re not recorded, so you really have to make the most of them at the time.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Thinking about the bigger picture&lt;/em&gt;. The philosophical significance of the things you are talking about is often very exciting. It’s a very fun subject! There are very few other areas of philosophy or the arts more generally that are so rigorous that proofs can be used. Enjoy yourself!&lt;/li&gt;
-&lt;/ol&gt;
 </description>
 </item>
     
