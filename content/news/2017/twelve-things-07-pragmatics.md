@@ -1,6 +1,6 @@
 +++
 date = "2017-09-12T12:53:42+11:00"
-title = "Pragmatics (the sixth of twelve things I love about philosophical logic)"
+title = "Pragmatics (the seventh of twelve things I love about philosophical logic)"
 description = "Here's the seventh thing I love about working as a philosophical logician: the connection with pragmatics"
 largeimage = true
 image = "images/twelve-things.jpg"
