@@ -26,7 +26,7 @@ So, here&rsquo;s what I&rsquo;ll do: I&rsquo;m going to spend some time expandin
 5. [The Moment of Recognition](/news/2017/twelve-things-05-recognition/)
 6. [Conceptual Expansion](/news/2017/twelve-things-06-expansion/)
 7. [Pragmatics](/news/2017/twelve-things-07-pragmatics/)
-8. Attention
+8. [Attention](/news/2017/twelve-things-08-attention/)
 9. Necessity
 10. Possibility
 11. Learning and Teaching

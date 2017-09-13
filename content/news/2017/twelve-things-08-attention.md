@@ -1,0 +1,20 @@
++++
+date = "2017-09-13T14:01:56+11:00"
+title = "Attention (the eighth of twelve things I love about philosophical logic)"
+description = "Here's the eighth thing I love about working as a philosophical logician: how I've learned to attend to things in new ways"
+largeimage = true
+image = "images/twelve-things.jpg"
+
++++
+
+I&rsquo;m not totally happy with the word for he next item on the list of [twelve things I love about philosophical logic](http://consequently.org/news/2017/twelve-things-i-love/%2). The word on the list is _attention_, and it gets at something that I have learned, and which seems to me to be an important distinctive about working in _philosophical_ logic, but I&rsquo;m not altogether sure that &ldquo;attention&rdquo; is the best word for it. Maybe after I&rsquo;ve explained what I mean, you could suggest a better short label for the phenomenon I&rsquo;m gesturing towards.
+
+Here&rsquo;s the core idea: when you spend time working with core logical notions such as _consequence_, _consistency_, _necessity_, _possibility_, _model_ and _proof_,  you notice that you are attending to judgements and thoughts and claims in more than one way. You learn to distinguish between taking a claim to be _true_, and considering it as _possible_. You can agree that even though \\(p\)) isn&rsquo;t true, it is _consistent_ with \\(q\\). You can agree that it&rsquo;s not true that \\(p\\) while still seriously entertain what it would be like _were_ \\(p\\) to be true. Working with \\(p\\) as an hypothesis is not the same thing as taking it to be true. But even though working under the supposition that \\(p\\) is not the same thing as taking \\(p\\) to be true, it is related intimately to it. You don&rsquo;t just consider at \\(p\\\) from the &ldquo;outside.&rdquo; (Say, look at those crazy people who believe \\(p\\)! Aren&rsquo;t they weird?) Instead, you &ldquo;try it on for size&rdquo; in the sense that you let your inferential norms and processes act on \\(p\\) as if it were one among the other things you are working with. You temporarily adopt \\(p\\) into your view of the world, or you change perspective and attempt to see what things look like from the other side of the street, backgrounding your prior commitment to \\(\neg p\\) (if you actually believe \\(p\\) is false), and trying a different set of commitments on for size. This moves you in the direction of a kind of intellectual sympathy. You can gain some insight concerning some of what it would be like to actually see things from \\(p\\)&rsquo;s point of view. 
+
+This is just one way in which familiarity with core concepts of logic facilitates distinct skills for attending to judgement, and thereby, of paying attention to how we attend to the world around us, too. 
+ 
+With all that said, I&rsquo;m not totally happy with &ldquo;attention&rdquo; as the word for this &mdash; the skill attained is not the acquisition of _sustained, focussed attention_. If you&rsquo;re anything like me, your attention is often scattered, unfocussed, and you&rsquo;re easily distracted, and if my history of 25 years working in philosophical logic is any testament, it&rsquo;s not that becoming a logician is in and of itself a great help with dealing with distraction. (There are other practices which foster sustained, focussed attention and awareness, like meditation, prayer, reading, physical activity, etc.). No, instead, what is involved is a kind of suppleness of attention, the ability to shift between different positions, to creatively see things from different sides, and to take in different views. It&rsquo;s those skills of attention that can be fostered when you spend time with the core concepts of logic.
+
+So, here is another thing that I love in working in philosophical logic&mdash;how growing into mastery of core logical concepts has these kinds of consequences for my own thinking, my own _attention_, and as a result my own _life_. 
+
+_Attention_ is the eighth of [twelve things that I love about philosophical logic](http://consequently.org/news/2017/twelve-things-i-love/). 
