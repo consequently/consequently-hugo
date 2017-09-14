@@ -1,7 +1,7 @@
 +++
 date = "2017-09-13T14:01:56+11:00"
 title = "Attention (the eighth of twelve things I love about philosophical logic)"
-description = "Here's the eighth thing I love about working as a philosophical logician: how I've learned to attend to things in new ways"
+description = "Here's the eighth thing I love about working as a philosophical logician: how I've learned to attend to things in new ways."
 largeimage = true
 image = "images/twelve-things.jpg"
 

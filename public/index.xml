@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 13 Sep 2017 14:09:28 AEST</updated>
+    <updated>Thu, 14 Sep 2017 23:58:22 AEST</updated>
 
 
 <item>
@@ -61,9 +61,32 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Wed, 13 Sep 2017 14:01:56 &#43;1100</pubDate>
+<pubDate>Thu, 14 Sep 2017 23:55:19 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Necessity (the ninth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-09-necessity/</link>
+<pubDate>Thu, 14 Sep 2017 23:55:19 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-09-necessity/</guid>
+<description>&lt;p&gt;The next two thoughts are motivated by the two complementary aspects of contemporary research in logic, &lt;em&gt;proof theory&lt;/em&gt; and &lt;em&gt;model theory&lt;/em&gt;. As I try to emphasise to my students, there are two broad ways you can define logical concepts like &lt;em&gt;validity&lt;/em&gt;. Following the way of &lt;em&gt;proofs&lt;/em&gt;, an argument is valid if there is &lt;em&gt;some&lt;/em&gt; proof leading from the premises to the conclusion. Following the way of &lt;em&gt;models&lt;/em&gt;, an argument is valid if there is &lt;em&gt;no&lt;/em&gt; model in which the premises are true and the conclusion is not. In proof theory, validity is vouchsafed by the existence of something: a &lt;em&gt;proof&lt;/em&gt;, which certifies the claim to validity. Invalidity is the absence of such a certificate. In model theory, &lt;em&gt;in&lt;/em&gt;validity is vouchsafed by the existence of something: a &lt;em&gt;model&lt;/em&gt; &amp;mdash; a &lt;em&gt;counterexample&lt;/em&gt; to the claim of validity. Validity is the absence of any such counterexample. It was a great intellectual advance to understand that these are two very different ways to define logical concepts, such as validity, and it was a further advance to be able to rigorously prove that (on certain understandings of logic, such as classical first order predicate logic), these two different kinds of definitions can coincide to determine the &lt;em&gt;same&lt;/em&gt; concept. A &lt;em&gt;soundness&lt;/em&gt; theorem (relating an account of proofs and a account of models) shows that these two notions don&amp;rsquo;t &lt;em&gt;clash&lt;/em&gt;: you never get both a proof showing that some argument is valid, &lt;em&gt;and&lt;/em&gt; a model showing that it is invalid. A &lt;em&gt;completeness&lt;/em&gt; theorem (also relating an account of proofs and a account of models) shows that these two notions cover the whole field &amp;mdash; for each argument, we &lt;em&gt;either&lt;/em&gt; have a proof (showing it is valid) or a counterexample (showing that it isn&amp;rsquo;t).&lt;/p&gt;
+
+&lt;p&gt;Having a sound and complete account of proofs and models for a particular understanding of validity gives you a very powerful toolkit: you can approach a question concerning validity in two distinct ways, by the way of proofs (attempting to build a bridge from the premises to the conclusions, or showing that there isn&amp;rsquo;t any) or by the way of models (attempting to show that there is a chasm between the premises and the conclusions by showing that there is some way to make the premises true and the conclusions untrue, or again, showing that there isn&amp;rsquo;t any). These two ways of accounting for validity have very different affordances, they are good for different things, both mathematically or technically, and philosophically or conceptually.&lt;/p&gt;
+
+&lt;p&gt;I am particularly interested in the kinds of conceptual gains that are possible when applying notions of proof and notions of model, and the modes of thinking that are involved when using these different tools.&lt;/p&gt;
+
+&lt;p&gt;One connection that I am beginning to learn is the intimate connection between proof and &lt;em&gt;necessity&lt;/em&gt;, between logical consequence and the hardness and fixity of the logical &lt;em&gt;must&lt;/em&gt;. It is one thing to think that an argument is valid, in the sense that it happens to fail to have a counterexample. It is another to have an account of &lt;em&gt;why&lt;/em&gt; it is valid. What a proof gives you is some kind of account of &lt;em&gt;how&lt;/em&gt; you can get from the premises to the conclusion. This kind of thing is quite powerful, especially given the generality of logical concepts. The power of concepts like conjunction, negation, the quantifiers, etc., (I think) is that our norms and rules for using them apply under the scope of suppositions (whether those suppositions are subjunctive alternatives &amp;mdash; suppose that \(A\) had been the case &amp;mdash; or indicative alternatives  &amp;mdash; suppose that, after all \(A\) is actually true), if we suppose that \(A\land B\) is true, it&amp;rsquo;s still totally appropriate (under the scope of that supposition) to deduce \(A\) and to deduce \(B\), the usual rules for conjunction still apply.  A &lt;em&gt;proof&lt;/em&gt; (on this view) from premises to a conclusion is the kind of chain of reasoning which will work under any different supposition. It shows us how the conclusion is already present, implicit in the premises. To have granted the premises is to be committed (at least implicitly) to the conclusion, and the proof renders that consequential commitment &lt;em&gt;explicit&lt;/em&gt;. Of course, when confronted with a proof of an unacceptable conclusion from premises you have accepted, one appropriate response would be to reject one or another of the premises, and to resist the conclusion. That is always an option.&lt;/p&gt;
+
+&lt;p&gt;This brings logic up close to issues in &lt;em&gt;metaphysics&lt;/em&gt;, in &lt;em&gt;epistemology&lt;/em&gt; and in &lt;em&gt;philosophy of language&lt;/em&gt;. In metaphysics, we ask questions about the ultimate nature of reality, and the bounds of what is possible, or what is necessary. Of how reality is and how it must be. The kind of necessary connection between premises and conclusion of a valid argument must bring us up to the boundary of metaphysical necessity. If something is metaphysically &lt;em&gt;possible&lt;/em&gt;, then it must count as at least logically possible. If there is a way the world is that makes \(A\) true, then \(A\) cannot be logically inconsistent. If we could prove a triviality from \(A\), then this argument would apply were the world to be the way that possibility describes. Proofs in logic tell us &lt;em&gt;something&lt;/em&gt; about what is necessary.  (Of course, this isn&amp;rsquo;t to say that anything that is necessary is vouchsafed by a proof. That would be to say much more.)&lt;/p&gt;
+
+&lt;p&gt;Similarly, proofs can also play an &lt;em&gt;epistemic&lt;/em&gt; and &lt;em&gt;dialogical&lt;/em&gt; role. Provided that you and I agree on the norms governing our logical vocabulary, then if we possess a proof from \(A\) to \(B\), we agree that it&amp;rsquo;s out of bounds to accept \(A\) and reject \(B\). The proof can show us this much, to help map out the conceptual topography, see the space of possible options for us, even if we disagree on which options to take (perhaps you accept \(A\) and \(B\), and I reject both). A proof will do this work, even if we disagree on matters of necessity. Perhaps I take \(A\) to not only be false but to be &lt;em&gt;impossible&lt;/em&gt;, and you take \(B\) to be &lt;em&gt;necessary&lt;/em&gt;. (Such disputes are common in philosophy.) Regardless of the fact that one or other of us may be beyond the bounds of possibility, dispute here can still be rational. If, in the course of our reasoning, I begin to take your position as a live option (this is surely possible), I now have two positions before me: to accept \(A\) and \(B\), and to take them as &lt;em&gt;necessary&lt;/em&gt;, or to reject \(A\) and \(B\) and to take them as &lt;em&gt;impossible&lt;/em&gt;.  When I do this, I can take something to be an &lt;em&gt;epistemic possibility&lt;/em&gt; (a live option) which I think may also be metaphysically &lt;em&gt;impossible&lt;/em&gt;. When we use the tools of &lt;em&gt;proofs&lt;/em&gt;, we have guides to help see what positions are open to us, even if this does not tell us the whole story of which position may be best to take.&lt;/p&gt;
+
+&lt;p&gt;I love the way in which the &lt;em&gt;necessity&lt;/em&gt; of the logical &lt;em&gt;must&lt;/em&gt; brings us right up to concerns of metaphysics and epistemology, of the nature of reality and what options we have as we attempt to understand it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Necessity&lt;/em&gt; is the ninth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -287,7 +310,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;Conceptual Expansion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-07-pragmatics/&#34;&gt;Pragmatics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-08-attention/&#34;&gt;Attention&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Necessity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-09-necessity/&#34;&gt;Necessity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Possibility&lt;/li&gt;
 &lt;li&gt;Learning and Teaching&lt;/li&gt;
 &lt;li&gt;Community&lt;/li&gt;
@@ -1722,21 +1745,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-ACU.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-ACU.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Proofs and what they’re good for</title>
-<link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</link>
-<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://usydseminars.blogspot.com.au&#34;&gt;University of Sydney Philosophy Seminar&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
-
-&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
