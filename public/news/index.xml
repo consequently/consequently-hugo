@@ -26,7 +26,30 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 14 Sep 2017 23:55:19 &#43;1100</updated>
+    <updated>Mon, 18 Sep 2017 14:38:20 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Possibility (the tenth of twelve things I love about philosophical logic)</title>
+      <link>http://consequently.org/news/2017/twelve-things-10-possibility/</link>
+      <pubDate>Mon, 18 Sep 2017 14:38:20 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/news/2017/twelve-things-10-possibility/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In the &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-09-necessity/&#34;&gt;previous entry&lt;/a&gt; I explored the connection between &lt;em&gt;proofs&lt;/em&gt; and &lt;em&gt;necessity&lt;/em&gt;. Here, I want to spend a little time exploring the other side of the logical street, the connection between &lt;em&gt;models&lt;/em&gt; and &lt;em&gt;possibility&lt;/em&gt;. As I have already explained, one core insight from 20th Century work in logic is the fundamental duality between proof theory and model theory. You can define logical notions like validity by way of proofs (a &lt;em&gt;valid&lt;/em&gt; argument is certified by the existence of some proof) or by way of models (an argument is shown to be &lt;em&gt;invalid&lt;/em&gt; by the existence of some model which serves as a &lt;em&gt;counterexample&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Exploring proofs gives you can account of the different ways that concepts are tied together. (It gives you an account of what is involved in different kinds of necessary connections. The more different proofs you have, the more connections are possible.) Approaching the validity/invalidity boundary on the other side, by way of models, gives you a very different picture of this boundary. Defining more &lt;em&gt;models&lt;/em&gt; means having more &lt;em&gt;counterexamples&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Model building is one very fruitful way of articulating what is &amp;mdash; and more importantly, what &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; &amp;mdash; a part of a theory. Suppose you are interested in some strange new theory. (Put yourself back into the 19th Century, and consider a strange newfangled theory of geometry, where you accept the first four of Euclid&amp;rsquo;s axioms, but you &lt;em&gt;deny&lt;/em&gt; the parallel postulate.) You&amp;rsquo;ve got your collection of basic principles, but you&amp;rsquo;re not sure what follows from them. If you can manage to build a &lt;em&gt;model&lt;/em&gt; for your theory, then this can begin to address the question of what the theory involves. In particular, &lt;em&gt;any&lt;/em&gt; can give you a decisive answer to some questions about what the theory &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; involve. If your model \(\mathfrak M\) gives you a way to interpret all of the basic principles of the theory as being true, and if some other claim \(A\) turns out to be &lt;em&gt;false&lt;/em&gt; in \(\mathfrak M\), then you can see how \(A\) &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; follow from those basic principles. \(\mathfrak M\) gives you a picture of how the theory could be true, and in this case, it shows how \(A\) comes apart from the axioms of the theory. (So, if you think that  \(A\) &lt;em&gt;should&lt;/em&gt; be true, according to the theory you&amp;rsquo;re exploring, you need to supplement your axioms.)&lt;/p&gt;
+
+&lt;p&gt;Having a model on hand &amp;mdash; in and of itself &amp;mdash; gives you little information about what &lt;em&gt;does&lt;/em&gt; follow, because theories can have more than one model, in which different things hold. If something is &lt;em&gt;not&lt;/em&gt; true in a model for your theory, that tells you that it is not a consequence of the first principles theory; but when something &lt;em&gt;is&lt;/em&gt; true in a model for your theory, that&amp;rsquo;s not necessarily enough to show you that it is a consequence of the first principles of the theory. After all, it might hold in &lt;em&gt;some&lt;/em&gt; models, and not others. To show that something does follow (given the soundness and completeness theorems) we need to show that it holds in &lt;em&gt;every&lt;/em&gt; model of the theory.&lt;/p&gt;
+
+&lt;p&gt;So, models, in and of themselves don&amp;rsquo;t do &lt;em&gt;everything&lt;/em&gt;, but they are an excellent way to open up new areas of logical space. The development of models of non-Euclidean geometries helped us expand our understanding of what is involved in talk of points and lines. The development of models of different modal logics or non-classical logics helps us come to grips with different options for how basic propositional notions such as conjunction, disjunction, negation, conditionality, possibility and necessity might fit together. Models are useful tools for sketching out options.&lt;/p&gt;
+
+&lt;p&gt;So, models for theories give us powerful tools for exploring logical notions, and they provide an especially powerful way for expanding our bounds of understanding what is &lt;em&gt;possible&lt;/em&gt;. Constructing a model of a theory is one way to show how that theory &lt;em&gt;could be true&lt;/em&gt;.  I love the way which the &lt;em&gt;possibility&lt;/em&gt; of logical space is a wide plenitude, that the different antecedents for a &amp;ldquo;what if&amp;hellip;&amp;rdquo; lead us in so many different directions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Possibility&lt;/em&gt; is the tenth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -867,92 +890,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
       
       <guid>http://consequently.org/news/2016/3am-interview/</guid>
       <description>&lt;![CDATA[&lt;p&gt;A few weeks ago, Richard Marshall interviewed me for &lt;a href=&#34;http://www.3ammagazine.com&#34;&gt;3am Magazine&lt;/a&gt;&amp;rsquo;s series of interviews with philosophers. If you&amp;rsquo;re interested in my work on logical pluralism, proof theory and things like that, &lt;a href=&#34;http://www.3ammagazine.com/3am/the-logical-pluralist/&#34;&gt;this interview&lt;/a&gt; might be a good place to start. I hope you like it. If you&amp;rsquo;ve got any questions, please let me know.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Advice from Undergraduate Logic Students</title>
-      <link>http://consequently.org/news/2016/advice-from-undergraduate-logic-students/</link>
-      <pubDate>Thu, 12 May 2016 22:49:30 &#43;1100</pubDate>
-      
-      <guid>http://consequently.org/news/2016/advice-from-undergraduate-logic-students/</guid>
-      <description>&lt;![CDATA[
-
-&lt;p&gt;Prompted by a colleague and friend (thanks &lt;a href=&#34;https://unimelb.academia.edu/RuthBoeker&#34;&gt;Ruth&lt;/a&gt;!), I&amp;rsquo;ve been asking students who took my &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;upper level&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;logic subjects&lt;/a&gt; last year what they learned about &lt;em&gt;how to learn&lt;/em&gt; logic. This is helpful for me&amp;mdash;I get a better understanding of how students are learning. It&amp;rsquo;s hopefully helpful for them, too, to reflect more explicitly on how they learn. But most of all, I hope that their reflections will help students who &lt;a href=&#34;http://consequently.org/class/&#34;&gt;come after them&lt;/a&gt;.  After all, advice from &lt;em&gt;peers&lt;/em&gt; is fresh and direct in ways that advice from someone whose first encounter with the material was nearly 30 years &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been &lt;em&gt;so&lt;/em&gt; impressed with the answers students sent me. They&amp;rsquo;re thoughtful and insightful and I&amp;rsquo;m sure the advice will useful for future students. I thought I&amp;rsquo;d share them, in case it helps you to learn logic, or to teach it to others.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here is advice from two students from my subject &lt;a href=&#34;http://consequently.org/class/2016/PHIL20030/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil20030&lt;/span&gt;: &lt;em&gt;Meaning, Possibility and Paradox&lt;/em&gt;&lt;/a&gt;. This is a second year introduction to modal and non-classical logic, with a little bit of philosophy of language along the way. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2470375&#34;&gt;video lectures&lt;/a&gt;, a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-1&#34;&gt;Advice from &lt;em&gt;Student 1&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Here are some things that worked well for me:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;most importantly I engaged with my group heaps. We met up regularly and talked over everything, which was super helpful both in understanding the content and solving all those really tricky puzzles.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;secondly I made an effort to really understand and take notes on all the lectures (well&amp;hellip; most&amp;hellip;), pretty much all the content it assessable, or at least potentially so, and the lectures were a great way to get it learned.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Things I could have done better:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;engaged more in the tutes. I often found it hard to concentrate through 2 hours of pure logic, and I let myself slip up a bit in that regard, which was a pity, because that just meant I had to re-learn what I missed without Greg there to correct me.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Checked my work before submitting. That is to say, I checked it, but I should have double checked it and then checked it again for good measure, it&amp;rsquo;s easy to make silly mistakes.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I hope your new students have as much fun as I did!&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-2&#34;&gt;Advice from &lt;em&gt;Student 2&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Notes&lt;/em&gt;: One thing I recall clearly is spending far too much time at the end of the semester compiling notes so that I could have a worthwhile set for the exam. I strongly recommend students collate their notes throughout the semester, so that at the end, they can focus on applying their skills to practice questions&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Team&lt;/em&gt;: My team was &lt;em&gt;invaluable&lt;/em&gt;, especially in working through difficult questions. The approach should be twofold: learning from others&amp;rsquo; approaches to difficult questions, and secondly, solidifying your knowledge through the process of explaining things to others. With that in mind, an effective strategy would be to allocate each member of the team some questions each week, and then meet before the class to discuss each person&amp;rsquo;s responses. In fact, I would argue that regularly utilising one&amp;rsquo;s team is &lt;em&gt;essential&lt;/em&gt; in order to succeed in this subject.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;What do I need to know?&lt;/em&gt; The content of the subject can appear to be broad, and it&amp;rsquo;s difficult to know what to do, in order to prepare for the exam. However, the information that is uploaded each week to the LMS contains a section that summarises clearly the intended learning outcomes for the week. I recommend using this as the first part of revision&amp;mdash;ensure you know every dot point, for every week, and have notes which you understand for each dot point. Once this has been achieved, you can be confident that you have all of the core skills required in order to answer exam-style application-based questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Assignments&lt;/em&gt;&amp;hellip; can be difficult. Start them as early as possible. Answer what you can, even if the final answer eludes you. And remember to use a high degree of clarity, neatness, precise definitions and wording (try to imitate the wording of the text-book). Precision and ensuring that each step of working has been explained, is a great way to gain marks (especially when you have understood the answer conceptually, but have merely failed to elaborate upon each step on paper).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Practice&lt;/em&gt;: Is the key to succeeding in the exam. I strongly recommend that students prepare themselves so that practice can be their priority (i.e. have their notes completed, understand the basic concepts, so that at the end of the semester, they have the opportunity to do every practice question from the past exams). Furthermore, upon completing each question, I would recommend turning the answer into a set of notes, by placing an explanation of the working, next to the answer. This way, the next time a similar question comes up, you can refer to your notes, to refresh the concepts that are needed in order to answer the question.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;And here is advice from three third year students, from &lt;a href=&#34;http://consequently.org/class/2015/PHIL30043/&#34;&gt;&lt;span class=&#34;caps&#34;&gt;phil30043&lt;/span&gt;: &lt;em&gt;The Power and Limits of Logic&lt;/em&gt;&lt;/a&gt;. This is a third year introduction to the metatheory of classical first order predicate logic, taking students from soundness and completeness to G&amp;ouml;del&amp;rsquo;s incompleteness theorems and L&amp;ouml;b&amp;rsquo;s Theorem. It&amp;rsquo;s taught using &lt;a href=&#34;https://vimeo.com/album/2262409&#34;&gt;video lectures&lt;/a&gt; a weekly two hour seminar, and students work in teams on weekly to prepare for each session, and as a support and study group outside classes.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-3&#34;&gt;Advice from &lt;em&gt;Student 3&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;Definitely&lt;/em&gt; make sure you understand and be comfortable with the initial foundation part of the course before even attempting to understand the more difficult components.&lt;/p&gt;
-
-&lt;p&gt;If you are having trouble with a concept, use &lt;em&gt;Google&lt;/em&gt; and &lt;em&gt;YouTube&lt;/em&gt;. There are plenty of resources out there that try to explain logic concept in layman&amp;rsquo;s terms with pictures and diagrams.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-4&#34;&gt;Advice from &lt;em&gt;Student 4&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;My advice would be to not get too bogged down by symbol pushing and notation. At least until we got to the last bit (Löb&amp;rsquo;s theorem, Godel&amp;rsquo;s First and Second Incompleteness Theorems) I found that making simple pictures really helped to distill complex concepts into nice digestible chunks. This also saves a lot of writing time when it comes to making those exam notes&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Watch the videos before class and don&amp;rsquo;t &amp;lsquo;spray and pray&amp;rsquo; the LMS questions. Also work hard to participate during seminars (this is something I didn&amp;rsquo;t do enough of) and give everyone a chance to do the same.&lt;/p&gt;
-
-&lt;h4 id=&#34;advice-from-student-5&#34;&gt;Advice from &lt;em&gt;Student 5&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;At the beginning of the subject, start compiling one big document with all your notes for each topic. This will greatly help come exam time, when you already have your pages of notes to take in.&lt;/p&gt;
-
-&lt;p&gt;The notes should be updated each week&amp;hellip;and it’s really important that you keep up your understanding as you go, and make sure things make sense as you go. This is for two reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;It’s really not possible to ‘cram’ in way it is for many other subjects, seeing as a large part of the material is just understanding very difficult concepts. It’s very hard to get your head around concepts like these in a short period of time. Gradual learning with plenty of breaks helps.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It is likely that having learnt a topic you will have a few burning questions or uncertainties about it. The best case scenario is that you can just ask these at the next seminar. If it’s the night before the exam, you may have less luck. Particularly the last third or so of the course is conceptually quite difficult. It will help to be on top of everything at this point! That said, make sure you nail the more concrete and straightforward aspects, for example Hilbert Proofs, or DNF. These just require practice.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Lastly, the two ways I found to maintain passion and interest in the subject are&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;Understanding&lt;/em&gt;. If you’re on top of the subject, the seminars are much more enjoyable, and you’ll get more out of them. They’re not recorded, so you really have to make the most of them at the time.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Thinking about the bigger picture&lt;/em&gt;. The philosophical significance of the things you are talking about is often very exciting. It’s a very fun subject! There are very few other areas of philosophy or the arts more generally that are so rigorous that proofs can be used. Enjoy yourself!&lt;/li&gt;
-&lt;/ol&gt;
 ]]></description>
     </item>
     

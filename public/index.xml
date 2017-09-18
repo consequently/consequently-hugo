@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sun, 17 Sep 2017 21:38:05 AEST</updated>
+    <updated>Mon, 18 Sep 2017 14:44:41 AEST</updated>
 
 
 <item>
@@ -61,9 +61,30 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Thu, 14 Sep 2017 23:55:19 &#43;1100</pubDate>
+<pubDate>Mon, 18 Sep 2017 14:38:20 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Possibility (the tenth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-10-possibility/</link>
+<pubDate>Mon, 18 Sep 2017 14:38:20 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-10-possibility/</guid>
+<description>&lt;p&gt;In the &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-09-necessity/&#34;&gt;previous entry&lt;/a&gt; I explored the connection between &lt;em&gt;proofs&lt;/em&gt; and &lt;em&gt;necessity&lt;/em&gt;. Here, I want to spend a little time exploring the other side of the logical street, the connection between &lt;em&gt;models&lt;/em&gt; and &lt;em&gt;possibility&lt;/em&gt;. As I have already explained, one core insight from 20th Century work in logic is the fundamental duality between proof theory and model theory. You can define logical notions like validity by way of proofs (a &lt;em&gt;valid&lt;/em&gt; argument is certified by the existence of some proof) or by way of models (an argument is shown to be &lt;em&gt;invalid&lt;/em&gt; by the existence of some model which serves as a &lt;em&gt;counterexample&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Exploring proofs gives you can account of the different ways that concepts are tied together. (It gives you an account of what is involved in different kinds of necessary connections. The more different proofs you have, the more connections are possible.) Approaching the validity/invalidity boundary on the other side, by way of models, gives you a very different picture of this boundary. Defining more &lt;em&gt;models&lt;/em&gt; means having more &lt;em&gt;counterexamples&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Model building is one very fruitful way of articulating what is &amp;mdash; and more importantly, what &lt;em&gt;isn&amp;rsquo;t&lt;/em&gt; &amp;mdash; a part of a theory. Suppose you are interested in some strange new theory. (Put yourself back into the 19th Century, and consider a strange newfangled theory of geometry, where you accept the first four of Euclid&amp;rsquo;s axioms, but you &lt;em&gt;deny&lt;/em&gt; the parallel postulate.) You&amp;rsquo;ve got your collection of basic principles, but you&amp;rsquo;re not sure what follows from them. If you can manage to build a &lt;em&gt;model&lt;/em&gt; for your theory, then this can begin to address the question of what the theory involves. In particular, &lt;em&gt;any&lt;/em&gt; can give you a decisive answer to some questions about what the theory &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; involve. If your model \(\mathfrak M\) gives you a way to interpret all of the basic principles of the theory as being true, and if some other claim \(A\) turns out to be &lt;em&gt;false&lt;/em&gt; in \(\mathfrak M\), then you can see how \(A\) &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; follow from those basic principles. \(\mathfrak M\) gives you a picture of how the theory could be true, and in this case, it shows how \(A\) comes apart from the axioms of the theory. (So, if you think that  \(A\) &lt;em&gt;should&lt;/em&gt; be true, according to the theory you&amp;rsquo;re exploring, you need to supplement your axioms.)&lt;/p&gt;
+
+&lt;p&gt;Having a model on hand &amp;mdash; in and of itself &amp;mdash; gives you little information about what &lt;em&gt;does&lt;/em&gt; follow, because theories can have more than one model, in which different things hold. If something is &lt;em&gt;not&lt;/em&gt; true in a model for your theory, that tells you that it is not a consequence of the first principles theory; but when something &lt;em&gt;is&lt;/em&gt; true in a model for your theory, that&amp;rsquo;s not necessarily enough to show you that it is a consequence of the first principles of the theory. After all, it might hold in &lt;em&gt;some&lt;/em&gt; models, and not others. To show that something does follow (given the soundness and completeness theorems) we need to show that it holds in &lt;em&gt;every&lt;/em&gt; model of the theory.&lt;/p&gt;
+
+&lt;p&gt;So, models, in and of themselves don&amp;rsquo;t do &lt;em&gt;everything&lt;/em&gt;, but they are an excellent way to open up new areas of logical space. The development of models of non-Euclidean geometries helped us expand our understanding of what is involved in talk of points and lines. The development of models of different modal logics or non-classical logics helps us come to grips with different options for how basic propositional notions such as conjunction, disjunction, negation, conditionality, possibility and necessity might fit together. Models are useful tools for sketching out options.&lt;/p&gt;
+
+&lt;p&gt;So, models for theories give us powerful tools for exploring logical notions, and they provide an especially powerful way for expanding our bounds of understanding what is &lt;em&gt;possible&lt;/em&gt;. Constructing a model of a theory is one way to show how that theory &lt;em&gt;could be true&lt;/em&gt;.  I love the way which the &lt;em&gt;possibility&lt;/em&gt; of logical space is a wide plenitude, that the different antecedents for a &amp;ldquo;what if&amp;hellip;&amp;rdquo; lead us in so many different directions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Possibility&lt;/em&gt; is the tenth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -1731,21 +1752,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 <pubDate>Mon, 06 Jun 2016 17:37:47 &#43;1100</pubDate>
 <guid>http://consequently.org/news/2016/3am-interview/</guid>
 <description>&lt;p&gt;A few weeks ago, Richard Marshall interviewed me for &lt;a href=&#34;http://www.3ammagazine.com&#34;&gt;3am Magazine&lt;/a&gt;&amp;rsquo;s series of interviews with philosophers. If you&amp;rsquo;re interested in my work on logical pluralism, proof theory and things like that, &lt;a href=&#34;http://www.3ammagazine.com/3am/the-logical-pluralist/&#34;&gt;this interview&lt;/a&gt; might be a good place to start. I hope you like it. If you&amp;rsquo;ve got any questions, please let me know.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Proofs and what they’re good for</title>
-<link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</link>
-<pubDate>Mon, 23 May 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars&#34;&gt;Australian Catholic University Philosophy Seminar&lt;/a&gt; on &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars/professor_greg_restall_-_27_may&#34;&gt;May 27, 2016&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-ACU.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-ACU.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
 </item>
     
