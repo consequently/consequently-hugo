@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 18 Sep 2017 14:45:48 AEST</updated>
+    <updated>Tue, 19 Sep 2017 22:50:56 AEST</updated>
 
 
 <item>
@@ -61,9 +61,24 @@
 <item>
 <title>News</title>
 <link>http://consequently.org/news/</link>
-<pubDate>Mon, 18 Sep 2017 14:38:20 &#43;1100</pubDate>
+<pubDate>Tue, 19 Sep 2017 22:47:48 &#43;1100</pubDate>
 <guid>http://consequently.org/news/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Learning and Teaching (the eleventh of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-11-learning-and-teaching/</link>
+<pubDate>Tue, 19 Sep 2017 22:47:48 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-11-learning-and-teaching/</guid>
+<description>&lt;p&gt;Working in philosophical logic, I love the opportunity to &lt;em&gt;learn&lt;/em&gt; from so many people through history, and not only to &lt;em&gt;learn&lt;/em&gt;, but to pass on a tradition, and to have the opportunity to extend the tradition, and to refine it a little, in passing it on.  It’s been a delight to learn from some &lt;a href=&#34;http://consequently.org/writing/logicians/&#34;&gt;great figures&lt;/a&gt;, the historical figures through their writing, and my contemporaries in person, both as &lt;em&gt;face-to-face teachers&lt;/em&gt; (while a student, I learned logic from Sheila Oates-Williams, Neil Williams, Rod Girle, Ian Hinckfuss, and Graham Priest), but the learning doesn’t stop when you finish your degree. I’ve learned much from colleagues (Bob Meyer, Richard Sylvan, John Slaney, Allen Hazen, Graham Priest (again), Zach Weber, Dave Ripley, Shawn Standefer), whose work I admire, and who generously share of their time at whiteboards, in seminars, and in many many conversations. I have also learned a great deal from all of my &lt;a href=&#34;http://consequently.org/writing/logicians/&#34;&gt;graduate students&lt;/a&gt;, who have sent me in directions I never expected to head. If learning logic is (in part) &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-05-recognition/&#34;&gt;gaining facility with the concepts you have&lt;/a&gt;, as well as &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-06-expansion/&#34;&gt;acquiring new concepts&lt;/a&gt;, then working &lt;em&gt;with others&lt;/em&gt; is a very good way to learn. The kinds of knowledge you acquire is not merely &lt;em&gt;knowing that&lt;/em&gt;, but it (at least in part) skills to be learned, and they’re learned by practice, and sometimes skilled practice is best acquired when guided by others — explicitly, when the teacher knows she is &lt;em&gt;teaching&lt;/em&gt; — or implicitly, when we observe an expert displaying expertise, and we can use their practice to scaffold our own, and learn by imitation. I’ve learned so much from my teachers, not only in consciously building on their ideas, but in learning how to &lt;em&gt;be&lt;/em&gt; a logician by starting in their footsteps.&lt;/p&gt;
+
+&lt;p&gt;One way to develop the tradition is to &lt;a href=&#34;http://consequently.org/class/&#34;&gt;teach&lt;/a&gt;, and a significant part of my job at the &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; is to teach, and a lot of my time is spent teaching philosophical logic. Putting together a course is a good way of sorting out your ideas, and in philosophical logic, where the concepts very clearly and precisely build on prior ideas, it is a real intellectual challenge to see how you can teach a course in 12 weeks that, say, &lt;a href=&#34;http://consequently.org/class/2017/PHIL30043&#34;&gt;introduces Gödel’s incompleteness theorems&lt;/a&gt; and everything you need to understand them. This is a challenge, and designing the curriculum in such a way to carry undergraduate students from the basics of predicate logic, through soundness and completeness, into Peano arithmetic, recursive functions, diagonalisation, and into Gödel’s proofs — and to do it in some way that there is hope that the students will survive the journey with their curiosity and interest intact! — forces you to come to grips with the concepts in a way that a cursory understanding won’t suffice. I can truly say that I’ve come to understand things much more deeply when I’ve had the opportunity to &lt;em&gt;teach&lt;/em&gt; them.&lt;/p&gt;
+
+&lt;p&gt;That’s why I’m enjoying &lt;a href=&#34;http://consequently.org/writing/ptp/&#34;&gt;writing my new book&lt;/a&gt;. Officially, it is a research monograph and not a textbook, but one of the ways I’ve been describing it (to myself, and to others, who ask me what I’m writing on) is that it’s trying to explain to people attracted to normative pragmatic theories of meaning what they can do with recent work in logic (in proof theory, in particular), and to explain to logicians what philosophy they should have to understand why proof theory works so well. Yes, the core of it is a particular &lt;em&gt;argument&lt;/em&gt; for a way of understanding the distinctive nature of logic, but that argument is buttressed by a lot of &lt;em&gt;showing&lt;/em&gt; as well as &lt;em&gt;saying&lt;/em&gt;. You’ve got to &lt;em&gt;learn some logic&lt;/em&gt; to understand why it is the kind of thing it is, and to get a real sense of what it can &lt;em&gt;do&lt;/em&gt; (and what it can’t). To do that, is to &lt;em&gt;teach&lt;/em&gt;, as well as to &lt;em&gt;argue&lt;/em&gt;, and that is just how I like it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Learning and Teaching&lt;/em&gt; is the eleventh of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -332,8 +347,8 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-07-pragmatics/&#34;&gt;Pragmatics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-08-attention/&#34;&gt;Attention&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-09-necessity/&#34;&gt;Necessity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Possibility&lt;/li&gt;
-&lt;li&gt;Learning and Teaching&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-10-possibility/&#34;&gt;Possibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-11-learning-and-teaching/&#34;&gt;Learning and Teaching&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Community&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -1744,15 +1759,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;p&gt;I like the poster on my picket fence, not only because the smiling faces of the schoolkids in Myanmar are a refreshing change from the smiling faces of party candidates, but because it reminds and challenges us about our place in the world. Our political actions, whether our votes or our voices, can aim at for more than our own narrow self interest. Challenges over climate change, food insecurity, and refugee movements will only increase in the years ahead. To meet these challenges, we will need the cooperation of our neighbours.  We can start acting just a little bit more like a good neighbour now. It&amp;rsquo;s the least we could do.&lt;/p&gt;
 
 &lt;p&gt;If you want to know more about the Campaign for Australian Aid, visit &lt;a href=&#34;https://australianaid.org&#34;&gt;https://australianaid.org&lt;/a&gt;, and consider the wider world when you cast your vote.&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>3am Interview on Philosophical Logic</title>
-<link>http://consequently.org/news/2016/3am-interview/</link>
-<pubDate>Mon, 06 Jun 2016 17:37:47 &#43;1100</pubDate>
-<guid>http://consequently.org/news/2016/3am-interview/</guid>
-<description>&lt;p&gt;A few weeks ago, Richard Marshall interviewed me for &lt;a href=&#34;http://www.3ammagazine.com&#34;&gt;3am Magazine&lt;/a&gt;&amp;rsquo;s series of interviews with philosophers. If you&amp;rsquo;re interested in my work on logical pluralism, proof theory and things like that, &lt;a href=&#34;http://www.3ammagazine.com/3am/the-logical-pluralist/&#34;&gt;this interview&lt;/a&gt; might be a good place to start. I hope you like it. If you&amp;rsquo;ve got any questions, please let me know.&lt;/p&gt;
-</description>
 </item>
     
   </channel>
