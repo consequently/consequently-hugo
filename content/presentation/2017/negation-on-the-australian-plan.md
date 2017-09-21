@@ -11,3 +11,5 @@ publishdate = "2017-08-23"
 This talk is based on joint work with [Professor Franz Berto](http://www.uva.nl/en/profile/b/e/f.berto/f.berto.html), from the University of Amsterdam.
 
 This is a talk presented at the [Melbourne Logic Seminar](http://blogs.unimelb.edu.au/logic/logic-seminar/).
+
+* The [slides are available here](/slides/negation-on-the-australian-plan-logicmelb.pdf).
