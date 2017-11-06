@@ -26,7 +26,24 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 22 Sep 2017 11:00:00 &#43;1100</updated>
+    <updated>Sat, 11 Nov 2017 09:30:00 &#43;0000</updated>
+    
+ 
+    <item>
+      <title>Proof Identity, Aboutness and Meaning</title>
+      <link>http://consequently.org/presentation/2017/proof-identity-aboutness-and-meaning/</link>
+      <pubDate>Sat, 11 Nov 2017 09:30:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2017/proof-identity-aboutness-and-meaning/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how different approaches to hyperintensionality, aboutness and subject matter treat (classically) logically equivalent statements. I compare and contrast two different notions of subject matter that might be thought to be representational or truth first &amp;ndash; &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), and truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;.” I contrast this with the kind of inferentialist account of hyperintensionality arising out of the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a talk presented at the &lt;a href=&#34;https://www.gla.ac.uk/schools/humanities/research/philosophyresearch/researchprojects/thewholetruth/formalphilosophy/&#34;&gt;Glasgow-Melbourne Formal Philosophy Workshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-identity-aboutness-and-meaning.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -374,24 +391,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-4-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Generality and Existence 3: Substitution and Identity</title>
-      <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
-      <pubDate>Wed, 02 Dec 2015 16:00:00 &#43;0000</pubDate>
-      
-      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;I gave a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
-
-&lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
