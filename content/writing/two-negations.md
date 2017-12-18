@@ -3,7 +3,7 @@ title: "Two Negations are More than One"
 author: Greg Restall
 status: In Progress
 type: unpublished
-citation: "&ldquo;Two Negations are More than One,&rdquo; article in progress."
+citation: "&ldquo;Two Negations are More than One,&rdquo; article to appear in <em>Graham Priest on Dialetheism and Paraconsistency</em>, edited by Can Ba&#x15F;kent, Thomas Macaulay Ferguson."
 tag: two-negations
 file: two-negations.pdf
 subjects: first_degree_entailment negation paraconsistency Graham_Priest
