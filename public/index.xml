@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 19 Dec 2017 08:31:31 AEDT</updated>
+    <updated>Tue, 19 Dec 2017 14:49:36 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,23 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Generality and Existence I: Quantification and Free Logic</title>
+<link>http://consequently.org/writing/generality-and-existence-1/</link>
+<pubDate>Tue, 19 Dec 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/generality-and-existence-1/</guid>
+<description>&lt;p&gt;In this paper, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &amp;lsquo;conjunction&amp;rsquo; from apparently similar rules for putative concepts like &amp;lsquo;tonk&amp;rsquo;, and I show that the rules for the quantifiers&amp;mdash;and the existence predicate&amp;mdash;satisfy that condition.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -375,14 +392,6 @@
 
 &lt;p&gt;With that said, I&amp;rsquo;d love to hear back from you, especially if these thoughts spark any reflections of your own.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>http://consequently.org/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1726,23 +1735,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-AAP.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-AAP.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
-<link>http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</link>
-<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/aal-2016/&#34;&gt;2016 Australasian Association for Logic Conference&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
-
-&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The slides for the talk are &lt;a href=&#34;http://consequently.org/slides/proof-terms-aal-2016.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>

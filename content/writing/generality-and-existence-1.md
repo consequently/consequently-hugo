@@ -9,8 +9,8 @@ tag: generality-and-existence-1
 file: generality-and-existence-1.pdf
 subjects: free_logic proof_theory 
 comments: yes
-date: 2015-10-14
-publishdate: 2010-10-14
+date: 2017-12-19
+publishdate: 2017-12-19
 filter:
   - erb
   - markdown

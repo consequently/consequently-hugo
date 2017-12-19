@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://consequently.org/writing/generality-and-existence-1/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2017/proof-identity-aboutness-and-meaning/</loc>
     <lastmod>2017-11-11T09:30:00+00:00</lastmod>
   </url>
@@ -340,11 +345,6 @@
   <url>
     <loc>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</loc>
     <lastmod>2015-10-24T15:27:36+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/writing/generality-and-existence-1/</loc>
-    <lastmod>2015-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2762,13 +2762,13 @@
   
   <url>
     <loc>http://consequently.org/writing/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2017-11-11T09:30:00+00:00</lastmod>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
