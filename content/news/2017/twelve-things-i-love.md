@@ -30,7 +30,7 @@ So, here&rsquo;s what I&rsquo;ll do: I&rsquo;m going to spend some time expandin
 9. [Necessity](/news/2017/twelve-things-09-necessity/)
 10. [Possibility](/news/2017/twelve-things-10-possibility/)
 11. [Learning and Teaching](/news/2017/twelve-things-11-learning-and-teaching/)
-12. Community
+12. [Community](/news/2017/twelve-things-12-community/)
 
 Oh, before I forget, I should add a qualification. This list is idiosyncratic and particular in a number of different ways. I don&rsquo;t expect that what I love is what others who work in philosophical logic love, and neither do I mean to imply that these joys are _only_ to be found when you work in philosophical logic.  In giving this list, I don&rsquo;t mean to universalise to other people&rsquo;s experience, or to claim any particular distinction for my discipline in comparison to others.
 

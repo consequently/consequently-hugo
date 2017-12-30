@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 23 Dec 2017 17:29:32 AEDT</updated>
+    <updated>Sat, 30 Dec 2017 17:16:06 AEDT</updated>
 
 
 <item>
@@ -35,6 +35,33 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>News</title>
+<link>http://consequently.org/news/</link>
+<pubDate>Sat, 30 Dec 2017 17:12:57 AEDT</pubDate>
+<guid>http://consequently.org/news/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Community (the twelfth of twelve things I love about philosophical logic)</title>
+<link>http://consequently.org/news/2017/twelve-things-12-community/</link>
+<pubDate>Sat, 30 Dec 2017 17:12:57 AEDT</pubDate>
+<guid>http://consequently.org/news/2017/twelve-things-12-community/</guid>
+<description>&lt;p&gt;I love the way I&amp;rsquo;ve met so many different people through working in logic, that I&amp;rsquo;ve made good friends, good colleagues, good teachers and mentors. I’ve been part of an enterprise that’s larger than any one person. I have been shaped by that community, and have had the opportunity to made some small mark on it myself.&lt;/p&gt;
+
+&lt;p&gt;Logic, like any other academic discipline, has a history. The activities of &lt;em&gt;doing&lt;/em&gt; logic — of &lt;em&gt;studying&lt;/em&gt;, &lt;em&gt;researching&lt;/em&gt; and &lt;em&gt;teaching&lt;/em&gt; — are spread out through time. Those activities are also, equally, spread out in space. Logic is done in many different places, in many different contexts, by many different individuals, and research teams.  As I’ve already pointed out, those activities are shaped by different disciplinary connections (into philosophy, mathematics, computer science, linguistics, engineering, etc.), but they are also shaped by the emphases of different research groups and traditions. Research, these days, is dominated not so much by a small number of iconic logicians, but by research groups with distinctive research programmes.&lt;/p&gt;
+
+&lt;p&gt;Here are some examples: think of the difference between Amsterdam-style modal logic, on the one hand, and exact truthmaking semantics on the other, concerning approaches to intensionality and hyperintensionality, or for examples on the proof theoretical side of the street, the different traditions of Higher Order Type Theory and of Linear Logic and Ludics as frameworks for understanding proof, computation and meaning. The differences between these traditions are not simply matters of differences between individual researchers and their emphases — though of course, there are significant founding figures for each tradition I mention — the driving forces in each of these active research programmes is at the level of the &lt;em&gt;team&lt;/em&gt; or beyond. Each approach brings with it a (larger or smaller) loose formation of researchers who work on problems in their fields: they get together at conferences and workshops, co-author papers, apply for research grants, supervise graduate students, all the while, maintaining and developing the tradition. Research that leaves a mark is not so much the activity of the brilliant sole researcher, it occurs at a larger scale.&lt;/p&gt;
+
+&lt;p&gt;Recognising this fact brings important questions to the fore: given that research at this scale is a community enterprise, how does that community function? Who is included? Who is excluded? How are people trained and shaped? What kinds of conversations are possible? What approaches are encouraged? My little corner of philosophical logic is only beginning to explicitly address some of these issues. &lt;a href=&#34;https://gillianrussell.net&#34;&gt;Gill Russell&lt;/a&gt; and worked to get a decent gender balance in our &lt;a href=&#34;http://consequently.org/writing/new-waves-in-philosophical-logic/&#34;&gt;edited collection&lt;/a&gt;. We partly succeeded on that front. We fail, mightily, on including participants from outside Europe, America and Australia. Further, the group of authors is overwhelmingly white. We could have done better. There is scope for the community to be more representative of thew wider community around us. Lasting change will require more than just good will and effort from individuals: it will involve broader social change, so that the oppressed and excluded get their due, and all to have the opportunities currently afforded to those who have the easiest access to higher education. That social change won’t come easy. However, those of us with the institutional capital to be able to shape and support research groups nonetheless have the opportunity to leave the discipline better than we found it, with a wider spectrum of voices included, with all people treated well, and a broader family of concerns taken seriously.  We can run conferences where people are treated well; we can mentor and support our students, both women and men; we can encourage the work of those whose voices are routinely excluded, and so, build up a community that is resilient and flourishing.&lt;/p&gt;
+
+&lt;p&gt;As for me, I’ve been fortunate, more fortunate than I can readily discern. Not only have I been shaped by encouraging and supportive teachers and mentors throughout my own research career, but unlike many of my female colleagues, I’ve not been harassed or endangered. No-one has attempted to take advantage of me, or pass my work off as theirs. Overwhelmingly, people in my field have taken me seriously, even when I was a blundering student, attempting to find my way in the wider academic world. The reception I’ve had in the wider academic world is the kind of community I want for those coming after me.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Community&lt;/em&gt; is the twelfth of &lt;a href=&#34;http://consequently.org/news/2017/twelve-things-i-love/&#34;&gt;twelve things that I love about philosophical logic&lt;/a&gt;.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -92,14 +119,6 @@
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/negation-on-the-australian-plan-logicmelb.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-</item>
-    
-<item>
-<title>News</title>
-<link>http://consequently.org/news/</link>
-<pubDate>Tue, 19 Sep 2017 22:47:48 &#43;1100</pubDate>
-<guid>http://consequently.org/news/</guid>
-<description></description>
 </item>
     
 <item>
@@ -385,7 +404,7 @@
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-09-necessity/&#34;&gt;Necessity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-10-possibility/&#34;&gt;Possibility&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-11-learning-and-teaching/&#34;&gt;Learning and Teaching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/news/2017/twelve-things-12-community/&#34;&gt;Community&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Oh, before I forget, I should add a qualification. This list is idiosyncratic and particular in a number of different ways. I don&amp;rsquo;t expect that what I love is what others who work in philosophical logic love, and neither do I mean to imply that these joys are &lt;em&gt;only&lt;/em&gt; to be found when you work in philosophical logic.  In giving this list, I don&amp;rsquo;t mean to universalise to other people&amp;rsquo;s experience, or to claim any particular distinction for my discipline in comparison to others.&lt;/p&gt;
@@ -1720,21 +1739,6 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;, Rutgers, July 2016.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Proofs and what they’re good for</title>
-<link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-melb/</link>
-<pubDate>Wed, 20 Apr 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-melb/</guid>
-<description>&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://aap.org.au/conference&#34;&gt;2016 Australasian Association for Philosophy Conference&lt;/a&gt; on Monday, July 3, 2016.&lt;/p&gt;
-
-&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-AAP.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-AAP.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 </item>
