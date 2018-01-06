@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://consequently.org/presentation/2018/mit-concept-evolution-group/</loc>
+    <lastmod>2018-04-24T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/mit-informal/</loc>
+    <lastmod>2018-04-23T14:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/mit-sllerg/</loc>
+    <lastmod>2018-04-20T14:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/mit-wip/</loc>
+    <lastmod>2018-04-19T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/uconn-brown-bag/</loc>
+    <lastmod>2018-04-18T12:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/pitt-philosophy-colloquium/</loc>
+    <lastmod>2018-04-13T15:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/cmu-pure-and-applied-logic/</loc>
+    <lastmod>2018-04-12T16:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/cuny-gc-logic-and-metaphysics/</loc>
+    <lastmod>2018-04-09T16:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/nyu-brown-bag/</loc>
+    <lastmod>2018-04-06T16:15:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://consequently.org/presentation/2018/cuny-gc-colloquium/</loc>
+    <lastmod>2018-03-28T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/news/2017/twelve-things-12-community/</loc>
     <lastmod>2017-12-30T17:12:57+11:00</lastmod>
   </url>
@@ -2756,7 +2806,7 @@
   
   <url>
     <loc>http://consequently.org/presentation/</loc>
-    <lastmod>2017-11-11T09:30:00+00:00</lastmod>
+    <lastmod>2018-04-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2773,7 +2823,7 @@
   
   <url>
     <loc>http://consequently.org/</loc>
-    <lastmod>2017-12-30T17:12:57+11:00</lastmod>
+    <lastmod>2018-04-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
