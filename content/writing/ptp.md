@@ -7,7 +7,6 @@ kind: book
 status: In Progress
 citation: "<em>Proof Theory and Philosophy</em>&#58; book manuscript in progress."
 tag: ptp
-file: ptp.pdf
 subjects: proofs sequents meaning quantifiers non-classical_logic classical_logic
 comments: yes
 date: 2017-07-26
@@ -31,5 +30,3 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <li /> Teach both formal philosophical logic in such a way that is not doctrinaire or logically partisan.  That is, I will <em>not</em> argue that classical logic, or that intuitionistic logic, or that My Favourite Logic is the One True Logic. (Of course, hearing me say this is <a href="http://consequently.org/writing/logical_pluralism/">not a surprise</a>.)
 <li /> I am (at this stage, at least) planning to make the book <a href="http://consequently.org/news/2004/03/18/publishing_a_book">available for download</a> as well as published by an academic publisher.
 </ol>
-
-The first couple of chapters are now available here: <a href="http://consequently.org/papers/ptp.pdf">pdf with hyperlinks</a>. 
