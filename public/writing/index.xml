@@ -310,5 +310,1552 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
 ]]></description>
     </item>
     
+ 
+    <item>
+      <title>On the ternary relation and conditionality</title>
+      <link>http://consequently.org/writing/ternary-cond/</link>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ternary-cond/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;One of the most dominant approaches to semantics for relevant (and many paraconsistent) logics is the Routley–Meyer semantics involving a ternary relation on points. To some (many?), this ternary relation has seemed like a technical trick devoid of an intuitively appealing philosophical story that connects it up with conditionality in general. In this paper, we respond to this worry by providing three different philosophical accounts of the ternary relation that correspond to three conceptions of conditionality. We close by briefly discussing a general conception of conditionality that may unify the three given conceptions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Molinism and the Thin Red Line</title>
+      <link>http://consequently.org/writing/molinism-trl/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/molinism-trl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Molinism is an attempt to do equal justice to divine foreknowledge and human freedom.  For Molinists, human freedom &lt;em&gt;fits&lt;/em&gt; in this universe for the future is open or unsettled.  However, God&amp;rsquo;s middle knowledge &amp;ndash; God&amp;rsquo;s contingent knowledge of what agents would freely do in this or that circumstance &amp;ndash; underwrites God&amp;rsquo;s omniscience in the midst of this openness.&lt;/p&gt;
+
+&lt;p&gt;In this paper I rehearse Nuel Belnap and Mitchell Green&amp;rsquo;s argument in &amp;lsquo;Indeterminism and the Thin Red Line&amp;rsquo; against the reality of a distinguished single future in the context of branching time, and show that it applies applies equally against Molinism + branching time.  In the process, we show how contemporary work in the logic of temporal notions in the context of branching time (specifically, Prior&amp;ndash;Thomason semantics) can illuminate discussions in the metaphysics of freedom and divine knowledge.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Anti-Realist Classical Logic and Realist Mathematics</title>
+      <link>http://consequently.org/writing/antirealist/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/antirealist/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I sketch an application of a semantically anti-realist understanding of the classical sequent calculus to the topic of mathematics. The result is a semantically anti-realist defence of mathematical realism. In the paper, I develop the view and compare it to orthodox positions in the philosophy of mathematics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logic in Australasia</title>
+      <link>http://consequently.org/writing/logic_in_australasia/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logic_in_australasia/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is an idiosyncratic history of philosophical logic in Australia and New Zealand, highlighting two significant points of research in Australasian philosophical logic: modal logic and relevant/paraconsistent logic.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On the ternary relation and conditionality</title>
+      <link>http://consequently.org/writing/sitconchan/</link>
+      <pubDate>Sat, 25 Dec 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/sitconchan/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Majer and Peli&amp;scaron; have proposed a relevant logic for epistemic agents, providing a novel extension of the relevant logic R with a distinctive epistemic modality K, which is at the one and the same time factive (K&amp;phi; &amp;rarr; &amp;phi; is a theorem) and an existential normal modal operator (K(&amp;phi; &amp;or; &amp;psi;) &amp;rarr; (K&amp;phi; &amp;or; K&amp;psi;) is also a theorem). The intended interpretation is that K&amp;phi; holds (relative to a situation &lt;em&gt;s&lt;/em&gt;) if there is a resource available at &lt;em&gt;s&lt;/em&gt;, confirming &amp;phi;. In this article we expand the class of models to the broader class of &amp;lsquo;general epistemic frames&amp;rsquo;. With this generalisation we provide a sound and complete axiomatisation for the logic of general relevant epistemic frames. We also show, that each of the modal axioms characterises some natural subclasses of general frames.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Always More</title>
+      <link>http://consequently.org/writing/alwaysmore/</link>
+      <pubDate>Tue, 16 Nov 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/alwaysmore/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A possible world is a point in logical space. It plays a dual role with respect to propositions. (1) A possible world determines the truth value of every proposition. For each world &lt;em&gt;w&lt;/em&gt; and proposition &lt;em&gt;p&lt;/em&gt;, either at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is true, or at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is not true. (2) Each set of possible worlds determines a proposition. If &lt;em&gt;S&lt;/em&gt;, a subset of &lt;em&gt;W&lt;/em&gt; is a set of worlds, there is a proposition &lt;em&gt;p&lt;/em&gt; true at exactly the worlds in &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I construct a logic, extending classical logic with a single unary operator, which has no complete Boolean algebras as models. If the family of propositions we are talking about in (1) and (2) has the kind of structure described in that logic, then (1) and (2) cannot jointly hold.  I then explain what this might mean for theories of propositions and possible worlds.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Truth Tellers in Bradwardine&#39;s Theory of Truth</title>
+      <link>http://consequently.org/writing/bradwardine-truth-tellers/</link>
+      <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine-truth-tellers/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Stephen Read&amp;rsquo;s work on Bradwardine&amp;rsquo;s theory of truth is some of the most exciting work on truth and insolubilia in recent years. Read brings together modern tools of formal logic and Bradwardine&amp;rsquo;s theory of signification to show that medieval distinctions can give great insight into the behaviour of semantic concepts such as truth. In a number of papers, I have developed a model theory for Bradwardine&amp;rsquo;s account of truth. This model theory has distinctive features: it serves up models in which every declarative object (any object signifying &lt;em&gt;anything&lt;/em&gt;) signifies its own truth. This leads to a puzzle: there are good arguments to the effect that if anything is a truth-teller, it is &lt;em&gt;false&lt;/em&gt;. This is a puzzle. What distinguishes &lt;em&gt;paradoxical&lt;/em&gt; truth-tellers from &lt;em&gt;benign&lt;/em&gt; truth tellers? It is my task in this paper to explain this distinction, and to clarify the behaviour of truth-tellers, given Bradwardine&amp;rsquo;s account of signification.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proof Theory and Meaning: the context of deducibility</title>
+      <link>http://consequently.org/writing/ptm-context/</link>
+      <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ptm-context/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I examine Belnap&amp;rsquo;s two criteria of &lt;em&gt;existence&lt;/em&gt; and &lt;em&gt;uniqueness&lt;/em&gt; for evaluating putative definitions of logical concepts in inference rules, by determining how they apply in four different examples: conjunction, the universal quantifier, the indefinite choice operator and the necessity in the modal logic S5.  This illustrates the ways that definitions may be evaluated relative to a background theory of consequence, and the ways that different accounts of consequence provide us with different resources for making definitions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Decorated Linear Order Types and the Theory of Concatenation</title>
+      <link>http://consequently.org/writing/dlot/</link>
+      <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/dlot/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We study the interpretation of Grzegorczyk&amp;rsquo;s Theory of Concatenation TC in structures of decorated linear order types satisfying Grzegorczyk&amp;rsquo;s axioms. We show that TC is incomplete for this interpretation. What is more, the first order theory validated by this interpretation interprets arithmetical truth. We also show that every extension of TC has a model that is not isomorphic to a structure of decorated order types.&lt;/p&gt;
+
+&lt;p&gt;We provide a positive result, to wit, a construction that builds structures of decorated order types from models of a suitable concatenation theory. This construction has the property that if there is a representation of a certain kind, then the construction provides a representation of that kind.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Barriers to Consequence</title>
+      <link>http://consequently.org/writing/barriers/</link>
+      <pubDate>Thu, 15 Jul 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/barriers/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper we show how the formal counterexamples to Hume&amp;rsquo;s Law (to the effect that you cannot derive a properly moral statement from properly descriptive statements) are of a piece with formal counterexample to other, plausible &amp;ldquo;inferential barrier theses&amp;rdquo;. We use this fact to motivate a uniform treatment of barrier theses which is immune from formal counterexample. We provide a uniform semantic representation of barrier theses which has applications in the case of what we call &amp;ldquo;Russell&amp;rsquo;s Law&amp;rdquo; (you can&amp;rsquo;t derive a universal from particulars) and &amp;ldquo;Hume&amp;rsquo;s Second Law&amp;rdquo; (you can&amp;rsquo;t derive a statement about the future from statements about the past). We then finally apply these results to formal treatments of deontic logic to show how to avoid formal counterexamples to Hume&amp;rsquo;s Law in a plausible and motivated manner.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Relevant Agents</title>
+      <link>http://consequently.org/writing/relevant_agents/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/relevant_agents/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Majer and Peli&amp;scaron; have proposed a relevant logic for epistemic agents, providing a novel extension of the relevant logic R with a distinctive epistemic modality K, which is at the one and the same time factive (K&amp;phi; &amp;rarr; &amp;phi; is a theorem) and an existential normal modal operator (K(&amp;phi; &amp;or; &amp;psi;) &amp;rarr; (K&amp;phi; &amp;or; K&amp;psi;) is also a theorem). The intended interpretation is that K&amp;phi; holds (relative to a situation s) if there is a resource available at s, confirming &amp;phi;. In this article we expand the class of models to the broader class of &amp;lsquo;general epistemic frames&amp;rsquo;. With this generalisation we provide a sound and complete axiomatisation for the logic of general relevant epistemic frames. We also show, that each of the modal axioms characterises some natural subclasses of general frames.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On t and u, and what they can do</title>
+      <link>http://consequently.org/writing/on_t_and_u/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/on_t_and_u/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper shows that once we have propositional constants &lt;em&gt;t&lt;/em&gt; (the conjunction of all truths) and &lt;em&gt;u&lt;/em&gt; (the disjunction of all untruths), paradox ensues, provided you have a conditional in the language strong enough to give you &lt;em&gt;modus ponens&lt;/em&gt;.  This is an issue for views like those of Jc Beall, Ross Brady, Hartry Field and Graham Priest.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>What are we to accept, and what are we to reject, when saving truth from paradox?</title>
+      <link>http://consequently.org/writing/stp/</link>
+      <pubDate>Mon, 18 Jan 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/stp/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this article, I praise Hartry Field&amp;rsquo;s fine book &lt;em&gt;Saving Truth From Paradox&lt;/em&gt; (Oxford University Press, 2008).  I also show that his account of properties is threatened by a paradox,  and I explain how we can only avoid this paradox by coming to a clearer understanding the connections between accepting and rejecting (or assertion and denial) and the identity conditions for properties.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Models for Substructural Arithmetics</title>
+      <link>http://consequently.org/writing/mfsa/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/mfsa/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper explores models for arithmetics in substructural logics.  In the existing literature on substructural arithmetic, frame semantics for substructural logics are absent.  We will start to fill in the picture in this paper by examining frame semantics for the substructural logics C (linear logic plus distribution), R (relevant logic) and CK (C plus weakening).  The eventual goal is to find negation complete models for arithmetic in R.&lt;/p&gt;
+
+&lt;p&gt;This paper is dedicated to Professor Robert K. Meyer.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On Permutation in Simplified Semantics</title>
+      <link>http://consequently.org/writing/permutation/</link>
+      <pubDate>Tue, 03 Nov 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/permutation/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This note explains an error in Restall&amp;rsquo;s &amp;lsquo;Simplified Semantics for Relevant Logics (and some of their rivals)&amp;rsquo; (&lt;em&gt;Journal of Philosophical Logic&lt;/em&gt; 1993) concerning the modelling conditions for the axioms of &lt;em&gt;assertion&lt;/em&gt; &lt;em&gt;A&lt;/em&gt; &amp;rarr; ((&lt;em&gt;A&lt;/em&gt; &amp;rarr; &lt;em&gt;B&lt;/em&gt;) &amp;rarr; &lt;em&gt;B&lt;/em&gt;)  and &lt;em&gt;permutation&lt;/em&gt; (&lt;em&gt;A&lt;/em&gt; &amp;rarr; (&lt;em&gt;B&lt;/em&gt; &amp;rarr; &lt;em&gt;C&lt;/em&gt;)) &amp;rarr; (&lt;em&gt;B&lt;/em&gt; &amp;rarr; (&lt;em&gt;A&lt;/em&gt; &amp;rarr; &lt;em&gt;C&lt;/em&gt;)).  We show that the modelling conditions for assertion and permutation proposed in &amp;lsquo;Simplified Semantics&amp;rsquo; overgenerate. In fact, they overgenerate so badly that the proposed semantics for the relevant logic R validate the rule of disjunctive syllogism.  The semantics provides for &lt;em&gt;no&lt;/em&gt; models of R in which the &amp;ldquo;base point&amp;rdquo; is inconsistent.&lt;/p&gt;
+
+&lt;p&gt;In this note, we explain this result, diagnose the mistake in &amp;lsquo;Simplified Semantics&amp;rsquo; and propose a correction.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Priori Truths</title>
+      <link>http://consequently.org/writing/apriori/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/apriori/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Philosophers love a priori knowledge: we delight in truths that can be known from the comfort of our armchairs, without the need to venture out in the world for cofirmation.  This is due not to laziness, but to two different considerations.  First, it seems that many philosophical issues aren&amp;rsquo;t settled by our experience of the world &amp;ndash; the nature of morality; the way concepts pick out objects; the structure of our experience of the world in which we find ourselves &amp;ndash; these issues seem to be decided not on the basis of our experience, but in some manner by things prior to (or independently of) that experience.  Second, even when we are deeply interested in how our experience lends credence to our claims about the world, the matter remains of the remainder: we learn more about how experience contributes to knowledge when we see what knowledge is available independent of that experience.&lt;/p&gt;
+
+&lt;p&gt;In this essay we will look at the topic of what can be known &lt;em&gt;a priori&lt;/em&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Truth Values and Proof Theory</title>
+      <link>http://consequently.org/writing/tvpt/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/tvpt/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I present an account of truth values for &lt;em&gt;classical logic&lt;/em&gt;, &lt;em&gt;intuitionistic logic&lt;/em&gt;, and &lt;em&gt;the modal logic S5&lt;/em&gt;, in which truth values are not a fundamental category from which the logic is defined, but rather, feature as an idealisation of more fundamental logical features arising out of the proof theory for each system. The result is not a new set of semantic structures, but a new understanding of how the existing semantic structures may be understood in terms of a more fundamental notion of logical consequence.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Using Peer Instruction to Teach Philosophy, Logic and Critical Thinking</title>
+      <link>http://consequently.org/writing/peer-instruction/</link>
+      <pubDate>Mon, 20 Apr 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/peer-instruction/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We explain how &lt;a href=&#34;http://mazur-www.harvard.edu/emdetails.php&#34;&gt;Eric Mazur&lt;/a&gt;&amp;rsquo;s technique of Peer Instruction may be used to teach philosophy, logic and critical thinking &amp;mdash; to good effect.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Appendix to &#39;Yo!&#39; and &#39;Lo!&#39;: the pragmatic topography of the space of reasons</title>
+      <link>http://consequently.org/writing/yo-lo-appendix/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/yo-lo-appendix/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The appendix to Kukla and Lance&amp;rsquo;s book is the preliminary development of a score-keeping semantics that begins with the broader field of vision opened up when we eschew the declarative fallacy and make use of abstract versions of the pragmatic distinctions developed in the body of the book.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Models for Liars in Bradwardine&#39;s Theory of Truth</title>
+      <link>http://consequently.org/writing/bradwardine-liars/</link>
+      <pubDate>Wed, 03 Dec 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine-liars/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Stephen Read&amp;rsquo;s work on Bradwardine&amp;rsquo;s theory of truth is some of the most exciting work on truth and insolubilia in recent years. In this paper, I give models for Read&amp;rsquo;s formulation of Bradwardine&amp;rsquo;s theory of truth, and I examine the behaviour of liar sentences in those models. I conclude by examining Bradwardine&amp;rsquo;s argument to the effect that if something signifies itself to be untrue then it signifies itself to be true as well. We will see that there are models in which this conclusion fails. This should help us elucidate the hidden assumptions required to underpin Bradwardine&amp;rsquo;s argument, and to make explicit the content of Bradwardine&amp;rsquo;s theory of truth.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Truthmakers, Entailment and Necessity 2008</title>
+      <link>http://consequently.org/writing/ten2008/</link>
+      <pubDate>Fri, 03 Oct 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ten2008/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;
+I update &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;&amp;rdquo; with a response to Stephen Read&#39;s wonderful &lt;em&gt;Mind&lt;/em&gt; 2000 argument to the effect that I got the disjunction thesis wrong.
+&lt;/p&gt;
+&lt;p&gt;
+I think I didn&#39;t get it wrong, but figuring out &lt;em&gt;why&lt;/em&gt; it&#39;s OK to hold that a truthmaker makes a disjunction true iff it makes a disjunct true is not as straightforward as I first thought.  Pluralism about truthmaking makes an entrance.
+&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Modal Models for Bradwardine&#39;s Theory of Truth</title>
+      <link>http://consequently.org/writing/bradwardine/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Stephen Read has recently discussed Thomas Bradwardine&amp;rsquo;s theory of truth, and defended it as an appropriate way to treat paradoxes such as the liar. In this paper, I discuss Read&amp;rsquo;s formalisation of Bradwardine&amp;rsquo;s theory of truth, and provide a class of models for this theory.  The models facilitate comparison of Bradwardine&amp;rsquo;s theory with contemporary theories of truth.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Envelopes and Indifference</title>
+      <link>http://consequently.org/writing/envelopes/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/envelopes/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We diagnose the two envelope &amp;ldquo;paradox&amp;rdquo;, showing how the indifference principle plays a role in prompting the conflicting assignments of the expected outcomes for switching or keeping.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Curry&#39;s Revenge: the costs of non-classical solutions to the paradoxes of self-reference</title>
+      <link>http://consequently.org/writing/costing/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/costing/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I point out that non-classical &amp;ldquo;solutions&amp;rdquo; the paradoxes of self-reference are non-particularly easy to give. Curry&amp;rsquo;s paradox is very very hard to avoid, if you wish to give a semantically cohrerent picture.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Assertion and Denial, Commitment and Entitlement, and Incompatibility (and some consequence)</title>
+      <link>http://consequently.org/writing/acdei/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/acdei/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this short paper, I compare and contrast the kind of symmetricalist treatment of negation favoured in different ways by Huw Price (in &amp;ldquo;Why &amp;lsquo;Not&amp;rsquo;?&amp;rdquo;) and by me (in &amp;ldquo;Multiple Conclusions&amp;rdquo;) with Robert Brandom&amp;rsquo;s analysis of scorekeeping in terms of commitment, entitlement and incompatibility.&lt;/p&gt;
+
+&lt;p&gt;Both kinds of account provide a way to distinguish the inferential significance of &amp;ldquo;&lt;em&gt;A&lt;/em&gt;&amp;rdquo; and &amp;ldquo;&lt;em&gt;A&lt;/em&gt; is warranted&amp;rdquo; in terms of a subtler analysis of our practices: on the one hand, we assert as well as deny; on the other, by distingushing downstream commitments from upstream entitlements and the incompatibility definable in terms of these.  In this note I will examine the connections between these different approaches.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Participatory Theory of the Atonement</title>
+      <link>http://consequently.org/writing/pa/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pa/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We argue that the participatory language, used in the New Testament to describe the the efficacy of Jesus&amp;rsquo; death on the cross, is essential for any understanding of the atonement. Purely personal or legal metaphors are incomplete and perhaps misleading on their own. They make much more sense when combined with and undergirded by, participatory metaphors.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Review of Ross Brady, Universal Logic</title>
+      <link>http://consequently.org/writing/universal/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/universal/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This solid volume with the ominous black cover and eerie glowing disc lettered with inscrutable strings of characters such as &amp;ldquo;DN&lt;sup&gt;d&lt;/sup&gt;Q,&amp;rdquo; &amp;ldquo;LSDJ&lt;sup&gt;d&lt;/sup&gt;,&amp;rdquo; and &amp;ldquo;L2LDJQ&lt;sup&gt;&amp;plusmn;&lt;/sup&gt;&amp;rdquo; is the fruit of over 30 years of Ross Brady&amp;rsquo;s logical labours. And it is worth the wait&amp;hellip;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Invention is the Mother of Necessity: modal logic, modal semantics and modal metaphysics</title>
+      <link>http://consequently.org/writing/invention/</link>
+      <pubDate>Wed, 03 Oct 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/invention/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Modal logic is a well-established field, and the possible worlds semantics of modal logics has proved invaluable to our understanding of the logical features of the modal concepts such as possibility and necessity. However, the significance of possible worlds models for a genuine theory of meaning&amp;ndash;let alone for metaphysics&amp;ndash;is less clear. In this paper I shall explain how and why the use of the concepts of necessity and possibility could arise (and why they have the logical behaviour charted out by standard modal logics) without either taking the notions of necessity or possibility as primitive, and without starting with possible worlds. Once we give an account of modal logic we can then go on to give an account of possible worlds, and explain why possible worlds semantics is a natural fit for modal logic without being the source of modal concepts.&lt;/p&gt;
+
+&lt;p&gt;This paper is an early draft, and comments are most welcome.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Symbolic Logic</title>
+      <link>http://consequently.org/writing/symbolic-logic/</link>
+      <pubDate>Sat, 03 Mar 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/symbolic-logic/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;1007 words on symbolic logic &amp;ndash; concentrating on the history of 20th Century logic, aimed at an audience of social scientists&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofnets for S5&amp;#58; sequents and circuits for modal logic</title>
+      <link>http://consequently.org/writing/s5nets/</link>
+      <pubDate>Sat, 03 Mar 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/s5nets/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I introduce a sequent system for the propositional modal logic S5.  Derivations of valid sequents in the system are shown to correspond to proofs in a novel natural deduction system of &lt;em&gt;circuit proofs&lt;/em&gt; (reminiscient of proofnets in linear logic, or multiple-conclusion calculi for classical logic).&lt;/p&gt;
+
+&lt;p&gt;The sequent derivations and proofnets are both simple extensions of sequents and proofnets for classical propositional logic, in which the new machinery&amp;mdash;to take account of the modal vocabulary&amp;mdash;is directly motivated in terms of the simple, universal Kripke semantics for S5.
+The sequent system is cut-free and the circuit proofs are normalising.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proof Theory and Meaning: on second order logic</title>
+      <link>http://consequently.org/writing/ptm-second-order/</link>
+      <pubDate>Sat, 03 Mar 2007 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ptm-second-order/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Second order quantification is puzzling. The second order quantifiers have natural and compelling inference rules, and they also have natural models. These do not match: the inference rules are sound for the models, but not complete, so either the proof rules are too weak or the models are too strong. Some, such as Quine, take this to be no real problem, since they take &amp;ldquo;second order logic&amp;rdquo; to be a misnomer. It is not logic but set theory in sheep&amp;rsquo;s clothing, so one would not expect to have a sound and complete axiomatisation of the theory.&lt;/p&gt;
+
+&lt;p&gt;I think that this judgement is incorrect, and in this paper I attempt to explain why. I show how on Nuel Belnap&amp;rsquo;s criterion for logicality, second order quantification can count as properly logic so-called, since the quantifiers are properly defined by their inference rules, and the addition of second order quantification to a basic language is conservative. With this notion of logicality in hand I then diagnose the incompleteness of the proof theory of second order logic in what seems to be a novel way.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Relevant and Substructural Logics</title>
+      <link>http://consequently.org/writing/hpplssl/</link>
+      <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/hpplssl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;An historical essay, sketching the development of relevant and substructural logics throughout the 20th Century and into the 21st.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Relevant Restricted Quantification</title>
+      <link>http://consequently.org/writing/rrq/</link>
+      <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/rrq/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The paper reviews a number of approaches for handling restricted quantification in relevant logic, and proposes a novel one. This proceeds by introducing a novel kind of enthymematic conditional.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Questions and Answers on Formal Philosophy</title>
+      <link>http://consequently.org/writing/masses/</link>
+      <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/masses/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;My entry in a book of interviews of philosophers who work on the more &lt;em&gt;formal&lt;/em&gt; side of the discipline.  It gives an account of how I got into this area, what I think logic is good for &amp;ndash; when it comes to philosophy &amp;ndash; and where I think we should head.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logics, Situations and Channels</title>
+      <link>http://consequently.org/writing/channels/</link>
+      <pubDate>Fri, 03 Mar 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/channels/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The notion of that information is relative to a context is important in many different ways. The idea that the context is &lt;em&gt;small&lt;/em&gt; &amp;ndash; that is, not necessarily a consistent and complete possible world &amp;ndash; plays a role not only in situation theory, but it is also an enlightening perspective from which to view other areas, such as modal logics, relevant logics, categorial grammar and much more.&lt;/p&gt;
+
+&lt;p&gt;In this article we will consider these areas, and focus then on one further question: How can we account for information about one thing giving us information about something else? This is a question addressed by channel theory. We will look at channel theory and then see how the issues of information flow and conditionality play a role in each of the different domains we have examined.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Pluralism</title>
+      <link>http://consequently.org/writing/pluralism/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pluralism/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is our manifesto on &lt;em&gt;logical pluralism&lt;/em&gt;.  We argue that the notion of logical consequence doesn&amp;rsquo;t pin down &lt;em&gt;one&lt;/em&gt; deductive consequence relation, but rather, there are many of them.  In particular, we argue that broadly classical, intuitionistic and relevant accounts of deductive logic are genuine logical consequence relations.  We should not search for &lt;em&gt;One True Logic&lt;/em&gt;, since there are &lt;em&gt;Many&lt;/em&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logic</title>
+      <link>http://consequently.org/writing/logic/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logic/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is an introductory textbook in logic, in the series &lt;em&gt;Fundamentals of Philosophy&lt;/em&gt;, published by Routledge.  I use the text in my &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161115/pub/&#34;&gt;Introduction to Formal Logic&lt;/a&gt; class at Melbourne.  It&amp;rsquo;s available at &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/0415400686/consequentlyorg&#34;&gt;Amazon UK&lt;/a&gt; and &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0415400686/consequentlyorg&#34;&gt;Amazon US&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The book has a dedicated website at &lt;a href=&#34;http://consequently.org/logic&#34;&gt;http://consequently.org/logic&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Consequence</title>
+      <link>http://consequently.org/writing/logical_consequence/</link>
+      <pubDate>Mon, 12 Dec 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logical_consequence/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A good argument is one whose conclusions follow from its premises; its conclusions are consequences of its premises. But in what sense do conclusions follow from premises? What is it for a conclusion to be a consequence of premises? Those questions, in many respects, are at the heart of logic (as a philosophical discipline).&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Constant Domain Quantified Modal Logics without Boolean Negation</title>
+      <link>http://consequently.org/writing/cdqml/</link>
+      <pubDate>Fri, 02 Sep 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/cdqml/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;The paper examines what its title says. Constant domain modal frames seem to be the natural semantics for quantified relevant logics and their cousins. Kit Fine has shown us that things are not that simple, as the natural proof theory is not complete for the natural semantics. In this paper I explore the somewhat simpler case of one-place modal operators. The natural proofs work, but there are a few surprises, such as the need to use intuitionistic implication and its dual, subtraction, in the completeness proof. This paper is dedicated to the memory of Richard Sylvan, who contributed so much to the study of the semantics of relevant logics and their neighbours.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>The Geometry of Non-Distributive Logics</title>
+      <link>http://consequently.org/writing/gndl/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/gndl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper, we introduce a new natural deduction system for the logic of lattices, and a number of extensions of lattice logic with different negation connectives.  We provide the class of natural deduction proofs with both a standard inductive definition and a global graph-theoretical criterion for correctness.  We show how normalisation in this system corresponds to cut elimination in the sequent calculus for lattice logic, and we indicate how proofs in this system may be labelled with terms exhibiting a kind of Curry-Howard isomorphism. This natural deduction system is inspired both by Shoesmith and Smiley&amp;rsquo;s multiple conclusion systems for classical logic and Girard&amp;rsquo;s proofnets for linear logic.&lt;/p&gt;
+
+&lt;p&gt;This paper is joint work with &lt;a href=&#34;http://www.unica.it/~paoli/&#34;&gt;Francesco Paoli&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Not Every Truth Can Be Known&amp;#58; at least, not all at once</title>
+      <link>http://consequently.org/writing/notevery/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/notevery/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;According to the &amp;ldquo;knowability thesis,&amp;rdquo; every truth is knowable.  Fitch&amp;rsquo;s paradox refutes the knowability thesis by showing that if we are not omniscient, then not only are some truths not known, but there are some truths that are not knowable.  In this paper, I propose a weakening of the knowability thesis (which I call the &amp;ldquo;conjunctive knowability thesis&amp;rdquo;) to the effect that for every truth &lt;em&gt;p&lt;/em&gt; there is a collection of truths such that (i) each of them is knowable and (ii) their conjunction is equivalent to &lt;em&gt;p&lt;/em&gt;.  I show that the conjunctive knowability thesis avoids triviality arguments against it, and that it fares very differently depending on one other issue connecting knowledge and possibility.  If some things are knowable but &lt;em&gt;false&lt;/em&gt;, then the conjunctive knowability thesis is trivially true.  On the other hand, if knowability entails truth, the conjunctive knowability thesis is coherent, but only if the logic of possibility is quite weak.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update, April 2005&lt;/em&gt;:  I&amp;rsquo;ve added a reference (thanks to Joe Salerno) to a recent paper of Risto Hilpinen, in which he motivates a conjunctive knowability thesis on the grounds of a Peircean pragmatism.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Multiple Conclusions</title>
+      <link>http://consequently.org/writing/multipleconclusions/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/multipleconclusions/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I argue for the following four theses. (1) Denial is not to be analysed as the assertion of a negation. (2) Given the concepts of assertion and denial, we have the resources to analyse logical consequence as relating arguments with multiple premises and multiple conclusions. Gentzen&amp;rsquo;s multiple conclusion calculus can be understood in a straightforward, motivated, non-question-begging way. (3) If a broadly anti-realist or inferentialist justification of a logical system works, it works just as well for classical logic as it does for intuitionistic logic. The special case for an anti-realist justification of intuitionistic logic over and above a justification of classical logic relies on an unjustified assumption about the shape of proofs. Finally, (4) this picture of logical consequence provides a relatively neutral shared vocabulary which can help us understand and adjudicate debates between proponents of classical and non-classical logics.&lt;/p&gt;
+
+&lt;p&gt;This paper has now been reprinted in &lt;em&gt;&lt;a href=&#34;http://www.denbridgepress.com/am.php&#34;&gt;Analysis and Metaphysics&lt;/a&gt;&lt;/em&gt;, 6, 2007, 14-34.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Moral Fictionalism versus the rest</title>
+      <link>http://consequently.org/writing/mf/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/mf/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper we introduce a distinct meta-ethical position, fictionalism about morality. We clarify and defend the position, showing that it is a way to save the &amp;ldquo;moral phenomena&amp;rdquo; while agreeing that there is no genuine objective prescriptivity to be described by moral terms. In particular, we distiguish moral fictionalism from moral quasi-realism, and we show that fictionalism many all of the virtues of quasi-realism but few of the vices.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Minimalists about Truth can (and should) be Epistemicists, and it helps if they are revision theorists too</title>
+      <link>http://consequently.org/writing/minitrue/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/minitrue/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Minimalists about truth say that the important properties of the
+truth predicate are revealed in the class of &lt;em&gt;T&lt;/em&gt;-biconditionals. Most
+minimalists demur from taking &lt;em&gt;all&lt;/em&gt; of the &lt;em&gt;T&lt;/em&gt;-biconditionals
+of the form &amp;ldquo;&amp;lt;&lt;em&gt;p&lt;/em&gt;&amp;gt; is true if and only if &lt;em&gt;p&lt;/em&gt;&amp;rdquo;, to be true, because to do so leads to paradox.  But exactly &lt;em&gt;which&lt;/em&gt; biconditionals turn out to be true?  I take a leaf out of the epistemic account of vagueness
+to show how the minimalist can avoid giving a comprehensive answer to that
+question.  I also show that this response is entailed by
+taking minimalism seriously, and that objections to this position may be usefully aided and abetted by Gupta and Belnap&amp;rsquo;s revision theory of truth.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Entries &#34;Belnap, Nuel Dinsmore Jr.&#34; and &#34;Lambert, J. Karel&#34; from the &lt;em&gt;Dictionary of Modern American Philosophers&lt;/em&gt;</title>
+      <link>http://consequently.org/writing/dmap-belnap-lambert/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/dmap-belnap-lambert/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Two short entries on two great philosophers of logic (and philosophical logicians) of late 20th and early 21st Century American philosophy, Nuel Belnap and Karel Lambert.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>&amp;#321;ukasiewicz, Supervaluations and the Future</title>
+      <link>http://consequently.org/writing/lsf/</link>
+      <pubDate>Thu, 03 Mar 2005 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/lsf/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper I consider an interpretation of future contingents which motivates a unification of a &amp;#321;ukasiewicz style logic with the more classical supervaluational semantics.  This in turn motivates a new non-classical logic modelling what is &amp;ldquo;made true by history up until now.&amp;rdquo;  I give a simple Hilbert-style proof theory, and a soundness and completeness argument for the proof theory with respect to the intended models.&lt;/p&gt;
+
+&lt;p&gt;This paper is available at &lt;a href=&#34;http://www.units.it/~episteme/L%26PS_Vol3No1/contents_L%26PS_Vol3No1.htm&#34;&gt;http://www.units.it/~episteme/L&amp;PS_Vol3No1/contents_L&amp;amp;PS_Vol3No1.htm&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>One Way to Face Facts</title>
+      <link>http://consequently.org/writing/facts/</link>
+      <pubDate>Sun, 03 Oct 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/facts/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Stephen Neale, in &lt;em&gt;Facing Facts&lt;/em&gt; takes theories of facts, truthmakers, and non-extensional connectives to be threatened by triviality in the face of powerful &amp;ldquo;slingshot&amp;rdquo; arguments. In this paper I rehearse the most powerful of these arguments, and then show that friends of facts have resources sufficient to not only resist slingshot arguments but also to be untroubled by them. If a fact theory is provided with a model, then the fact theorist can be sure that this theory is secure from triviality arguments.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Laws of Non-Contradiction, Laws of the Excluded Middle and Logics</title>
+      <link>http://consequently.org/writing/lnclem/</link>
+      <pubDate>Tue, 20 Jul 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/lnclem/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;There is widespread agreement that the law of non-contradiction is an important logical principle. There is less agreement on exactly &lt;em&gt;what&lt;/em&gt; the law amounts to. This unclarity is brought to light by the emergence of paraconsistent logics in which contradictions are tolerated (in the sense that not everything need follow from a contradiction, and that there are &amp;ldquo;worlds&amp;rdquo; in which contradictions are true) but in which the statement ~(&lt;em&gt;A&lt;/em&gt; &amp;amp; ~&lt;em&gt;A&lt;/em&gt;) (it is not the case that &lt;em&gt;A&lt;/em&gt; and not-&lt;em&gt;A&lt;/em&gt;) is still provable. This paper attempts to clarify the connection between different readings of the law of non-contradiction, the duality between the law of non-contradiction and the law of the excluded middle, and connections with logical consequence in general.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Routes to Triviality</title>
+      <link>http://consequently.org/writing/routes/</link>
+      <pubDate>Wed, 03 Mar 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/routes/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;It is well known that contraction-related principles trivialise na&amp;iuml;ve class theory. It is less well known that many other principles unrelated to contraction also render the theory trivial. This paper provides a characterisation of a large class of formulas which do the job. This class includes all properly implication formulas known in the literature, and adds countably many more.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Pluralism and the Preservation of Warrant</title>
+      <link>http://consequently.org/writing/warrantpres/</link>
+      <pubDate>Wed, 03 Mar 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/warrantpres/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I defend logical pluralism against the charge that &lt;em&gt;One True Logic&lt;/em&gt; is motivated by considerations of warrant preservation. On the way I attempt to clarify just a little the connections between deductive validity and epistemology.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Great Moments in Logic</title>
+      <link>http://consequently.org/writing/logicians/</link>
+      <pubDate>Mon, 05 Jan 2004 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logicians/</guid>
+      <description>&lt;![CDATA[&lt;h3&gt;Bernhard Bolzano (1781-1848)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Bolzano.jpg&#34; alt=&#34;[Image of Bolzano]&#34; /&gt;
+Bolzano was a philosopher, mathematician and logician who had important things to contribute in each of these fields. He&amp;#8217;s probably &lt;em&gt;best&lt;/em&gt; known for what he has done in &lt;a href=&#34;http://www.shu.edu/projects/reals/history/bolzano.html&#34;&gt;mathematics&lt;/a&gt;: the precise definition of continuity when it comes to real-valued functions. But for my money (and in my discipline) Bolzano was worth much more than this. He was the first philosopher to give a precise &lt;em&gt;analysis&lt;/em&gt; of logical consequence in terms we would recognise today. &lt;/p&gt;
+
+&lt;p&gt;(This was important for his project of understanding mathematics, and making it clearer, because mathematicians were getting into knots considering &lt;em&gt;infinite&lt;/em&gt; numbers, &lt;em&gt;infinitesimal&lt;/em&gt; numbers, and many other seemingly paradoxical things. The 1800s involved mathematicians painstakingly going over old reasoning step-by-step to see if (and how) the reasoning worked, and to see where it might go wrong. You can really only do this if you have a good understanding of how reasoning works. This is what Bolzano was trying to supply.) &lt;/p&gt;
+
+&lt;p&gt;Anyway, he argued that you can tell that an argument from premises to a conclusion is logically &lt;em&gt;valid&lt;/em&gt; if and only if it never proceeds from truth to falsity no matter how you change the non-logical vocabulary in the argument. So &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;Sally is coming to the party. &lt;br /&gt;
+    If Sally is coming to the party, Jim will be happy. &lt;br /&gt;
+    Therefore Jim will be happy. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;is &lt;em&gt;valid&lt;/em&gt; because we will never step from truth to falsity no matter how we change the subject matter. For example &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;Sally is joining the army. &lt;br /&gt;
+    If Sally is joining the army, she is putting her life at risk.  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Therefore Sally is putting her life at risk. &lt;/p&gt;
+
+&lt;p&gt;works too. In fact any argument with the shape &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;If &lt;em&gt;p&lt;/em&gt; then &lt;em&gt;q&lt;/em&gt; &lt;br /&gt;
+    &lt;em&gt;p&lt;/em&gt; &lt;br /&gt;
+    Therefore &lt;em&gt;q&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;works just as well. Note that the closely related shape &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;If &lt;em&gt;p&lt;/em&gt; then &lt;em&gt;q&lt;/em&gt; &lt;br /&gt;
+    &lt;em&gt;q&lt;/em&gt; &lt;br /&gt;
+    Therefore &lt;em&gt;p&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;doesn&amp;#8217;t work, and we can see that it doesn&amp;#8217;t work by looking at an example: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;If it&amp;#8217;s Thursday then it&amp;#8217;s a weekday &lt;br /&gt;
+    It&amp;#8217;s a weekday &lt;br /&gt;
+    Therefore it&amp;#8217;s Thursday &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This works &lt;em&gt;sometimes&lt;/em&gt; but not &lt;em&gt;all&lt;/em&gt; the time. The premises are true but the conclusion is false on a &lt;em&gt;Friday&lt;/em&gt; for example. &lt;/p&gt;
+
+&lt;p&gt;Now, it&amp;#8217;s still very much an open question as to what you are allowed to change, and what you should keep fixed when you&amp;#8217;re testing an argument. Bolzano is really interesting here, because he says that it&amp;#8217;s entirely a matter of convention. Different rules will give you a different story when it comes to what&amp;#8217;s valid and what&amp;#8217;s not. And that is pretty &lt;a href=&#34;http://pluralism.pitas.com&#34;&gt;appealing to me&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Anyway, Bolzano&amp;#8217;s analysis of logical consequence is a great step in the direction of constructing modern formal logic. We&amp;#8217;ll see more of where it leads soon. &lt;/p&gt;
+
+&lt;p&gt;Read some more about Bolzano at the &lt;a href=&#34;http://www.shu.edu/projects/reals/history/bolzano.html&#34;&gt;Interactive Real Analysis&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;h3&gt;George Boole (1815-1864)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Boole.jpg&#34; alt=&#34;[Image of Boole]&#34; /&gt;Boole&amp;#8217;s book &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0486600289/consequentlyorg&#34;&gt;The Laws of Thought&lt;/a&gt;&lt;/em&gt; (1854) is a landmark in the &lt;em&gt;algebraic&lt;/em&gt; treatment of logic. That is, he showed how treating propositions or statements like &lt;em&gt;quantities&lt;/em&gt; results in a pleasing formal structure. &lt;/p&gt;
+
+&lt;p&gt;The ideas are simple. For every proposition &lt;em&gt;x&lt;/em&gt; there is its negation (or denial) &lt;em&gt;~x&lt;/em&gt;. The negation of a negation is the original statement (to deny &lt;em&gt;~x&lt;/em&gt; is to say no more or no less than &lt;em&gt;x&lt;/em&gt;) so &lt;em&gt;~~x&lt;/em&gt; is identical to &lt;em&gt;x&lt;/em&gt;. Negation acts sort-of like minus with regards to numbers. (Sort-of, anyway.) Similarly, for statements &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; we can form their &lt;em&gt;conjunction&lt;/em&gt; &lt;em&gt;x and y&lt;/em&gt; and their disjunction &lt;em&gt;x or y&lt;/em&gt;. (To make the algebraic connection clear, Boole used &lt;em&gt;xy&lt;/em&gt; for the conjunction of &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;, and &lt;em&gt;x+y&lt;/em&gt; for the disjunction of &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;.) Then &lt;em&gt;x or y&lt;/em&gt; is identical to &lt;em&gt;y or x&lt;/em&gt; and &lt;em&gt;x or (y and z)&lt;/em&gt; is identical to &lt;em&gt;(x or y) and (x or z)&lt;/em&gt;. This makes &lt;em&gt;and&lt;/em&gt; and &lt;em&gt;or&lt;/em&gt; look a lot like multiplication and addition. But the analogy is at most an analogy, because unlike the case with multiplication and addition &lt;em&gt;x and x&lt;/em&gt; and &lt;em&gt;x or x&lt;/em&gt; are just &lt;em&gt;x&lt;/em&gt;, and &lt;em&gt;~(x and y)&lt;/em&gt; is &lt;em&gt;~x or ~y&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Boole characterised laws that he thought &lt;em&gt;all&lt;/em&gt; systems of propositions must satisfy, and the resulting structures are called &lt;em&gt;Boolean Algebras&lt;/em&gt; in his honour. They&amp;#8217;re important concepts to this day. &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s more on Boole: Entries in the &lt;a href=&#34;http://www.xrefer.com/entry.jsp?xrefid=551472&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;, and the &lt;a href=&#34;http://www.xrefer.com/entry.jsp?xrefid=494061&#34;&gt;Oxford Dictionary of Scientists&lt;/a&gt;. Then there&amp;#8217;s &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0486684830/consequentlyorg&#34;&gt;Boolean Algebra and its Applications&lt;/a&gt; showing some hints of where his research has gone today, and Boole&amp;#8217;s original book &lt;em&gt;Laws of Thought&lt;/em&gt; is &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0486600289/consequentlyorg&#34;&gt;still available today&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3&gt;Georg Cantor (1845-1918)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Cantor.jpg&#34; alt=&#34;[Image of Cantor]&#34; /&gt;Georg Cantor conquered the &lt;em&gt;infinite&lt;/em&gt;. Well, maybe he didn&amp;#8217;t &lt;em&gt;conquer&lt;/em&gt; it, but at least gave us a new way of conceptualising infinite quantities, and this is an amazing feat however you look at it. &lt;/p&gt;
+
+&lt;p&gt;Everyone agrees that some collections are infinite and some are not. The collection {1,2,3} of the first three counting numbers is &lt;em&gt;finite&lt;/em&gt;, it&amp;#8217;s &lt;em&gt;bounded&lt;/em&gt;. But the collection {1,2,3,4,5,&amp;#8230;} of &lt;em&gt;all&lt;/em&gt; the counting numbers is not finite. It&amp;#8217;s &lt;em&gt;infinite&lt;/em&gt; or &lt;em&gt;unbounded&lt;/em&gt;, it never comes to an end. Cantor showed that this is not the end of the story at all. He showed that there are &lt;em&gt;bigger&lt;/em&gt; and &lt;em&gt;bigger&lt;/em&gt; infinite numbers. &lt;/p&gt;
+
+&lt;p&gt;Hold on, you might say, how can things be bigger than &lt;em&gt;infinite&lt;/em&gt;? Isn&amp;#8217;t an infinite collection as big as you can get? Cantor&amp;#8217;s answer is a surprising (qualified) &lt;em&gt;no&lt;/em&gt;. It&amp;#8217;s qualified because if by &amp;#8220;infinite&amp;#8221; you simply mean &amp;#8220;not finite&amp;#8221; then there&amp;#8217;s nothing bigger than &lt;em&gt;infinite&lt;/em&gt;. However, if you mean to say that there are no collections of things bigger than the collection {1,2,3,4,5,&amp;#8230;} of all counting numbers, then Cantor can show that you&amp;#8217;re wrong. But to do this, he needs to explain a little more about what we mean by &amp;#8220;bigger than&amp;#8221; and &amp;#8220;smaller than&amp;#8221; and &amp;#8220;same size as&amp;#8221; when it comes to collections. &lt;/p&gt;
+
+&lt;p&gt;This is pretty straightforward when it comes down to it. Two collections are the &lt;em&gt;same size&lt;/em&gt; when you can correlate things from one collection with things from the other collection. So, {1, 2, 3} is the same size as {Christine, Greg, Zachary}. These collections have the same size as we can pair them up: Christine (1), Greg (2), Zachary (3). &lt;/p&gt;
+
+&lt;p&gt;One collection is &lt;em&gt;at least as big as&lt;/em&gt; another collection if you can pair the things in the second up with things in the first, and maybe have things in the first collection left over. So, for example {Christine, Greg, Zachary} is at least as big as {1,2} because we can pair up Christine (1), Zachary (2) and have me left over, uncounted. &lt;/p&gt;
+
+&lt;p&gt;One collection &lt;em&gt;A&lt;/em&gt; is &lt;em&gt;smaller than&lt;/em&gt; another collection &lt;em&gt;B&lt;/em&gt; just when &lt;em&gt;A&lt;/em&gt; is not at least as big as &lt;em&gt;B&lt;/em&gt;. So, &lt;em&gt;A&lt;/em&gt; is smaller than &lt;em&gt;B&lt;/em&gt; if there&amp;#8217;s no way of pairing things from &lt;em&gt;A&lt;/em&gt; with things from &lt;em&gt;B&lt;/em&gt; with some things from &lt;em&gt;A&lt;/em&gt; (possibly) left over. We try to pair &lt;em&gt;A&lt;/em&gt; things with &lt;em&gt;B&lt;/em&gt; things, but we&amp;#8217;ve not got enough &lt;em&gt;A&lt;/em&gt; things to go around to match up the &lt;em&gt;B&lt;/em&gt; things. &lt;/p&gt;
+
+&lt;p&gt;This round-about-way of defining things is important, because Cantor wants to say that the collection {1,2,3,4,5,&amp;#8230;} of all counting numbers is &lt;em&gt;the same size as&lt;/em&gt; {2,4,6,8,&amp;#8230;} of all &lt;em&gt;even&lt;/em&gt; numbers, even though the even numbers are inside the counting numbers with some left over. You&amp;#8217;d think that this means that the even numbers are fewer in number than the counting numbers, but this contradicts our first definition that two collections are the &lt;em&gt;same&lt;/em&gt; size if they can be paired up. We can pair up all the numbers with the even numbers like this: 1 with 2, 2 with 4, 3 with 6, &amp;#8230; &lt;em&gt;n&lt;/em&gt; with 2 times &lt;em&gt;n&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;This is all good fun stuff (and it&amp;#8217;s &lt;em&gt;mind-bending&lt;/em&gt; when you &lt;a href=&#34;http://ubertas.infosys.utas.edu.au/mathemagicians&amp;#95;circle/table3.html&#34;&gt;think about what you can do with these infinite collections&lt;/a&gt;) but it&amp;#8217;s not even the start of Cantor&amp;#8217;s real discovery. Cantor&amp;#8217;s best work was in showing that there had to be collections &lt;em&gt;bigger than&lt;/em&gt; the collection {1,2,3,&amp;#8230;}. This is a truly tricky piece of reasoning, but I think I can explain it. Remember how you can represent &lt;em&gt;real numbers&lt;/em&gt; between 0 and 1 as &lt;em&gt;decimals&lt;/em&gt;, numbers like 0.5, or 0.32, or infinite repeating ones like 0.333333&amp;#8230; (that&amp;#8217;s 1/3) or even infinite non-repeating ones like 0.14159&amp;#8230; (that&amp;#8217;s pi minus 3). Now Cantor showed that the collection of all real numbers between 0 and 1 is &lt;em&gt;truly bigger than&lt;/em&gt; the collection of counting numbers. Here&amp;#8217;s how he did it. He said, suppose that you &lt;em&gt;did&lt;/em&gt; have a list of all of these numbers: then this list would contain &lt;em&gt;all&lt;/em&gt; the numbers between 0 and 1. It would look something like this: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;0.12345145&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.11111111&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.34989901&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.31415926&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.88888888&amp;#8230;&lt;/p&gt;
+    &lt;p&gt; . &lt;/p&gt;
+    &lt;p&gt; . &lt;/p&gt;
+    &lt;p&gt; . &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;but now, I&amp;#8217;ll show you a number that &lt;em&gt;can&amp;#8217;t&lt;/em&gt; be on the list. Take the first digit (after the decimal point) in the first number, the second in the second number, the third in the third number and so on. You should be focussing on &lt;em&gt;these&lt;/em&gt; digits &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;0.&lt;strong&gt;1&lt;/strong&gt;2345145&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.1&lt;strong&gt;1&lt;/strong&gt;111111&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.34&lt;strong&gt;9&lt;/strong&gt;89901&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.314&lt;strong&gt;1&lt;/strong&gt;5926&amp;#8230;&lt;/p&gt;
+    &lt;p&gt;0.8888&lt;strong&gt;8&lt;/strong&gt;888&amp;#8230;&lt;/p&gt;
+    &lt;p&gt; .&lt;/p&gt;
+    &lt;p&gt; .&lt;/p&gt;
+    &lt;p&gt; .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now, make a new number out of these digits, changing each one by adding one (and if a digit is 9, go back to zero). So the number we get is &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;0.22029&amp;#8230;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;and &lt;em&gt;this&lt;/em&gt; number could not be in our original list of numbers, because it is not the same as any number on the list. (The &lt;em&gt;n&lt;/em&gt;th number on the list differs from this number in the &lt;em&gt;n&lt;/em&gt;th place.) So, the list you &lt;em&gt;said&lt;/em&gt; was exhaustive, numbering all of the numbers, isn&amp;#8217;t. &lt;/p&gt;
+
+&lt;p&gt;That is Cantor&amp;#8217;s &lt;em&gt;diagonalisation argument&lt;/em&gt;, and it&amp;#8217;s a truly creative piece of work, showing that there are different infinite sizes of collections. The argument can be made more general, to show that for &lt;em&gt;any&lt;/em&gt; collection there is one bigger, and that&amp;#8217;s a mindboggling fact which we still haven&amp;#8217;t truly come to understand. (If you &lt;em&gt;think&lt;/em&gt; you understand it, ask yourself this: what happens when you apply it to the collection of &lt;em&gt;everything that there is&lt;/em&gt;?) &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s more about Cantor at &lt;a href=&#34;http://www-maths.mcs.st-andrews.ac.uk/history/Mathematicians/Cantor.html&#34;&gt;The St. Andrews History of Mathematics Site&lt;/a&gt; and the &lt;a href=&#34;http://www.shu.edu/projects/reals/history/cantor.html&#34;&gt;Interactive Real Analysis&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;h3&gt;Gottlob Frege (1848-1925)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Frege.jpg&#34; alt=&#34;[Image of Frege]&#34; /&gt;Gottlob Frege is rightly called the &lt;em&gt;father of modern logic&lt;/em&gt;. He helped set the tone and direction for the way we study logic to this day. Like many people who made their mark in logic, by training he was a mathematician, but his interests were also philosophical. He realised that the formal techniques of mathematics were good for representing things precisely, but that there were still many more gains to be made. In particular he thought that languages like German (his native language) and English and any other language we actually speak, is filled with ambiguities, inconsistencies and features which lead us astray. In particular, the similar structures of claims like &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Socrates is mortal. &lt;/li&gt;
+&lt;li&gt;A human is mortal. (Or &amp;#8220;Humans are mortal&amp;#8221;, if you prefer.) &lt;/li&gt;
+&lt;li&gt;No-one is mortal. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;lead us to think that the same kinds of things are being said in each case: we predicate mortality of Socrates, humanity and no-one in the three statements. Frege thought this was simply crazy, and that the &lt;em&gt;real&lt;/em&gt; structure of what you&amp;#8217;re saying in each case is rather different. In the first case, we indeed predicate mortality of the person Socrates. In the second case we&amp;#8217;re not predicating &lt;em&gt;mortality&lt;/em&gt; of anything in particular (or anything in general). According to Frege what we&amp;#8217;re doing is very different: we&amp;#8217;re saying that another statement is &lt;em&gt;universally satisfied&lt;/em&gt;. What statement is this? It&amp;#8217;s the statement &lt;em&gt;if x is human, x is mortal&lt;/em&gt;. In saying that humans are mortal, I&amp;#8217;m saying that &lt;em&gt;if x is human, x is mortal&lt;/em&gt; is true for any &lt;em&gt;x&lt;/em&gt; I choose. Or more swiftly &lt;em&gt;for all x: if x is human, x is mortal&lt;/em&gt;. And &lt;em&gt;this&lt;/em&gt; is nothing like the claim that Socrates is mortal. It has a very different structure. &lt;/p&gt;
+
+&lt;p&gt;The claim that no-one is mortal has a similar feature. It says not that a particular thing (that is, &lt;em&gt;no-one&lt;/em&gt;) is mortal, but rather that the claim &lt;em&gt;x is someone who is mortal&lt;/em&gt; is &lt;em&gt;not&lt;/em&gt; satisfied. If you like &lt;em&gt;for some x: x is someone who is mortal&lt;/em&gt; is &lt;em&gt;not&lt;/em&gt; true. &lt;/p&gt;
+
+&lt;p&gt;Frege thought that this new way of analysing expressions gets closer to the real structure of the concepts involved. The new way of writing expressions &amp;#8212;- making the form you write closer to the forms the concepts actually have &amp;#8212;- is Frege&amp;#8217;s &lt;em&gt;Begriffschrift&lt;/em&gt;, his &amp;#8220;Concept Script&amp;#8221;. This notation looks very weird (there&amp;#8217;s lots of lines going all over the place, and funny letters in different places) but it&amp;#8217;s almost identical in content to the language we now call First-Order Logic, or &lt;em&gt;Predicate Logic&lt;/em&gt;, and which we teach to our introductory logic students. Frege&amp;#8217;s insights have stayed with us to this day. &lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s an entry on Frege in the &lt;a href=&#34;http://www.xrefer.com/entry/552123&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. You can get Anthony Kenny&amp;#8217;s clear introduction &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0631222316/consequentlyorg/&#34;&gt;Frege&lt;/a&gt; at Amazon. Both are worth reading. &lt;/p&gt;
+
+&lt;h3&gt;Alexius Meinong (1853-1920)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Meinong.jpg&#34; alt=&#34;[Image of Meinong]&#34; /&gt;Frege&amp;#8217;s analysis of expressions helps deal with &lt;em&gt;some&lt;/em&gt; of the weird confusions you can get into with language: when you know that a expressions like &amp;#8220;Socrates&amp;#8221;, &amp;#8220;somebody&amp;#8221;, &amp;#8220;everybody&amp;#8221; and &amp;#8220;nobody&amp;#8221; work very differently, you won&amp;#8217;t get so confused wondering whether the word &amp;#8220;somebody&amp;#8221; refers to a person, and if so, what kind of person he or she is (male, female, tall, short, logician, whatever). No, you&amp;#8217;ll realise that terms like &amp;#8220;somebody&amp;#8221;, &amp;#8220;everybody&amp;#8221; and &amp;#8220;nobody&amp;#8221; don&amp;#8217;t contribute to expressions by &lt;em&gt;referring&lt;/em&gt; to things, but by doing something else: they &lt;em&gt;quantify&lt;/em&gt; over things. &lt;/p&gt;
+
+&lt;p&gt;Meinong agreed with all of that, but he thought that sometimes there are expressions which genuinely &lt;em&gt;do&lt;/em&gt; refer to things, and what they refer to tells us something important about what there &lt;em&gt;is&lt;/em&gt;. He was one of those philosophers who thought that language, when properly understood, is a guide to &lt;em&gt;ontology&lt;/em&gt;. One place where Meinong disagreed with many other philosophers was in the kind of ontology he was prepared to admit on the basis of language. For Meinong, a claim like &amp;#8220;I&amp;#8217;m thinking of a golden mountain&amp;#8221; might be true, and it&amp;#8217;s true because there&amp;#8217;s something I&amp;#8217;m thinking of. What is it I&amp;#8217;m thinking of? It&amp;#8217;s a golden mountain. So, there&amp;#8217;s a golden mountain that I&amp;#8217;m thinking about. Now, &lt;em&gt;are&lt;/em&gt; there any golden mountains? Do any of them &lt;em&gt;exist&lt;/em&gt;? I don&amp;#8217;t think so. It follows that (for Meinong) there are two grades of being. There&amp;#8217;s the kind of being that absolutely everything has, golden mountains, square circles, fictional characters, tables, chairs, you and me. And then there&amp;#8217;s the kind of being that fewer things have: &lt;em&gt;genuine existence&lt;/em&gt;. You and I exist (that is, if you&amp;#8217;re not a fictional character reading this) but fictional characters, square circles and golden mountains don&amp;#8217;t &lt;em&gt;exist&lt;/em&gt;. We can think &lt;em&gt;about&lt;/em&gt; them, and they have some properties, says Meinong, but &lt;em&gt;existence&lt;/em&gt; is not one of them. &lt;/p&gt;
+
+&lt;p&gt;This is a bold claim, and it&amp;#8217;s easy to see why some people don&amp;#8217;t follow Meinong in this view. Why should language guide ontology in this way? (Of course, this is a general technique used by many analytic philosophers to this day. &amp;#8220;For our speech about &lt;em&gt;x&lt;/em&gt; to make any sense, we need to posit the existence of things such as &lt;em&gt;y&lt;/em&gt;&amp;#8230;&amp;#8221;) But I think there&amp;#8217;s much more of a problem with the view as stated. For Meinong, the golden mountain is golden, and it&amp;#8217;s a mountain, because that&amp;#8217;s how I&amp;#8217;ve characterised it. But it doesn&amp;#8217;t exist (there aren&amp;#8217;t any golden mountains). Now, what if I try to characterise the &lt;em&gt;existing&lt;/em&gt; golden mountain. It&amp;#8217;s golden, it&amp;#8217;s a mountain, but does it &lt;em&gt;exist&lt;/em&gt;? No. So some ways of characterising things work, and others don&amp;#8217;t. What&amp;#8217;s the difference? It&amp;#8217;s a tricky question, and it&amp;#8217;s one that Meinong never really answered. &lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s an entry on Meinong in the &lt;a href=&#34;http://www.xrefer.com/entry/552771&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;, and it&amp;#8217;s a real shame that both Karel Lambert&amp;#8217;s &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0521250854/consequentlyorg&#34;&gt;Meinong and the Principle of Independence&lt;/a&gt; and Richard Routley&amp;#8217;s &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0909596360/&#34;&gt;Exploring Meinong&amp;#8217;s Jungle&lt;/a&gt;, the two best books on Meinong&amp;#8217;s ontology, are pretty hard to get. You&amp;#8217;ll have to steal them from me, I suppose. &lt;/p&gt;
+
+&lt;h3&gt;Giuseppe Peano (1858-1932)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Peano.jpg&#34; alt=&#34;[Image of Peano]&#34; /&gt;Guiseppe Peano was an Italian mathematician, remembered for what are called &amp;#8216;Peano&amp;#8217;s Axioms&amp;#8217;, giving the properties of the numbers 0, 1, 2, 3,&amp;#8230; and the operations of successor (going to the next number), addition and multiplication. The axioms group into sections. The first few govern zero and successor: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;0 is a number which is not the successor of any number &lt;/li&gt;
+&lt;li&gt;every number has just one successor which is a number &lt;/li&gt;
+&lt;li&gt;and that no two numbers have the same successor. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then for &lt;em&gt;addition&lt;/em&gt; we have two axioms: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;x added to 0 is x. &lt;/li&gt;
+&lt;li&gt;x added to the successor of y is the successor of (x added to y) &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And for &lt;em&gt;multiplication&lt;/em&gt; we have two more axioms: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;x multiplied by 0 is 0 &lt;/li&gt;
+&lt;li&gt;x multiplied by the successor of y is (x multiplied by y) added to x &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both batches of axioms tell you how the operation works by showing how it works at the &lt;em&gt;bottom&lt;/em&gt; of the scale (how to add zero or multiply by zero), and then it shows you how to do it higher up the scale (adding the successor of a number, or multiplying by the successor of a number) in terms of how it works lower down the scale. &lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s see one example. Here&amp;#8217;s how the axioms tell you what you get when you add 2 and 3. 2 is the successor of the successor of zero, so let&amp;#8217;s write that &amp;#8220;ss0&amp;#8221;, and 3 is the successor of the successor of the successor of zero, so let&amp;#8217;s write that &amp;#8220;sss0&amp;#8221;. In general, if x is some number, let&amp;#8217;s write &amp;#8220;sx&amp;#8221; for the successor of x. &lt;/p&gt;
+
+&lt;p&gt;So, to get ss0 + sss0, the rules say that this is the same number as s(ss0 + ss0), because we&amp;#8217;re adding sss0 (which is the successor of ss0) to ss0, so the result is the successor of the smaller addition (ss0+ss0). Let&amp;#8217;s display this so that we can see it: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;ss0+sss0 = s(ss0+ss0) &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now, what&amp;#8217;s ss0 + ss0? The process is the same: ss0+ss0 = s(ss0+s0). The rules say we can trade an &amp;#8220;s&amp;#8221; on the right of an addition sign in for one outside the whole addition. So, we get &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But we can do this one more time. ss0+s0 = s(ss0+0), so &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0) &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But now, we know that ss0 + 0 = ss0, since adding zero gets you &lt;em&gt;nowhere new&lt;/em&gt;. So, &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0)= sssss0 &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But sssss0 is how we write &lt;em&gt;5&lt;/em&gt;, and indeed we&amp;#8217;ve shown that 2+3=5. &lt;/p&gt;
+
+&lt;p&gt;You can show lots more things with these axioms, but they don&amp;#8217;t do everything Peano wanted to think about. In particular, for any numbers x and y at all, you can show that x + y = y + x. However, with these axioms as they stand, you &lt;em&gt;can&amp;#8217;t&lt;/em&gt; show that for every number x and y, x + y = y + x. Do you get the difference here? The first says I&amp;#8217;ve got a proof for every instance. The second says that I&amp;#8217;ve got a proof for the general rule. That&amp;#8217;s a different thing completely. To show that you&amp;#8217;ve got a proof for the general rule we need something to say that whatever we can prove for the instances of numbers we can pick (0, s0, ss0, etc) goes for all of the numbers. A rule which does this is the rule of &lt;em&gt;induction&lt;/em&gt;. &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If something holds of 0, and if whenever it holds of a number it also holds of the successor of that number, then it holds of all the numbers. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This rule assures us that we can prove statements about &lt;em&gt;all&lt;/em&gt; the numbers, like the statement that the order of addition doesn&amp;#8217;t matter. &lt;/p&gt;
+
+&lt;p&gt;Now, proofs of facts using Peano&amp;#8217;s rules are &lt;em&gt;extremely longwinded&lt;/em&gt;, and you might be wondering what this is good for. After all, I already &lt;em&gt;knew&lt;/em&gt; that 2+3=5, and I think you did too. Peano&amp;#8217;s rules don&amp;#8217;t explain what we &lt;em&gt;do&lt;/em&gt; when we count or add or multiply. They&amp;#8217;re intened to distill to their essence the postulates which govern the counting, adding and multiplying process, even if they&amp;#8217;re not the rules we actually follow when we do things. (There are many different ways of learning to multiply. But if you don&amp;#8217;t agree with Peano&amp;#8217;s rules and get the same results as Peano does for his answers, then you&amp;#8217;re either making a mistake, or you&amp;#8217;re doing something other than counting.) Peano&amp;#8217;s work was essential in clarifying and codifying what counting, adding and multiplying actually involves, and it is another great moment in the work of logicians in the 19th and 20th Centuries. &lt;/p&gt;
+
+&lt;p&gt;Peano&amp;#8217;s axioms for arithmetic weren&amp;#8217;t actually &lt;em&gt;first&lt;/em&gt; invented by Peano: The great mathematician Dedekind was responsible for the axioms which Peano took up, clarified, detailed and explained, and it was through Peano that the work was disseminated to Russell and Whitehead and their magnificent &lt;em&gt;Principia Mathematica&lt;/em&gt; which shaped a lot of work in the 20th Century. &lt;/p&gt;
+
+&lt;p&gt;I find it charming that Peano didn&amp;#8217;t just do lots of mathematics and logic. The &lt;a href=&#34;http://www.xrefer.com/entry/494994&#34;&gt;Oxford Dictionary of Scientists entry on Peano&lt;/a&gt; tells us that &amp;#8220;among his extramathematical interests he was a keen propagandist for a proposed international language, Interlingua, which he had developed from Volapuk.&amp;#8221; Quaint. &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s more on Peano from &lt;a href=&#34;http://www.xrefer.com/entry.jsp?xrefid=553105&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;, and the &lt;a href=&#34;http://www.xrefer.com/entry/494994&#34;&gt;Oxford Dictionary of Scientists&lt;/a&gt;. The hard core among my readers might like to read &lt;a href=&#34;http://www.mat.bham.ac.uk/R.W.Kaye/&#34;&gt;Richard Kaye&lt;/a&gt;&amp;#8217;s wonderful &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/019853213X/consequentlyorg&#34;&gt;Models of Peano Arithmetic&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Edmund Husserl (1859-1938)&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Husserl.jpg&#34; alt=&#34;[Image of Husserl]&#34; /&gt;What? Husserl wasn&amp;#8217;t a logician, he was a phenomenologist! That&amp;#8217;s the cry of my dedicated analytic philosopher readers. But a response like this is to presume that things in the turn of the 19th/20th Century looked to their inhabitants rather like &lt;em&gt;we&lt;/em&gt; think they should, looking back from beyond the great divide between so-called-analytic and so-called-continental philosophy. Husserl couldn&amp;#8217;t have conceived of such a division, and as far as I can tell, he&amp;#8217;s pretty much an &lt;em&gt;analytic&lt;/em&gt; philosopher along with Russell, Wittgenstein, and the rest of the gang. (And hey, didn&amp;#8217;t Frege live on the continent? And didn&amp;#8217;t half of the rest of them? It&amp;#8217;s a crazy distinction, the analytic/continental one when you think of it.) &lt;/p&gt;
+
+&lt;p&gt;But why does Husserl warrant a place on my list of great moments in logic? For two reasons. The first is to mourn what might have been. The so-called split which means that people interested in &lt;em&gt;phenomenology&lt;/em&gt; (a detailed analysis of phenomena, the structure of appearance, bracketing out questions of existence) can&amp;#8217;t talk to people interested in &lt;em&gt;logic&lt;/em&gt; is a very sad one. Looking back to Husserl who was active before such a split occured makes me wistful for &lt;em&gt;what might have been&lt;/em&gt; and hopeful for &lt;em&gt;what could yet be&lt;/em&gt;. Husserl, the great phenomenologist and the one who inspired Heidegger, Sartre and many others, was a student and assistant of the great mathematician Karl Weierstrass, and for fifteen years he was a colleague and close friend of Georg Cantor. &lt;/p&gt;
+
+&lt;p&gt;But Husserl is important too for what he has achieved and what we can learn from him. For Husserl, along with Frege and others helped get logic out of the quagmire of &lt;em&gt;psychologism&lt;/em&gt; (I&amp;#8217;m showing my cards here by the way I describe this, aren&amp;#8217;t I?). You can see the confusion even in someone as great as Boole. He calls the laws of logic the &lt;em&gt;Laws of Thought&lt;/em&gt;. And that is confusing because it could mean at least two very different things. Either you mean the laws governing how people reason (like laws of physics, which are intended to describe how objects move and interact) or the laws governing how people &lt;em&gt;ought to reason&lt;/em&gt;. Only the latter kind of analysis gets the connection between logic and thought right, only it gives logic it&amp;#8217;s kind of &lt;em&gt;normative&lt;/em&gt; edge, and only this gets the phenomena of teaching first-year logic correct. (If logic is how people actually think, then why do so many of my students find logic hard to learn?) Husserl&amp;#8217;s &lt;em&gt;Philosophy of Arithmetic&lt;/em&gt; explores this and related themes. &lt;/p&gt;
+
+&lt;p&gt;More about Husserl can be found in the &lt;a href=&#34;http://www.xrefer.com/entry/552350&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;David Hilbert (1862-1943)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Hilbert.jpg&#34; alt=&#34;[Image of Hilbert]&#34; /&gt;David Hilbert not only had great style in headwear, he was pretty influential when it came to setting the agenda in mathematics and logic too. He&amp;#8217;s famous for many of different things, including his work in real analysis (Hilbert spaces) and on the &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0875481647/consequentlyorg&#34;&gt;Foundations of Geometry&lt;/a&gt;, but he&amp;#8217;s most remembered for his 23 &lt;em&gt;&lt;a href=&#34;http://aleph0.clarku.edu/~djoyce/hilbert/toc.html&#34;&gt;problems&lt;/a&gt;&lt;/em&gt; he set the mathematical community at an international congress in 1900. The &lt;em&gt;great moment&lt;/em&gt; for me in this work is the spirit in which the enterprise was offered to the community. These new techniques of proof and rigour and clarity have helped us see these problems and issues anew. These are clearly stated problem with answers to be found. We have the technqiues to solve these problems in the affirmative or the negative. For Hilbert, proof and consistency was at the heart of mathematical technique. Proof, in clear logical steps, was the guarantee of truth. Consistency (the absence of any contradictions or other clashes in your assumptions or axioms) is the guarantee of existence. In both cases, logic is placed at the heart of the discipline of mathematics. &lt;/p&gt;
+
+&lt;p&gt;Hilbert&amp;#8217;s scene setting was effective: the techniques of Godel and Cohen used to give an answer to Hilbert&amp;#8217;s first problem on the cardinality of the collection of real numbers, and Gentzen&amp;#8217;s proof of the consistency of arithmetic (dealing with Hilbert&amp;#8217;s second problem) both used new and fruitful logical techniques. Not only was logic at the heart of mathematics in a way it never really had been before, but new logical techniques and results were being developed so that it could fill that role. The place of logic in the heart of mainstream mathematical practice, and not merely in foundational studies, is in part, due to Hilbert&amp;#8217;s conception of the subject. &lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s information about Hilbert in the &lt;a href=&#34;http://www.xrefer.com/entry/494577&#34;&gt;Oxford Dictionary of Scientists&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Ernst Zermelo (1871-1953)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Zermelo.jpg&#34; alt=&#34;[Image of Zermelo]&#34; /&gt;Zermelo did for &lt;em&gt;set theory&lt;/em&gt;, the mathematical theory of collections or sets, what Dedekind and Peano did for arithmetic. He was the first to have a bash at working out principles which governed the mathematical practice of set-formation. The theory of sets mathematicians most often appeal to is a direct descendent of Zermelo&amp;#8217;s original work. ZF set theory is named after Zermelo and &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/HistTopics/Beginnings&amp;#95;of&amp;#95;set&amp;#95;theory.html&#34;&gt;Fraenkel&lt;/a&gt; who revised and extended his work. &lt;/p&gt;
+
+&lt;p&gt;A nice &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/HistTopics/Beginnings&amp;#95;of&amp;#95;set&amp;#95;theory.html&#34;&gt;historical account of Zermelo&amp;#8217;s contribution to set theory&lt;/a&gt; can be found at the St. Andrews History of Mathematics site. More information about Zermelo himself can be found &lt;a href=&#34;http://www-history.mcs.st-andrews.ac.uk/history/Mathematicians/Zermelo.html&#34;&gt;there too&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Jan Lukasiewicz (1878-1956)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Lukasiewicz.jpg&#34; alt=&#34;[Image of Lukasiewicz]&#34; /&gt;Lukasiewicz is the first &lt;em&gt;beardless&lt;/em&gt; logician on our journey, since Boole, and similarly, he&amp;#8217;s the first &lt;em&gt;algebraist&lt;/em&gt; since Boole too. Lukasiewicz is important for many reasons. For one, he was one of the leading lights on logic in Poland for many years (until his emigration to Ireland before the Second World War), responsible for the Logic group in Warsaw, along with &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Leshniewski.html&#34;&gt;Lesniewski&lt;/a&gt;, and Tarski (who we&amp;#8217;ll learn about later) was educated in this school. &lt;/p&gt;
+
+&lt;p&gt;For another, though, Lukasiewicz was the first truly non-classical logician to gain a foothold for alternative views of logic. The guiding principle behind both Boole&amp;#8217;s and Frege&amp;#8217;s approach to logic was the statements were either true or false. Lukasiewicz investigated logical structures where this condition was violated. In particular, he looked at three-valued logical systems which kept a way open for things which were undetermined. After all, if our statements are about the future, then some might be made true by present facts, some might be made false by these circumstances, and some might neither be made true nor ruled out &amp;#8212; at least if the future is genuinely open. Lukasiewicz&amp;#8217;s &amp;#8220;three-valued logic&amp;#8221; is one way of modelling such phenomena. He also considered a more radical algebraic system where statements can have one of &lt;em&gt;infinitely many values&lt;/em&gt;, one for each number between 0 and 1, representing &lt;em&gt;degrees&lt;/em&gt; of truth between complete falsity and complete truth. This has now reached some popularity under the name &amp;#8220;&lt;a href=&#34;http://www.abo.fi/~rfuller/fuzs.html&#34;&gt;fuzzy&lt;/a&gt; &lt;a href=&#34;http://www.austinlinks.com/Fuzzy/&#34;&gt;logic&lt;/a&gt;&amp;#8221;. This just goes to show that if you want to be popular, you ought to get a marketer to run his or her eyes over the papers you write before you submit for publication. &amp;#8220;Fuzzy logic&amp;#8221; will sell much better than &amp;#8220;Lukasiewicz&amp;#8217;s Infinely Valued Logic&amp;#8221;. &lt;/p&gt;
+
+&lt;p&gt;A little on Lukasiewicz can be found in the &lt;a href=&#34;http://www.xrefer.com/entry.jsp?xrefid=552680&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Bertrand Russell (1872-1970)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Russell.jpg&#34; alt=&#34;[Image of Russell]&#34; /&gt;Bertrand Russell is the first &lt;em&gt;philosopher&lt;/em&gt; on this list from an English-speaking background, and he is probably best considered as the one person who played the crucial role in founding the Anglo/American analytic tradition in philosophy. &lt;/p&gt;
+
+&lt;p&gt;Russell&amp;#8217;s &lt;em&gt;magnum opus&lt;/em&gt; (written with Alfred North Whitehead) is &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/052106791X/consequentlyorg&#34;&gt;Principia Mathematica&lt;/a&gt; (don&amp;#8217;t buy the full thing unless you have lots of disposable wealth &amp;#8212;- the &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0521626064/consequentlyorg&#34;&gt;lite version&lt;/a&gt; is enough of the good stuff to give you the flavour of the work). What&amp;#8217;s &lt;em&gt;PM&lt;/em&gt; all about? It&amp;#8217;s the first and greatest attempt in the research programme of &lt;em&gt;logicism&lt;/em&gt;, the reduction of mathematics to logic. Now, this is an immensely creative work, because it played a very important part in helping define the notion of &lt;em&gt;logic&lt;/em&gt; for the 20th Century. As Alberto Coffa has &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0521447070/consequentlyorg&#34;&gt;taught me&lt;/a&gt;, I know that logicism wasn&amp;#8217;t a matter of taking a predefined notion of &amp;#8220;logic&amp;#8221; and showing how mathematics could be reduced to it. Rather, it was a matter of expanding the notion of logic so as to make a reduction of mathematics to logic more feasible. In Kant&amp;#8217;s time, logic was a matter of the analysis of concepts into their constituents. By the time Russell and Whitehead got their hands on it (after it had passed through the work of Frege) it became so much more. &lt;/p&gt;
+
+&lt;p&gt;One thing Russell can be thanked for, above and beyond PM, is a miniature example of logicism and analytic philosophy at work. It&amp;#8217;s his little vignette on &lt;em&gt;definite descriptions&lt;/em&gt;, which stands to this day as a gem in analytic philosophy. The analysis concerns the difference between claims like &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;George Bush is articulate.&lt;/p&gt;
+    
+    &lt;p&gt;The present U.S. President is articulate. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;They look like they have the same form. In the old-style Aristotelian analysis, they&amp;#8217;re both of subject-predicate form, with the subject (George Bush, or the present U.S. President) on the one hand and the predicate &lt;em&gt;being articulate&lt;/em&gt; being applied to him. But there is an important difference between these claims: The first uses a &lt;em&gt;name&lt;/em&gt; and the second uses a &lt;em&gt;description&lt;/em&gt;. The description in the second claim is a &lt;em&gt;definite&lt;/em&gt; description because it refers to &lt;em&gt;the&lt;/em&gt; present U.S. President, not simply &lt;em&gt;a&lt;/em&gt; present U.S. President. (That would be an &lt;em&gt;indefinite&lt;/em&gt; description.) Definite descriptions seem to have a number of important properties. For them to &lt;em&gt;work&lt;/em&gt;, for that claim &lt;em&gt;the present U.S. President is articulate&lt;/em&gt; to be &lt;em&gt;true&lt;/em&gt;, you need &lt;em&gt;three&lt;/em&gt; critieria to be satisfied. First, there needs to &lt;em&gt;be&lt;/em&gt; a U.S. President &amp;#8212;- if not, your claim fails because there&amp;#8217;s no U.S. President to &lt;em&gt;be&lt;/em&gt; articulate. Second, there has to be at most &lt;em&gt;one&lt;/em&gt; U.S. President. If there are more than one, then it&amp;#8217;s unclear which I was talking about, and (according to Russell at least) my claim fails too. Third, if there is exactly one U.S. President then my claim is true if and only if that person is, indeed, articulate. &lt;/p&gt;
+
+&lt;p&gt;So, to sum up the analysis, Russell says that a claim of the form &amp;#8220;the &lt;em&gt;F&lt;/em&gt; is a &lt;em&gt;G&lt;/em&gt;&amp;#8221; is not really of subject-predicate form at its base. Rather, it has the following form &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;There is a thing which is &lt;em&gt;F&lt;/em&gt;, it is the &lt;em&gt;only F&lt;/em&gt;, and it is a &lt;em&gt;G&lt;/em&gt; as well &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a typical example of an &amp;#8220;analysis&amp;#8221;, in analytic philosophy. The surface form of an expression may be deceptive. Different logical work may be involved in the claim, and you might need to expend effort to see what is actually being said. &lt;/p&gt;
+
+&lt;p&gt;Russell himself appears to have been rather confused about the significance of what he was doing. Sometimes he described his work as replacing objects with logical constructions. But this is not what&amp;#8217;s going on here. The logical construction does not replace any object at all &amp;#8212;- the present President of the U.S. is still a flesh and blood human being and not a &amp;#8220;construction&amp;#8221;. The analysis and reduction occurs at the level of &lt;em&gt;semantics&lt;/em&gt;. The meaning of a definite description claim is reduced to being a construction of more primitive kinds of claims, involving predicates and quantification. Analytic philosophy of this kind made the way open for a new kind of reductionism, which didn&amp;#8217;t explain away &lt;em&gt;objects&lt;/em&gt; or construct them out of more simpler entities, but rather, it explains different kinds of &lt;em&gt;statements&lt;/em&gt; by giving their significance in terms of other, simpler statements. You don&amp;#8217;t need to refer to special kinds of objects as the referents of definite descriptions, for example, if you have an analysis of definite descriptions which doesn&amp;#8217;t appeal to reference at all. &lt;/p&gt;
+
+&lt;p&gt;Bertrand Russell is &lt;a href=&#34;http://www.google.com/search?q=bertrand+russell&#34;&gt;all over the net&lt;/a&gt;. The &lt;a href=&#34;http://plato.stanford.edu/entries/russell/&#34;&gt;Stanford Encyclopedia of Philosophy&lt;/a&gt; entry on him is especially good, and the &lt;a href=&#34;http://www.mcmaster.ca/russdocs/russell.htm&#34;&gt;Russell Archives&lt;/a&gt; at McMaster University in Canada are also worth a visit.&lt;/p&gt;
+
+&lt;h3&gt;L. E. J. Brouwer (1881-1966)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Brouwer.jpg&#34; alt=&#34;[Image of Brouwer]&#34; /&gt;Brouwer was a Dutch mathematician who founded the school of &lt;em&gt;intuitionism&lt;/em&gt;, a radical tradition in mathematics. Intuitionism is &lt;em&gt;radical&lt;/em&gt; because it takes much of contemporary mathematics to be simply mistaken, that mathematicians took a wrong turn when following Cantor&amp;#8217;s direction in set theory, and the classical tradition in analysis (the theory of real-valued functions). Mathematics has gone bad when dealing with the &lt;em&gt;infinite&lt;/em&gt;, because traditional mathematical practice does not do justice to what mathematics is actually &lt;em&gt;about&lt;/em&gt;, according to Brouwer. &lt;/p&gt;
+
+&lt;p&gt;For Brouwer, mathematics is primarily governed by the &lt;em&gt;intuition&lt;/em&gt; of the knowing and proving &amp;#8220;mathematical subject&amp;#8221;. Now, &lt;em&gt;intuition&lt;/em&gt; doesn&amp;#8217;t mean &amp;#8220;gut instinct&amp;#8221; like it does in contemporary language. The term is a piece of art looking back at least to Kant and his &lt;em&gt;Critique of Pure Reason&lt;/em&gt;. Intuition, for Brouwer, just means a mental faculty. The important features of the intuition relevant to mathematics is that they are &lt;em&gt;pure&lt;/em&gt; intuitions of space and time. These intuitions aren&amp;#8217;t given by experience, but rather, they structure experience. We put our experiences together in a &amp;#8220;manifold&amp;#8221; of moments and locations: we don&amp;#8217;t extrapolate the idea of time or space from our experiences (for Kant, and for Brouwer). Anyway, the details are irrelevant for us, the fact that the mental ability to &lt;em&gt;count&lt;/em&gt;, to go to the &lt;em&gt;next thing&lt;/em&gt;, an intuition of &lt;em&gt;duality&lt;/em&gt; or &lt;em&gt;two&lt;/em&gt;-ness is what is important in mathematics. The content of mathematical judgement is not some correspondence with an external world of mathematical objects, but rather, the contents of mathematical judgements (like the claim that 2+2=4, or that the area of a circle is proportional to the square of the radius, or that real-valued functions which are somewhere positive and somewhere negative are also zero somewhere) are to be found in the possible &lt;em&gt;verifications&lt;/em&gt; or &lt;em&gt;constructions&lt;/em&gt; involved. &lt;/p&gt;
+
+&lt;p&gt;Now, this approach is both conservative (it&amp;#8217;s &lt;em&gt;Kantian&lt;/em&gt;, not the radical approach of logicism stemming from Frege and Russell) and radical. It&amp;#8217;s radical because it motivates a rejection of traditional mathematical claims, like the law of the excluded middle &amp;#8212;- the thesis that every proposition is either true or not true. Brouwer takes this to be mistaken because of the nature of mathematical judgement and proof. Consider this simple example: suppose I give you a series of numbers, one by one. 1, 1/2, 1/4, 1/8, &amp;#8230; I ask you if this series converges to zero or doesn&amp;#8217;t. If this series is truly &lt;em&gt;infinite&lt;/em&gt; (I&amp;#8217;ll just keep giving you numbers as long as you keep asking for them) you&amp;#8217;ll never know if the series is converging to zero, or that it&amp;#8217;s not going to zero. (If I just give you the numbers one-by-one, and I do not give you a &lt;em&gt;rule&lt;/em&gt; which generates the list: there&amp;#8217;s always a chance the series will stop shrinking, and I go 1/8, 1/8, 1/8, &amp;#8230;, or that I start going up instead of going down.) Browuer takes this to be a reason to reject the law of the excluded middle. We oughtn&amp;#8217;t say that the series is converging or not. Once you make &lt;em&gt;this&lt;/em&gt; change to mathematical practice, a lot else looks &lt;em&gt;very&lt;/em&gt; different. Intuitionistic mathematics is alive and well to this day as a minority tradition. &lt;/p&gt;
+
+&lt;p&gt;More information about Brouwer can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/551494&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Thoralf Skolem (1887-1963)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Skolem.jpg&#34; alt=&#34;[Image of Skolem]&#34; /&gt;Thoralf Skolem was a Norwegian logician and mathematician who continued the development of set theory along the lines started by Cantor and Zermelo. Skolem&amp;#8217;s name is associated with one of the most interesting results in metalogic (that is, it&amp;#8217;s a result &lt;em&gt;about&lt;/em&gt; logic, not a result &lt;em&gt;in&lt;/em&gt; logic), which we now call the &lt;a href=&#34;http://cheng.ececs.uc.edu/cs543/4-29.html&#34;&gt;Lowenheim Skolem Theorem&lt;/a&gt;. This states that if a statement (or set of statements) in Frege&amp;#8217;s predicate logic can be satisfied by a model with infinitely many things in the domain, it can also be satisfied by a model with only &lt;em&gt;countably&lt;/em&gt; many things. So, predicate logic, in an important sense, cannot tell the difference between the countably infinite and the uncountable infinite. &lt;/p&gt;
+
+&lt;p&gt;The most stunning and problematic consequence of this is &lt;a href=&#34;http://www.nd.edu/~tbays/professional/abstract.html&#34;&gt;Skolem&amp;#8217;s Paradox&lt;/a&gt;. Take the theory of sets. In this theory you can distinguish between countably infinite sets and uncountably infinite sets (a countably infinite set is one which can be put into a one-to-one correspondence with the numbers {1,2,3,&amp;#8230;}), and furthermore, you can prove that there &lt;em&gt;are&lt;/em&gt; uncountably infinite sets (Cantor&amp;#8217;s construction can be carried out). This theory, if it is consistent, has a model. This model must be &lt;em&gt;infinite&lt;/em&gt; (it contains elements for each of the numbers 1, 2, 3, at least!) so by the downward Lowenheim-Skolem theorem, it also has a countable model. But what of the sets that the &lt;em&gt;theory&lt;/em&gt; takes to be uncountably infinite. From &lt;em&gt;inside&lt;/em&gt; the model, they are uncountable. But from outside, we see that they are not. What is the story? &lt;/p&gt;
+
+&lt;p&gt;Well, that&amp;#8217;s a real problem. Skolem&amp;#8217;s enticing response was to say that the difference between the countable and the uncountable was &lt;em&gt;relative&lt;/em&gt; and not &lt;em&gt;absolute&lt;/em&gt;. Another response would be to say that the predicate logic theory of sets is incomplete, and it must be extended somehow. &lt;/p&gt;
+
+&lt;p&gt;Interesting information about Skolem and the application of his ideas can be found in the &lt;a href=&#34;http://www.hf.uio.no/filosofi/njpl/vol1no2/contents.html&#34;&gt;Nordic Journal of Philosophical Logic&amp;#8217;s special issue on Skolem&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Ludwig Wittgenstein (1889-1951)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Wittgenstein.jpg&#34; alt=&#34;[Image of Wittgenstein]&#34; /&gt;The next entry on our tour simply &lt;em&gt;has&lt;/em&gt; to be the inimitable LW. Wittgenstein is an incredibly fertile philosopher: his work has inspired philosophers from all traditions. His &lt;em&gt;Tractatus Logico Philosophicus&lt;/em&gt; (written in 1918, after Wittgenstein served in the German army) is an enigmatic tract, which starts (in one translation) like this. &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;&lt;strong&gt;1&lt;/strong&gt; The world is everything that is the case.&lt;/p&gt;
+    
+    &lt;p&gt;&lt;strong&gt;1.1&lt;/strong&gt; The world is the totality of facts, not of things.&lt;/p&gt;
+    
+    &lt;p&gt;&lt;strong&gt;1.11&lt;/strong&gt; The world is determined by the facts, and by these begin &lt;em&gt;all&lt;/em&gt; the facts.&lt;/p&gt;
+    
+    &lt;p&gt;&lt;strong&gt;1.12&lt;/strong&gt; For the totality of facts determines both what is the case, and also all that is not the case.&lt;/p&gt;
+    
+    &lt;p&gt;&lt;strong&gt;1.13&lt;/strong&gt; The facts in logical space are the world. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And it continues in this vein. It is a work in &lt;em&gt;logical atomism&lt;/em&gt;, the doctrine that the world is made up of atomic facts, the primary bearers of information, and it motivates the logical techniques of truth tables and other interesting formal things as consequences of this picture. &lt;/p&gt;
+
+&lt;p&gt;Much more important for Wittgenstein was the boundary between the &lt;em&gt;sense&lt;/em&gt; and &lt;em&gt;nonsense&lt;/em&gt;, or what could be &lt;em&gt;said&lt;/em&gt; and what could not be said and what could only be &lt;em&gt;shown&lt;/em&gt;. The closing words in the Tractatus are &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;&lt;strong&gt;7&lt;/strong&gt; Whereof one cannot speak, thereof one must be silent. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What is most interesting to me is that Wittgenstein explicitly acknowledges that his own book is, by his own lights, expressing what cannot be said. The entire book is an act of &lt;em&gt;showing&lt;/em&gt; and not of &lt;em&gt;saying&lt;/em&gt;. It&amp;#8217;s a peculiar kind of showing, using German (or English) words, which the audience reads in the traditional manner. (Wittgenstein himself was later unsatisfied with his own approach and he attempted to paint a very different picture about how language works.) &lt;/p&gt;
+
+&lt;p&gt;More information about Wittgenstein can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/553892&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. There are online editions of both the the &lt;a href=&#34;http://www.kfs.org/~jonathan/witt/tlph.html&#34;&gt;Ogden-Ramsey&lt;/a&gt; and the &lt;a href=&#34;http://guava.phil.lehigh.edu/tlp/&#34;&gt;Pears-McGuinness&lt;/a&gt; translations of the &lt;em&gt;Tractatus&lt;/em&gt;. &lt;a href=&#34;http://www.helsinki.fi/~tuschano/&#34;&gt;T. P. Uschanov&lt;/a&gt; has a &lt;a href=&#34;http://www.helsinki.fi/~tuschano/lw/links/&#34;&gt;comprehensive collection&lt;/a&gt; of links of online resources on Wittgenstein. &lt;/p&gt;
+
+&lt;p&gt;It is the mark of LW&amp;#8217;s distinction that he is the only person on this page to have a [&lt;em&gt;musical&lt;/em&gt; written about him. Unfortunately, I have not seen it. The Tractatus has also been &lt;a href=&#34;http://www.guardian.co.uk/Print/0,3858,4269937,00.html&#34;&gt;set to music, more than once&lt;/a&gt;, unfortunately, I have not heard any of it. &lt;/p&gt;
+
+&lt;h3&gt;Rudolf Carnap (1891-1970)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Carnap.jpg&#34; alt=&#34;[Image of Carnap]&#34; /&gt;Rudolf Carnap was a German philosopher, educated in the dominant Kantian tradition, interested in science and epistemology (the theory of knowledge). Carnap had one of the &amp;#8220;conversion experiences&amp;#8221; common to great evangelists. While sick one day he read some of the knew &amp;#8220;formal&amp;#8221; philosophy of Bertrand Russell, and the scales fell from his eyes. The combination of rigour and philosophical applicability convinced Carnap that from this day henceforth, he wanted to do philosophy like &lt;em&gt;that&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;And so, Rudolf Carnap worked in the tradition started by Russell, of the application of formal techniques to philosophical problems. But in Carnap&amp;#8217;s hands, these techniques had very different outcomes. Carnap&amp;#8217;s masterworks, the &lt;em&gt;Aufbau&lt;/em&gt; and the &lt;em&gt;Logical Syntax of Language&lt;/em&gt; indeed use techniques rather like Russell&amp;#8217;s in &lt;em&gt;Principia Mathematica&lt;/em&gt; and &lt;em&gt;The Principles of Logical Atomism&lt;/em&gt; but the resulting philosophical picture cannot be more different. While Russell was an atomist and foundationalist for many of his years (though what these &lt;em&gt;atoms&lt;/em&gt; might be was ever elusive for Russell), Carnap was temperamentally very different. He was, by nature, a kind of accommodating pluralist. He thought that the new logical techniques would help us see what was genuinely being &lt;em&gt;said&lt;/em&gt; by different philosophical positions, and that we might see the things on which different philosophers agree, and those on which they have genuine disagreements, and those upon which the disagreement is a purely verbal matter. An example from the philosophy of mathematics might give you an idea of how this works. In mathematics, we have rules for adjudicating disagreement in many cases: if I say that 37+56=83, then you can show me where I went wrong by explaining how the addition actually works: 37+56 is &lt;em&gt;93&lt;/em&gt; (perhaps I forgot to carry the 10 from the addition of 7 and 6). Similarly, if I deny that there is a prime number between 11 and 17, you can point out that 13 is a prime number between them. The &lt;em&gt;meanings&lt;/em&gt; of the mathematical terms dictate how they should be used, and they give us answers in these cases. They &lt;em&gt;don&amp;#8217;t&lt;/em&gt; help in the argument between the platonist (who thinks that numbers &lt;em&gt;really&lt;/em&gt; exist) and the formalist (who thinks that numbers &lt;em&gt;really don&amp;#8217;t&lt;/em&gt; exist). If either attempts to get into a discussion with Carnap about whether or not there &lt;em&gt;really&lt;/em&gt; is a prime number between 11 and 17, he&amp;#8217;ll simply say, &amp;#8220;yes, there is a prime number between 11 and 17 &amp;#8212; it&amp;#8217;s 13 &amp;#8212; but I don&amp;#8217;t know what you mean by saying &amp;#8220;really&amp;#8221; in the question.&amp;#8221; No sense has been given to the question of the existence of numbers, over and above the sense that has been given by virtue of the meanings of mathematical terminology. It&amp;#8217;s the job of techniques from &lt;em&gt;logic&lt;/em&gt; to clarify what can be said, and what cannot. In this sense, Carnap is quite close to the Wittgenstein of the Tractatus. &lt;/p&gt;
+
+&lt;p&gt;More information about Carnap can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/551537&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Arend Heyting (1898-1980)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Heyting.jpg&#34; alt=&#34;[Image of Heyting]&#34; /&gt;Arend Heyting was a brilliant Dutch logician: beardless, as you can see &amp;#8212;- the &lt;em&gt;Return of the Beards&lt;/em&gt; will be quite some decades to come. Heyting&amp;#8217;s claim to fame was to do something quite against the spirit of the intuitionist enterprise, but which made intuitionism a respectable and living (if &lt;em&gt;minority&lt;/em&gt;) tradition in logic. &lt;/p&gt;
+
+&lt;p&gt;Heyting &lt;em&gt;formalised&lt;/em&gt; intuitionistic logic. That is, he codified the kinds of inferences which are warranted by the lights of an intuitionist. This made &amp;#8220;intuitionistic logic&amp;#8221; an object of study, amenable to many of the same techniques that Frege and others had developed for the dominant tradition in logic, which we now call &amp;#8220;classical&amp;#8221; logic. &lt;/p&gt;
+
+&lt;p&gt;More information about Heyting can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Heyting.html&#34;&gt;St. Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;Haskell Curry (1900-1982)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Curry.jpg&#34; alt=&#34;[Image of Curry]&#34; /&gt;Haskell Curry was an American student of Hilbert. His greatest innovative contributions to logic are in the odd area of &lt;em&gt;combinatory logic&lt;/em&gt;. Combinators are strange beasts: they&amp;#8217;re like functions which operate on other functions. Combinatory logic is a formal system like other kinds of logic: you have a collection of objects with different rules indicating allowable transformations from objects to other objects. But these combinators do not necessarily express &lt;em&gt;statements&lt;/em&gt;, as the formulas in a traditional logic do. They&amp;#8217;re &lt;em&gt;functions&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;The frame of mind required to think in this way (to see everything as a function) is important in many fields today, and the debt to Curry is sometimes acknowledged and sometimes not. For example, in computer science, the transformation required to move from thinking of a function as giving you an output given a &lt;em&gt;pair&lt;/em&gt; of inputs (for example, addition as a function sending &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt; to &lt;em&gt;x + y&lt;/em&gt;) to thinking of it as giving a &lt;em&gt;function&lt;/em&gt; as output when given a single input (so given &lt;em&gt;x&lt;/em&gt; the output is the function which sends &lt;em&gt;y&lt;/em&gt; to &lt;em&gt;x + y&lt;/em&gt;: the &lt;em&gt;adding x&lt;/em&gt; function) is called &lt;em&gt;currying&lt;/em&gt; in Curry&amp;#8217;s honour. This kind of transformation, which involves thinking of functions as first-class entities, is important in many disciplines, such as &lt;a href=&#34;http://plato.stanford.edu/entries/category-theory&#34;&gt;category theory&lt;/a&gt; and &lt;em&gt;functional programming&lt;/em&gt;. In fact, my favourite functional programming language &lt;a href=&#34;http://haskell.org&#34;&gt;Haskell&lt;/a&gt; is named after Curry. &lt;/p&gt;
+
+&lt;p&gt;Curry made another very important contribution to the tradition: his textbook &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0486634620/consequentlyorg&#34;&gt;Foundations of Mathematical Logic&lt;/a&gt; is still &lt;em&gt;rich&lt;/em&gt; with insight, and it rewards reading and rereading today. It is the first textbook in mathematical logic which takes a synoptic view of different logical systems and which encourages the reader to think philosophically and creatively about the different kinds of formal systems which might be used to model different logical phenomena. &lt;/p&gt;
+
+&lt;p&gt;More information about Curry can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Curry.html&#34;&gt;St Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;Alfred Tarski (1902-1983)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Tarski.jpg&#34; alt=&#34;[Image of Tarski]&#34; /&gt;Alfred Tarski&amp;#8217;s shadow looms large over 20th Century Logic, and it extends into the 21st Century too. An emigre from Poland, educated in the great Warsaw school of logicians, Tarski brought a new degree of conceptual clarification to a great number of issues in logic. I will sketch two here. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;First&lt;/em&gt;, Tarski gave the first rigorous definition of what it was for a structure to be a &lt;em&gt;model&lt;/em&gt; or an &lt;em&gt;interpretation&lt;/em&gt; of the language of predicate logic. He gave precise clauses indicating for each kind of sentence (atomic sentence, conjunction, disjunction, negation, universally quantified, existentially quantified, etc) what it is for this sentence to be &lt;em&gt;true in&lt;/em&gt; a model. To do this, he noticed that you need to do something tricky when it comes to &lt;em&gt;quantified&lt;/em&gt; sentences like for all &lt;em&gt;x&lt;/em&gt;(if F&lt;em&gt;x&lt;/em&gt; then G&lt;em&gt;x&lt;/em&gt;). For this to be given a sensible truth condition, we want its truth to depend on the truth of the part inside the quantifier. But if F&lt;em&gt;x&lt;/em&gt; then G&lt;em&gt;x&lt;/em&gt; is not a sentence: it&amp;#8217;s got a variable in it unbound. (It&amp;#8217;s like the term &lt;em&gt;x&lt;/em&gt; + 2: you only know what number it is when I tell you the &lt;em&gt;value&lt;/em&gt; of the variable &lt;em&gt;x&lt;/em&gt;.) So, Tarski solved the problem this way. You don&amp;#8217;t define what it is for a sentence to be &lt;em&gt;true in&lt;/em&gt; a model. You define what it is for a formula (possibly including free variables) together with an &lt;em&gt;assignment of values to each of the variables&lt;/em&gt; to be &lt;em&gt;satisfied by&lt;/em&gt; a model. So, for all &lt;em&gt;x&lt;/em&gt;(if F&lt;em&gt;x&lt;/em&gt; then G&lt;em&gt;x&lt;/em&gt;) together with the assignment A is satisfied by my model just when the inside bit if F&lt;em&gt;x&lt;/em&gt; then G&lt;em&gt;x&lt;/em&gt; together with any &lt;em&gt;variant&lt;/em&gt; assignment A&amp;#8217; which assigns exactly the same values as A does to any variable other than &lt;em&gt;x&lt;/em&gt;, but possibly assigns &lt;em&gt;x&lt;/em&gt; any value it chooses. This gets the result exactly right. And it gives a clear (well, after you get used to it, anyway!), rigorous and recursive definition of satisfaction, and truth in a model. &lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;Second&lt;/em&gt; insight is related. It&amp;#8217;s also on the topic of truth. Here, the idea is not truth in a &lt;em&gt;model&lt;/em&gt;, but genuine truth. The kind of truth we attempt to express when we make assertions. Many philosophers have said deep and mystical things about the Nature of Truth. Some have said that truth is a matter of Correspondence to Reality (after all, propositions are designed to reflect the Way the World Is). Others have said that truth is a matter of the Coherence of an overall body of propositions (after all, we test propositions only against other propositions). Still others have said that truth is a matter of What Gets Things Done (after all, in describing things we always aim to Do something, and this governs the kinds of concepts we have). Tarski thought that all accounts like this are misguided. For given a language which doesn&amp;#8217;t say anything about truth, it is easy to &lt;em&gt;define&lt;/em&gt; the notion of truth in that language, without appealing to Correspondence, Coherence, or Pragmatic concerns. Suppose we&amp;#8217;ve got a sentence in our language, like &amp;#8220;snow is white&amp;#8221;. (This is a favourite in discussions of truth, for some reason.) We know very well what the sentence &lt;em&gt;means&lt;/em&gt;. We want to know whether or not the sentence is &lt;em&gt;true&lt;/em&gt;. Well, given that we know what it means, we can say exactly the conditions under which this sentence is true: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;&amp;#8220;Snow is white&amp;#8221; is true if and only if snow is white &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now this tells us exactly the circumstances under which &amp;#8220;snow is white&amp;#8221; is true. And it doesn&amp;#8217;t say anything about Correspondence to Reality, Coherence, or Pragmatic concerns. It is Tarski&amp;#8217;s &lt;em&gt;definition&lt;/em&gt; of the concept of truth, and it&amp;#8217;s become an important benchmark in any discussion of the topic to this day. &lt;/p&gt;
+
+&lt;p&gt;More information about Tarski can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/553669&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Frank Ramsey (1903-1930)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Ramsey.jpg&#34; alt=&#34;[Image of Ramsey]&#34; /&gt;If I&amp;#8217;d done as much as Frank Ramsey had achieved by the time &lt;em&gt;I&lt;/em&gt; was 27, I&amp;#8217;d be glad. Of course, I&amp;#8217;m very glad to have made it past 27. &lt;/p&gt;
+
+&lt;p&gt;Ramsey not only did amazing work in the philosophy of logic and probability. His insight into how &lt;em&gt;theoretical terms&lt;/em&gt; work has earned his surname a place in the &lt;a href=&#34;http://www.google.com/search?q=ramsification&#34;&gt;lexicon&lt;/a&gt;. Yes, Frank Ramsey is responsible for the technique we now delightedly call &lt;em&gt;Ramsification&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Ramsification is a straightforward notion when you get your head around it. It&amp;#8217;s a theoretical application to &lt;em&gt;concepts&lt;/em&gt; of Russell&amp;#8217;s account of definite descriptions. It&amp;#8217;s always been a bit of a mystery how theoretical terms like &lt;em&gt;neutrino&lt;/em&gt; actually work. People started talking about neutrinos (I love the name by the way: &lt;em&gt;little neutral one&lt;/em&gt; is a perfect name for a pet, at least if he/she is placid) before they&amp;#8217;d ever found conclusive evidence of their existence. It&amp;#8217;s not like they&amp;#8217;d &lt;em&gt;laid eyes&lt;/em&gt; on them and said &amp;#8220;I will call this a &lt;em&gt;neutrino&lt;/em&gt;&amp;#8221;. No, what happened instead is that the scientists endorsed a body which included the predicate &amp;#8220;is a neutrino&amp;#8221;. The theory will contain things like &amp;#8220;Neutrinos have no charge&amp;#8221;, &amp;#8220;Neutrinos have negligible mass&amp;#8221; and other things like this. Now this theory can have sense, and can &lt;em&gt;assign&lt;/em&gt; a kind of meaning to the term &amp;#8220;neutrino&amp;#8221; in just the same way as Russell&amp;#8217;s analysis of definite descriptions shows how sense is assigned to definite descriptions. The theoretical term &amp;#8220;neutrino&amp;#8221; doesn&amp;#8217;t really refer, but you can treat the terms as a predicate &lt;em&gt;variable&lt;/em&gt;, and the theory really says something like &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;(for some X)(X has no charge, and X has negligible mass, and &amp;#8230;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And in this way, theoretical terms are introduced into the language. &lt;/p&gt;
+
+&lt;p&gt;This technique has seen a &lt;em&gt;lot&lt;/em&gt; of use in contemporary work coming out of &lt;a href=&#34;http://web.syr.edu/%7Edpnolan/philosophy/Credo.html&#34;&gt;Canberra&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;More information about Ramsey can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/553336&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Alonzo Church (1903-1994)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Church.jpg&#34; alt=&#34;[Image of Church]&#34; /&gt;Alonzo Church&amp;#8217;s influence over logic is long-lived, as he was. I&amp;#8217;ll focus on just two ways he has left his mark on the field. First, and most obvious, was his invention of the &lt;em&gt;lambda calculus&lt;/em&gt;. This is a notion for representing functions, immensely suited to the same body of theory as Curry&amp;#8217;s &lt;em&gt;combinatory logic&lt;/em&gt;. In fact, Church&amp;#8217;s notation for functional abstraction (using a &lt;em&gt;lambda&lt;/em&gt;, which I&amp;#8217;ll write here with a backslash &amp;#8220;&amp;#34;) is a uniform technique which, when combined with functional application, gives you exactly the same theory as Curry&amp;#8217;s combinators. The notation is simple. The addition function can be represented like this: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;\x\y(x+y)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;#8217;s a function, which when applied to a number (say 2) gives you the result \y(2+y). You figure out how it works by taking the first lambda abstraction out the front, removing it, and replacing the variables inside the rest which were bound by that abstraction, by the value you chose. The result is still a function. If you apply this to another number (say 3) you get the result 2+3. So addition here is a function which takes two values, and returns a number. &lt;/p&gt;
+
+&lt;p&gt;More can be said about the lambda calculus, and its use as a language for representing functional abstraction. I want to go on to consider what might have been Church&amp;#8217;s greatest achievement. He founded, in 1936, the &lt;a href=&#34;http://www.aslonline.org/asl/JSL/JSL.html&#34;&gt;Journal of Symbolic Logic&lt;/a&gt; in 1936, along with its parent body, the &lt;a href=&#34;http://www.aslonline.org/&#34;&gt;Association for Symbolic Logic&lt;/a&gt;. The &lt;em&gt;JSL&lt;/em&gt; is the most prestigious journal in formal logic, and it has played (especially in its early years) a crucial pivotal role in helping define the community of logicians, by giving a focal point for research and a means for disseminating results broadly. Logicians did not have to resort to scanning over a wide body of mathematics and philosophy journals to find articles of importance to logic. Now they could concentrate in the one place. &lt;/p&gt;
+
+&lt;p&gt;More information about Church can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Church.html&#34;&gt;St Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;Kurt G&amp;ouml;del (1906-1978)&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Godel.jpg&#34; alt=&#34;[Image of G&amp;ouml;del]&#34; /&gt;G&amp;ouml;del&amp;#8217;s &lt;em&gt;incompleteness theorem&lt;/em&gt; is great in two ways. First, it&amp;#8217;s the technical result in logic most cited outside its field. Second, it&amp;#8217;s a stunning piece of reasoning which genuinely broke open a new field and closed off other areas of inquiry. &lt;/p&gt;
+
+&lt;p&gt;G&amp;ouml;del&amp;#8217;s incompleteness theorem shows that Peano&amp;#8217;s theory of arithmetic is essentially &lt;em&gt;incomplete&lt;/em&gt;. For some sentences in the language of arithmetic, it cannot decide between that sentence and its negation. G&amp;ouml;del shows that this is not an accidental feature of Peano&amp;#8217;s theory, to be fixed with a little patch here or there. No, &lt;em&gt;any&lt;/em&gt; theory of arithmetic which is such that you can tell (by means of a recursive function: look to &lt;em&gt;Turing&amp;#8217;s entry&lt;/em&gt; coming on up) whether or not something is an &lt;em&gt;axiom&lt;/em&gt; of the theory, then exactly the same incompleteness phenomenon will hold. Why is this? It&amp;#8217;s because an arithmetic theory is rich enough to &lt;em&gt;represent&lt;/em&gt; in some sense, it&amp;#8217;s own facts about &lt;em&gt;provability&lt;/em&gt;. That is, it can simulate provability in its own claims about numbers. G&amp;ouml;del showed how claims about sentences and proofs can be &amp;#8220;encoded&amp;#8221; into claims about numbers, in such a way that if there &lt;em&gt;is&lt;/em&gt; a proof of some claim, then there is a proof in arithmetic which represents that proof. Once you&amp;#8217;ve pulled this trick (it&amp;#8217;s the trick of &lt;em&gt;G&amp;ouml;del numbering&lt;/em&gt;), you then need to pull another trick (called &lt;em&gt;diagonalisation&lt;/em&gt;, it&amp;#8217;s close in spirit to Cantor&amp;#8217;s diagonal argument) to construct a sentence which, in effect says &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;I am not provable in Peano&amp;#8217;s Arithmetic &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If this sentence &lt;em&gt;is&lt;/em&gt; provable in Peano&amp;#8217;s arithmetic, then since provability in this arithmetic implies truth, it is not provable in Peano&amp;#8217;s arithmetic, and as a result the arithmetic is inconsistent. On the other hand, if it&amp;#8217;s not provable in Peano&amp;#8217;s arithmetic, then it itself is an example of a sentence which is true but is not provable: and as a result, the arithmetic is incomplete. &lt;/p&gt;
+
+&lt;p&gt;Now, there&amp;#8217;s a &lt;em&gt;lot&lt;/em&gt; that can be said about this result. And there&amp;#8217;s a lot of garbage that has been said about this result too (so called &amp;#8220;applications&amp;#8221; range from theories of the mind, of culture, of value, of art, of this that and the other). It think it&amp;#8217;s stunning enough in its original form. And working out its implications for logical theories, and knowing when (and on what basis) we can claim consistency or completeness, is plenty interesting enough. &lt;/p&gt;
+
+&lt;p&gt;More information about G&amp;ouml;del can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/G&amp;ouml;del.html&#34;&gt;St. Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him.&lt;/p&gt;
+
+&lt;h3&gt;W. V. O. Quine (1908-2000)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Quine.jpg&#34; alt=&#34;[Image of Quine]&#34; /&gt;Quine is not famous for his &lt;em&gt;logic&lt;/em&gt; so much as for the mark he made on philosophy in the english-speaking world in the second half of the twentieth century. However, he was a formidable logician, with contributions in set theory (his &lt;em&gt;New Foundations&lt;/em&gt; is an alternative view of the set-theoretic universe, radically at odds with the Zermelo-Fraenkel picture inspired by Cantor) and other areas of logic. However, it was his imprint on &lt;em&gt;philosophy as a whole&lt;/em&gt; for which Quine is rightly remembered. &lt;/p&gt;
+
+&lt;p&gt;The centre of Quine&amp;#8217;s contribution can be seen in his work on &lt;em&gt;meaning&lt;/em&gt; and the &lt;em&gt;holist&lt;/em&gt; picture radically at odds with Carnap&amp;#8217;s view of how language works. For Carnap, the &lt;em&gt;meaning postulates&lt;/em&gt; governing a discourse show us how the language works, and once you have the meaning postulates (the &lt;em&gt;analytic&lt;/em&gt; truths) the &amp;#8220;world&amp;#8221; contributes the rest, the (the &lt;em&gt;synthetic&lt;/em&gt; truths). The analytic truths don&amp;#8217;t tell us anything &lt;em&gt;about the world&lt;/em&gt; but the synthetic truths do. This is a compelling picture, and it&amp;#8217;s one that has basically been the received doctrine in understanding language and concepts, from the British Empiricists, through Kant, and up to the middle 20th Century. Of course, the picture has not been a uniform one. Kant argued that some synthetic truths were knowable &lt;em&gt;a priori&lt;/em&gt;, and the work in logic in the early 19th and 20th Centuries greatly expanded our understanding of what might count as &amp;#8220;analytic&amp;#8221;. However, everyone agreed that there was a sensible distinction to be drawn between the analytic and the synthetic. &lt;/p&gt;
+
+&lt;p&gt;Quine changed all of that. With novel arguments and though experiments (in particular, the problem of &lt;em&gt;radical translation&lt;/em&gt;: see &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0262670011/consequentlyorg&#34;&gt;Word and Object&lt;/a&gt; and the famous article &amp;#8220;Two Dogmas of Empiricism&amp;#8221;) Quine set about to dismantle the analytic/synthetic distinction. For Quine, any body of theory cannot be unambiguously split into analytic and synthetic components, where the synthetic is prone to revision and the analytic immune from revision. The body of theory is to be considered as a whole, and judged in this way. Quine was the first explicit empiricist &lt;em&gt;holist&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;To this day, anyone who takes the analytic/synthetic distinction seriously owes a debt to explain how it is to be understood, in the face of Quine&amp;#8217;s arguments. For bringing this important issue to light, Quine is to be praised! &lt;/p&gt;
+
+&lt;p&gt;More information about Quine can be found at the &lt;a href=&#34;http://www.wvquine.org/&#34;&gt;Quine Home Page&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Gerhard Gentzen (1909-1945)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Gentzen.jpg&#34; alt=&#34;[Image of Gentzen]&#34; /&gt;Gerhard Gentzen brought the study of logic to a completely new level with his work on the theory of &lt;em&gt;proofs&lt;/em&gt;. Logicians, since Aristotle, have been interested not only in what you can prove, but also in proof itself. But somewhat suprisingly, up until Gentzen&amp;#8217;s time, no-one had a coherent story to tell about what a proof actually &lt;em&gt;is&lt;/em&gt; and what logical properties proofs might have. Gentzen&amp;#8217;s work changed this, and he is now seen as the archetypal &lt;em&gt;proof theorist&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Gentzen&amp;#8217;s innovation was to introduce proof as an object of study. He formalised two different kinds of proofs, which we now call &lt;em&gt;Natural Deduction&lt;/em&gt; and &lt;em&gt;Gentzen Systems&lt;/em&gt; in his honour. A Gentzen system is an interesting kind of way of proving things, because unlike other kinds of proof, a Gentzen proof is not a series of statements, each of which follows from earlier statements in the series. (A Natural deduction proof is like this, except that statements may be &lt;em&gt;assumed&lt;/em&gt; and assumptions may also be &lt;em&gt;discharged&lt;/em&gt; at different points in the proof.) A Gentzen proof is very different: at each stage of a Gentzen proof, you prove not &lt;em&gt;statements&lt;/em&gt; but &lt;em&gt;sequents&lt;/em&gt;. A sequent is not an individual statement, but rather, a claim saying that one statement follows from other statements. One way of thinking about it (and this was Gentzen&amp;#8217;s own way of thinking about it) is that a Gentzen proof is a proof &lt;em&gt;about&lt;/em&gt; other proofs. The steps don&amp;#8217;t say things like &amp;#8220;this follows from that&amp;#8221; but &amp;#8220;if there&amp;#8217;s a proof of &lt;em&gt;B&lt;/em&gt; from &lt;em&gt;A&lt;/em&gt; then there&amp;#8217;s a proof of &lt;em&gt;C&lt;/em&gt; from &lt;em&gt;A&lt;/em&gt; too&amp;#8221;. &lt;/p&gt;
+
+&lt;p&gt;Gentzen systems are beautiful because they give you a deeper understanding of what can be done with proofs. One of Gentzen&amp;#8217;s own applications was to use a Gentzen system for Peano Arithmetic to show that arithmetic was indeed consistent. Gentzen&amp;#8217;s argument is quite clever. He shows that there is no way that you could get a proof of an inconsistency from the axioms because any such proof could be transformed into a &lt;em&gt;smaller&lt;/em&gt; proof of an inconsistency from the axioms, and there&amp;#8217;s no one-step proof of an inconsistency. (Actually, the proof is a bit trickier than this, as it&amp;#8217;s a corollary of Gentzen&amp;#8217;s famous &lt;em&gt;Cut Elimination Theorem&lt;/em&gt;, but this is the core of the way that the result is proved, if you think about it for a bit!) &lt;/p&gt;
+
+&lt;p&gt;This result might be seen to be in conflict with G&amp;ouml;del&amp;#8217;s incompleteness result, which has a corollary that Peano&amp;#8217;s arithmetic can&amp;#8217;t prove its own consistency. However, there&amp;#8217;s no conflict, as Gentzen&amp;#8217;s techniques, though straightforward, actually presume something &lt;em&gt;more&lt;/em&gt; that arithmetic itself. These techniques use a form of mathematical induction stronger than that supplied in ordinary arithmetic. This result has spawned many more like it, and the study of the relative proof-theoretical strength of different theories is now a well-understood discipline in logic. &lt;/p&gt;
+
+&lt;p&gt;More information about Gentzen can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Gentzen.html&#34;&gt;St. Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;Alan Turing (1912-1954)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Turing.jpg&#34; alt=&#34;[Image of Turing]&#34; /&gt;Alan Turing is famous for the &lt;em&gt;Turing Test&lt;/em&gt; (a claim about what it would take for something to count as &lt;em&gt;intelligent&lt;/em&gt;: get it to communicate with you in conversation over a network connection) for &lt;em&gt;Turing Machines&lt;/em&gt;, and for half of the name of the &lt;em&gt;&lt;a href=&#34;http://plato.stanford.edu/entries/church-turing/&#34;&gt;Church-Turing Thesis&lt;/a&gt;&lt;/em&gt;. I think that the latter two are more interesting from the point of view of logic than the first one. &lt;/p&gt;
+
+&lt;p&gt;Turing Machines are not really &lt;em&gt;machines&lt;/em&gt; at all. The idea of a Turing machine is that of a characterisation of a &lt;em&gt;kind of&lt;/em&gt; computing device, and it&amp;#8217;s the kind of computational device stripped down to its limit. All it involves is a long tape divided into segments (picture a roll of toilet paper unrolled). The tape is &lt;em&gt;long&lt;/em&gt; in the sense that if you ever get to an end, you can go out to the shop and get some more to add on. So, you never run out of tape. Then, you have a marker where you can write a sign on a square of the tape. (You can overwrite an existing sign with a new sign too: the new sign replaces the old one.) You have a finite collection of possible signs, including the blank sign for a square which has no other sign written on it. You also have a finite set of &lt;em&gt;states&lt;/em&gt; which you can think of as points on a flowchart. The &lt;em&gt;instructions&lt;/em&gt; are the arrows on a flow chart which say things like this: If you&amp;#8217;re in this state, and you&amp;#8217;re looking at a square with &lt;em&gt;this&lt;/em&gt; symbol on it, then follow &lt;em&gt;this&lt;/em&gt; instruction, and go to &lt;em&gt;this&lt;/em&gt; state. What&amp;#8217;s an instruction? It can be one of three things. It&amp;#8217;s either to write a sign in the square you&amp;#8217;re looking at, or move left one square and look at this new square, or move right one square. That&amp;#8217;s it. If you&amp;#8217;re in a state looking at a symbol on a square and you have &lt;em&gt;no&lt;/em&gt; instruction to follow, your computation simply stops. &lt;/p&gt;
+
+&lt;p&gt;That&amp;#8217;s it. That&amp;#8217;s all there is to a Turing machine. It&amp;#8217;s not exactly the kind of computer you can use for word-processing, or playing &lt;a href=&#34;http://www.idsoftware.com&#34;&gt;games&lt;/a&gt; with. However, the kinds of computations you can do on this kind of machine (especially when you think of representing numbers on the machine using some code) are a really natural class of functions. They&amp;#8217;re the &lt;em&gt;recursive&lt;/em&gt; functions, independently characterised by Church. And the Church-Turing thesis is the claim that this class of functions is exactly the class of functions which could be &lt;em&gt;computed&lt;/em&gt; using any computational device. &lt;/p&gt;
+
+&lt;p&gt;More information about Turing can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Turing.html&#34;&gt;St Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;Arthur Prior (1914-1969)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Prior.jpg&#34; alt=&#34;[Image of Prior]&#34; /&gt;Arthur Prior is the first (and only) &lt;em&gt;antipodean&lt;/em&gt; logician on this list. Educated in New Zealand, he had academic positions both in New Zealand (at Otago and Canterbury) and in England (at Manchester, and Oxford). Prior invented the field of &lt;em&gt;tense logic&lt;/em&gt;, the logic of &amp;#8220;earlier&amp;#8221; and &amp;#8220;later&amp;#8221;, &amp;#8220;past&amp;#8221; and &amp;#8220;future&amp;#8221;. He was the arch &lt;em&gt;intensionalist&lt;/em&gt;, bringing to the philosophical fore these &lt;em&gt;modalities&lt;/em&gt; which are not truth-functional, not obviously amenable to Tarski&amp;#8217;s analysis of truth-in-a-model. Remember that in Tarki&amp;#8217;s world, the truth or otherwise of a complex expression depends on the truth or otherwise of its components. The &lt;em&gt;temporal&lt;/em&gt; operators don&amp;#8217;t work like this at all. &amp;#8220;it&amp;#8217;s raining&amp;#8221; and &amp;#8220;it&amp;#8217;s Thursday&amp;#8221; might both be true, but &amp;#8220;yesterday it rained&amp;#8221; and &amp;#8220;yesterday it was Thursday&amp;#8221; might differ in truth value. The truth or falsity of temporal operators is &lt;em&gt;intensional&lt;/em&gt; and not &lt;em&gt;extensional&lt;/em&gt;. It depends on more than just the truth value of the components. &lt;/p&gt;
+
+&lt;p&gt;There is a tradition in logic to attempt to erase the intensional by making it genuinely &lt;em&gt;extensional&lt;/em&gt; (replacing talk of &amp;#8220;it rained&amp;#8221; by &amp;#8220;it rained on day &lt;em&gt;x&lt;/em&gt;&amp;#8221; and explicitly quantifying over days or times) &amp;#8212; Quine&amp;#8217;s work is a very good example of this &amp;#8212; but Prior resisted this move strongly. For Prior, there was nothing wrong with irreducable intensionality, provided that you could be clear about the logical properties these intensional creatures satisfied. Prior&amp;#8217;s work did a great deal to rehabilitate the intensional and to put it on an equal footing with the extensional tradition in logic. This work would explode onto the scene with some developments of Kripke and what is now known as &amp;#8220;possible worlds semantics&amp;#8221;, but it was Prior&amp;#8217;s work which set the scene and showed the enormous range of philosophical applicability of these ideas. &lt;/p&gt;
+
+&lt;p&gt;Excellent information about Prior can be found in &lt;a href=&#34;http://www.phil.canterbury.ac.nz/jack&amp;#95;copeland/&#34;&gt;Jack Copeland&lt;/a&gt;&amp;#8217;s &lt;a href=&#34;http://plato.stanford.edu/entries/prior/&#34;&gt;entry on Prior in the Stanford Encyclopedia of Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Helena Rasiowa (1917-1994)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Rasiowa.jpg&#34; alt=&#34;[Image of Rasiowa]&#34; /&gt;At &lt;em&gt;last&lt;/em&gt;, a woman! The month is nearly at an end, and at last, I have found a female logician to join our list of stars. Helena Rasiowa was an incredible logician from Poland, who helped place the study of &lt;em&gt;logics&lt;/em&gt; on a mathematical footing. Continuing on the work of Boole and Lukasiewicz, she showed, in her groundbreaking book &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0720422647/consequentlyorg&#34;&gt;An Algebraic Approach to Non-Classical Logics&lt;/a&gt; showed how contemporary techniques in &lt;em&gt;algebra&lt;/em&gt; may be used to study the structures of propositions arising out of different conceptions of logic. This book is rich in ideas and treatments of Boolean algebras, Heyting algebras (models of intuitionistic logic), the many valued logics of Lukasiewicz, and others. This is one of the first books to give a unified treatment of &lt;em&gt;logics&lt;/em&gt; rather than a partisan development of this system or that system. &lt;/p&gt;
+
+&lt;p&gt;Rasiowa&amp;#8217;s work also encouraged me as a budding mathematics student, to go into logic. Browsing through &lt;a href=&#34;http://library.uq.edu.au/search/arasiowa+helena/arasiowa+helena/1,1,4,B/frameset&amp;amp;F=arasiowa+helena&amp;amp;1,,4&#34;&gt;its pages&lt;/a&gt; in the old University of Queensland Mathematics Library, I saw that the things I was learning in algebra could be used to illuminate my growing interests in logic. &lt;/p&gt;
+
+&lt;p&gt;More information about Rasiowa can be found at the &lt;a href=&#34;http://www-groups.dcs.st-andrews.ac.uk/~history/Mathematicians/Rasiowa.html&#34;&gt;St. Andrews&amp;#8217; History of Mathematics Entry&lt;/a&gt; on her. &lt;/p&gt;
+
+&lt;h3&gt;Ruth Barcan Marcus (1921-)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Marcus.jpg&#34; alt=&#34;[Image of Marcus]&#34; /&gt;Ruth Barcan Marcus is another &lt;em&gt;intensionalist&lt;/em&gt; like Prior. She was a proponent of modal logic who in a series of papers from 1946, defended the coherence of quantified modal logics against criticism, and helped ensure that modal logic gained a hearing, but eventually, became a part of the &lt;em&gt;lingua franca&lt;/em&gt; of many working philosophers.  This was an amazing feat, since her opponents in this included none other than the eminent W.&amp;nbsp;V.&amp;nbsp;O.&amp;nbsp;Quine.  Quine was an ardent and trenchant critic of intensional logic, but Ruth Barcan (later Ruth Barcan Marcus) was central in ensuring that philosophical interest in modality did not wither under Quinean criticism.  
+    
+Ruth Barcan Marcus has lent her name to what is now called the &lt;em&gt;Barcan Formula&lt;/em&gt;.  She showed  that on a plausible conception of how &lt;em&gt;possibility&lt;/em&gt; worked, the following thesis turns out to be true: &lt;/p&gt;
+
+&lt;blockquote&gt;
+    &lt;p&gt;If it is &lt;em&gt;possible&lt;/em&gt; that something has property &lt;em&gt;F&lt;/em&gt;, then there is something such that &lt;em&gt;it&lt;/em&gt; possibly has poperty &lt;em&gt;F&lt;/em&gt;. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now, this might be a problem. After all, if we think it is &lt;em&gt;possible&lt;/em&gt; that there be an object with atomic number 150, does it follow that we should think that there &lt;em&gt;is&lt;/em&gt; some stuff such that it &lt;em&gt;could be&lt;/em&gt; matter with atomic number 150? It&amp;#8217;s kind-of odd to think that this must be so, but on a straightforward understanding of how modality and possibility works (that every &amp;#8220;world&amp;#8221; has the same &amp;#8220;domain&amp;#8221;: more on this later) this is how things turn out. &lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://plato.stanford.edu/entries/actualism/index.html&#34;&gt;debates arising out of the combination of modality and quantification&lt;/a&gt; are by no means over. Ruth Barcan Marcus&amp;#8217; sharp analysis has focussed the discussion of these topics for decades. &lt;/p&gt;
+
+&lt;p&gt;More information about Marcus can be found at her &lt;a href=&#34;href=&#34;http://www.yale.edu/philos/people/marcus&amp;#95;ruth.html&#34;&gt;web page&lt;/a&gt;.  For a good collection of Prof. Marcus&amp;rsquo; work on modal logic, her collection &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Modalities-Philosophical-Ruth-Barcan-Marcus/dp/0195096576/consequentlyorg&#34;&gt;Modalities: Philosphical Essays&lt;/a&gt;&lt;/em&gt; is the place to start.&lt;/p&gt;
+
+&lt;h3&gt;Saul Kripke (1940-)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Kripke.jpg&#34; alt=&#34;[Image of Kripke]&#34; /&gt;Saul Kripke was a precocious teenager when his work revolutionised intensional logic. For many years people had known that the logic of &lt;em&gt;possibly&lt;/em&gt; and &lt;em&gt;necessarily&lt;/em&gt; had a coherence all of its own, and many people had strived to give it a plausible and satisfying formal &lt;em&gt;semantics&lt;/em&gt;. This was to change in the work of a teenaged Kripke, published in 1959 (&amp;#8220;A completeness theorem in modal logic&amp;#8221;, published in the &lt;em&gt;Journal of Symbolic Logic&lt;/em&gt;, pages 1 to 15 of volume 24). In this paper, Kripke exploited the well-worn notion of a possible world, and introduced the notion of &amp;#8220;relative possibility&amp;#8221; as a relationship between &amp;#8220;possible worlds&amp;#8221;. Then we could say that a formula &amp;#8220;necessarily &lt;em&gt;A&lt;/em&gt;&amp;#8221; is true at a world if and only if &lt;em&gt;A&lt;/em&gt; is true at all worlds which are possible relative to the original world, and &amp;#8220;possibly &lt;em&gt;A&lt;/em&gt;&amp;#8221; is true at a world if and only if &lt;em&gt;A&lt;/em&gt; is true at some worlds which are possible relative to the original world. &lt;/p&gt;
+
+&lt;p&gt;The notion of possible worlds is not original with Kripke. Neither, in fact, is the use of something like a relative possibility (or &amp;#8220;accessibility&amp;#8221;) relation. However, putting these things together in a neat bundle, and showing how a number of studied modal systems can be understood in this light, &lt;em&gt;was&lt;/em&gt; new, and this generated a whole new field of study: the possible worlds semantics for modal and other intensional logics. &lt;/p&gt;
+
+&lt;p&gt;Kripke went on to work in many different areas in philosophy, including some influential &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0674954017/consequentlyorg&#34;&gt;work on Wittegenstein&lt;/a&gt; and other areas of metaphysics and the philosophy of language. His mark on logic, however, was already made in that paper written as a teenager. &lt;/p&gt;
+
+&lt;p&gt;More information about Kripke&amp;#8217;s work in &lt;em&gt;philosophy&lt;/em&gt; can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/552540&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt; on him. &lt;/p&gt;
+
+&lt;h3&gt;David Lewis (1941-2001)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Lewis.jpg&#34; alt=&#34;[Image of Lewis]&#34; /&gt;David Lewis is famous not only for his great impact on analytic philosophy (perhaps this impact is felt most keenly in Australia, a country he loved and visited regularly) but also on the reaction that his philosophical views provoked. Lewis&amp;#8217; &lt;em&gt;modal realism&lt;/em&gt;, the view that other possible worlds are just as real, and just as real in exactly the same way as this world we live in, famously and regularly provokes an &lt;em&gt;incredulous stare&lt;/em&gt; from people when they hear that he believes it quite literally. &lt;/p&gt;
+
+&lt;p&gt;Lewis is a good example of a philosopher whose work is the consequence of the work of others. This is not to deny his creative output or originality in any way: it is a creative work to spell out the consequences of a view, and no body of work in this area is richer or more well developed than Lewis&amp;#8217;. David Lewis&amp;#8217; view, I think, can be seen as what you get when you cross Quine&amp;#8217;s ontological views (his extensionalism) with the intensionalism you find in Kripke&amp;#8217;s and others&amp;#8217; work on modal logic. Lewis acknowledges that modal notions (possibility and necessity and the like) are important, meaningful, and to be found in any theory we take seriously. From Quine, he takes the ontological commitment of a theory to be read off what the theory &lt;em&gt;quantifies over&lt;/em&gt; (Quine&amp;#8217;s dictum is &amp;#8220;&lt;a href=&#34;http://www.jcu.edu/philosophy/gensler/ap/quine-00.htm&#34;&gt;to be is to be the value of a variable&lt;/a&gt;&amp;#8221;.) Modality is important and it makes sense. Our way of understanding modality is to quantify over possible worlds in semantics in the tradition of Kripke. Voila: modal realism. &lt;/p&gt;
+
+&lt;p&gt;Lewis&amp;#8217; work on this topic, especially in the book &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0631224262/consequentlyorg&#34;&gt;On the Plurality of Worlds&lt;/a&gt; is a compendium of what follows from taking this metaphysical picture seriously, and the kinds of philosophical applications the notions of possible worlds might have. &lt;/p&gt;
+
+&lt;p&gt;More information about Lewis can be found at the &lt;a href=&#34;http://www.xrefer.com/entry/552612&#34;&gt;Oxford Companion to Philosophy&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;Jon Barwise (1942-2000)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&#34;logician&#34; src=&#34;http://consequently.org/images/logicians/Barwise.jpg&#34; alt=&#34;[Image of Barwise]&#34; /&gt;Jon Barwise was a &lt;em&gt;renaissance logician&lt;/em&gt;. He didn&amp;#8217;t know &lt;em&gt;everything&lt;/em&gt; but his contributions ranged so widely that he approximated omniscience quite well. His work &lt;a href=&#34;http://www-vil.cs.indiana.edu/kjbpubls.html&#34;&gt;ranges from&lt;/a&gt; infinitary logic (an extension of Frege-style predicate logic to deal with infinitely long sentences, and infinitary quantifiers), the model theory of first-order logic (continuing on from Tarski&amp;#8217;s work), generalsed quantifiers (quantifiers other than &amp;#8220;for all&amp;#8221; and &amp;#8220;for some&amp;#8221;), admissible sets and generalised recursion theory (the connections between sets and computation), situation semantics and the philosophy of language (using &lt;em&gt;situations&lt;/em&gt;, restricted parts of the world as bearers of information, rather than just entire possible worlds), information theory (an account of how information flows and is transmitted), and the logic of &lt;em&gt;diagrams&lt;/em&gt; (examining visual representation and inference, as well as linguistic representation).&lt;/p&gt;
+
+&lt;p&gt;Barwise&amp;#8217;s work, in all of 35 years, has covered a &lt;em&gt;huge&lt;/em&gt; range of disciplines, and it gives you some idea of the breadth of work available in contemporary logic. Barwise&amp;#8217;s approach of regularly moving into new fields, to keep fresh and active, is a helpful antidote in the current age of increasing specialisation and narrowing. If work like this is possible at the end of the 20th Century, it will be our job to see what might be done in the 21st.&lt;/p&gt;
+
+&lt;p&gt;More information about Barwise can be found at the &lt;a href=&#34;http://www-vil.cs.indiana.edu/barwise.html&#34;&gt;Barwise Memorial Pages&lt;/a&gt; at Indiana.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Modelling Truthmaking</title>
+      <link>http://consequently.org/writing/modelling/</link>
+      <pubDate>Thu, 03 Jul 2003 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/modelling/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Published in a special issue of &lt;em&gt;Logique et Analyse&lt;/em&gt;,  on Truthmakers, edited by &lt;a href=&#34;http://www.une.edu.au/~arts/Philosop/pforrest.htm&#34;&gt;Peter Forrest&lt;/a&gt; and &lt;a href=&#34;http://www.une.edu.au/~arts/Philosop/dkhlentzos.htm&#34;&gt;Drew Khlentzos&lt;/a&gt;.  This expands on my paper &amp;ldquo;Truthmakers, Entailment and Necessity&amp;rdquo; by showing that the theses on truthmaking given in that paper are mutually consistent. It does this by providing a model in which each thesis is true. This model is an independently motivated model of a weak quantified relevant logic with an existence predicate.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logic</title>
+      <link>http://consequently.org/writing/logic_chapter/</link>
+      <pubDate>Mon, 03 Mar 2003 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logic_chapter/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;An introduction to the formal and philosophical logic, for a general introductory handbook to philosophy.  I introduce the concepts of deductive and inductive validity, formal languages, proofs, models, soundness and completeness, and many other things besides.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Just what &lt;em&gt;is&lt;/em&gt; Full-Blooded Platonism?</title>
+      <link>http://consequently.org/writing/whatisfbp/</link>
+      <pubDate>Mon, 03 Mar 2003 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/whatisfbp/</guid>
+      <description>&lt;![CDATA[
+
+&lt;h2 id=&#34;mark-balaguer-has-in-em-a-href-http-www-amazon-com-exec-obidos-asin-0195143981-ref-nosim-consequentlyorg-platonism-and-anti-platonism-in-mathematics-a-em-given-us-an-intriguing-new-brand-of-platonism-which-he-calls-plenitudinous-platonism-or-more-colourfully-em-full-blooded-platonism-em-in-this-paper-i-argue-that-none-of-balaguer-rsquo-s-attempts-to-characterise-full-blooded-platonism-succeed-they-are-either-too-strong-with-untoward-consequences-we-all-reject-or-too-weak-not-providing-a-distinctive-brand-of-platonism-strong-enough-to-do-the-work-balaguer-requires-of-it&#34;&gt;Mark Balaguer has, in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0195143981/ref=nosim/consequentlyorg&#34;&gt;Platonism and Anti-Platonism in Mathematics&lt;/a&gt;&lt;/em&gt;, given us an intriguing new brand of platonism, which he calls, plenitudinous platonism, or more colourfully, &lt;em&gt;full-blooded platonism.&lt;/em&gt; In this paper, I argue that none of Balaguer&amp;rsquo;s attempts to characterise full-blooded platonism succeed. They are either too strong, with untoward consequences we all reject, or too weak, not providing a distinctive brand of platonism strong enough to do the work Balaguer requires of it.&lt;/h2&gt;
+
+&lt;p&gt;EXCERPT:
+&amp;ldquo;Just What is Full-Blooded Platonism?&amp;rdquo;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Relevance Logic</title>
+      <link>http://consequently.org/writing/rle/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/rle/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A revision of the &lt;em&gt;Handbook of Philosophical Logic&lt;/em&gt; essay on relevant logics, updating it to include work on display logic, relevant predication, Urquhart&amp;rsquo;s undecidability and complexity results, and connections with other substructural logics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Paraconsistency Everywhere</title>
+      <link>http://consequently.org/writing/pev/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/pev/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Paraconsistent logics are, by definition, &lt;em&gt;inconsistency
+tolerant&lt;/em&gt;:  In a paraconsistent logic, inconsistencies need not
+entail everything.  However, there is more than one way a body
+of information can be inconsistent.  In this paper I distinguish
+contradictions from other inconsistencies, and I show that
+several different logics are, in an important sense, &amp;ldquo;paraconsistent&amp;rdquo;
+in virtue of being &lt;em&gt;inconsistency tolerant&lt;/em&gt; without thereby
+being &lt;em&gt;contradiction tolerant&lt;/em&gt;.  For example, even though no
+inconsistencies are tolerated by intuitionistic &lt;em&gt;propositional&lt;/em&gt;
+logic, some inconsistencies are tolerated by intuitionistic
+&lt;em&gt;predicate&lt;/em&gt; logic.  In this way, intuitionistic predicate logic
+is, in a mild sense, paraconsistent.  So too are orthologic and quantum
+propositional logic and other formal systems.  Given this fact, a
+widespread view that traditional paraconsistent logics are especially
+repugnant because they countenance inconsistencies is undercut.   Many well-understood nonclassical logics countenance inconsistencies
+as well.&lt;/p&gt;
+
+&lt;p&gt;(This paper was published in 2004, despite the apparent date of 2002 in the citation.  The tale is told in more detail &lt;a href=&#34;http://consequently.org/news/2004/03/24/research_quantification&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Carnap&amp;rsquo;s Tolerance, Meaning and Logical Pluralism</title>
+      <link>http://consequently.org/writing/carnap/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/carnap/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper, I distinguish different kinds of pluralism about logical consequence. In particular, I distinguish the pluralism about logic arising from Carnap&amp;rsquo;s &lt;em&gt;Principle of Tolerance&lt;/em&gt; from a pluralism which maintains that there are different, equally &amp;ldquo;good&amp;rdquo; logical consequence relations on the one language. I will argue that this second form of pluralism does more justice to the contemporary state of logical theory and practice than does Carnap&amp;rsquo;s more moderate pluralism.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>&#39;Strenge&#39; Arithmetics</title>
+      <link>http://consequently.org/writing/strenge/</link>
+      <pubDate>Sun, 03 Mar 2002 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/strenge/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;We consider the virtues of relevant arithmetic couched in the logic &lt;b&gt;E&lt;/b&gt; of &lt;em&gt;entailment&lt;/em&gt; as opposed to &lt;b&gt;R&lt;/b&gt; of relevant implication.  The move to a stronger logic allows us to construct a complete system of &lt;em&gt;true&lt;/em&gt; arithmetic, in which whenever an entailment &lt;em&gt;A &amp;rarr; B&lt;/em&gt; is not true (an example: 0=2 &amp;rarr; 0=1 is not provable) then its negation ~(&lt;em&gt;A &amp;rarr; B&lt;/em&gt;) is true.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Constructive Logic, Truth and Warranted Assertibility</title>
+      <link>http://consequently.org/writing/conlogtr/</link>
+      <pubDate>Wed, 03 Oct 2001 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/conlogtr/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Shapiro and Taschek have argued that simply using intuitionistic logic and its Heyting semantics, one can show that there are no gaps in warranted assertibility. That is, given that a discourse is faithfully modelled using Heyting&amp;rdquo;s semantics for the logical constants, that if a statement &lt;em&gt;S&lt;/em&gt; is not warrantedly assertible, then its negation &lt;em&gt;~S&lt;/em&gt; is. Tennant has argued for this conclusion on similar grounds. I show that these arguments fail, albeit in illuminating ways. I will show that an appeal to constructive logic does not commit one to this strong epistemological thesis, but that appeals to semantics of intuitionistic logic nonetheless &lt;em&gt;do&lt;/em&gt; give us certain conclusions about the connections between warranted assertibility and truth.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Defending Logical Pluralism</title>
+      <link>http://consequently.org/writing/defplur/</link>
+      <pubDate>Tue, 03 Jul 2001 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/defplur/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A defence of logical pluralism against a number of objections, primarily from Graham Priest in his article &amp;ldquo;Logic: One or Many&amp;rdquo; in the same volume.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Pluralism</title>
+      <link>http://consequently.org/writing/logical_pluralism/</link>
+      <pubDate>Wed, 20 Dec 2000 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logical_pluralism/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is our article on &lt;em&gt;logical pluralism&lt;/em&gt;.  We argue that the notion of logical consequence doesn&amp;rsquo;t pin down &lt;em&gt;one&lt;/em&gt; deductive consequence relation, but rather, there are many of them.  In particular, we argue that broadly classical, intuitionistic and relevant accounts of deductive logic are genuine logical consequence relations.  We should not search for &lt;em&gt;One True Logic&lt;/em&gt;, since there are &lt;em&gt;Many&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A bigger version of the argument (with much more detail) is found in our &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/pluralism&#34;&gt;book&lt;/a&gt;&lt;/em&gt; of the same name.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Defining Double Negation Elimination</title>
+      <link>http://consequently.org/writing/defdneg/</link>
+      <pubDate>Tue, 03 Oct 2000 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/defdneg/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In his paper &amp;ldquo;Generalised Ortho Negation&amp;rdquo; J. Michael Dunn mentions a claim of mine to the effect that there is no condition on `perp frames&amp;rsquo; equivalent to the holding of &lt;em&gt;double negation elimination&lt;/em&gt; (from ~~A to infer A). That claim of mine was wrong. In this paper I correct my error and analyse the behaviour of conditions on frames for negations which verify a number of different theses. (&lt;a href=&#34;http://www.vuw.ac.nz/phil/ed.html&#34;&gt;Ed Mares&lt;/a&gt; has pointed out that there&amp;rsquo;s some overlap between this paper and his earlier &amp;ldquo;A Star-Free Semantics for R&amp;rdquo; (JSL 1995), which I&amp;rsquo;d read long before writing this one. The particular modelling condition for DNE is still original to me, however.)&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Substructural Logics</title>
+      <link>http://consequently.org/writing/slintro/</link>
+      <pubDate>Fri, 03 Mar 2000 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/slintro/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;i&gt;Substructural logics&lt;/i&gt; are non-classical logics &lt;i&gt;weaker&lt;/i&gt; than classical logic, notable for the absence of &lt;i&gt;structural rules&lt;/i&gt; present in classical logic. These logics are motivated by considerations from philosophy (relevant logics), linguistics (the Lambek calculus) and computing (linear logic). In addition, techniques from substructural logics are useful in the study of traditional logics such as classical and intuitionistic logic. This article provides a brief overview of the field of substructural logic.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>An Introduction to Substructural Logics</title>
+      <link>http://consequently.org/writing/isl/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/isl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This book is, as the title says, an introduction to substructural logics. Think of it as a book which tries to do for substructural logics what Hughes and Cresswell&amp;rsquo;s &lt;em&gt;New Introduction&lt;/em&gt; did for modal logics. This book was published by &lt;a href=&#34;http://www.routledge.com&#34;&gt;Routledge&lt;/a&gt; in January 2000.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s available at &lt;a href=&#34;http://www.amazon.com/dp/041521534X/consequentlyorg&#34;&gt;Amazon&lt;/a&gt; and many other bookstores.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Negation in Relevant Logics&amp;#58; How I stopped worrying and learned to love the Routley Star</title>
+      <link>http://consequently.org/writing/negrl/</link>
+      <pubDate>Wed, 03 Mar 1999 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/negrl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Negation raises three thorny problems for anyone seeking to interpret relevant logics. The frame semantics for negation in relevant logics involves a point shift operator *. Problem number one is the interpretation of this operator. Relevant logics commonly interpreted take the inference from &lt;em&gt;A&lt;/em&gt; and ~&lt;em&gt;A&lt;/em&gt;v&lt;em&gt;B&lt;/em&gt; to &lt;em&gt;B&lt;/em&gt; to be invalid, because the corresponding relevant conditional &lt;em&gt;A&lt;/em&gt;&amp;amp;(~&lt;em&gt;A&lt;/em&gt;v&lt;em&gt;B&lt;/em&gt;)&amp;rarr;&lt;em&gt;B&lt;/em&gt; is not a theorem. Yet we often make the inference from &lt;em&gt;A&lt;/em&gt; and ~&lt;em&gt;A&lt;/em&gt;v&lt;em&gt;B&lt;/em&gt; to &lt;em&gt;B&lt;/em&gt;, and we seem to be reasoning validly when we do so. Problem number two is explaining what is really going on here. Finally, we can add an operation which Meyer has called &lt;em&gt;Boolean negation&lt;/em&gt; to our logic, which is evaluated in the traditional way: &lt;em&gt;x&lt;/em&gt; makes &lt;em&gt;A&lt;/em&gt; true if and only if &lt;em&gt;x&lt;/em&gt; doesn&amp;rsquo;t make &lt;em&gt;A&lt;/em&gt; true. Problem number three involves deciding which is the real negation. How can we decide between orthodox negation and the new, Boolean negation. In this paper, I present a new interpretation of the frame semantics for relevant logics which will allow us to give principled answers to each of these questions.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Displaying and Deciding Substructural Logics 1&amp;#58; Logics with Contraposition</title>
+      <link>http://consequently.org/writing/display/</link>
+      <pubDate>Tue, 03 Nov 1998 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/display/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Many logics in the relevant family can be given a proof theory in the style of Belnap&amp;rsquo;s display logic. However, as originally given, the proof theory is essentially &lt;em&gt;more expressive&lt;/em&gt; than the logics they seek to model. In this paper, we consider a modified proof theory which more closely models relevant logics. In addition, we use this proof theory to show decidability for a large range of substructural logics.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ways Things Can&#39;t Be</title>
+      <link>http://consequently.org/writing/cantbe/</link>
+      <pubDate>Tue, 03 Mar 1998 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/cantbe/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I show that the believer in possible worlds can have &lt;em&gt;impossible worlds&lt;/em&gt; for free, as classes of possible worlds. These do exactly the job of ways that things &lt;em&gt;cannot&lt;/em&gt; be, and they model the simple paraconsistent logic LP. This motivates a semantics for paraconsistent logic that even a classical logician can love.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Logical Laws</title>
+      <link>http://consequently.org/writing/logiclaws/</link>
+      <pubDate>Tue, 03 Mar 1998 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/logiclaws/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is an introductory essay on the notion of a &amp;ldquo;Logical Law.&amp;rdquo; In it, I show that there are three important different questions one can ask about logical laws. Firstly, what it &lt;em&gt;means&lt;/em&gt; to be a logical law. Secondly, what &lt;em&gt;makes&lt;/em&gt; something a logical law, and thirdly, what &lt;em&gt;are&lt;/em&gt; the logical laws. Each of these questions are answered differently by different people. I sketch the important differences in views, and point the way ahead for logical research.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Linear Arithmetic Desecsed</title>
+      <link>http://consequently.org/writing/desecsed/</link>
+      <pubDate>Tue, 03 Mar 1998 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/desecsed/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In classical and intuitionistic arithmetics, any formula implies a true equation, and a false equation implies anything. In weaker logics fewer implications hold. In this paper we rehearse known results about the relevant arithmetic R#, and we show that in linear arithmetic LL# by contrast false equations never imply true ones. As a result, linear arithmetic is &lt;em&gt;desecsed&lt;/em&gt;. A formula &lt;em&gt;A&lt;/em&gt; which entails 0=0 is a &lt;em&gt;secondary equation&lt;/em&gt;; one entailed by 0&amp;ne;0 is a &lt;em&gt;secondary unequation&lt;/em&gt;. A system of formal arithmetic is &lt;em&gt;secsed&lt;/em&gt; if every extensional formula is either a secondary equation or a secondary unequation. We are indebted to the program &lt;tt&gt;MaGIC&lt;/tt&gt; for the simple countermodel &lt;b&gt;SZ7&lt;/b&gt;, on which 0=1 is not a secondary formula. This is a small but significant success for automated reasoning.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Extending Intuitionistic Logic with Subtraction</title>
+      <link>http://consequently.org/writing/extendingj/</link>
+      <pubDate>Thu, 03 Apr 1997 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/extendingj/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Ideas on the extension of intuitionistic propositional and predicate logic with a &amp;lsquo;subtraction&amp;rsquo; connective, Galois connected with disjunction, dual to the implication connective, Galois connected with conjunction. Presented to an audience at Victoria University of Wellington, July 1997. I like this material, but it does not contain any ideas not accessible elsewhere, so it won&amp;rsquo;t be published anywhere other than here.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Paraconsistent Logics!</title>
+      <link>http://consequently.org/writing/plog/</link>
+      <pubDate>Mon, 03 Mar 1997 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/plog/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I respond to an interesting argument of Hartley Slater to the effect that there is no such thing as paraconsistent logic. Slater argues that since paraconsistent logics involve interpreting a sentence and its negation as both true at points in a model structure, it is not really &lt;em&gt;negation&lt;/em&gt; that is being modelled, since negation is meant to be a contradictory forming operator. I sketch how different paraconsistentists can respond to his argument, and I then defend my own response, that although contradictions are indeed never true (and &lt;em&gt;cannot&lt;/em&gt; be true) it does not follow that a semantics ought not evaluate them as true in certain models.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Combining Possibilities and Negations</title>
+      <link>http://consequently.org/writing/combipn/</link>
+      <pubDate>Mon, 03 Mar 1997 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/combipn/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Combining non-classical (or &amp;lsquo;&lt;em&gt;sub&lt;/em&gt;-classical&amp;rsquo;) logics is not easy, but it is very interesting. In this paper, we combine nonclassical logics of negation and possibility (in the presence of conjunction and disjunction), and then we combine the resulting systems with intuitionistic logic. We will find that some of Marcus Kracht&amp;rsquo;s results on the undecidability of classical modal logics generalise to a non-classical setting. We will also see conditions under which intuitionistic logic can be combined with a non-intuitionistic negation without corrupting the intuitionistic fragment of the logic.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Display Logic and Gaggle Theory</title>
+      <link>http://consequently.org/writing/dggl/</link>
+      <pubDate>Tue, 05 Mar 1996 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/dggl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper is a revised version of a talk given at the &lt;em&gt;Logic and Logical Philosophy&lt;/em&gt; conference in Poland in September 1995. In it, I sketch the connections between Nuel Belnap&amp;rsquo;s &lt;em&gt;Display Logic&lt;/em&gt; and J. Michael Dunn&amp;rsquo;s &lt;em&gt;Gaggle Theory&lt;/em&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Truthmakers, Entailment and Necessity</title>
+      <link>http://consequently.org/writing/ten/</link>
+      <pubDate>Sun, 03 Mar 1996 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/ten/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A truthmaker for a proposition &lt;em&gt;p&lt;/em&gt; is an object such that necessarily, if it exists, then &lt;em&gt;p&lt;/em&gt; is true. In this paper, I show that the truthmaker thesis (that every truth has a truthmaker) and the disjunction thesis (that a truthmaker for a disjunction must be a truthmaker for one of the disjuncts) are jointly incompatible with the view that the if in the truthmaking clause is a merely material conditional. I then defend the disjunction thesis, and go on to argue that a relevant conditional will serve well in place of the material conditional in defining what it is to be a truthmaker. Conversely, I argue that a semantics involving truthmakers could shed some light on the interpretation of relevant implication.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Realistic Belief Revision</title>
+      <link>http://consequently.org/writing/rbr/</link>
+      <pubDate>Sun, 08 Oct 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/rbr/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;In this paper we consider the implications for belief revision of weakening the logic under which belief sets are taken to be closed. A widely held view is that the usual belief revision functions are highly classical, especially in being driven by consistency. We show that, on the contrary, the standard representation theorems still hold for paraconsistent belief revision. Then we give conditions under which consistency is preserved by revisions, and we show that this modelling allows for the &lt;em&gt;gradual&lt;/em&gt; revision of inconsistency.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Arithmetic and Truth in &amp;#321;ukasiewicz&#39;s Infinitely Valued Logic</title>
+      <link>http://consequently.org/writing/arithluk/</link>
+      <pubDate>Tue, 03 Oct 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/arithluk/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Peano arithmetic formulated in &amp;#321;ukasiewicz&amp;rsquo;s infinitely valued logic collapses into classical Peano arithmetic. However, not all additions to the language need also be classical. The way is open for the addition of a real truth predicate satisfying the &lt;em&gt;T&lt;/em&gt;-scheme into the language. However, such an addition is not pleasing. The resulting theory is omega-inconsistent. This paper consists of the proofs and interpretations of these two results.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Modalities in Substructural Logics</title>
+      <link>http://consequently.org/writing/modalitiessl/</link>
+      <pubDate>Mon, 03 Apr 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/modalitiessl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper generalises Girard’s results which embed intuitionistic logic into linear logic by showing how arbitrary substructural logics can be embedded into weaker substructural logics, using a single modality which &amp;lsquo;encodes&amp;rsquo; the new structural rules.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Nietzsche, Insight and Immorality</title>
+      <link>http://consequently.org/writing/nggl/</link>
+      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/nggl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I introduce Nietzsche&amp;rsquo;s critique of religious belief, for an audience of thinking Christians. I show that his criticism cannot and ought not be simply shrugged off, but rather, it can form the basis of a useful self-critique for the religious believer. I also argue that any response to a Nietzschean critique of religious belief and practice must itself take the form of an embodied believing life, rather than a merely theoretical response.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Information Flow and Relevant Logic</title>
+      <link>http://consequently.org/writing/infflow/</link>
+      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/infflow/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;John Perry, one of the two founders of the field of situation semantics, indicated in an interview in 1986 that there is some kind of connection between relevant logic and situation semantics.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I do know that a lot of ideas that seemed off the wall when I first encountered them years ago now seem pretty sensible. One example that our commentators don&amp;rsquo;t mention is relevance logic; there are a lot of themes in that literature that bear on the themes we mention.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 1992, in &lt;em&gt;Entailment&lt;/em&gt; volume 2, Nuel Belnap and J.&amp;#160;Michael Dunn hinted at similar ideas. Referring to situation semantics, they wrote&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; we do not mean to claim too much here. The Barwise-Perry semantics is clearly independent and its application to natural-language constructions is rich and novel. But we like to think that at least first degree (relevant) entailments have a home there.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In this paper I show that these hints and gestures are true. And perhaps truer than those that made them thought at the time. In this paper I introduce the semantics of relevant logics, then I will sketch the parts of situation theory relevant to our enterprise. Finally, I bring the two together in what is hopefully, a harmonious way.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Four-Valued Semantics for Relevant Logics (and some of their rivals)</title>
+      <link>http://consequently.org/writing/fourvalued/</link>
+      <pubDate>Fri, 03 Mar 1995 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/fourvalued/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This paper gives an outline of three different approaches to the four-valued semantics for relevant logics (and other non-classical logics in their vicinity). The first approach borrows from the &amp;lsquo;Australian Plan&amp;rsquo; semantics, which uses a unary operator &amp;lsquo;*&amp;rsquo; for the evaluation of negation. This approach can model anything that the two-valued account can, but at the cost of relying on insights from the Australian Plan. The second approach is natural, well motivated, independent of the Australian Plan, and it provides a semantics for the contraction-free relevant logic &lt;em&gt;RW&lt;/em&gt;. Unfortunately, its approach seems to model little else. The third approach seems to capture a wide range of formal systems, but at the time of writing, lacks a completeness proof.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Subintuitionistic Logics</title>
+      <link>http://consequently.org/writing/subint/</link>
+      <pubDate>Thu, 03 Mar 1994 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/subint/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Once the Kripke semantics for normal modal logics were introduced, a whole family of modal logics other than the Lewis systems S1 to S5 were discovered. These logics were obtained by changing the semantics in natural ways. The same can be said of the Kripke-style semantics for relevant logics: a whole range of logics other than the standard systems &lt;b&gt;R&lt;/b&gt;, &lt;b&gt;E&lt;/b&gt; and &lt;b&gt;T&lt;/b&gt; were unearthed once a semantics was given. In a similar way, weakening the structural rules of the Gentzen formulation of classical logic gives rise to other &amp;ldquo;substructural&amp;rdquo; logics such as linear logic. This process of &amp;ldquo;strategic weakening&amp;rdquo; is becoming popular today, with the discovery of applications of these logics to areas such as linguistics and the theory of computation. This paper examines what the process of weakening does to the Kripke-style semantics of intuitionistic logic, introducing the family of &lt;em&gt;subintuitionistic logics.&lt;/em&gt;&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Useful Substructural Logic</title>
+      <link>http://consequently.org/writing/usl/</link>
+      <pubDate>Thu, 03 Mar 1994 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/usl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I defend the extension of the lambek calculus with a distributive extensional conjunction and disjunction. I show how it independently arises in linguistics, information flow and relevant logics, and relation algebra. I give the logic a cut-free Gentzenisation and show that it is decidable.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>On Logics without Contraction</title>
+      <link>http://consequently.org/writing/onlogics/</link>
+      <pubDate>Wed, 05 Jan 1994 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/onlogics/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;My Ph.D. Thesis, completed in January 1994. I was supervised by Prof. Graham Priest, at the University of Queensland. The thesis is 292 pages of work on logics without the contraction rule.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Simplified Semantics for Relevant Logics (and some of their rivals)</title>
+      <link>http://consequently.org/writing/simpsem/</link>
+      <pubDate>Wed, 03 Mar 1993 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/simpsem/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I show how Priest and Sylvan&amp;rsquo;s &lt;em&gt;simplified semantics&lt;/em&gt; extends from basic relevant logics to a large class of stronger logics. The completeness proof is a little tricky, given the different behaviour of the normal world in the models. This is the first paper from my Ph.D. thesis.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>How to be Really Contraction Free</title>
+      <link>http://consequently.org/writing/reallycf/</link>
+      <pubDate>Wed, 03 Mar 1993 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/reallycf/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I show that any finitely valued logic of a simple kind fails to support na&amp;iuml;ve comprehension, if it has a conditional. I then go on to show how some infinitely valued logics also fail to be &lt;em&gt;robustly contraction free&lt;/em&gt;. Then I make a bold conjecture that robust contraction freedom is sufficient to support na&amp;iuml;ve set theory. This conjecture was later proved to be wrong by two graduate students from Monash, Sam Buchart and Su Rogerson, in some delightful work in 1997, which has since also been published in &lt;em&gt;Studia Logica&lt;/em&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Deviant Logic and the Paradoxes of Self-Reference</title>
+      <link>http://consequently.org/writing/dlpsr/</link>
+      <pubDate>Wed, 03 Mar 1993 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/dlpsr/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I argue that the extant reasons for sticking to classical logic in the face of the paradoxes of self reference are not good reasons. The paradoxes are really difficult and we should use all of the weapons at our disposal.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>A Note on Na&amp;iuml;ve Set Theory in LP</title>
+      <link>http://consequently.org/writing/nstlp/</link>
+      <pubDate>Tue, 03 Mar 1992 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/nstlp/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;My first publication. It stems from work I did in my Honours year (1989) with Graham Priest, on paraconsistent logic. I explain a particularly simple yet powerful technique for constructing models of naïve set theory in the paraconsistent logic &lt;strong&gt;LP&lt;/strong&gt;. This can be used to show the consistency of the theory, and to construct models invalidating some of the axioms of ZFC.&lt;/p&gt;
+]]></description>
+    </item>
+    
   </channel>
 </rss>

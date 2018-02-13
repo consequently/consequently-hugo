@@ -1,6 +1,6 @@
 +++
 date = "2018-04-12T16:30:00-04:00"
-title = "TBA (most likely: Isomorphisms)"
+title = "Isomorphisms in a Category of Propositions and Proofs"
 host = "CMU Pure and Applied Logic Seminar"
 publishdate = "2018-01-05"
 

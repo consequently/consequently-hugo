@@ -108,7 +108,7 @@
     
  
     <item>
-      <title>TBA (most likely: Isomorphisms)</title>
+      <title>Isomorphisms in a Category of Propositions and Proofs</title>
       <link>http://consequently.org/presentation/2018/cmu-pure-and-applied-logic/</link>
       <pubDate>Thu, 12 Apr 2018 16:30:00 -0400</pubDate>
       
@@ -121,7 +121,7 @@
     
  
     <item>
-      <title>TBA (most likely: Isomorphisms)</title>
+      <title>Isomorphisms in a Category of Propositions and Proofs</title>
       <link>http://consequently.org/presentation/2018/cuny-gc-logic-and-metaphysics/</link>
       <pubDate>Mon, 09 Apr 2018 16:15:00 -0400</pubDate>
       
@@ -155,6 +155,32 @@
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: To come.&lt;/p&gt;
 
 &lt;p&gt;This is a talk for the &lt;a href=&#34;https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Program-Events/Colloquium/&#34;&gt;CUNY Graduate Center Philosophy Colloquium&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Accommodation, Inference, Generics and Pejoratives</title>
+      <link>http://consequently.org/presentation/2018/unimelb-accommodation/</link>
+      <pubDate>Thu, 22 Mar 2018 16:15:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2018/unimelb-accommodation/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: To come.&lt;/p&gt;
+
+&lt;p&gt;This is a talk for the &lt;a href=&#34;https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Program-Events/Colloquium/&#34;&gt;CUNY Graduate Center Philosophy Colloquium&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Isomorphisms in a Category of Propositions and Proofs</title>
+      <link>http://consequently.org/presentation/2018/logicmelb-isomorphisms/</link>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2018/logicmelb-isomorphisms/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: To come.&lt;/p&gt;
+
+&lt;p&gt;This is a talk for the &lt;a href=&#34;blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
@@ -332,6 +358,493 @@
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-melb.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-melb.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
 &lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>What Proofs and Truthmakers are About</title>
+      <link>http://consequently.org/presentation/2016/what-proofs-are-about/</link>
+      <pubDate>Fri, 12 Aug 2016 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/what-proofs-are-about/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I was originally scheduled to give a talk entitled “What Proofs are About” at the &lt;a href=&#34;http://philevents.org/event/show/24086&#34;&gt;&lt;em&gt;About Aboutness&lt;/em&gt; Workshop&lt;/a&gt; at the University of Melbourne on Saturday, July 16, 2016, but my plane back to Melbourne was delayed and I didn&amp;rsquo;t get to present the paper then.&lt;/p&gt;
+
+&lt;p&gt;So, I&amp;rsquo;m presenting it at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt; instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This talk is a comparison of how three different approaches to subject matter treat some pairs of statements that say &lt;em&gt;different things&lt;/em&gt; but are (classically) logically equivalent. The pairs are&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;\(p\lor\neg p\) and \(\top\)&lt;/li&gt;
+&lt;li&gt;\(p\lor(p\land q)\) and \(p\)&lt;/li&gt;
+&lt;li&gt;\((p\lor\neg p)\lor(q\lor\neg q)\) and \((p\lor\neg p)\land(q\lor\neg q)\).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I compare and contrast the notion of subject matter introduced in Stephen Yablo&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Aboutness-Carl-G-Hempel-Lecture/dp/0691144958/consequentlyorg&#34;&gt;Aboutness&lt;/a&gt;&lt;/em&gt; (Princeton University Press, 2014), truthmakers conceived of as situations, as discussed in my “&lt;a href=&#34;http://consequently.org/writing/ten/&#34;&gt;Truthmakers, Entailment and Necessity&lt;/a&gt;,” and the &lt;em&gt;proof invariants&lt;/em&gt; I have explored &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;in recent work&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/what-proofs-are-about.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofs and what they’re good for</title>
+      <link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-melb/</link>
+      <pubDate>Sun, 03 Jul 2016 13:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-melb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://aap.org.au/conference&#34;&gt;2016 Australasian Association for Philosophy Conference&lt;/a&gt; on Monday, July 3, 2016.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-AAP.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-AAP.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 16:45:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/aal-2016/&#34;&gt;2016 Australasian Association for Logic Conference&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The slides for the talk are &lt;a href=&#34;http://consequently.org/slides/proof-terms-aal-2016.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofs and what they’re good for</title>
+      <link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</link>
+      <pubDate>Fri, 27 May 2016 14:30:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-acu/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars&#34;&gt;Australian Catholic University Philosophy Seminar&lt;/a&gt; on &lt;a href=&#34;http://www.acu.edu.au/about_acu/faculties,_institutes_and_centres/theology_and_philosophy/events/philosophy_research_seminars/professor_greg_restall_-_27_may&#34;&gt;May 27, 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides-ACU.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout-ACU.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Proofs and what they’re good for</title>
+      <link>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</link>
+      <pubDate>Wed, 18 May 2016 13:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/proofs-and-what-theyre-good-for-sydney/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Proofs and what they&amp;rsquo;re good for” at the &lt;a href=&#34;http://usydseminars.blogspot.com.au&#34;&gt;University of Sydney Philosophy Seminar&lt;/a&gt; on May 18, 2016.&lt;/p&gt;
+
+&lt;p&gt;Abstract: I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof, including (1) how it is that a proof transmits warrant (2) Lewis Carroll&amp;rsquo;s dilemma concerning Achilles and the Tortoise and the coherence of questioning basic proof rules like modus ponens, and (3) how we can avoid logical omniscience without committing ourselves to inconsistency.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proofs-and-what-theyre-good-for-slides.pdf&#34;&gt;slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/proofs-and-what-theyre-good-for-handout.pdf&#34;&gt;handout&lt;/a&gt; are available.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</link>
+      <pubDate>Tue, 10 May 2016 19:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;http://flov.gu.se/english/research/seminars/logic/&#34;&gt;University of Gothenburg Logic Seminar&lt;/a&gt;, via Skype.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-talk-gothenburg-2016-slides.pdf&#34;&gt;slides are available here (for screen)&lt;/a&gt;, and &lt;a href=&#34;http://consequently.org/slides/proof-terms-talk-gothenburg-2016-handout.pdf&#34;&gt;here is a version for printing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Terms for Classical Sequents: Proof Invariants and Strong Normalisation</title>
+      <link>http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</link>
+      <pubDate>Fri, 06 May 2016 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Terms for Classical Sequents: Proof Invariants and Strong Normalisation” at the &lt;a href=&#34;https://blogs.unimelb.edu.au/logic/logic-seminar/&#34;&gt;Melbourne Logic Seminar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: A proof for a sequent \(\Sigma\vdash\Delta\) shows you how to get from the premises \(\Sigma\) to the conclusion \(\Delta\). It seems very plausible that some valid sequents have &lt;em&gt;different&lt;/em&gt; proofs. It also seems plausible that some different derivations for the one sequent don&amp;rsquo;t represent different proofs, but are merely different ways to present the &lt;em&gt;same&lt;/em&gt; proof. These two plausible ideas are hard to make precise, especially in the case of classical logic.&lt;/p&gt;
+
+&lt;p&gt;In this paper, I give a new account of a kind of invariant for derivations in the classical sequent calculus, and show how it can formalise a notion of proof identity with pleasing behaviour. In particular, it has a confluent, strongly normalising cut elimination procedure.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to attend, details are &lt;a href=&#34;http://philevents.org/event/show/22702&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/proof-terms-logicmelb-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
+      <pubDate>Tue, 26 Jan 2016 13:38:19 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
+
+&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-fnclmp-2016.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 3: Substitution and Identity</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
+      <pubDate>Fri, 11 Dec 2015 14:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend a sequent proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is admissible) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Workshop Program&lt;/a&gt; at the Melbourne Logic Group.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-logic-workshop-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 4: Identity and Modality</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</link>
+      <pubDate>Thu, 03 Dec 2015 10:45:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-4-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 4: Identity and Modality” in the HPLM Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend the proof system for quantified modal logic, with both subjunctive (metaphyisical) and indicative (epistemic) modalities, to include an identity predicate. Or rather, a &lt;em&gt;range&lt;/em&gt; of candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules. I end with a discussion of the implications for the ontology of &lt;em&gt;possibilia&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-4-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 3: Substitution and Identity</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</link>
+      <pubDate>Wed, 02 Dec 2015 16:00:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-3-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a talk, entitled “Generality and Existence 3: Substitution and Identity” in the Arché Super Special Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, extend the proof system for free logic to include an identity predicate. Or rather, &lt;em&gt;two&lt;/em&gt; different candidate identity predicates allowing for the substitution of a lesser or greater class of predications. I show that the resulting system is well-behaved proof theoretically (the Cut rule is eliminable) and the identity predicates can be well motivated in terms of their defining rules.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-3-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 2: Modality and Quantifiers</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</link>
+      <pubDate>Wed, 02 Dec 2015 10:00:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-2-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 2: Modality and Quantifiers” in the Arché Logic Group Seminar at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this talk, I motivate and define a cut free sequent calculus for first order modal predicate logics, allowing for singular terms free of existential import. I show that the &lt;em&gt;cut&lt;/em&gt; rule is admissible in the cut-free calculus, and explore the relationship between contingent ‘world-bound’ quantifiers and possibilist ‘world-undbound’ quantifiers in the system.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-2-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Generality and Existence 1: Quantification and Free Logic</title>
+      <link>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</link>
+      <pubDate>Wed, 25 Nov 2015 09:15:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/generality-and-existence-1-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk, entitled “Generality and Existence 1: Quantification and Free Logic” at a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Workshop on Inferentialism&lt;/a&gt;, hosted by &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/&#34;&gt;Arché&lt;/a&gt; at the University of St Andrews.&lt;/p&gt;
+
+&lt;p&gt;Abstract: In this presentation, I motivate a cut free sequent calculus for classical logic with first order quantification, allowing for singular terms free of existential import. Along the way, I motivate a criterion for rules designed to answer Prior&amp;rsquo;s question about what distinguishes rules for logical concepts, like &lt;em&gt;conjunction&lt;/em&gt; from apparently similar rules for putative concepts like &lt;em&gt;tonk&lt;/em&gt;, and I show that the rules for the quantifiers—and the existence predicate—satisfy that condition.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;Details of the workshop program&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/writing/generality-and-existence-1&#34;&gt;Draft paper&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/generality-and-existence-1-slides-arche-2015.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</link>
+      <pubDate>Wed, 05 Aug 2015 11:00:00 &#43;0100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/fixed-point-models-clmps-2015/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the first 2015 meeting of the &lt;a href=&#34;http://clmps.helsinki.fi&#34;&gt;15th Congress on Logic, Methodology, and Philosophy of Science&lt;/a&gt;, in Helsinki.&lt;/p&gt;
+
+&lt;p&gt;Abstract: There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science—going back to Dana Scott&amp;rsquo;s fixed point model of the lambda calculus—of constructions allowing for various fixed points. In this talk, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Details of the session are available at the &lt;a href=&#34;https://clmps2015.sched.org/event/23c5aa71523e3e3db99e8e2dd8623e72&#34;&gt;event page on sched.org&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/fixed-point-models-clmps-2015.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
+      <link>http://consequently.org/presentation/2015/verbal-disputes-aap/</link>
+      <pubDate>Mon, 06 Jul 2015 16:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/verbal-disputes-aap/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is a talk at the &lt;a href=&#34;http://www.aap-conferences.org.au&#34;&gt;2015 Australasian Association for Philosophy Conference&lt;/a&gt; at Macquarie University in Sydney. I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/verbal-disputes-aap-slides.pdf&#34;&gt;Slides&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/handouts/verbal-disputes-aap-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the conference presentation.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Contingent Existence and Modal Definedness</title>
+      <link>http://consequently.org/presentation/2015/cemd-aal/</link>
+      <pubDate>Thu, 02 Jul 2015 16:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/cemd-aal/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation for the &lt;a href=&#34;http://www-personal.usyd.edu.au/~njjsmith/aal2015/&#34;&gt;Australasian Association for Logic Conference&lt;/a&gt; at the University of Sydney. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-aal-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-aal-slides.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Workshop on Verbal Disputes and their Philosophical Significance</title>
+      <link>http://consequently.org/presentation/2015/verbal-disputes-oxford/</link>
+      <pubDate>Thu, 21 May 2015 09:20:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/verbal-disputes-oxford/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a presentation, entitled &amp;ldquo;Merely Verbal Disputes and Coordinating on Logical Constants,&amp;rdquo; on proof theory, modality, existence and verbal disputes at a workshop held at the University of Oxford in May, 2015.&lt;/p&gt;
+
+&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants, how they can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re &lt;em&gt;really&lt;/em&gt; careful&amp;mdash;modal operators.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The website for the workshop &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;verbaldisputesoxford.wordpress.com&lt;/a&gt; contains more details.&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants-oxford.pdf&#34;&gt;Merely Verbal Disputes and Coordinating on Logical Constants&amp;mdash;Slides&lt;/a&gt; (1.8MB PDF)&lt;/li&gt;
+&lt;li&gt;Handout: &lt;a href=&#34;http://consequently.org/handouts/mvd-logical-constants-oxford-handout.pdf&#34;&gt;Merely Verbal Disputes and Coordinating on Logical Constants&amp;mdash;Handout&lt;/a&gt; (600KB PDF)&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Merely Verbal Disputes and Coordinating on Logical Constants</title>
+      <link>http://consequently.org/presentation/2015/mvd-logicmelb/</link>
+      <pubDate>Fri, 08 May 2015 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/mvd-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;This is a dry run for my &lt;a href=&#34;http://consequently.org/presentation/2015/verbal-disputes-oxford/&#34;&gt;talk&lt;/a&gt; at the &lt;a href=&#34;https://verbaldisputesoxford.wordpress.com&#34;&gt;Oxford Workshop on Verbal Disputes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I will attempt to be precise about the notion of a &lt;em&gt;merely verbal disagreement&lt;/em&gt;, and explain how we can fix on the meaning of our logical constants can play a coordinating role in dialogue, and how (in a certain sense), it might be &lt;em&gt;impossible&lt;/em&gt; to a have a merely verbal dispute concerning logical constants such as conjunction, negation, the quantifiers, and even&amp;mdash;if you&amp;rsquo;re careful&amp;mdash;modal operators.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to attend, keep track &lt;a href=&#34;http://philevents.org/event/show/17569&#34;&gt;on the PhilEvents entry for the talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/mvd-logical-constants.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Incarnation and Detachment: on surprising connections between logic, semantics, and prayer</title>
+      <link>http://consequently.org/presentation/2015/ctc-seminar/</link>
+      <pubDate>Fri, 01 May 2015 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/ctc-seminar/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a research seminar on May 1 at the &lt;a href=&#34;http://www.ctc.edu.au/&#34;&gt;Catholic Theological College&lt;/a&gt;. The details are &lt;a href=&#34;http://philevents.org/event/show/17580&#34;&gt;listed here in PhilEvents&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I will explore some of the connections between logic and philosophy of language on the one hand, and theology&amp;mdash;or religious practice&amp;mdash;on the other.&lt;/p&gt;
+
+&lt;p&gt;Instead of focussing on the role of logic and semantics as a prolegomena to theology, or as a guide or corrective or standard for it&amp;mdash;the standard picture of the relationship between logic and theology&amp;mdash;I will draw other connections between the two disciplines.&lt;/p&gt;
+
+&lt;p&gt;First, I will draw on some contemporary insights in the philosophy of language in order to shed light on the structure and semantics of prayer.&lt;/p&gt;
+
+&lt;p&gt;Second, I will show how there are some significant parallels between the phenomenology or the pragmatics of logical judgements and the kinds of cognitive shifts which are modelled in certain kinds of articulate prayer.&lt;/p&gt;
+
+&lt;p&gt;The talk will involve more suggestions than arguments, and the aim is to provide opportunities for new and different interactions between philosophy and theology.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Sophistry and Argumentation: The Role of Reason in the Examined Life</title>
+      <link>http://consequently.org/presentation/2015/lyceum-club/</link>
+      <pubDate>Mon, 13 Apr 2015 19:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/lyceum-club/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation to the &lt;em&gt;Philosophy Circle&lt;/em&gt; at the &lt;a href=&#34;http://www.lyceumclubmelb.org.au/&#34;&gt;Lyceum Club of Melbourne&lt;/a&gt; on Sophistry and Argumentation, and on the role of reason in the examined life.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Incarnation and Detachment: Philosophy, Prayer, and Taking Positions</title>
+      <link>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</link>
+      <pubDate>Tue, 24 Mar 2015 19:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Incarnation and Detachment: Philosophy, Prayer, and Taking Positions” at the first 2015 meeting of the &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt;. (We&amp;rsquo;ll meet at the &lt;a href=&#34;http://www.thedan.com.au&#34;&gt;Dan O&amp;rsquo;Connell Pub&lt;/a&gt; at 7pm on Tuesday March 24. Come early to share dinner before the talk and discussion.)&lt;/p&gt;
+
+&lt;p&gt;In the talk I&amp;rsquo;ll discuss some of the parallels between the range of cognitive attitudes to be found in reasoning and philosophical reflection on the one hand, and prayer, on the other.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt; is a ministry of &lt;a href=&#34;http://sjoc.org.au&#34;&gt;St. James Old Cathedral&lt;/a&gt;. Anyone who is interested in the intersection of faith and intellect is entirely welcome to participate. It&amp;rsquo;s coordinated by &lt;a href=&#34;http://www.sjoc.org.au/people/staff&#34;&gt;Rev.&lt;/a&gt; &lt;a href=&#34;http://corner.acu.edu.au/research_supervision/framework/browse.php?srperid=2260&#34;&gt;Dr. Jeffrey Hanson&lt;/a&gt;.  For more information, see &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;the Network&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Contingent Existence and Modal Definedness</title>
+      <link>http://consequently.org/presentation/2015/cemd-anu/</link>
+      <pubDate>Thu, 26 Feb 2015 16:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2015/cemd-anu/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-preseminar-on-meaning-rules-and-defining-concepts.pdf&#34;&gt;Handout&lt;/a&gt; for the pre-seminar talk for graduate students, on &lt;em&gt;Meaning Rules and Defining Concepts&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/cemd-anu-handout.pdf&#34;&gt;Handout&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://consequently.org/slides/cemd-talk.pdf&#34;&gt;Slides&lt;/a&gt; for the seminar presentation.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ternary Relations and Models for Relevant Arithmetics</title>
+      <link>http://consequently.org/presentation/2014/trmra-asubl5/</link>
+      <pubDate>Mon, 15 Dec 2014 09:00:00 AEDT</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/trmra-asubl5/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at the workshop &lt;em&gt;&lt;a href=&#34;https://sites.google.com/a/ltumathstats.com/asubl5&#34;&gt;Algebra and Substructural Logic 5&lt;/a&gt;&lt;/em&gt; (La Trobe, December 2015).&lt;/p&gt;
+
+&lt;p&gt;I explain how the `trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Living as a Christian Academic</title>
+      <link>http://consequently.org/presentation/2014/christian-academic-monash/</link>
+      <pubDate>Wed, 17 Sep 2014 09:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/christian-academic-monash/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a presentation to postgraduate students in the Monash University Christian Union about life as a Christian academic, and my journey from being an undergraduate in Mathematics at the University of Queensland in the late 1980s, to my current role as Professor of Philosophy at the University of Melbourne.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Towards Fixed Point Models for Theories of Properties and Classes</title>
+      <link>http://consequently.org/presentation/2014/towards-fixed-point-models-logicmelb/</link>
+      <pubDate>Fri, 05 Sep 2014 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/towards-fixed-point-models-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at the University of Melbourne Logic Group.&lt;/p&gt;
+
+&lt;p&gt;I sketch some of the features of models of na&amp;iuml;ve theories of properties or classes defined by finding a space C that is isomorphic to the class of continuous functions [C &amp;cup; D &amp;rarr; &amp;Omega;].&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ludwig Wittgenstein&amp;rsquo;s Tractatus Logico-Philosophicus</title>
+      <link>http://consequently.org/presentation/2014/tractatus-masterclass/</link>
+      <pubDate>Tue, 26 Aug 2014 17:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/tractatus-masterclass/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;I gave a masterclass on Ludwig Wittegenstein&amp;rsquo;s &lt;em&gt;Tractatus Logico-Philosophicus&lt;/em&gt; in the University of Melbourne&amp;rsquo;s 10 Great Books Masterclass in 2014.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>From Defining Rules to Cut Elimination (and its consequences)</title>
+      <link>http://consequently.org/presentation/2014/from-defining-rules-nip-mfl/</link>
+      <pubDate>Fri, 04 Jul 2014 11:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/from-defining-rules-nip-mfl/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=476&#34;&gt;Metaphysical Basis of Logic Workshop&lt;/a&gt; at the Northern Institute of Philosophy, University of Aberdeen.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Modal Definedness</title>
+      <link>http://consequently.org/presentation/2014/modal-definedness-arche/</link>
+      <pubDate>Thu, 19 Jun 2014 16:15:00 &#43;0000</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/modal-definedness-arche/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A presentation in a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=811&#34;&gt;workshop in the Philosophy of Logic&lt;/a&gt; at Arch&amp;eacute;.&lt;/p&gt;
+
+&lt;p&gt;The distinction between &lt;i&gt;defined&lt;/i&gt; terms and &lt;i&gt;undefined&lt;/i&gt; terms provides a metaphysically &amp;ldquo;light&amp;rdquo; way to give a semantics for free logic. Singular terms may be undefined, and if they are undefined, they are not appropriate substitution instances for inference rules for the quantifiers. Sol Feferman, in &amp;ldquo;Definedness&amp;rdquo; (&lt;i&gt;Erkenntnis&lt;/i&gt;, 1995), provides an elegant system for an extensional negative free logic with undefined terms: it is a very natural model for mathematical reasoning in which we allow undefined terms (like &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;0&lt;/sub&gt;) and we keep track of the behaviour of such terms by talking of when they are defined and when they are not.&lt;/p&gt;
+
+&lt;p&gt;Free logics also see use when it comes to quantified modal logic. It is very tempting to conceive of the domain of quantification as varying from world to world, that what exists in one world might fail to exist in another. This seems to be a very different motivation for free logics—terms which denote in this world and which do not denote in another are not &lt;i&gt;undefined&lt;/i&gt; at that world. They are defined all too well—defined to denote something that fails to exist at that world.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will explain the motivations for these two different approaches to free logic, and show that a sequent calculus for Feferman&amp;rsquo;s own system (with a metaphysically &amp;lsquo;light&amp;rsquo; interpretation, that eschews all talk of an outer domain of quantification of non-existent objects) can, with one small change, be naturally extended into a modal hypersequent calculus for a quantified modal logic with a non-constant domain. This, too, has a metaphysically &amp;lsquo;light&amp;rsquo; interpretation.  The result is a natural proof-theoretical account of a modal logic with varying domain, in which the Barcan formula not only fails, but fails straightforwardly, in a well motivated way.&lt;/p&gt;
+
+&lt;p&gt;After introducing the modal system, I will consider what this might mean, about the nature of quantification, and the role of defining rules in characterising logical constants.&lt;/p&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>Ternary Relations and Models for Relevant Arithmetics</title>
+      <link>http://consequently.org/presentation/2014/trmra-logicmelb/</link>
+      <pubDate>Fri, 30 May 2014 13:30:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2014/trmra-logicmelb/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;A seminar at &lt;em&gt;&lt;a href=&#34;http://philevents.org/event/show/14562&#34;&gt;Melbourne Logic Day&lt;/a&gt;&lt;/em&gt;, May 30, 2014.&lt;/p&gt;
+
+&lt;p&gt;I explain how the &amp;lsquo;trace model&amp;rsquo; for relevant arithmetic (introduced &lt;a href=&#34;http://consequently.org/writing/mfsa/&#34;&gt;here&lt;/a&gt;) can be extended quite naturally to model a logic including a de Morgan negation. The result is not a model for the logic &lt;strong&gt;R&lt;/strong&gt;, but for its weaker cousin, &lt;strong&gt;TW&lt;/strong&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
