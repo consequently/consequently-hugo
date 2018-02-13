@@ -8,5 +8,5 @@ publishdate = "2018-01-05"
 
 *Abstract*: To come.
 
-This is a talk for the [CUNY Graduate Center Philosophy Colloquium](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Program-Events/Colloquium/).
+This is a talk for the [CUNY Graduate Center Philosophy Colloquium](https://philosophy.commons.gc.cuny.edu/spring-2018-colloquium-schedule/).
 
