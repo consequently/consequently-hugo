@@ -6,7 +6,9 @@ publishdate = "2018-02-13"
 
 +++
 
-*Abstract*: To come.
+*Abstract*: In this talk, I aim to give an account of norms governing our uses of generic judgements -- like "birds lay eggs", "zebras have stripes" or "logic talks are boring" -- norms governing inference, and the relationship between generics and inference. This connection goes some way to explain why generics exhibit some very strange behaviour. (Why is it, for example, that "birds lay eggs" seems true, while "birds are female" seems false, despite the fact that only female birds lay eggs?) Given the connection between generics and inference, I'll go on to consider how inference relates to the process of accommodation, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve pejorative force, and can inform options for how our vocabulary and our concepts can be revised or reformed. 
 
-This is a talk for the [CUNY Graduate Center Philosophy Colloquium](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Program-Events/Colloquium/).
+
+
+This is a talk for the Melbourne Philosophy Seminar.
 
