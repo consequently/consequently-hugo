@@ -10,5 +10,5 @@ publishdate = "2018-02-13"
 
 * This is a talk for the [Melbourne Logic Seminar](blogs.unimelb.edu.au/logic/logic-seminar/).
 
-* The [slides of the talk are available here](/slides/isomorphisms-talk-unimelb-2018.pdf).
+* The [slides of the talk are available here](/slides/isomorphisms-talk-unimelb-2018.pdf), and the [handout is here](/handouts/isomorphisms-handout-unimelb-2018.pdf).
 
