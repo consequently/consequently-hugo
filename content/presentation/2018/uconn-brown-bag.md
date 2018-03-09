@@ -12,4 +12,4 @@ Given the connection between generics and inference, I'll go on to consider how 
 
 
 
-This is a talk for the University of Connecticut Philosophy Brown Bag.
+* This is a talk for the [University of Connecticut Philosophy Brown Bag](http://events.uconn.edu/event/60881/2018-04-18).
