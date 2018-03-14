@@ -133,12 +133,12 @@
     
  
     <item>
-      <title>Isomorphisms in a Category of Propositions and Proofs</title>
+      <title>Isomorphisms in a Category of Proofs</title>
       <link>http://consequently.org/presentation/2018/cuny-gc-logic-and-metaphysics/</link>
       <pubDate>Mon, 09 Apr 2018 16:15:00 -0400</pubDate>
       
       <guid>http://consequently.org/presentation/2018/cuny-gc-logic-and-metaphysics/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of propositions and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;This is a talk for the &lt;a href=&#34;https://logic.commons.gc.cuny.edu&#34;&gt;CUNY Graduate Center Logic and Metaphysics Seminar&lt;/a&gt;.&lt;/li&gt;
