@@ -12,4 +12,4 @@ Given the connection between generics and inference, I'll go on to consider how 
 
 * This is a talk for the *University of Melbourne Thursday Philosophy Seminar*.
 
-* The [slides for the talk are available here](/slides/accommodation-unimelb.pdf).
+* The [slides for the talk are available here](/slides/accommodation-unimelb-2018.pdf), and the [handout is here](/handouts/accommodation-unimelb-handout-2018.pdf).
