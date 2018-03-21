@@ -26,7 +26,18 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 19 Dec 2017 00:00:00 UTC</updated>
+    <updated>Wed, 21 Mar 2018 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>Truth Tellers in Bradwardine&#39;s Theory of Truth</title>
+      <link>http://consequently.org/writing/bradwardine-truth-tellers/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/writing/bradwardine-truth-tellers/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;Stephen Read&amp;rsquo;s work on Bradwardine&amp;rsquo;s theory of truth is some of the most exciting work on truth and insolubilia in recent years. Read brings together modern tools of formal logic and Bradwardine&amp;rsquo;s theory of signification to show that medieval distinctions can give great insight into the behaviour of semantic concepts such as truth. In a number of papers, I have developed a model theory for Bradwardine&amp;rsquo;s account of truth. This model theory has distinctive features: it serves up models in which every declarative object (any object signifying &lt;em&gt;anything&lt;/em&gt;) signifies its own truth. This leads to a puzzle: there are good arguments to the effect that if anything is a truth-teller, it is &lt;em&gt;false&lt;/em&gt;. This is a puzzle. What distinguishes &lt;em&gt;paradoxical&lt;/em&gt; truth-tellers from &lt;em&gt;benign&lt;/em&gt; truth tellers? It is my task in this paper to explain this distinction, and to clarify the behaviour of truth-tellers, given Bradwardine&amp;rsquo;s account of signification.&lt;/p&gt;
+]]></description>
+    </item>
     
  
     <item>
@@ -377,17 +388,6 @@ In this essay, I show why this perception is misplaced and dangerous, and that i
       <description>&lt;![CDATA[&lt;p&gt;A possible world is a point in logical space. It plays a dual role with respect to propositions. (1) A possible world determines the truth value of every proposition. For each world &lt;em&gt;w&lt;/em&gt; and proposition &lt;em&gt;p&lt;/em&gt;, either at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is true, or at &lt;em&gt;w&lt;/em&gt;, &lt;em&gt;p&lt;/em&gt; is not true. (2) Each set of possible worlds determines a proposition. If &lt;em&gt;S&lt;/em&gt;, a subset of &lt;em&gt;W&lt;/em&gt; is a set of worlds, there is a proposition &lt;em&gt;p&lt;/em&gt; true at exactly the worlds in &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, I construct a logic, extending classical logic with a single unary operator, which has no complete Boolean algebras as models. If the family of propositions we are talking about in (1) and (2) has the kind of structure described in that logic, then (1) and (2) cannot jointly hold.  I then explain what this might mean for theories of propositions and possible worlds.&lt;/p&gt;
-]]></description>
-    </item>
-    
- 
-    <item>
-      <title>Truth Tellers in Bradwardine&#39;s Theory of Truth</title>
-      <link>http://consequently.org/writing/bradwardine-truth-tellers/</link>
-      <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
-      
-      <guid>http://consequently.org/writing/bradwardine-truth-tellers/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;Stephen Read&amp;rsquo;s work on Bradwardine&amp;rsquo;s theory of truth is some of the most exciting work on truth and insolubilia in recent years. Read brings together modern tools of formal logic and Bradwardine&amp;rsquo;s theory of signification to show that medieval distinctions can give great insight into the behaviour of semantic concepts such as truth. In a number of papers, I have developed a model theory for Bradwardine&amp;rsquo;s account of truth. This model theory has distinctive features: it serves up models in which every declarative object (any object signifying &lt;em&gt;anything&lt;/em&gt;) signifies its own truth. This leads to a puzzle: there are good arguments to the effect that if anything is a truth-teller, it is &lt;em&gt;false&lt;/em&gt;. This is a puzzle. What distinguishes &lt;em&gt;paradoxical&lt;/em&gt; truth-tellers from &lt;em&gt;benign&lt;/em&gt; truth tellers? It is my task in this paper to explain this distinction, and to clarify the behaviour of truth-tellers, given Bradwardine&amp;rsquo;s account of signification.&lt;/p&gt;
 ]]></description>
     </item>
     

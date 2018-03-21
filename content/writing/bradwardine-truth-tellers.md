@@ -4,13 +4,13 @@ title: Truth Tellers in Bradwardine's Theory of Truth
 author: Greg Restall
 status: To Appear
 type: unpublished
-citation: "&ldquo;Truth Tellers in Bradwardine's Theory of Truth,&rdquo; to appear in <em><a href=\"http://www.illc.uva.nl/GPMR-LS1/proceedings.html\">Modern Views of Medieval Logic</a></em>, edited by Christoph Kann, Benedikt Löwe, Christian Rode and Sara L. Uckelman."
+citation: "&ldquo;Truth Tellers in Bradwardine's Theory of Truth,&rdquo; to appear in <em><a href=\"http://www.illc.uva.nl/GPMR-LS1/proceedings.html\">Modern Views of Medieval Logic</a></em>, edited by Christoph Kann, Benedikt Loewe, Christian Rode and Sara L. Uckelman, Recherches de Th&eacute;ologie et Philosophie M&eacute;di&eacute;vales&mdash;Bibliotheca. Peeters Publishers, 2018"
 tag: bradwardine-truth-tellers
 file: bradwardine-truth-tellers.pdf
 subjects: Bradwardine paradox mathematics models
 comments: yes
-date: 2010-10-03
-publishdate: 2010-10-03
+date: 2018-03-21
+publishdate: 2018-03-21
 filter:
   - erb
   - markdown

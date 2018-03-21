@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>http://consequently.org/writing/bradwardine-truth-tellers/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://consequently.org/presentation/2018/logicmelb-isomorphisms/</loc>
     <lastmod>2018-03-02T11:00:00+11:00</lastmod>
   </url>
@@ -749,11 +754,6 @@
   
   <url>
     <loc>http://consequently.org/writing/ptm-context/</loc>
-    <lastmod>2010-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://consequently.org/writing/bradwardine-truth-tellers/</loc>
     <lastmod>2010-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -2827,7 +2827,7 @@
   
   <url>
     <loc>http://consequently.org/writing/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
