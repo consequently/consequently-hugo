@@ -26,13 +26,13 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 30 Dec 2017 17:12:57 AEDT</updated>
+    <updated>Sat, 30 Dec 2017 17:12:57 &#43;1100</updated>
     
  
     <item>
       <title>Community (the twelfth of twelve things I love about philosophical logic)</title>
       <link>http://consequently.org/news/2017/twelve-things-12-community/</link>
-      <pubDate>Sat, 30 Dec 2017 17:12:57 AEDT</pubDate>
+      <pubDate>Sat, 30 Dec 2017 17:12:57 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2017/twelve-things-12-community/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I love the way I&amp;rsquo;ve met so many different people through working in logic, that I&amp;rsquo;ve made good friends, good colleagues, good teachers and mentors. I’ve been part of an enterprise that’s larger than any one person. I have been shaped by that community, and have had the opportunity to made some small mark on it myself.&lt;/p&gt;
@@ -470,7 +470,7 @@
     <item>
       <title>With Gratitude to Raymond Smullyan</title>
       <link>http://consequently.org/news/2017/with-gratitude-to-smullyan/</link>
-      <pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
+      <pubDate>Mon, 13 Feb 2017 22:12:50 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2017/with-gratitude-to-smullyan/</guid>
       <description>&lt;![CDATA[&lt;p&gt;While I was busy writing my most recent paper, &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo;, I heard that &lt;a href=&#34;https://www.nytimes.com/2017/02/11/us/raymond-smullyan-dead-puzzle-creator.html?smid=tw-share&#34;&gt;Raymond Smullyan had died at the age of 97&lt;/a&gt;. I &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;posted a tweet&lt;/a&gt; with a photo of a page from the draft of the paper I was writing at the time, expressing loss at hearing of his death and gratitude for his life.&lt;/p&gt;
@@ -504,7 +504,7 @@
     <item>
       <title>A New Paper</title>
       <link>http://consequently.org/news/2017/a-new-paper/</link>
-      <pubDate>Mon, 13 Feb 2017 01:32:58 AEDT</pubDate>
+      <pubDate>Mon, 13 Feb 2017 01:32:58 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2017/a-new-paper/</guid>
       <description>&lt;![CDATA[&lt;p&gt;It&amp;rsquo;s a new year, and it&amp;rsquo;s time for a new paper, so here is &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; I&amp;rsquo;ve been working on these ideas for about a year, from some &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/&#34;&gt;rough&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/&#34;&gt;talks&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;over&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/what-proofs-are-about/&#34;&gt;most&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/proof-terms-invariants/&#34;&gt;of&lt;/a&gt; 2016, to many conversations with my colleague &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn&lt;/a&gt; as I attempted to iron out the details, to many more hours in front of whiteboards, I&amp;rsquo;ve finally got something I&amp;rsquo;m happy to show in public.&lt;/p&gt;
@@ -526,7 +526,7 @@
     <item>
       <title>A Puzzle for Brandom&#39;s Account of Singular Terms</title>
       <link>http://consequently.org/news/2016/a-puzzle-for-bob/</link>
-      <pubDate>Wed, 30 Nov 2016 11:22:42 AEDT</pubDate>
+      <pubDate>Wed, 30 Nov 2016 11:22:42 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2016/a-puzzle-for-bob/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been interested in &lt;a href=&#34;http://www.pitt.edu/~rbrandom/&#34;&gt;Robert Brandom&lt;/a&gt;’s inferentialism since I picked up a copy of &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Making-Explicit-Representing-Discursive-Commitment/dp/0674543300/consequentlyorg&#34;&gt;Making it Explicit&lt;/a&gt;&lt;/em&gt; back in 1996.  One interesting component of Brandom&amp;rsquo;s inferentialism is his account of what it is to be a singular term. There are a number of ways to understand inferentialism, but the important point here is the centrality of &lt;em&gt;material inference&lt;/em&gt; to semantics. An inference like “Melbourne is south of Sydney, therefore Sydney is north of Melbourne” is a materially good inference. Material inferences, for Brandom, are not to be understood as grounded in a more primitive notion of logical consequence—we shouldn’t explain the inference in terms of the validity of the form “\(a\) is south of \(b\), for all \(x\) and \(y\) if \(x\) is south of \(y\) then \(y\) is north of \(x\), therefore, \(b\) is north of \(a\)” and the fact that the extra premise is common knowledge or a part of the norms governing the concepts of north and south. No, according the inferentialist, we are to explain those facts in terms of materially good inferences, and not &lt;em&gt;vice versa&lt;/em&gt;.&lt;/p&gt;
@@ -1021,7 +1021,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>Models for Compatibility</title>
       <link>http://consequently.org/news/2016/models-for-compatibility/</link>
-      <pubDate>Thu, 11 Feb 2016 16:57:01 AEDT</pubDate>
+      <pubDate>Thu, 11 Feb 2016 16:57:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2016/models-for-compatibility/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This morning I received an email from &lt;a href=&#34;https://philosophy.stanford.edu/people/rachael-briggs&#34;&gt;Rachael Briggs&lt;/a&gt;, asking me some questions about the notion of &lt;em&gt;compatibility&lt;/em&gt; as it appears in my paper &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/negrl/&#34;&gt;Negation in Relevant Logics&lt;/a&gt;.&amp;rdquo; These questions got me to thinking that there were some ideas in &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=3319676480145120321&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;that paper&lt;/a&gt; and a &lt;a href=&#34;https://scholar.google.com.au/scholar?cites=828496633310229772&amp;amp;as_sdt=2005&amp;amp;sciodt=0,5&amp;amp;hl=en&#34;&gt;much-less-read&lt;/a&gt; paper of mine &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/modelling/&#34;&gt;Modelling Truthmaking&lt;/a&gt;&amp;rdquo;, which might be worth reflecting on some more. So I&amp;rsquo;ll try to do that here.&lt;/p&gt;
@@ -1065,7 +1065,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>Congratulations to Bruce French, AO</title>
       <link>http://consequently.org/news/2016/congratulations-bruce-french-ao/</link>
-      <pubDate>Fri, 29 Jan 2016 00:30:47 AEDT</pubDate>
+      <pubDate>Fri, 29 Jan 2016 00:30:47 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2016/congratulations-bruce-french-ao/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been away from home in Auckland at a &lt;a href=&#34;https://sites.google.com/site/fnclmp/&#34;&gt;conference&lt;/a&gt; over the last couple of days, so I&amp;rsquo;m a bit behind on the news, but tonight I&amp;rsquo;ve finally found a few moments to write something in honour of my friend and mentor, Bruce French, who was&amp;mdash;three days ago&amp;mdash;&lt;a href=&#34;http://www.abc.net.au/news/2016-01-26/australia-day-award-recipient-edible-plants-website/7114476&#34;&gt;named an Officer of the Order of Australia&lt;/a&gt; in the 2016 Australia Day Honour&amp;rsquo;s list. Bruce was awarded this honour because of his many decades of work, learning about tropical food plants throughout the Pacific, Asia and Africa, cataloguing that knowledge and making it &lt;a href=&#34;http://foodplantsinternational.com&#34;&gt;freely available to anyone who can use it&lt;/a&gt;.&lt;/p&gt;
@@ -1089,7 +1089,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>On Priest on nonmonotonic and inductive logic</title>
       <link>http://consequently.org/news/2016/just-how-reassured/</link>
-      <pubDate>Fri, 22 Jan 2016 00:55:52 AEDT</pubDate>
+      <pubDate>Fri, 22 Jan 2016 00:55:52 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2016/just-how-reassured/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Thanks to a recent visit from &lt;a href=&#34;http://entailments.net&#34;&gt;Jc Beall&lt;/a&gt;, I was reminded of a critical discussion between Jc and our colleague and friend &lt;a href=&#34;http://grahampriest.net&#34;&gt;Graham Priest&lt;/a&gt; in the pages of &lt;a href=&#34;http://analysis.oxfordjournals.org&#34;&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/a&gt;. Jc was puzzled by a claim that Graham made &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/4/739.extract&#34;&gt;in his reply&lt;/a&gt; to &lt;a href=&#34;http://analysis.oxfordjournals.org/content/72/3/517.abstract&#34;&gt;Jc&amp;rsquo;s paper&lt;/a&gt;, concerning nonmonotonic consequence relations and failures of truth preservation. Here, I&amp;rsquo;ll explain the disagreement between Jc and Graham, and why Graham&amp;rsquo;s claim (that all nonmonotonic logics fail to preserve truth) is wrong.&lt;/p&gt;
@@ -1181,7 +1181,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>Language, Logic and Existential Commitment</title>
       <link>http://consequently.org/news/2015/language-logic-and-existential-commitment/</link>
-      <pubDate>Wed, 18 Nov 2015 11:49:21 AEDT</pubDate>
+      <pubDate>Wed, 18 Nov 2015 11:49:21 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/language-logic-and-existential-commitment/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In between wrapping up &lt;a href=&#34;http://consequently.org/class/2015/PHIL20030/&#34;&gt;teaching for the&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/PHIL40013/&#34;&gt;end of Semester 2&lt;/a&gt;, and getting ready for a &lt;a href=&#34;http://www.st-andrews.ac.uk/arche/events/event?id=917&#34;&gt;short trip to Scotland&lt;/a&gt;, I&amp;rsquo;m spending some time &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-1-arche/&#34;&gt;thinking about free logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-2-arche/&#34;&gt;quantified modal logic&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/presentation/2015/generality-and-existence-3-arche/&#34;&gt;identity&lt;/a&gt;. This is difficult but exciting terrain to cover.  There is no obvious way to tie together the logic of quantifiers, the modalities and identity in a way that commands broad appeal&amp;mdash;there is no default quantified modal logic that has the same &amp;lsquo;market reach&amp;rsquo; as classical first order logic.&lt;/p&gt;
@@ -1213,7 +1213,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>Logic at Melbourne finally has a presence on the web</title>
       <link>http://consequently.org/news/2015/logic-at-melbourne/</link>
-      <pubDate>Thu, 29 Oct 2015 17:02:04 AEDT</pubDate>
+      <pubDate>Thu, 29 Oct 2015 17:02:04 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/logic-at-melbourne/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been at the &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;University of Melbourne&lt;/a&gt; since 2002, and the &lt;em&gt;Logic Group&lt;/em&gt; has been meeting regularly since my arrival there. While it&amp;rsquo;s changed significantly in its &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/people/&#34;&gt;membership over the last 13 years&lt;/a&gt;, one thing has remained constant—we&amp;rsquo;ve been an informal, friendly bunch of people, so hard at work in teaching and research that we&amp;rsquo;ve not had time to make a website for the group. Well, thanks to the hardworking &lt;a href=&#34;http://standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt;, that&amp;rsquo;s changed. Point your browsers to &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/&#34;&gt;http://blogs.unimelb.edu.au/logic/&lt;/a&gt; to keep up with &lt;em&gt;Logic at Melbourne&lt;/em&gt;.&lt;/p&gt;
@@ -1225,7 +1225,7 @@ the contradiction  \(T\lambda\land\neg T\lambda\) or to reject the disjunction  
     <item>
       <title>Cian Dorr on Defining Quantifiers (Verbal Disputes Workshop Report #2)</title>
       <link>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</link>
-      <pubDate>Sat, 24 Oct 2015 15:27:36 AEDT</pubDate>
+      <pubDate>Sat, 24 Oct 2015 15:27:36 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/verbal-disputes-in-oxford-2/</guid>
       <description>&lt;![CDATA[&lt;p&gt;There&amp;rsquo;s something very attractive in the idea that meanings of logical concepts—such as conjunction, negation, the quantifiers—can be specified by the role they play in proofs. If I learn the rules for conjunction:
@@ -1452,7 +1452,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Another View of the Old Quad</title>
       <link>http://consequently.org/news/2015/another-day-at-the-office/</link>
-      <pubDate>Wed, 01 Apr 2015 00:23:10 AEDT</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:23:10 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/another-day-at-the-office/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Here&amp;rsquo;s another view of my building at work, in the autumn light.&lt;/p&gt;
@@ -1469,7 +1469,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Advocacy on Sydney Road</title>
       <link>http://consequently.org/news/2015/advocacy-on-sydney-road/</link>
-      <pubDate>Thu, 19 Mar 2015 12:49:30 AEDT</pubDate>
+      <pubDate>Thu, 19 Mar 2015 12:49:30 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/advocacy-on-sydney-road/</guid>
       <description>&lt;![CDATA[&lt;p&gt;On the afternoon of Sunday March 1, Sydney Road in Brunswick was transformed by its annual &lt;a href=&#34;http://www.brunswickmusicfestival.com.au/sydney-road-street-party.htm&#34;&gt;Street Party&lt;/a&gt;. Over four blocks of this busy inner north thoroughfare was closed to trams and cars, lined by stalls, punctuated with live bands, and filled with crowds. Everyone was sampling wares, eating, drinking and soaking in the atmosphere. It&amp;rsquo;s a distinctive slice of multicultural Brunswick life, and an opportunity for everyone to get out and sample that Brunswick experience in all its variety.&lt;/p&gt;
@@ -1504,7 +1504,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Our Thinking Behind Logic Teaching on Coursera</title>
       <link>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</link>
-      <pubDate>Mon, 16 Mar 2015 14:46:22 AEDT</pubDate>
+      <pubDate>Mon, 16 Mar 2015 14:46:22 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/our-thinking-behind-logic-teaching-on-coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Just today, I stumbled across &lt;a href=&#34;https://vimeo.com/102098742&#34;&gt;a video of an interview with me from 2013&lt;/a&gt;, explaining our thinking behind &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera/&#34;&gt;teaching introductory logic&lt;/a&gt; &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera/&#34;&gt;on Coursera&lt;/a&gt;, and the connections between this and &lt;a href=&#34;http://consequently.org/class/2015/UNIB10002&#34;&gt;classroom teaching&lt;/a&gt;. Come for the ideas, stay for the crazy hand gestures.&lt;/p&gt;
@@ -1519,7 +1519,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Come and work with me on proof theory and philosophy</title>
       <link>http://consequently.org/news/2015/come-work-with-me/</link>
-      <pubDate>Fri, 06 Mar 2015 12:28:44 AEDT</pubDate>
+      <pubDate>Fri, 06 Mar 2015 12:28:44 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/come-work-with-me/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m delighted to &lt;em&gt;finally&lt;/em&gt; announce that I have a &lt;a href=&#34;http://jobs.unimelb.edu.au/caw/en/job/885576/postdoctoral-fellow-philosophy&#34;&gt;job to offer&lt;/a&gt; on my five year ARC funded research project in philosophical logic and its applications, &amp;ldquo;Meaning in Action: new techniques for language, logic and information.&amp;rdquo; It&amp;rsquo;s a two year postdoctoral research position, with a little bit of teaching on the side. If you&amp;rsquo;re interested in philosophical logic, and would like to join the logic group at Melbourne, this is the job for &lt;em&gt;you&lt;/em&gt;.&lt;/p&gt;
@@ -1543,7 +1543,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Academic Genealogy</title>
       <link>http://consequently.org/news/2015/academic-genealogy/</link>
-      <pubDate>Sat, 28 Feb 2015 00:35:19 AEDT</pubDate>
+      <pubDate>Sat, 28 Feb 2015 00:35:19 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/academic-genealogy/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I have known about the &lt;a href=&#34;http://genealogy.math.ndsu.nodak.edu/index.php&#34;&gt;Mathematical Genealogy Project&lt;/a&gt; for &lt;a href=&#34;http://consequently.org/news/2004/06/07/ancestors/&#34;&gt;quite some time&lt;/a&gt;, but, prompted by &lt;a href=&#34;http://ucalgary.ca/rzach/blog/2015/02/academic-genealogy-graphed.html&#34;&gt;Richard Zach&lt;/a&gt; I notice two new and wonderful things.&lt;/p&gt;
@@ -1574,7 +1574,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Classes in Semester One</title>
       <link>http://consequently.org/news/2015/semester-one-classes/</link>
-      <pubDate>Wed, 25 Feb 2015 23:55:17 AEDT</pubDate>
+      <pubDate>Wed, 25 Feb 2015 23:55:17 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/semester-one-classes/</guid>
       <description>&lt;![CDATA[&lt;figure&gt;
@@ -1595,7 +1595,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Ash Wednesday</title>
       <link>http://consequently.org/news/2015/ash-wednesday/</link>
-      <pubDate>Wed, 18 Feb 2015 11:59:50 AEDT</pubDate>
+      <pubDate>Wed, 18 Feb 2015 11:59:50 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/ash-wednesday/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Rembember that you are dust, and to dust you shall return.&lt;/p&gt;
@@ -1608,7 +1608,7 @@ So there are at least 2 different ways to take a Kripke model for intuitionistic
     <item>
       <title>Do LNC and LEM suffice to define negation?</title>
       <link>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</link>
-      <pubDate>Tue, 17 Feb 2015 23:20:25 AEDT</pubDate>
+      <pubDate>Tue, 17 Feb 2015 23:20:25 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/lnc-and-lem-but-not-negation/</guid>
       <description>&lt;![CDATA[&lt;p&gt;What &lt;em&gt;is&lt;/em&gt; negation?&lt;/p&gt;
@@ -1663,7 +1663,7 @@ p\land\neg p\vdash
     <item>
       <title>Adding Site Search</title>
       <link>http://consequently.org/news/2015/adding-site-search/</link>
-      <pubDate>Fri, 13 Feb 2015 11:19:07 AEDT</pubDate>
+      <pubDate>Fri, 13 Feb 2015 11:19:07 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/adding-site-search/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve added a search feature to the site in the &lt;a href=&#34;#footer&#34;&gt;footer&lt;/a&gt; of each page. There seems to be &lt;a href=&#34;http://consequently.org/news&#34;&gt;enough on the site&lt;/a&gt; that search is genuinely useful.&lt;/p&gt;
@@ -1676,7 +1676,7 @@ p\land\neg p\vdash
     <item>
       <title>Another Blast From the Past</title>
       <link>http://consequently.org/news/2015/another-blast-from-the-past/</link>
-      <pubDate>Sun, 08 Feb 2015 15:02:19 AEDT</pubDate>
+      <pubDate>Sun, 08 Feb 2015 15:02:19 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/another-blast-from-the-past/</guid>
       <description>&lt;![CDATA[&lt;figure&gt;
@@ -1699,7 +1699,7 @@ p\land\neg p\vdash
     <item>
       <title>Recovering the Past</title>
       <link>http://consequently.org/news/2015/recovering-the-past/</link>
-      <pubDate>Sat, 07 Feb 2015 07:20:10 AEDT</pubDate>
+      <pubDate>Sat, 07 Feb 2015 07:20:10 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/recovering-the-past/</guid>
       <description>&lt;![CDATA[&lt;p&gt;If you glance at the &lt;a href=&#34;http://consequently.org/news&#34;&gt;news archive&lt;/a&gt;, you&amp;rsquo;ll see that once again it stretches back to the dim past of weblog days, &lt;a href=&#34;http://consequently.org/news/#2000&#34;&gt;the year 2000&lt;/a&gt;. Thanks to the &lt;a href=&#34;https://web.archive.org/web/20000815223330/http://www.phil.mq.edu.au/staff/grestall/log/&#34;&gt;wayback machine&lt;/a&gt;, I was able to recover entries from my old blog (powered by &lt;a href=&#34;http://blogger.com&#34;&gt;Blogger&lt;/a&gt;, from well before it was acquired by Google), and fulfil a commitment I made in March 2001 to &lt;a href=&#34;http://consequently.org/news/2001/2001_03_01_archive/&#34;&gt;move the old archives over to consequently.org&lt;/a&gt;.&lt;/p&gt;
@@ -1719,7 +1719,7 @@ p\land\neg p\vdash
     <item>
       <title>Back in the office</title>
       <link>http://consequently.org/news/2015/back-in-the-office/</link>
-      <pubDate>Wed, 04 Feb 2015 12:45:04 AEDT</pubDate>
+      <pubDate>Wed, 04 Feb 2015 12:45:04 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/back-in-the-office/</guid>
       <description>&lt;![CDATA[&lt;p&gt;It&amp;rsquo;s good to be back in the office. The &lt;a href=&#34;http://maps.unimelb.edu.au/parkville&#34;&gt;Parkville Campus&lt;/a&gt; of &lt;a href=&#34;http://unimelb.edu.au/&#34;&gt;The University of Melbourne&lt;/a&gt; is a delightful place to work.&lt;/p&gt;
@@ -1738,7 +1738,7 @@ p\land\neg p\vdash
     <item>
       <title>Why no comment box?</title>
       <link>http://consequently.org/news/2015/no-comments/</link>
-      <pubDate>Tue, 03 Feb 2015 09:52:39 AEDT</pubDate>
+      <pubDate>Tue, 03 Feb 2015 09:52:39 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/no-comments/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Previous incarnations of this website provided a facility for comments in the usual way for a weblog in the first decade of the 2000s&amp;mdash;a comment form on each entry. This one doesn&amp;rsquo;t. Why not?&lt;/p&gt;
@@ -1764,7 +1764,7 @@ p\land\neg p\vdash
     <item>
       <title>What’s the point of a personal website these days?</title>
       <link>http://consequently.org/news/2015/the-point/</link>
-      <pubDate>Sun, 01 Feb 2015 23:05:00 AEDT</pubDate>
+      <pubDate>Sun, 01 Feb 2015 23:05:00 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2015/the-point/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My last post to &lt;a href=&#34;http://consequently.org&#34;&gt;consequently.org&lt;/a&gt; was in late in 2010, well over four years ago. You&amp;rsquo;d be &lt;em&gt;justified&lt;/em&gt; in thinking that I&amp;rsquo;d abandoned the place&amp;mdash;but you&amp;rsquo;d also be &lt;em&gt;wrong&lt;/em&gt;. I&amp;rsquo;ve been tinkering with it behind the scenes. The software I&amp;rsquo;d been using to maintain the website has long since &lt;a href=&#34;https://github.com/TwP/webby&#34;&gt;fallen into disrepair&lt;/a&gt;, so updating it meant porting everything to another content management system. At least, it would have to mean that, given that I &lt;em&gt;wasn&amp;rsquo;t&lt;/em&gt; really keen to burn the whole thing to the ground and start again from scratch. This required &lt;em&gt;time&lt;/em&gt;.&lt;/p&gt;
@@ -2436,7 +2436,7 @@ With Jesus Christ the apple tree.&lt;/p&gt;
     <item>
       <title>Back!  Then off, then back again!</title>
       <link>http://consequently.org/news/2008/11/27/back_then_off_then_back_again/</link>
-      <pubDate>Thu, 27 Nov 2008 15:34:50 AEDT</pubDate>
+      <pubDate>Thu, 27 Nov 2008 15:34:50 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2008/11/27/back_then_off_then_back_again/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My trip to Guangzhou was super.  Thanks, Guoxin, Min and Xuefeng for looking after me and showing me the sights of Guangzhou, and to Professors Ju and Zhu for the invitation.  It was a wonderful experience for me, and I look forward to many more visits to China, and to the &lt;a href=&#34;http://logic.sysu.edu.cn/logic/english/Index.asp&#34;&gt;Institute of Logic and Cognition&lt;/a&gt;.&lt;/p&gt;
@@ -2449,7 +2449,7 @@ With Jesus Christ the apple tree.&lt;/p&gt;
     <item>
       <title>Off to Guangzhou</title>
       <link>http://consequently.org/news/2008/11/14/off_to_guangzhou/</link>
-      <pubDate>Fri, 14 Nov 2008 21:13:50 AEDT</pubDate>
+      <pubDate>Fri, 14 Nov 2008 21:13:50 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2008/11/14/off_to_guangzhou/</guid>
       <description>&lt;![CDATA[&lt;p&gt;The primary purpose of this site seems to be travel announcements, so rather than break the trend, I&amp;rsquo;ll post another travel announcement. On Sunday, I&amp;rsquo;m off to the &lt;a href=&#34;http://logic.sysu.edu.cn/logic/english/Index.asp&#34;&gt;Institute of Logic and Cognition&lt;/a&gt; at &lt;a href=&#34;http://www.sysu.edu.cn/en/index.html&#34;&gt;Sun Yat-Sen University&lt;/a&gt;, to &lt;a href=&#34;http://logic.sysu.edu.cn/Article/xueshuxinxi/jididongtai/200811/681.html&#34;&gt;give three lectures on my research&lt;/a&gt;.  This is my first trip to China, so I&amp;rsquo;m more excited (and more nervous) than usual for an overseas trip.&lt;/p&gt;
@@ -2740,7 +2740,7 @@ With Jesus Christ the apple tree.&lt;/p&gt;
     <item>
       <title>We&#39;re in the news...</title>
       <link>http://consequently.org/news/2008/03/30/were_in_the_news/</link>
-      <pubDate>Sun, 30 Mar 2008 20:03:58 AEDT</pubDate>
+      <pubDate>Sun, 30 Mar 2008 20:03:58 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2008/03/30/were_in_the_news/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Alas, &lt;a href=&#34;http://www.arts.unimelb.edu.au/&#34;&gt;we&lt;/a&gt; are &lt;a href=&#34;http://www.theage.com.au/news/national/jobs-under-threat-at-melbourne-uni/2008/03/29/1206207499091.html&#34;&gt;in the news&lt;/a&gt; for not-very-good reasons.  Given the recent retirements in &lt;a href=&#34;http://www.philosophy.unimelb.edu.au&#34;&gt;Philosophy at Melbourne&lt;/a&gt;, it would be worse than surprising if any of the new redundancies hit Philosophy.  However, the atmosphere around here not good &amp;ndash; what concerns us most is the scope for new hiring when the Faculty as a whole is in the red so much.  It is very hard to effectively plan ahead when so much is in flux and you&amp;rsquo;re not sure whether your efforts will benefit the discipline.&lt;/p&gt;
@@ -2757,7 +2757,7 @@ With Jesus Christ the apple tree.&lt;/p&gt;
     <item>
       <title>Sorry...</title>
       <link>http://consequently.org/news/2008/02/13/sorry/</link>
-      <pubDate>Wed, 13 Feb 2008 22:40:20 AEDT</pubDate>
+      <pubDate>Wed, 13 Feb 2008 22:40:20 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2008/02/13/sorry/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This has been a &lt;a href=&#34;http://petermartin.blogspot.com/2008/02/prime-ministers-gripping-well-judged.html&#34;&gt;good day&lt;/a&gt;. (&lt;a href=&#34;http://www.youtube.com/watch?v=SUVnAp4lXfI&#34;&gt;Here&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=1k0597GfXFQ&#34;&gt;is&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=1k0597GfXFQ&#34;&gt;the video&lt;/a&gt; &amp;mdash; in three parts.)&lt;/p&gt;
@@ -2925,7 +2925,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>In Banff: Monday, Tuesday, Wednesday, Thursday...</title>
       <link>http://consequently.org/news/2007/02/23/in_banff_monday_tuesday_wednesday_thursday/</link>
-      <pubDate>Fri, 23 Feb 2007 04:50:12 AEDT</pubDate>
+      <pubDate>Fri, 23 Feb 2007 04:50:12 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2007/02/23/in_banff_monday_tuesday_wednesday_thursday/</guid>
       <description>&lt;![CDATA[
@@ -3018,7 +3018,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>My talk in Banff</title>
       <link>http://consequently.org/news/2007/02/23/my_talk_in_banff/</link>
-      <pubDate>Fri, 23 Feb 2007 03:23:51 AEDT</pubDate>
+      <pubDate>Fri, 23 Feb 2007 03:23:51 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2007/02/23/my_talk_in_banff/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve finished up the slides for my talk in &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff&lt;/a&gt;.  If you&amp;rsquo;re interested, the slides are available here&lt;/p&gt;
@@ -3037,7 +3037,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>In Banff: Delia Graff Fara</title>
       <link>http://consequently.org/news/2007/02/20/in_banff_delia_graff_fara/</link>
-      <pubDate>Tue, 20 Feb 2007 05:37:33 AEDT</pubDate>
+      <pubDate>Tue, 20 Feb 2007 05:37:33 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2007/02/20/in_banff_delia_graff_fara/</guid>
       <description>&lt;![CDATA[&lt;p&gt;The next &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff talk&lt;/a&gt; is &lt;a href=&#34;http://www.princeton.edu/~graff/&#34;&gt;Delia Graff Fara&lt;/a&gt;, on &amp;ldquo;Relative identity and de re modality.&amp;rdquo;  She&amp;rsquo;s defending the thesis that material objects are identical to the matter of which they&amp;rsquo;re constituted.  For example, the statue Goliath (&lt;em&gt;G&lt;/em&gt;) is identical to the lump of clay Lumpel (&lt;em&gt;L&lt;/em&gt;).  She wants to allow that &lt;em&gt;L&lt;/em&gt; = &lt;em&gt;G&lt;/em&gt;, while having &lt;em&gt;L&lt;/em&gt; and &lt;em&gt;G&lt;/em&gt; differing in their temporal and modal properties.  So, for example, in the future, a some more clay might become a part of the statue &lt;em&gt;G&lt;/em&gt;, while not becoming a part of the lump of clay &lt;em&gt;L&lt;/em&gt;. The original lump of clay is still present (and is joined by more clay), the original statue is still present, and is now &lt;em&gt;larger&lt;/em&gt;.  You can see why this is desirable: after the addition of more clay, there&amp;rsquo;s still only one statue there, and the old statue did not disappear only to be replaced by a new one.&lt;/p&gt;
@@ -3050,7 +3050,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>In Banff: Branden Fitelson on Formal Epistemology</title>
       <link>http://consequently.org/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/</link>
-      <pubDate>Tue, 20 Feb 2007 03:22:30 AEDT</pubDate>
+      <pubDate>Tue, 20 Feb 2007 03:22:30 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2007/02/20/in_banff_branden_fitelson_on_formal_epistemology/</guid>
       <description>&lt;![CDATA[&lt;p&gt;The first talk in &lt;a href=&#34;http://consequently.org/news/2007/02/20/in_banff/&#34;&gt;Banff&lt;/a&gt; is by &lt;a href=&#34;http://fitelson.org&#34;&gt;Branden Fitelson&lt;/a&gt;, who is giving a &amp;lsquo;&lt;a href=&#34;http://fitelson.org/banff_handout.pdf&#34;&gt;&amp;ldquo;Survey&amp;rdquo; of Formal Epistemology: some propaganda, and an example&lt;/a&gt;&amp;rsquo;.  It&amp;rsquo;s a part of the &lt;a href=&#34;http://www.google.com/search?q=formal+epistemology&#34;&gt;general movement&lt;/a&gt; towards &lt;a href=&#34;http://faculty-staff.ou.edu/R/Wayne.D.Riggs-1/epistemology/index.html&#34;&gt;carving out&lt;/a&gt; the discipline of &amp;lsquo;formal epistemology&amp;rsquo;.  It&amp;rsquo;s a partly political talk, recounting the motivation for Formal Epistemology.  He recounted Bob Meyer&amp;rsquo;s manifesto of the &amp;ldquo;Logicians Liberation League.&amp;rdquo;  It&amp;rsquo;s worth recounting the section Branden quoted.&lt;/p&gt;
@@ -3071,7 +3071,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>In Banff</title>
       <link>http://consequently.org/news/2007/02/20/in_banff/</link>
-      <pubDate>Tue, 20 Feb 2007 02:50:47 AEDT</pubDate>
+      <pubDate>Tue, 20 Feb 2007 02:50:47 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2007/02/20/in_banff/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m in sunny and wintry Banff at the &lt;a href=&#34;http://www.pims.math.ca/birs/birspages.php?task=displayevent&amp;amp;event_id=07w5060&#34;&gt;Mathematical Methods in Philosophy&lt;/a&gt; workshop.  The program is &lt;a href=&#34;http://www.pims.math.ca/birs/workshops/2007/07w5060/Programme07w5060.pdf&#34;&gt;very full&lt;/a&gt;, and I won&amp;rsquo;t be able to report on &lt;em&gt;everything&lt;/em&gt; going on here.  (Heck, I haven&amp;rsquo;t even reported back from our time in India, despite &lt;a href=&#34;http://consequently.org/news/2006/12/19/off_to_india/&#34;&gt;popular demand&lt;/a&gt;.)  So, please let me give my apologies in advance if youre talk doesn&amp;rsquo;t get reported here.  It&amp;rsquo;s probably because I was so interested in it I had to &lt;em&gt;think&lt;/em&gt; and not blog.&lt;/p&gt;
@@ -3082,7 +3082,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Off to India...</title>
       <link>http://consequently.org/news/2006/12/19/off_to_india/</link>
-      <pubDate>Tue, 19 Dec 2006 22:17:22 AEDT</pubDate>
+      <pubDate>Tue, 19 Dec 2006 22:17:22 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/12/19/off_to_india/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been having too much fun and doing too much work lately to post anything here.  On the work side, our proposal to teach first-year logic in an interdisciplinary way as a &amp;ldquo;breadth&amp;rdquo; subject to all students in the &amp;ldquo;new generation&amp;rdquo; degrees from 2008, has passed the first hurdle.  We have a bucket of money to develop the course over the next year.  Lots of work, but lots of fun.&lt;/p&gt;
@@ -3097,7 +3097,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Scenes from an afternoon</title>
       <link>http://consequently.org/news/2006/11/22/scenes_from_an_afternoon/</link>
-      <pubDate>Wed, 22 Nov 2006 20:31:49 AEDT</pubDate>
+      <pubDate>Wed, 22 Nov 2006 20:31:49 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/11/22/scenes_from_an_afternoon/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My son, Z, asks me&lt;/p&gt;
@@ -3126,7 +3126,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Horn tooting</title>
       <link>http://consequently.org/news/2006/11/15/horn_tooting/</link>
-      <pubDate>Wed, 15 Nov 2006 11:36:20 AEDT</pubDate>
+      <pubDate>Wed, 15 Nov 2006 11:36:20 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/11/15/horn_tooting/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Two bits of horn tooting for today:&lt;/p&gt;
@@ -3143,7 +3143,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>A Philosophical Poll: on a priori knowledge of possibilities</title>
       <link>http://consequently.org/news/2006/11/01/a_philosophical_poll_on_a_priori_knowledge_of_possibilities/</link>
-      <pubDate>Wed, 01 Nov 2006 16:56:32 AEDT</pubDate>
+      <pubDate>Wed, 01 Nov 2006 16:56:32 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/11/01/a_philosophical_poll_on_a_priori_knowledge_of_possibilities/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;d like to guage some philosophical opinions.  (I don&amp;rsquo;t have many of my own.  Most of them have been worn down by &lt;a href=&#34;http://consequently.org/writing/&#34;&gt;years of logical abuse&lt;/a&gt;.)&lt;/p&gt;
@@ -3879,7 +3879,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>2006 redesign in progress</title>
       <link>http://consequently.org/news/2006/04/01/2006_redesign_in_progress/</link>
-      <pubDate>Sat, 01 Apr 2006 22:29:33 AEDT</pubDate>
+      <pubDate>Sat, 01 Apr 2006 22:29:33 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/04/01/2006_redesign_in_progress/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m trying to neaten up this place a bit, and I need your help and advice.  Have a look &lt;a href=&#34;http://consequently.org/newindex.php&#34;&gt;here&lt;/a&gt; and let me know what you think of it.  I&amp;rsquo;m trying to make it easier to see what&amp;rsquo;s new, what&amp;rsquo;s changed, etc.  In particular, you look &lt;em&gt;down&lt;/em&gt; to find links to other new stuff on the site.  This opens up the sidebars for four things.  The most recent picture, my &amp;ldquo;recently browsed&amp;rdquo; linklist, my list of events (which I need to update) and finally, a very modest list of links to friends and colleagues.&lt;/p&gt;
@@ -3892,7 +3892,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>AJL Papers</title>
       <link>http://consequently.org/news/2006/03/30/ajl_papers/</link>
-      <pubDate>Thu, 30 Mar 2006 10:44:34 AEDT</pubDate>
+      <pubDate>Thu, 30 Mar 2006 10:44:34 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/30/ajl_papers/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This morning I uploaded a few new papers to the &lt;em&gt;&lt;a href=&#34;http://www.philosophy.unimelb.edu.au/ajl&#34;&gt;Australasian Journal of Logic&lt;/a&gt;&lt;/em&gt;, one of the projects I (mostly!) enjoy working on.  It&amp;rsquo;s an open access, fully refereed, online journal in logic.  If you&amp;rsquo;ve not seen it before, browse around and check it out.  Let me know what you think.&lt;/p&gt;
@@ -3907,7 +3907,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Spooky coincidence? I think not</title>
       <link>http://consequently.org/news/2006/03/28/spooky_coincidence_i_think_not/</link>
-      <pubDate>Tue, 28 Mar 2006 20:42:07 AEDT</pubDate>
+      <pubDate>Tue, 28 Mar 2006 20:42:07 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/28/spooky_coincidence_i_think_not/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Today in &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161115/pub&#34;&gt;Logic&lt;/a&gt; I talked about vagueness and the sorites paradox.  Then when I get back to the office, I find that this Saturday, Alan Saunders on &lt;a href=&#34;http://www.abc.net.au/rn/talks/philosopher&#34;&gt;The Philosopher&amp;rsquo;s Zone&lt;/a&gt; has a program on &amp;ndash; you guessed it &amp;ndash; &lt;a href=&#34;http://www.abc.net.au/rn/talks/philosopher/stories/s1591158.htm&#34;&gt;the sorites paradox&lt;/a&gt;.  Is that a spooky coincidence or what?&lt;/p&gt;
@@ -3938,7 +3938,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Oh, and there&#39;s another paper, too</title>
       <link>http://consequently.org/news/2006/03/28/oh_and_theres_another_paper_too/</link>
-      <pubDate>Tue, 28 Mar 2006 20:28:34 AEDT</pubDate>
+      <pubDate>Tue, 28 Mar 2006 20:28:34 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/28/oh_and_theres_another_paper_too/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I forgot to mention that I have written another paper recently.  It&amp;rsquo;s a proof theory paper, putting down some thoughts on modal proof theory that I formulated when giving the &lt;a href=&#34;http://consequently.org/writing/s5nets&#34;&gt;S5 paper&lt;/a&gt; around and about in the last six months or so.&lt;/p&gt;
@@ -3959,7 +3959,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Being a logician means sometimes having to say that you&#39;re sorry.  Or at least, that you&#39;re wrong.</title>
       <link>http://consequently.org/news/2006/03/28/being_a_logician_means_sometimes_having_to_say_that_youre_sorry_or_at_least_that_youre_wrong/</link>
-      <pubDate>Tue, 28 Mar 2006 11:18:51 AEDT</pubDate>
+      <pubDate>Tue, 28 Mar 2006 11:18:51 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/28/being_a_logician_means_sometimes_having_to_say_that_youre_sorry_or_at_least_that_youre_wrong/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m sorry, I truly am.&lt;/p&gt;
@@ -3980,7 +3980,7 @@ dinner on Lygon Street, Carlton.&lt;/p&gt;
     <item>
       <title>Dame Edna at the Commonwealth Games Closing Ceremony</title>
       <link>http://consequently.org/news/2006/03/26/dame_edna_at_the_commonwealth_games_closing_ceremony/</link>
-      <pubDate>Sun, 26 Mar 2006 22:11:01 AEDT</pubDate>
+      <pubDate>Sun, 26 Mar 2006 22:11:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/26/dame_edna_at_the_commonwealth_games_closing_ceremony/</guid>
       <description>&lt;![CDATA[&lt;blockquote&gt;
@@ -4010,7 +4010,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Last Night at the MCG</title>
       <link>http://consequently.org/news/2006/03/25/last_night_at_the_mcg/</link>
-      <pubDate>Sat, 25 Mar 2006 08:40:25 AEDT</pubDate>
+      <pubDate>Sat, 25 Mar 2006 08:40:25 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/25/last_night_at_the_mcg/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Z and I &amp;ndash; together with around 80,000 other people &amp;ndash; filled the MCG to watch the &lt;a href=&#34;http://www.melbourne2006.com.au/Schedule+and+Results/By+Sport/Athletics?SelectedDate=Fri%2024%20Mar&#34;&gt;track and field portion&lt;/a&gt; of &lt;a href=&#34;http://melbourne2006.com/M2006/Daily+Summaries/Day+9&#34;&gt;Day 9&lt;/a&gt; of the Commonwealth Games here.  Some highlights:&lt;/p&gt;
@@ -4039,7 +4039,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Marathon Effort</title>
       <link>http://consequently.org/news/2006/03/19/marathon_effort/</link>
-      <pubDate>Sun, 19 Mar 2006 16:39:07 AEDT</pubDate>
+      <pubDate>Sun, 19 Mar 2006 16:39:07 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/19/marathon_effort/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Z and I went in to the city to have a look at the &lt;a href=&#34;http://www.melbourne2006.com.au/Schedule%20and%20Results/By%20Sport/Athletics/Sun%2019%20Mar/Results/Result%20-%20AT1099E0100001?ScheduleItemID=28953&#34;&gt;Women&amp;rsquo;s&lt;/a&gt; and &lt;a href=&#34;http://www.melbourne2006.com.au/Schedule%20and%20Results/By%20Sport/Athletics/Sun%2019%20Mar/Results/Result%20-%20AT0099E0100001?ScheduleItemID=28935&#34;&gt;Men&amp;rsquo;s&lt;/a&gt; Marathon held here for the &lt;a href=&#34;http://www.melbourne2006.com.au/&#34;&gt;2006 Commonwealth Games&lt;/a&gt;.  The city was buzzing, the crowds friendly, and it was great to get a glimpse of the lead runners: especially &lt;a href=&#34;http://consequently.org/phonecam/Kerryn%20McCann%20and%20Hellen%20Cheron%20Koskei,%20Commonwealth%20Games%20Marathon,%20Alexandra%20Gardens,%20March%2019,%202006.jpg&#34;&gt;Kerryn McCann and Hellen Cherono Koskei&lt;/a&gt; who raced neck-and-neck right into the stadium.  No matter how you cut it, 42+ kilometres is a long way to run.  I suppose the task is quite literally, a &lt;em&gt;marathon&lt;/em&gt; effort.&lt;/p&gt;
@@ -4054,7 +4054,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Greg Hjorth coming back to Melbourne</title>
       <link>http://consequently.org/news/2006/03/10/greg_hjorth_coming_back_to_melbourne/</link>
-      <pubDate>Fri, 10 Mar 2006 10:12:36 AEDT</pubDate>
+      <pubDate>Fri, 10 Mar 2006 10:12:36 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/10/greg_hjorth_coming_back_to_melbourne/</guid>
       <description>&lt;![CDATA[&lt;p&gt;It&amp;rsquo;s a happy day for us logicians at Melbourne.  &lt;a href=&#34;http://www.math.ucla.edu/~greg/&#34;&gt;Greg Hjorth&lt;/a&gt; is going to be joining the &lt;a href=&#34;http://www.ms.unimelb.edu.au/&#34;&gt;Department of Mathematics and Statistics&lt;/a&gt; later in the year, taking up a five-year, professorial fellowship.  He&amp;rsquo;s a super-smart set theorist and model theorist, and I&amp;rsquo;m looking forward to having him around on campus.&lt;/p&gt;
@@ -4065,7 +4065,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Masses of Formal Philosophy</title>
       <link>http://consequently.org/news/2006/03/03/masses_of_formal_philosophy/</link>
-      <pubDate>Fri, 03 Mar 2006 09:35:09 AEDT</pubDate>
+      <pubDate>Fri, 03 Mar 2006 09:35:09 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/03/03/masses_of_formal_philosophy/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Vincent Hendricks and John Symons are working on a sequel to their book &lt;em&gt;&lt;a href=&#34;http://www.formalphilosophy.com/&#34;&gt;Formal Philosophy&lt;/a&gt;&lt;/em&gt;, in which philosophers who use &amp;ldquo;formal methods&amp;rdquo; talked about their work, their motivations, and their take on the state of philosophy.  For the sequel, they are opening things up for others to take an &amp;ldquo;interview&amp;rdquo; with &lt;a href=&#34;http://www.formalphilosophy.com/Masses/index.html&#34;&gt;five questions&lt;/a&gt;, to appear in the next book, &lt;em&gt;Masses of Formal Philosophy&lt;/em&gt;. I&amp;rsquo;m not sure what the criteria Vincent and John are using for selecting answers for appearing in the book &amp;ndash; but I am thinking about their five questions.  Here they are:&lt;/p&gt;
@@ -4092,7 +4092,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Degrees of Truth, Degrees of Falsity</title>
       <link>http://consequently.org/news/2006/02/19/degrees_of_truth_degrees_of_falsity/</link>
-      <pubDate>Sun, 19 Feb 2006 08:57:49 AEDT</pubDate>
+      <pubDate>Sun, 19 Feb 2006 08:57:49 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/02/19/degrees_of_truth_degrees_of_falsity/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Toby Ord (a former student of mine, now taking Oxford by storm), has written up a nice short essay on &lt;a href=&#34;http://www.amirrorclear.net/academic/ideas/degrees/&#34;&gt;degrees of truth and degrees of falsity&lt;/a&gt;.  It shows how you can get a very nice little algebra if you extend the usual non-classical idea of a 4-valued logic in which truth and falsity are somewhat independent with the &amp;ldquo;fuzzy&amp;rdquo; idea of degrees of truth between zero and one. Both ideas have a heritage.  The idea of considering the interval [0,1] as a lattice of truth values goes back to &amp;#321;ukasiewicz, and the four-valued algebra, now known as BN4, traces back at least to some &lt;a href=&#34;http://www.citeulike.org/user/greg_restall/article/123362&#34;&gt;early work by Mike Dunn&lt;/a&gt;.&lt;/p&gt;
@@ -4115,7 +4115,7 @@ The envy of the world.&lt;/p&gt;
     <item>
       <title>Fun with Playlists: Squeezing your music library onto a 2GB iPod</title>
       <link>http://consequently.org/news/2006/02/04/fun_with_playlists_squeezing_your_music_library_onto_a_2gb_ipod/</link>
-      <pubDate>Sat, 04 Feb 2006 21:06:19 AEDT</pubDate>
+      <pubDate>Sat, 04 Feb 2006 21:06:19 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/02/04/fun_with_playlists_squeezing_your_music_library_onto_a_2gb_ipod/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve finally joined the ranks of the zombies with white earbuds.  My trusty 2GB black &lt;a href=&#34;http://www.apple.com/ipodnano&#34;&gt;iPod nano&lt;/a&gt; was acquired on the way home from our Sabbatical, in a duty free store at Changi Airport.  I&amp;rsquo;ve had a little while to experiment with it, and so far, it&amp;rsquo;s been working better than I&amp;rsquo;d expected.  I take it with me on my early morning walks, sometimes listening to spoken word things and sometimes listening to music.  My taste in podcasts is &lt;a href=&#34;http://theblog.philosophytalk.org/2006/01/the_best_of_phi.html&#34;&gt;pretty&lt;/a&gt; &lt;a href=&#34;http://www.abc.net.au/rn/talks/lnl/&#34;&gt;conservative&lt;/a&gt; &amp;ndash; I seem to treat this as time-shifted radio, rather than anything more cutting-edge.  However, it&amp;rsquo;s pretty mind-bending that you can get &lt;a href=&#34;http://www.dur.ac.uk/kevin.bywater/&#34;&gt;esoteric&lt;/a&gt; &lt;a href=&#34;http://www.usyd.edu.au/time/conferences/Brandom-2005.htm&#34;&gt;seminars&lt;/a&gt; off the web, so academic seminars I&amp;rsquo;m interested in but didn&amp;rsquo;t go to can be downloaded onto my computer and put on the iPod.&lt;/p&gt;
@@ -4237,7 +4237,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Phase Change</title>
       <link>http://consequently.org/news/2006/02/01/phase_change/</link>
-      <pubDate>Wed, 01 Feb 2006 18:47:20 AEDT</pubDate>
+      <pubDate>Wed, 01 Feb 2006 18:47:20 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/02/01/phase_change/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Today is the first day of the new phase of our lives &amp;ndash; Zachary Luke Parker Restall had his &lt;a href=&#34;http://consequently.org/phonecam/Zachary,%20ready%20to%20spring%20into%20action%20on%20his%20first%20day%20of%20school,%20February%201,%202006.jpg&#34;&gt;first day&lt;/a&gt; of &lt;a href=&#34;http://www.brunswicksw-ps.vic.edu.au/&#34;&gt;school&lt;/a&gt; today.  Well done, Zachary!&lt;/p&gt;
@@ -4248,7 +4248,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Assorted crosscultural observations, upon visiting the supermarket</title>
       <link>http://consequently.org/news/2006/01/04/assorted_crosscultural_observations_upon_visiting_the_supermarket/</link>
-      <pubDate>Wed, 04 Jan 2006 13:10:43 AEDT</pubDate>
+      <pubDate>Wed, 04 Jan 2006 13:10:43 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/01/04/assorted_crosscultural_observations_upon_visiting_the_supermarket/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This morning found Z and me in the &lt;a href=&#34;http://www.coles.com.au/&#34;&gt;grocery store&lt;/a&gt;, doing yet more re-stocking of the pantry.  Here are some hastily selected observations.&lt;/p&gt;
@@ -4267,7 +4267,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Teaching in Semester 1, 2006</title>
       <link>http://consequently.org/news/2006/01/03/teaching_in_semester_1_2006/</link>
-      <pubDate>Tue, 03 Jan 2006 15:18:38 AEDT</pubDate>
+      <pubDate>Tue, 03 Jan 2006 15:18:38 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/01/03/teaching_in_semester_1_2006/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m back in the teaching saddle for 2006.  In Semester 1, I teach two undergraduate courses.  &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161115/pub&#34;&gt;161-115: Logic&lt;/a&gt; and &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161212/pub&#34;&gt;161-212: Non-Classical Logic&lt;/a&gt;.&lt;/p&gt;
@@ -4278,7 +4278,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Happy 2006</title>
       <link>http://consequently.org/news/2006/01/01/happy_2006/</link>
-      <pubDate>Sun, 01 Jan 2006 12:08:20 AEDT</pubDate>
+      <pubDate>Sun, 01 Jan 2006 12:08:20 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2006/01/01/happy_2006/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Happy New Year, my readers!&lt;/p&gt;
@@ -4293,7 +4293,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>About to leave Oxford</title>
       <link>http://consequently.org/news/2005/12/16/about_to_leave_oxford/</link>
-      <pubDate>Fri, 16 Dec 2005 12:22:40 AEDT</pubDate>
+      <pubDate>Fri, 16 Dec 2005 12:22:40 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/12/16/about_to_leave_oxford/</guid>
       <description>&lt;![CDATA[&lt;p&gt;We&amp;rsquo;re in the middle of packing up our Oxford home, to start the short trip back.  We land in Melbourne on New Year&amp;rsquo;s Eve, after some stops in K&amp;ouml;ln (for the Christmas Markets), Augsburg (for Christmas with friends), Frankfurt Airport (to get on the plane), Singapore (to break the journey, and give us some summer in close proximity to air conditioning before landing in the Melbourne summer heat).&lt;/p&gt;
@@ -4328,7 +4328,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Survived so far...</title>
       <link>http://consequently.org/news/2005/11/18/survived_so_far/</link>
-      <pubDate>Fri, 18 Nov 2005 20:59:32 AEDT</pubDate>
+      <pubDate>Fri, 18 Nov 2005 20:59:32 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/11/18/survived_so_far/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve given my two talks here in St. Andrews, with really useful discussion in both of the talks.  In the philosophy talk, questions ranged from matters of meaning theory, metaphysics and epistemology of possibility and necessity. Thanks especially to &lt;a href=&#34;http://www.st-andrews.ac.uk/~dpn/&#34;&gt;Daniel Nolan&lt;/a&gt;, &lt;a href=&#34;http://www.st-andrews.ac.uk/~csj6/&#34;&gt;Carrie Jenkins&lt;/a&gt;, &lt;a href=&#34;http://www.st-andrews.ac.uk/~arche/pages/personal/rossbergpers.html&#34;&gt;Marcus Rossberg&lt;/a&gt;, &lt;a href=&#34;http://notofcon.blogspot.com/&#34;&gt;Ole Thomassen Hjortland&lt;/a&gt;, &lt;a href=&#34;http://www.st-andrews.ac.uk/academic/philosophy/STAFF/wright.html&#34;&gt;Crispin Wright&lt;/a&gt;, &lt;a href=&#34;http://www.st-andrews.ac.uk/~slr/read.html&#34;&gt;Stephen Read&lt;/a&gt; and other people whose webpages I haven&amp;rsquo;t yet found.&lt;/p&gt;
@@ -4343,7 +4343,7 @@ sync the iPod.  This means that if I&amp;rsquo;m playing a track through iTunes 
     <item>
       <title>Time flies when...</title>
       <link>http://consequently.org/news/2005/11/15/time_flies_when/</link>
-      <pubDate>Tue, 15 Nov 2005 21:57:33 AEDT</pubDate>
+      <pubDate>Tue, 15 Nov 2005 21:57:33 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/11/15/time_flies_when/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&amp;hellip; you&amp;rsquo;re on sabbatical.&lt;/p&gt;
@@ -4956,7 +4956,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Logic Books at print.google.com</title>
       <link>http://consequently.org/news/2005/03/22/logic_books_at_printgooglecom/</link>
-      <pubDate>Tue, 22 Mar 2005 23:42:32 AEDT</pubDate>
+      <pubDate>Tue, 22 Mar 2005 23:42:32 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/03/22/logic_books_at_printgooglecom/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I think that Google&amp;rsquo;s new &lt;a href=&#34;http://print.google.com&#34;&gt;search-inside-the-book&lt;/a&gt; service will prove to be quite handy to a researcher like me.  It&amp;rsquo;s not satisfactory to read through a book like that on the screen (especially when copyright restrictions do not permit you to keep going after a couple of pages of continuous reading), but it will be a boon to research to be able to search inside the &lt;a href=&#34;http://print.google.com/print?id=8u-IU3xTHrcC&#34;&gt;book&lt;/a&gt;  for &lt;a href=&#34;http://print.google.com/print?q=lattice&amp;amp;ie=UTF-8&amp;amp;id=8u-IU3xTHrcC&#34;&gt;everywhere lattices are mentioned&lt;/a&gt;.&lt;/p&gt;
@@ -4969,7 +4969,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>University Library Proxy Bookmarklet</title>
       <link>http://consequently.org/news/2005/03/12/university_library_proxy_bookmarklet/</link>
-      <pubDate>Sat, 12 Mar 2005 21:02:43 AEDT</pubDate>
+      <pubDate>Sat, 12 Mar 2005 21:02:43 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/03/12/university_library_proxy_bookmarklet/</guid>
       <description>&lt;![CDATA[&lt;p&gt;If you&amp;rsquo;re like me, you do research on the web, and you browse around different sites for journals, seeing what&amp;rsquo;s been published, and what you should read.  Our &lt;a href=&#34;http://www.lib.unimelb.edu.au/&#34;&gt;library&lt;/a&gt; has online subscriptions for lots of these journals, so I can download the papers, file them, read them, etc.  It&amp;rsquo;s all very nice.&lt;/p&gt;
@@ -5009,7 +5009,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Please Help Us #1: On Self-Saucing Pudding</title>
       <link>http://consequently.org/news/2005/03/07/please_help_us_1_on_selfsaucing_pudding/</link>
-      <pubDate>Mon, 07 Mar 2005 19:16:53 AEDT</pubDate>
+      <pubDate>Mon, 07 Mar 2005 19:16:53 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/03/07/please_help_us_1_on_selfsaucing_pudding/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Here&amp;rsquo;s one thing I find comments on a website really good for: trawling for information.&lt;/p&gt;
@@ -5030,7 +5030,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Comments on Weblogs</title>
       <link>http://consequently.org/news/2005/03/07/comments_on_weblogs/</link>
-      <pubDate>Mon, 07 Mar 2005 16:27:50 AEDT</pubDate>
+      <pubDate>Mon, 07 Mar 2005 16:27:50 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/03/07/comments_on_weblogs/</guid>
       <description>&lt;![CDATA[&lt;p&gt;At &lt;a title=&#34;logicandlanguage.net: On Comments&#34; href=&#34;http://www.logicandlanguage.net/archives/2005/03/on_comments_1.html#more&#34;&gt;logicandlanguage.net&lt;/a&gt; the author talks a little bit about &lt;a title=&#34;logicandlanguage.net: On Comments&#34; href=&#34;http://www.logicandlanguage.net/archives/2005/03/on_comments_1.html#more&#34;&gt;comments on weblogs&lt;/a&gt;.  On why one might allow them, or do without them. As you can see, I leave comments open here.  (Behind the scenes there is a &lt;a href=&#34;http://www.jayallen.org/projects/mt-blacklist/&#34;&gt;hardworking comment spam filter&lt;/a&gt;.  Without that, this place would be deluged with spam.)&lt;/p&gt;
@@ -5043,7 +5043,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Get your kicks on Route 55</title>
       <link>http://consequently.org/news/2005/03/03/get_your_kicks_on_route_55/</link>
-      <pubDate>Thu, 03 Mar 2005 20:18:47 AEDT</pubDate>
+      <pubDate>Thu, 03 Mar 2005 20:18:47 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/03/03/get_your_kicks_on_route_55/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I sometimes catch the tram to get to or from the office, and usually it&amp;rsquo;s a not unpleasant experience.&lt;/p&gt;
@@ -5056,7 +5056,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Wikis are fun</title>
       <link>http://consequently.org/news/2005/02/28/wikis_are_fun/</link>
-      <pubDate>Mon, 28 Feb 2005 22:28:24 AEDT</pubDate>
+      <pubDate>Mon, 28 Feb 2005 22:28:24 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/02/28/wikis_are_fun/</guid>
       <description>&lt;![CDATA[&lt;p&gt;The &lt;a href=&#34;http://consequently.org/edit/page&#34;&gt;wiki&lt;/a&gt; is lots of fun.  Being able to edit the page you&amp;rsquo;re on, and freely create new pages by making new links, does seem to foster a new way of writing.  It&amp;rsquo;ll be fun to see if any of my &lt;a href=&#34;http://consequently.org/edit/page/161-438_in_2005&#34;&gt;students catch on&lt;/a&gt;.&lt;/p&gt;
@@ -5069,7 +5069,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>I&#39;ve been writing</title>
       <link>http://consequently.org/news/2005/02/24/ive_been_writing/</link>
-      <pubDate>Thu, 24 Feb 2005 22:34:40 AEDT</pubDate>
+      <pubDate>Thu, 24 Feb 2005 22:34:40 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/02/24/ive_been_writing/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been pretty busy getting courses up and running for Semester 1.  Some of this has involved &lt;a href=&#34;http://consequently.org/writing/pc&#34;&gt;starting writing my book&lt;/a&gt;, and setting up a &lt;a href=&#34;http://consequently.org/edit/page/Proof_and_Counterexample&#34;&gt;wiki&lt;/a&gt; as a place to encourage feedback on the book and other things.  Go and play there&amp;hellip; (I&amp;rsquo;ll be interested to see how this goes.)&lt;/p&gt;
@@ -5080,7 +5080,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Happiness is...</title>
       <link>http://consequently.org/news/2005/01/21/happiness_is/</link>
-      <pubDate>Fri, 21 Jan 2005 12:44:59 AEDT</pubDate>
+      <pubDate>Fri, 21 Jan 2005 12:44:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/21/happiness_is/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&amp;hellip; when you fiddle with your book draft and manage to get it to compile with no &lt;a href=&#34;http://latex.yauh.de/faq/index.php?aktion=artikel&amp;amp;rubrik=010&amp;amp;id=74&amp;amp;lang=en&#34;&gt;overfull \hboxes&lt;/a&gt; and no &lt;a href=&#34;http://www.mail-archive.com/texpower@ls6.cs.uni-dortmund.de/msg00074.html&#34;&gt;underfull \vboxes&lt;/a&gt;.&lt;/p&gt;
@@ -5091,7 +5091,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Darren Blogging for Tsunami Relief</title>
       <link>http://consequently.org/news/2005/01/19/darren_blogging_for_tsunami_relief/</link>
-      <pubDate>Wed, 19 Jan 2005 22:47:06 AEDT</pubDate>
+      <pubDate>Wed, 19 Jan 2005 22:47:06 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/19/darren_blogging_for_tsunami_relief/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Our friend Darren Rowse is &lt;a href=&#34;http://www.breakingnewsblog.com/blogathon/&#34;&gt;blogging for tsunami relief&lt;/a&gt; over a 24 hour period.  To make things interesting for him, we&amp;rsquo;re sponsoring him with a small amount for each different &lt;a href=&#34;http://en.wikipedia.org/wiki/List_of_Internet_TLDs&#34;&gt;top level domain&lt;/a&gt; he uses in a post.  It should make his posting nice and eclectic.&lt;/p&gt;
@@ -5102,7 +5102,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Matt and Nick talk Dialetheism</title>
       <link>http://consequently.org/news/2005/01/10/matt_and_nick_talk_dialetheism/</link>
-      <pubDate>Mon, 10 Jan 2005 21:57:09 AEDT</pubDate>
+      <pubDate>Mon, 10 Jan 2005 21:57:09 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/10/matt_and_nick_talk_dialetheism/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Matt Carter and Nick Trakakis are &lt;a href=&#34;http://cogitation.braininavat.net/dialetheism.htm&#34;&gt;arguing over dialetheism&lt;/a&gt;.  What&amp;rsquo;s dialetheism?  It&amp;rsquo;s the view that some contradictory pairs of statements are true.&lt;/p&gt;
@@ -5117,7 +5117,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Work, work, work, work...</title>
       <link>http://consequently.org/news/2005/01/06/work_work_work_work/</link>
-      <pubDate>Thu, 06 Jan 2005 21:15:17 AEDT</pubDate>
+      <pubDate>Thu, 06 Jan 2005 21:15:17 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/06/work_work_work_work/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m enjoying being back at work, but I seem to be procrastinating rather badly.  Instead of writing my grant application and getting through my growing pile of emails, I&amp;rsquo;m doing &lt;em&gt;research&lt;/em&gt;.&lt;/p&gt;
@@ -5140,7 +5140,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Back to work tomorrow</title>
       <link>http://consequently.org/news/2005/01/03/back_to_work_tomorrow/</link>
-      <pubDate>Mon, 03 Jan 2005 23:28:51 AEDT</pubDate>
+      <pubDate>Mon, 03 Jan 2005 23:28:51 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/03/back_to_work_tomorrow/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Tomorrow I&amp;rsquo;m back in the office, and back at work after my short Christmas/New Year break.  It&amp;rsquo;ll be time to plough through that 45-email inbox, and see what else is waiting for me.&lt;/p&gt;
@@ -5155,7 +5155,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Teaching in Semester 1</title>
       <link>http://consequently.org/news/2005/01/02/teaching_in_semester_1/</link>
-      <pubDate>Sun, 02 Jan 2005 14:45:12 AEDT</pubDate>
+      <pubDate>Sun, 02 Jan 2005 14:45:12 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/02/teaching_in_semester_1/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This semester I am teaching the first-year subject &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161115/pub&#34;&gt;&lt;em&gt;Introduction to Formal Logic&lt;/em&gt;&lt;/a&gt; and an honours (fourth-year) seminar &lt;a href=&#34;http://webraft.its.unimelb.edu.au/161438/pub&#34;&gt;&lt;em&gt;Logic and Philosophy&lt;/em&gt;&lt;/a&gt;.  I&amp;rsquo;ll teach the honours class from draft material from my (&lt;em&gt;as yet only in scribbles in my notebooks&lt;/em&gt;) &lt;a href=&#34;http://consequently.org/writing/pc&#34;&gt;draft book&lt;/a&gt;.&lt;/p&gt;
@@ -5166,7 +5166,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>2005 Redesign</title>
       <link>http://consequently.org/news/2005/01/01/2005_redesign/</link>
-      <pubDate>Sat, 01 Jan 2005 22:46:45 AEDT</pubDate>
+      <pubDate>Sat, 01 Jan 2005 22:46:45 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2005/01/01/2005_redesign/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My redesign for 2005 is in progress now.  After some problems (I managed to delete the &lt;a href=&#34;http://consequently.org/writing/&#34;&gt;writing&lt;/a&gt; page in a fit of cutting-and-pasting) I have some things on the way.  There are lots of changes behind the scene.  The linklist in the right column is now powered by &lt;a href=&#34;http://del.icio.us&#34;&gt;del.icio.us&lt;/a&gt;, which is wonderful.  The sidebars (left and right) contain other information, such as recent comments, recent udates on the &lt;a href=&#34;http://consequently.org/writing/&#34;&gt;writing&lt;/a&gt; page, and a little diary of events, past and present. Figuring out what goes where is all done automatically by the &lt;a href=&#34;http://movabletype.org&#34;&gt;weblog software I use&lt;/a&gt;.  I hope you find the new design of the front page useful.&lt;/p&gt;
@@ -5183,7 +5183,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>What&#39;s going on around here</title>
       <link>http://consequently.org/news/2004/12/14/whats_going_on_around_here/</link>
-      <pubDate>Tue, 14 Dec 2004 20:52:25 AEDT</pubDate>
+      <pubDate>Tue, 14 Dec 2004 20:52:25 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/12/14/whats_going_on_around_here/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve been rather busy for the last little while, as the absence from the website might indicate.  Here is a list of what&amp;rsquo;s been happening, which involves not a little bit of trumpet-blowing, because a lot of the news has been good and it&amp;rsquo;s time for me to share.&lt;/p&gt;
@@ -5208,7 +5208,7 @@ TYPE=&#34;application/x-shockwave-flash&#34; PLUGINSPAGE=&#34;http://www.macrome
     <item>
       <title>Take these shoes...</title>
       <link>http://consequently.org/news/2004/11/21/take_these_shoes/</link>
-      <pubDate>Sun, 21 Nov 2004 22:21:33 AEDT</pubDate>
+      <pubDate>Sun, 21 Nov 2004 22:21:33 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/11/21/take_these_shoes/</guid>
       <description>&lt;![CDATA[&lt;blockquote&gt;
@@ -5234,7 +5234,7 @@ Take this soul&lt;br /&gt;
     <item>
       <title>Sheet Music</title>
       <link>http://consequently.org/news/2004/11/08/sheet_music/</link>
-      <pubDate>Mon, 08 Nov 2004 22:16:21 AEDT</pubDate>
+      <pubDate>Mon, 08 Nov 2004 22:16:21 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/11/08/sheet_music/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;ve just bought some sheet music for the first time in 18 years or so.  Let&amp;rsquo;s hope my violin technique is up to &lt;a href=&#34;http://www.universaledition.com/truman/frontend/439_ue13360.pdf&#34;&gt;this&lt;/a&gt;.  I know I can play the &lt;em&gt;notes&lt;/em&gt; (or close approximations to them).  It&amp;rsquo;s sustaining the technique for 10 minutes that I&amp;rsquo;m not so sure about.&lt;/p&gt;
@@ -5836,7 +5836,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Brandom on Philosophy and the University</title>
       <link>http://consequently.org/news/2004/03/24/brandom_on_philosophy_and_the_university/</link>
-      <pubDate>Wed, 24 Mar 2004 22:02:53 AEDT</pubDate>
+      <pubDate>Wed, 24 Mar 2004 22:02:53 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/24/brandom_on_philosophy_and_the_university/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Robert Brandom recently addressed the trustees at the University of Pittsburgh (where he works).  His talk addressed different issues, including the history of the Pitt philosophy department, the role of a research university, and how we ought to conceive of the relationship between the university and its students. Go &lt;a href=&#34;http://www.umc.pitt.edu:591/u/FMPro?-db=ustory&amp;amp;-lay=a&amp;amp;-format=d.html&amp;amp;storyid=1962&amp;amp;-Find&#34;&gt;read this extract of the speech&lt;/a&gt; and then come back here.&lt;/p&gt;
@@ -5869,7 +5869,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Research Quantification</title>
       <link>http://consequently.org/news/2004/03/24/research_quantification/</link>
-      <pubDate>Wed, 24 Mar 2004 10:34:55 AEDT</pubDate>
+      <pubDate>Wed, 24 Mar 2004 10:34:55 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/24/research_quantification/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Today I received offprints of &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/pev/&#34;&gt;Paraconsistency Everywhere&lt;/a&gt;,&amp;rdquo; an article I wrote quite some time ago (it was essentially finished in 2001).  It appears in the &lt;em&gt;2002&lt;/em&gt; issue of the Journal, yet it has only just appeared on my desk.  This comical state of affairs continues when you look at the bottom of &lt;a href=&#34;http://projecteuclid.org:80/Dienst/UI/1.0/Summarize/euclid.ndjfl/1074290713&#34;&gt;the published article&lt;/a&gt; where it indicates that the paper was &amp;ldquo;Received February 13, 2002; accepted February 5, 2003; printed December 19, 2003,&amp;rdquo; yet at the top of the page it says &amp;ldquo;Volume 43, Number 3, 2002.&amp;rdquo;&lt;/p&gt;
@@ -5888,7 +5888,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Zachary with a chocolate moustache</title>
       <link>http://consequently.org/news/2004/03/23/zachary_with_a_chocolate_moustache/</link>
-      <pubDate>Tue, 23 Mar 2004 23:40:31 AEDT</pubDate>
+      <pubDate>Tue, 23 Mar 2004 23:40:31 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/23/zachary_with_a_chocolate_moustache/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/news/img/ZacharyDali-thumb.jpg&#34; width=&#34;300&#34; height=&#34;300&#34; border=&#34;1&#34; alt=&#34;[Z with a chocolate moustache]&#34; /&gt;
@@ -5900,7 +5900,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Monday comments</title>
       <link>http://consequently.org/news/2004/03/22/monday_comments/</link>
-      <pubDate>Mon, 22 Mar 2004 12:39:36 AEDT</pubDate>
+      <pubDate>Mon, 22 Mar 2004 12:39:36 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/22/monday_comments/</guid>
       <description>&lt;![CDATA[&lt;ol&gt;
@@ -5925,7 +5925,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Kai on Book Publishing</title>
       <link>http://consequently.org/news/2004/03/19/kai_on_book_publishing/</link>
-      <pubDate>Fri, 19 Mar 2004 06:57:48 AEDT</pubDate>
+      <pubDate>Fri, 19 Mar 2004 06:57:48 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/19/kai_on_book_publishing/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Kai von Fintel &lt;a title=&#34;semantics etc.: Book Project(s)&#34; href=&#34;http://semantics-online.org/blog/2004/03/book_projects&#34;&gt;has plans&lt;/a&gt; &lt;a href=&#34;http://consequently.org/news/2004/03/18/publishing_a_book/#commentbox&#34;&gt;like mine&lt;/a&gt; on academic book publishing.  Maybe we can kick the revolution along just a little.&lt;/p&gt;
@@ -5936,7 +5936,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Zachary Scribbling</title>
       <link>http://consequently.org/news/2004/03/18/zachary_scribbling/</link>
-      <pubDate>Thu, 18 Mar 2004 22:06:33 AEDT</pubDate>
+      <pubDate>Thu, 18 Mar 2004 22:06:33 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/18/zachary_scribbling/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/news/img/Scribbling-thumb.jpg&#34; width=&#34;300&#34; height=&#34;200&#34; border=&#34;1&#34; alt=&#34;Zachary Scribbling&#34; /&gt;
@@ -5948,7 +5948,7 @@ Symmetry, Paradox, and all that&lt;/a&gt; (the paper with the ridiculously long 
     <item>
       <title>Publishing a Book</title>
       <link>http://consequently.org/news/2004/03/18/publishing_a_book/</link>
-      <pubDate>Thu, 18 Mar 2004 21:33:24 AEDT</pubDate>
+      <pubDate>Thu, 18 Mar 2004 21:33:24 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/18/publishing_a_book/</guid>
       <description>&lt;![CDATA[&lt;p&gt;
@@ -5976,7 +5976,7 @@ So, I think I will head down this path with &lt;a href=&#34;http://consequently.
     <item>
       <title>The Wind is Blowing</title>
       <link>http://consequently.org/news/2004/03/15/the_wind_is_blowing/</link>
-      <pubDate>Mon, 15 Mar 2004 23:38:26 AEDT</pubDate>
+      <pubDate>Mon, 15 Mar 2004 23:38:26 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/15/the_wind_is_blowing/</guid>
       <description>&lt;![CDATA[&lt;p&gt;My &lt;a href=&#34;http://www.apple.com/itunes/&#34;&gt;iTunes&lt;/a&gt; library filtered on the word &amp;ldquo;wind&amp;rdquo;:&lt;/p&gt;
@@ -6003,7 +6003,7 @@ So, I think I will head down this path with &lt;a href=&#34;http://consequently.
     <item>
       <title>Revisiting the past</title>
       <link>http://consequently.org/news/2004/03/15/revisiting_the_past/</link>
-      <pubDate>Mon, 15 Mar 2004 10:24:27 AEDT</pubDate>
+      <pubDate>Mon, 15 Mar 2004 10:24:27 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/15/revisiting_the_past/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Entries for both the &lt;em&gt;news&lt;/em&gt; and  &lt;em&gt;snippets&lt;/em&gt; section from my pre-hiatus website have now appeared in the new design.  You can browse through the recent past &lt;a href=&#34;http://consequently.org/news/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/snippets/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -6014,7 +6014,7 @@ So, I think I will head down this path with &lt;a href=&#34;http://consequently.
     <item>
       <title>Study Window</title>
       <link>http://consequently.org/news/2004/03/15/study_window/</link>
-      <pubDate>Mon, 15 Mar 2004 10:15:19 AEDT</pubDate>
+      <pubDate>Mon, 15 Mar 2004 10:15:19 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/15/study_window/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img alt=&#34;Into our front yard&#34; src=&#34;http://consequently.org/news/img/study_window.jpg&#34; class=&#34;wide&#34; /&gt;
@@ -6026,7 +6026,7 @@ So, I think I will head down this path with &lt;a href=&#34;http://consequently.
     <item>
       <title>Are God&#39;s Hands Tied By Logic?</title>
       <link>http://consequently.org/news/2004/03/12/are_gods_hands_tied_by_logic/</link>
-      <pubDate>Fri, 12 Mar 2004 12:12:44 AEDT</pubDate>
+      <pubDate>Fri, 12 Mar 2004 12:12:44 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/12/are_gods_hands_tied_by_logic/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Reading the &lt;a href=&#34;http://www.arsdisputandi.org/publish/articles/000102/index.html&#34;&gt;paper with this title&lt;/a&gt; at an &lt;a href=&#34;http://www.arsdisputandi.org/&#34;&gt;online journal&lt;/a&gt; got me thinking&amp;nbsp;...&lt;/p&gt;
@@ -6066,7 +6066,7 @@ The &lt;em&gt;interesting&lt;/em&gt; issue is whether there&#39;s any reason to 
     <item>
       <title>AJL Volume 2</title>
       <link>http://consequently.org/news/2004/03/12/ajl_volume_2/</link>
-      <pubDate>Fri, 12 Mar 2004 10:16:59 AEDT</pubDate>
+      <pubDate>Fri, 12 Mar 2004 10:16:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/12/ajl_volume_2/</guid>
       <description>&lt;![CDATA[&lt;p&gt;
@@ -6080,7 +6080,7 @@ The &lt;a title=&#34;AJL: Volume 2, 2004&#34; href=&#34;http://www.philosophy.un
     <item>
       <title>Black Mountain Tower</title>
       <link>http://consequently.org/news/2004/03/11/black_mountain_tower/</link>
-      <pubDate>Thu, 11 Mar 2004 22:26:52 AEDT</pubDate>
+      <pubDate>Thu, 11 Mar 2004 22:26:52 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/11/black_mountain_tower/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img alt=&#34;Black Mountain Tower&#34; src=&#34;http://consequently.org/news/img/black_mountain_tower.jpg&#34; class=&#34;wide&#34; /&gt;
@@ -6092,7 +6092,7 @@ The &lt;a title=&#34;AJL: Volume 2, 2004&#34; href=&#34;http://www.philosophy.un
     <item>
       <title>Teaching, teaching, teaching</title>
       <link>http://consequently.org/news/2004/03/11/teaching_teaching_teaching/</link>
-      <pubDate>Thu, 11 Mar 2004 21:35:22 AEDT</pubDate>
+      <pubDate>Thu, 11 Mar 2004 21:35:22 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/11/teaching_teaching_teaching/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Teaching for 2004 Semester 1 is now well underway.  My classes for this term have been enjoyable in different ways:&lt;/p&gt;
@@ -6113,7 +6113,7 @@ Teaching this class is enjoyable because I know the material like the back of my
     <item>
       <title>Zachary at Hanging Rock</title>
       <link>http://consequently.org/news/2004/03/08/zachary_at_hanging_rock/</link>
-      <pubDate>Mon, 08 Mar 2004 22:04:57 AEDT</pubDate>
+      <pubDate>Mon, 08 Mar 2004 22:04:57 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/08/zachary_at_hanging_rock/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img alt=&#34;Zachary at Hanging Rock.jpg&#34; src=&#34;http://consequently.org/news/images/Zack_Hanging_Rock.jpg&#34; class=&#34;wide&#34; /&gt;
@@ -6125,7 +6125,7 @@ Teaching this class is enjoyable because I know the material like the back of my
     <item>
       <title>Reboot</title>
       <link>http://consequently.org/news/2004/03/08/reboot/</link>
-      <pubDate>Mon, 08 Mar 2004 20:05:54 AEDT</pubDate>
+      <pubDate>Mon, 08 Mar 2004 20:05:54 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2004/03/08/reboot/</guid>
       <description>&lt;![CDATA[&lt;p&gt;
@@ -6159,7 +6159,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Learning Negation</title>
       <link>http://consequently.org/news/2003/03/29/learning_negation/</link>
-      <pubDate>Sat, 29 Mar 2003 20:38:32 AEDT</pubDate>
+      <pubDate>Sat, 29 Mar 2003 20:38:32 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/03/29/learning_negation/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Having a young child gives you lots of new examples about language learning and concept acquisition.  (It also provides you with many opportunities for experimentation, but I will set that to one side, for the moment.)  Here is one such example:&lt;/p&gt;
@@ -6175,7 +6175,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Clouds of War</title>
       <link>http://consequently.org/news/2003/03/19/clouds_of_war/</link>
-      <pubDate>Wed, 19 Mar 2003 14:53:57 AEDT</pubDate>
+      <pubDate>Wed, 19 Mar 2003 14:53:57 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/03/19/clouds_of_war/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I have refrained from making any public comment about the coming war with Iraq that Australia is about to enter.  Partly out of general reticence, partly because the whole matter is very depressing, and partly because my own thoughts and feelings are inarticulate.  However, one way to deal with inarticulate thoughts and feelings is to attempt to articulate them, so here I go.&lt;/p&gt;
@@ -6192,7 +6192,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>“Tantrum”</title>
       <link>http://consequently.org/news/2003/03/12/tantrum/</link>
-      <pubDate>Wed, 12 Mar 2003 23:39:47 AEDT</pubDate>
+      <pubDate>Wed, 12 Mar 2003 23:39:47 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/03/12/tantrum/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/zacharyhelping.jpg&#34; width=&#34;200&#34; height=&#34;280&#34; alt=&#34;Zachary at work in the Kitchen&#34; /&gt;&lt;p&gt;Zachary helping Christine in the Kitchen.  March 2002.&lt;/p&gt;
@@ -6212,7 +6212,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Nor W arf Numb E</title>
       <link>http://consequently.org/news/2003/02/27/nor_w_arf_numb_e/</link>
-      <pubDate>Thu, 27 Feb 2003 14:51:53 AEDT</pubDate>
+      <pubDate>Thu, 27 Feb 2003 14:51:53 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/27/nor_w_arf_numb_e/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/warf.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Nor W arf Numb E&#34; /&gt;&lt;p&gt;A sign on the docks on the Yarra.  December 2002.&lt;/p&gt;
@@ -6225,7 +6225,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Spots</title>
       <link>http://consequently.org/news/2003/02/24/spots/</link>
-      <pubDate>Mon, 24 Feb 2003 12:11:21 AEDT</pubDate>
+      <pubDate>Mon, 24 Feb 2003 12:11:21 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/24/spots/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/spots.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Zachary with spots&#34; /&gt;
@@ -6238,7 +6238,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>February Pictures</title>
       <link>http://consequently.org/news/2003/02/19/february_pictures/</link>
-      <pubDate>Wed, 19 Feb 2003 16:07:21 AEDT</pubDate>
+      <pubDate>Wed, 19 Feb 2003 16:07:21 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/19/february_pictures/</guid>
       <description>&lt;![CDATA[&lt;p&gt;February pictures of Zachary are &lt;a href=&#34;http://consequently.org/zachary/2003-02/2003-02.html&#34;&gt;here&lt;/a&gt;.  They were taken on our day trip to the Dandenongs with Uncle Martin.  Zachary was &lt;a href=&#34;http://consequently.org/zachary/2003-02/2003-02-Pages/Image3.html&#34;&gt;pretty&lt;/a&gt; &lt;a href=&#34;http://consequently.org/zachary/2003-02/2003-02-Pages/Image5.html&#34;&gt;keen&lt;/a&gt; on &lt;a href=&#34;http://consequently.org/zachary/2003-02/2003-02-Pages/Image6.html&#34;&gt;that&lt;/a&gt; &lt;a href=&#34;http://consequently.org/zachary/2003-02/2003-02-Pages/Image8.html&#34;&gt;straw&lt;/a&gt;.&lt;/p&gt;
@@ -6250,7 +6250,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Thoughts</title>
       <link>http://consequently.org/news/2003/02/18/thoughts/</link>
-      <pubDate>Tue, 18 Feb 2003 11:59:37 AEDT</pubDate>
+      <pubDate>Tue, 18 Feb 2003 11:59:37 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/18/thoughts/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Sometimes it seems like there are too many thoughts to think and too little time in which to think them.  Here&amp;rsquo;s an example: I really ought to think of a detailed response to &lt;a href=&#34;http://philosophyweblog.blogspot.com/2003_02_16_philosophyweblog_archive.html#89228851&#34;&gt;Brian Weatherson&amp;rsquo;s comments&lt;/a&gt; on &lt;a href=&#34;http://consequently.org/papers/envelopes.pdf&#34;&gt;my two envelopes paper co-authored with Graham&lt;/a&gt;, but that detailed response will have to wait a little while.&lt;/p&gt;
@@ -6268,7 +6268,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Zachary and Straw</title>
       <link>http://consequently.org/news/2003/02/16/zachary_and_straw/</link>
-      <pubDate>Sun, 16 Feb 2003 20:51:11 AEDT</pubDate>
+      <pubDate>Sun, 16 Feb 2003 20:51:11 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/16/zachary_and_straw/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/straw.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Zachary with a straw in his mouth&#34; /&gt;
@@ -6280,7 +6280,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>2003 Brunswick Music Festival</title>
       <link>http://consequently.org/news/2003/02/16/2003_brunswick_music_festival/</link>
-      <pubDate>Sun, 16 Feb 2003 14:57:59 AEDT</pubDate>
+      <pubDate>Sun, 16 Feb 2003 14:57:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/16/2003_brunswick_music_festival/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Details are out for the &lt;a href=&#34;http://www.brunswickmusicfestival.com.au/&#34;&gt;Brunswick Music Festival&lt;/a&gt; for 2003.  Looks like it will be fun.  The Sensitive New Age Cowpersons (&lt;a href=&#34;http://www.brunswickmusicfestival.com.au/viewDetail.php?show=7&#34;&gt;gig details&lt;/a&gt;, &lt;a href=&#34;http://www.flyingcats.com.au/snacs/&#34;&gt;their own site&lt;/a&gt;) are good for a laugh.&lt;/p&gt;
@@ -6291,7 +6291,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>News Feed</title>
       <link>http://consequently.org/news/2003/02/15/news_feed/</link>
-      <pubDate>Sat, 15 Feb 2003 22:55:10 AEDT</pubDate>
+      <pubDate>Sat, 15 Feb 2003 22:55:10 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/15/news_feed/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Both &lt;em&gt;News&lt;/em&gt; and &lt;em&gt;Snippets&lt;/em&gt; sections have corresponding RSS feeds, which you can use with feedreaders like &lt;a href=&#34;http://ranchero.com/software/netnewswire/&#34;&gt;NetNewsWire&lt;/em&gt; or &lt;a href=&#34;http://www.disobey.com/amphetadesk/&#34;&gt;AmphetaDesk&lt;/a&gt;.  (Some of the five readers of this site already use these tools, but I never publicised the links.  Now you can all know they&amp;rsquo;re there.)&lt;/p&gt;
@@ -6302,7 +6302,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>2003 Redesign</title>
       <link>http://consequently.org/news/2003/02/15/2003_redesign/</link>
-      <pubDate>Sat, 15 Feb 2003 22:50:42 AEDT</pubDate>
+      <pubDate>Sat, 15 Feb 2003 22:50:42 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/02/15/2003_redesign/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/butterfly.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;A Butterfly, at the Zoo&#34; /&gt;
@@ -6316,7 +6316,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Meteorologist</title>
       <link>http://consequently.org/news/2003/01/16/meteorologist/</link>
-      <pubDate>Thu, 16 Jan 2003 10:55:10 AEDT</pubDate>
+      <pubDate>Thu, 16 Jan 2003 10:55:10 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/01/16/meteorologist/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Mac OS X users might be interested in &lt;a href=&#34;http://homepage.mac.com/fahrenba/meteo/meteo.html&#34;&gt;Meteorologist&lt;/a&gt;, a menubar or dock thingy which tells you current weather and forecasts for the locations you suggest.  Just the thing for me, as I&#39;ll be off in Dunedin at a &lt;a href=&#34;http://www.otago.ac.nz/philosophy/hume/index.html&#34;&gt;conference&lt;/a&gt; next week.  At least I&#39;ll be prepared for the wet and cool weather.&lt;/p&gt;
@@ -6327,7 +6327,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Don Burrows and Nina Ferro</title>
       <link>http://consequently.org/news/2003/01/11/don_burrows_and_nina_ferro/</link>
-      <pubDate>Sat, 11 Jan 2003 21:10:30 AEDT</pubDate>
+      <pubDate>Sat, 11 Jan 2003 21:10:30 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/01/11/don_burrows_and_nina_ferro/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/dbnf.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Don Burrows and Nina Ferro...&#34; /&gt;
@@ -6340,7 +6340,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>A Crackpot Index</title>
       <link>http://consequently.org/news/2003/01/08/a_crackpot_index/</link>
-      <pubDate>Wed, 08 Jan 2003 16:31:48 AEDT</pubDate>
+      <pubDate>Wed, 08 Jan 2003 16:31:48 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/01/08/a_crackpot_index/</guid>
       <description>&lt;![CDATA[&lt;p&gt;John Baez&amp;rsquo;s &lt;a href=&#34;http://math.ucr.edu/home/baez/crackpot.html&#34;&gt;Crackpot Index&lt;/a&gt; seems to me to be a pretty good measure of the difficult to define phenomenon of crackpottedness.  Notice the relatively low cost of outright &lt;em&gt;inconsistency&lt;/em&gt; compared to nearly everything else.  That warms my heart.&lt;/p&gt;
@@ -6351,7 +6351,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Beables and Changeables</title>
       <link>http://consequently.org/news/2003/01/08/beables_and_changeables/</link>
-      <pubDate>Wed, 08 Jan 2003 15:31:57 AEDT</pubDate>
+      <pubDate>Wed, 08 Jan 2003 15:31:57 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2003/01/08/beables_and_changeables/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Quantum mechanics is just plain &lt;em&gt;weird&lt;/em&gt;.  I don&amp;rsquo;t really understand it at all, partly because of the strange nature of the &lt;em&gt;probabilities&lt;/em&gt; in QM.  They certainly seem to fit observation (so physicists say), but what do they &lt;em&gt;mean&lt;/em&gt;?  Well, &lt;em&gt;it just might be&lt;/em&gt; that they are traditional probabilities after all.  That is, &lt;a href=&#34;http://www.phys.uu.nl/~thooft/&#34;&gt;Gerard &amp;rsquo;t Hooft&lt;/a&gt; has proposed a new deterministic interpretation of QM which makes sense of all of the numbers.  &lt;em&gt;Nature&lt;/em&gt; has an &lt;a href=&#34;http://www.nature.com/nsu/030106/030106-6.html&#34;&gt;elementary article&lt;/a&gt; about it, and the &lt;a href=&#34;http://xxx.lanl.gov/pdf/quant-ph/0212095&#34;&gt;preprint&lt;/a&gt; is available for the hard-core physicists among you.  It looks neat from here, but as I have said, I don&amp;rsquo;t really understand the details.  Those of you who do, let me know: does this account avoid the &lt;a href=&#34;http://scienceworld.wolfram.com/physics/HiddenVariables.html&#34;&gt;usual&lt;/a&gt; &lt;a href=&#34;http://plato.stanford.edu/entries/qm-bohm/#hv&#34;&gt;objections&lt;/a&gt; to &amp;ldquo;hidden variables&amp;rdquo;?&lt;/p&gt;
@@ -6362,7 +6362,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Brett Lee in Action</title>
       <link>http://consequently.org/news/2002/12/27/brett_lee_in_action/</link>
-      <pubDate>Fri, 27 Dec 2002 19:37:27 AEDT</pubDate>
+      <pubDate>Fri, 27 Dec 2002 19:37:27 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/12/27/brett_lee_in_action/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/Lee_In_Action.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Brett Lee in Action at the MCG...&#34; /&gt;
@@ -6376,7 +6376,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Yellow and Blue</title>
       <link>http://consequently.org/news/2002/12/23/yellow_and_blue/</link>
-      <pubDate>Mon, 23 Dec 2002 14:54:42 AEDT</pubDate>
+      <pubDate>Mon, 23 Dec 2002 14:54:42 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/12/23/yellow_and_blue/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/yellowandblue.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;Yellow and Blue chairs on the Williamstown Ferry...&#34; /&gt;
@@ -6388,7 +6388,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Solaris 2.0</title>
       <link>http://consequently.org/news/2002/12/18/solaris_20/</link>
-      <pubDate>Wed, 18 Dec 2002 08:19:55 AEDT</pubDate>
+      <pubDate>Wed, 18 Dec 2002 08:19:55 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/12/18/solaris_20/</guid>
       <description>&lt;![CDATA[&lt;p&gt;The &lt;em&gt;Wired&lt;/em&gt; &lt;a href=&#34;http://www.wired.com/wired/archive/10.12/solaris_pr.html&#34;&gt;article on the upcoming movie adaptation of Stanislaw Lem&amp;rsquo;s novel, &lt;em&gt;Solaris&lt;/em&gt;&lt;/a&gt; is surprisingly good.  It doesn&amp;rsquo;t encourage me to go and see the movie, but it does make me want to go back and reread my Lem novels and short stories.&lt;/p&gt;
@@ -6399,7 +6399,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>His Dark Materials and Third Way</title>
       <link>http://consequently.org/news/2002/12/17/his_dark_materials_and_third_way/</link>
-      <pubDate>Tue, 17 Dec 2002 19:31:42 AEDT</pubDate>
+      <pubDate>Tue, 17 Dec 2002 19:31:42 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/12/17/his_dark_materials_and_third_way/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I just found a very insightful &lt;a href=&#34;http://www.thirdway.org.uk/past/showpage.asp?page=3949&#34;&gt;interview with Philip Pullman&lt;/a&gt;, the author of the &lt;em&gt;His Dark Materials&lt;/em&gt; trilogy.  I haven&#39;t read the trilogy yet, but I probably will before I get to Harry Potter.&lt;/p&gt;
@@ -6412,7 +6412,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>The High Court of Australia</title>
       <link>http://consequently.org/news/2002/12/10/the_high_court_of_australia/</link>
-      <pubDate>Tue, 10 Dec 2002 17:56:44 AEDT</pubDate>
+      <pubDate>Tue, 10 Dec 2002 17:56:44 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/12/10/the_high_court_of_australia/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I love the way the &lt;a href=&#34;http://news.bbc.co.uk/1/hi/world/asia-pacific/2560683.stm&#34;&gt;BBC news report&lt;/a&gt; about the &lt;em&gt;High Court of Australia&lt;/em&gt;&#39;s interesting decision on defamation and internet sites leads with a really nice picture of the &lt;a href=&#34;http://www.nla.gov.au/&#34;&gt;National Library of Australia&lt;/a&gt;.  The library is &lt;em&gt;next door&lt;/em&gt; to the High Court, which is a &lt;a href=&#34;http://www.highcourt.gov.au/&#34;&gt;very different building&lt;/a&gt;.&lt;/p&gt;
@@ -6423,7 +6423,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>I hate marking</title>
       <link>http://consequently.org/news/2002/11/25/i_hate_marking/</link>
-      <pubDate>Mon, 25 Nov 2002 22:51:20 AEDT</pubDate>
+      <pubDate>Mon, 25 Nov 2002 22:51:20 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/11/25/i_hate_marking/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I have to let you know that I really don&#39;t enjoy marking first year logic exams.  I love teaching the subject, but the marking is just a hard slog.  And it&#39;s depressing in the cases of failures.  The bright spots are the cases of really excellent work.  But the tedium is pretty tedious.&lt;/p&gt;
@@ -6434,7 +6434,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Richard Jeffrey Dies</title>
       <link>http://consequently.org/news/2002/11/13/richard_jeffrey_dies/</link>
-      <pubDate>Wed, 13 Nov 2002 08:04:24 AEDT</pubDate>
+      <pubDate>Wed, 13 Nov 2002 08:04:24 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/11/13/richard_jeffrey_dies/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.princeton.edu/Siteware/WebAnnounce.Princeton_Headlines.shtml#2&#34;&gt;Richard Jeffrey died on November 9&lt;/a&gt;.  Now both authors of my &lt;a href=&#34;http://www.amazon.com/exec/obidos/tg/detail/-/0521389232/consequentlyorg/&#34;&gt;favourite text on G&amp;ouml;del&amp;rsquo;s theorem and computability theory&lt;/a&gt; have left us.&lt;/p&gt;
@@ -6446,7 +6446,7 @@ So, sit back, relax, leave a comment, download some &lt;a href=&#34;http://conse
     <item>
       <title>Cricket Writing</title>
       <link>http://consequently.org/news/2002/11/11/cricket_writing/</link>
-      <pubDate>Mon, 11 Nov 2002 10:12:15 AEDT</pubDate>
+      <pubDate>Mon, 11 Nov 2002 10:12:15 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/11/11/cricket_writing/</guid>
       <description>&lt;![CDATA[&lt;p&gt;More &lt;a href=&#34;http://www.theage.com.au/articles/2002/11/10/1036308573168.html&#34;&gt;reason&lt;/a&gt; to be thankful that &lt;a href=&#34;http://www.theage.com.au&#34;&gt;The Age&lt;/a&gt; publishes Peter Roebuck&amp;rsquo;s commentary on the cricket too.  It makes breakfast newspaper reading enjoyable.  &lt;a href=&#34;http://www.theage.com.au/articles/2002/11/10/1036308573168.html&#34;&gt;Here is one example&lt;/a&gt;:&lt;/p&gt;
@@ -6463,7 +6463,7 @@ Lehmann will be popular with spectators because he is an antidote to the prevail
     <item>
       <title>Grade Inflation?</title>
       <link>http://consequently.org/news/2002/11/07/grade_inflation/</link>
-      <pubDate>Thu, 07 Nov 2002 17:49:59 AEDT</pubDate>
+      <pubDate>Thu, 07 Nov 2002 17:49:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/11/07/grade_inflation/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I sometimes complain about &lt;em&gt;grade inflation&lt;/em&gt;, the phenomenon of too many students being given high grades.  According to Alfie Kohn (&lt;a href=&#34;http://www.alfiekohn.org/&#34;&gt;whose work&lt;/a&gt; I respect) &lt;a href=&#34;http://chronicle.com/free/v49/i11/11b00701.htm&#34;&gt;maybe I shouldn&amp;rsquo;t worry so much&lt;/a&gt;.&lt;/p&gt;
@@ -6474,7 +6474,7 @@ Lehmann will be popular with spectators because he is an antidote to the prevail
     <item>
       <title>Apposite Text</title>
       <link>http://consequently.org/news/2002/11/04/apposite_text/</link>
-      <pubDate>Mon, 04 Nov 2002 08:21:59 AEDT</pubDate>
+      <pubDate>Mon, 04 Nov 2002 08:21:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/11/04/apposite_text/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Strangely apposite text at church yesterday.  &lt;em&gt;Matthew 6:19ff&lt;/em&gt;:  &amp;ldquo;Do not accumulate for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal...&amp;rdquo;&lt;/p&gt;
@@ -6485,7 +6485,7 @@ Lehmann will be popular with spectators because he is an antidote to the prevail
     <item>
       <title>No photos for a while</title>
       <link>http://consequently.org/news/2002/10/31/no_photos_for_a_while/</link>
-      <pubDate>Thu, 31 Oct 2002 09:59:18 AEDT</pubDate>
+      <pubDate>Thu, 31 Oct 2002 09:59:18 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/10/31/no_photos_for_a_while/</guid>
       <description>&lt;![CDATA[&lt;p&gt;There&#39;ll be no new photos here for a little while.  Our house got broken into yesterday, and a few things -- including the camera -- were nicked.  Everyone&#39;s OK, however.  A little bit shaken, but OK.&lt;/p&gt;
@@ -6496,7 +6496,7 @@ Lehmann will be popular with spectators because he is an antidote to the prevail
     <item>
       <title>Flower Boy</title>
       <link>http://consequently.org/news/2002/10/29/flower_boy/</link>
-      <pubDate>Tue, 29 Oct 2002 19:09:31 AEDT</pubDate>
+      <pubDate>Tue, 29 Oct 2002 19:09:31 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/10/29/flower_boy/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;img src=&#34;http://consequently.org/images/FlowerBoy.jpg&#34; width=&#34;200&#34; height=&#34;200&#34; alt=&#34;With flowers in his hair...&#34; /&gt;
@@ -7431,7 +7431,7 @@ Happy Birthday, Zachary!  You&amp;rsquo;re the picture of a happy one-year-old.
     <item>
       <title>News from March 2002</title>
       <link>http://consequently.org/news/2002/2002_03/</link>
-      <pubDate>Sun, 31 Mar 2002 00:00:01 AEDT</pubDate>
+      <pubDate>Sun, 31 Mar 2002 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/2002_03/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -7468,7 +7468,7 @@ Life&#39;s been extremely busy, and I&#39;ve been enjoying &lt;a href=&#34;http:
     <item>
       <title>News from February 2002</title>
       <link>http://consequently.org/news/2002/2002_02/</link>
-      <pubDate>Wed, 27 Feb 2002 00:00:01 AEDT</pubDate>
+      <pubDate>Wed, 27 Feb 2002 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/2002_02/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -7533,7 +7533,7 @@ That speech was given in December 1992.&lt;/p&gt;
     <item>
       <title>News from January 2002</title>
       <link>http://consequently.org/news/2002/2002_01/</link>
-      <pubDate>Thu, 31 Jan 2002 00:00:01 AEDT</pubDate>
+      <pubDate>Thu, 31 Jan 2002 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2002/2002_01/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -7692,7 +7692,7 @@ Welcome to 2002!  Happy new year, all.
     <item>
       <title>News from December 2001</title>
       <link>http://consequently.org/news/2001/2001_12/</link>
-      <pubDate>Mon, 31 Dec 2001 00:00:01 AEDT</pubDate>
+      <pubDate>Mon, 31 Dec 2001 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_12/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -7780,7 +7780,7 @@ Especially this year, where no matter where I could sensibly cut it, at least 17
     <item>
       <title>News from November 2001</title>
       <link>http://consequently.org/news/2001/2001_11/</link>
-      <pubDate>Fri, 30 Nov 2001 00:00:01 AEDT</pubDate>
+      <pubDate>Fri, 30 Nov 2001 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_11/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -8465,7 +8465,7 @@ Read some more about Bolzano at the &lt;a href=&#34;http://www.shu.edu/projects/
     <item>
       <title>News from October 2001</title>
       <link>http://consequently.org/news/2001/2001_10/</link>
-      <pubDate>Wed, 31 Oct 2001 00:00:01 AEDT</pubDate>
+      <pubDate>Wed, 31 Oct 2001 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_10/</guid>
       <description>&lt;![CDATA[&lt;div class=&#34;oldcons&#34;&gt;
@@ -10211,7 +10211,7 @@ It&#39;s dried out, at least.
     <item>
       <title>News from March 2001</title>
       <link>http://consequently.org/news/2001/2001_03_01_archive/</link>
-      <pubDate>Thu, 01 Mar 2001 00:00:01 AEDT</pubDate>
+      <pubDate>Thu, 01 Mar 2001 00:00:01 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_03_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -10238,7 +10238,7 @@ It&#39;s dried out, at least.
     <item>
       <title>News from February 2001</title>
       <link>http://consequently.org/news/2001/2001_02_01_archive/</link>
-      <pubDate>Wed, 28 Feb 2001 23:59:59 AEDT</pubDate>
+      <pubDate>Wed, 28 Feb 2001 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_02_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -10600,7 +10600,7 @@ You can download that song &lt;a href=&#34;http://www.pastemusic.com/pasteradio/
     <item>
       <title>News from January 2001</title>
       <link>http://consequently.org/news/2001/2001_01_01_archive/</link>
-      <pubDate>Wed, 31 Jan 2001 23:59:59 AEDT</pubDate>
+      <pubDate>Wed, 31 Jan 2001 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2001/2001_01_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -11205,7 +11205,7 @@ Notable omissions are &lt;em&gt;Indonesia&lt;/em&gt;, &lt;em&gt;Iraq&lt;/em&gt; 
     <item>
       <title>News from December 2000</title>
       <link>http://consequently.org/news/2000/2000_12_01_archive/</link>
-      <pubDate>Sun, 31 Dec 2000 23:59:59 AEDT</pubDate>
+      <pubDate>Sun, 31 Dec 2000 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2000/2000_12_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -11649,7 +11649,7 @@ For some reason, the crossword online is not the same as the one in the newspape
     <item>
       <title>News from November 2000</title>
       <link>http://consequently.org/news/2000/2000_11_01_archive/</link>
-      <pubDate>Thu, 30 Nov 2000 23:59:59 AEDT</pubDate>
+      <pubDate>Thu, 30 Nov 2000 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2000/2000_11_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -12310,7 +12310,7 @@ double issue (Vol 42 number 2 and Vol 43 number 1) from the &lt;a href=&#34;http
     <item>
       <title>News from October 2000</title>
       <link>http://consequently.org/news/2000/2000_10_01_archive/</link>
-      <pubDate>Tue, 31 Oct 2000 23:59:59 AEDT</pubDate>
+      <pubDate>Tue, 31 Oct 2000 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2000/2000_10_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -12870,7 +12870,7 @@ Anyway, more news later.  Now to go home and relax.
     <item>
       <title>News from September 2000</title>
       <link>http://consequently.org/news/2000/2000_09_01_archive/</link>
-      <pubDate>Sat, 30 Sep 2000 23:59:59 AEDT</pubDate>
+      <pubDate>Sat, 30 Sep 2000 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2000/2000_09_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
@@ -13321,7 +13321,7 @@ That post from &lt;a href=&#34;http://www.advogato.org/person/raph/&#34;&gt;Raph
     <item>
       <title>News from August 2000</title>
       <link>http://consequently.org/news/2000/2000_08_01_archive/</link>
-      <pubDate>Thu, 31 Aug 2000 23:59:59 AEDT</pubDate>
+      <pubDate>Thu, 31 Aug 2000 23:59:59 &#43;1100</pubDate>
       
       <guid>http://consequently.org/news/2000/2000_08_01_archive/</guid>
       <description>&lt;![CDATA[(These are entries from my blog from 2000 and early 2001. They were originally hosted on a small server at &lt;a href=&#34;http://mq.edu.au&#34;&gt;Macquarie University&lt;/a&gt;. Most of the links are dead now, but I have kept them as they are here, for nostalgia&amp;rsquo;s sake.)
