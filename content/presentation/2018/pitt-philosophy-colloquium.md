@@ -12,4 +12,4 @@ Given the connection between generics and inference, I'll go on to consider how 
 
 
 
-This is a talk for the University of Pittsburgh Philosophy Colloquium.
+This is a talk for the [University of Pittsburgh Philosophy Colloquium](http://www.philosophy.pitt.edu/event/greg-restall-u-melbourne-talk).
