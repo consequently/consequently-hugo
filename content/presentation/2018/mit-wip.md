@@ -11,4 +11,4 @@ publishdate = "2018-01-05"
 Given the connection between generics and inference, I'll go on to consider how inference relates to the process of *accommodation*, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve *pejorative force*, and can inform options for how our vocabulary and our concepts can be revised or reformed. 
 
 
-This is a talk for the MIT Philosophy Work in Progress series.
+This is a talk for the MIT Philosophy Work in Progress series (1pm-2pm, Thursdays).
