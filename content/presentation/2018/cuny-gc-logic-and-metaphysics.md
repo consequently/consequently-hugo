@@ -10,3 +10,5 @@ publishdate = "2018-01-05"
 
 * This is a talk for the [CUNY Graduate Center Logic and Metaphysics Seminar](https://logic.commons.gc.cuny.edu).
 
+* The [slides can be downloaded here](/slides/isomorphisms-talk-cuny-2018.pdf), but the [handout](/handouts/isomorphisms-handout-cuny-2018.pdf) (4 pages) is best for printing out and reading, so it's probably better that you [download and print that](/handouts/isomorphisms-handout-cuny-2018.pdf).
+
