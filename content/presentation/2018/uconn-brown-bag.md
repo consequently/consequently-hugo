@@ -13,3 +13,4 @@ Given the connection between generics and inference, I'll go on to consider how 
 
 
 * This is a talk for the [University of Connecticut Philosophy Brown Bag](http://events.uconn.edu/event/60881/2018-04-18).
+* The [slides for the talk are available here](/slides/accommodation-uconn.pdf), and the [handout is here](/handouts/accommodation-uconn-handout.pdf).

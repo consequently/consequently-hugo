@@ -56,15 +56,16 @@
     
  
     <item>
-      <title>Isomorphisms in a Category of Propositions and Proofs</title>
+      <title>Isomorphisms in a Category of Proofs</title>
       <link>http://consequently.org/presentation/2018/mit-sllerg/</link>
       <pubDate>Fri, 20 Apr 2018 14:00:00 EDT</pubDate>
       
       <guid>http://consequently.org/presentation/2018/mit-sllerg/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of propositions and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of formulas and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;This is a talk for the MIT SLLERG Group.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/isomorphisms-talk-mit-2018.pdf&#34;&gt;slides can be downloaded here&lt;/a&gt;, but the &lt;a href=&#34;http://consequently.org/handouts/isomorphisms-handout-mit-2018.pdf&#34;&gt;handout&lt;/a&gt; (4 pages) is best for printing out and reading, so it&amp;rsquo;s probably better that you &lt;a href=&#34;http://consequently.org/handouts/isomorphisms-handout-mit-2018.pdf&#34;&gt;download and print that&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
@@ -80,7 +81,10 @@
 
 &lt;p&gt;Given the connection between generics and inference, I&amp;rsquo;ll go on to consider how inference relates to the process of &lt;em&gt;accommodation&lt;/em&gt;, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve &lt;em&gt;pejorative force&lt;/em&gt;, and can inform options for how our vocabulary and our concepts can be revised or reformed.&lt;/p&gt;
 
-&lt;p&gt;This is a talk for the MIT Philosophy Work in Progress series (1pm-2pm, Thursdays).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a talk for the MIT Philosophy Work in Progress series (1pm-2pm, Thursdays).&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-mit.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-mit-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 ]]></description>
     </item>
     
@@ -97,6 +101,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;This is a talk for the &lt;a href=&#34;http://events.uconn.edu/event/60881/2018-04-18&#34;&gt;University of Connecticut Philosophy Brown Bag&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-uconn.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-uconn-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
@@ -112,21 +117,25 @@
 
 &lt;p&gt;Given the connection between generics and inference, I&amp;rsquo;ll go on to consider how inference relates to the process of &lt;em&gt;accommodation&lt;/em&gt;, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve &lt;em&gt;pejorative force&lt;/em&gt;, and can inform options for how our vocabulary and our concepts can be revised or reformed.&lt;/p&gt;
 
-&lt;p&gt;This is a talk for the &lt;a href=&#34;http://www.philosophy.pitt.edu/event/greg-restall-u-melbourne-talk&#34;&gt;University of Pittsburgh Philosophy Colloquium&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a talk for the &lt;a href=&#34;http://www.philosophy.pitt.edu/event/greg-restall-u-melbourne-talk&#34;&gt;University of Pittsburgh Philosophy Colloquium&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-pitt.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-pitt-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 ]]></description>
     </item>
     
  
     <item>
-      <title>Isomorphisms in a Category of Propositions and Proofs</title>
+      <title>Isomorphisms in a Category of Proofs</title>
       <link>http://consequently.org/presentation/2018/cmu-pure-and-applied-logic/</link>
       <pubDate>Thu, 12 Apr 2018 16:30:00 EDT</pubDate>
       
       <guid>http://consequently.org/presentation/2018/cmu-pure-and-applied-logic/</guid>
-      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of propositions and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of formulas and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;This is a &lt;a href=&#34;https://calendar.google.com/calendar/event?eid=NG4zNDZkbXA5OTRqNzEwcDVpdTZhcHZjbm8gMDFsMXQ2c2I1dGJhcWk2NmJnOGIxOWszN29AZw&amp;amp;ctz=America/New_York&#34;&gt;talk for the CMU Pure and Applied Logic Seminar Series&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/isomorphisms-talk-cmu-2018.pdf&#34;&gt;slides can be downloaded here&lt;/a&gt;, but the &lt;a href=&#34;http://consequently.org/handouts/isomorphisms-handout-cmu-2018.pdf&#34;&gt;handout&lt;/a&gt; (4 pages) is best for printing out and reading, so it&amp;rsquo;s probably better that you &lt;a href=&#34;http://consequently.org/handouts/isomorphisms-handout-cmu-2018.pdf&#34;&gt;download and print that&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
