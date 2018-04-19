@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 19 Apr 2018 07:25:24 EDT</updated>
+    <updated>Thu, 19 Apr 2018 19:13:13 EDT</updated>
 
 
 <item>
@@ -43,28 +43,6 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/</guid>
 <description></description>
-</item>
-    
-<item>
-<title>TBA (most likely: What Proofs are For)</title>
-<link>http://consequently.org/presentation/2018/mit-concept-evolution-group/</link>
-<pubDate>Fri, 05 Jan 2018 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2018/mit-concept-evolution-group/</guid>
-<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: To come.&lt;/p&gt;
-
-&lt;p&gt;This is a talk for the MIT Concept Evolution Group seminar.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>TBA</title>
-<link>http://consequently.org/presentation/2018/mit-informal/</link>
-<pubDate>Fri, 05 Jan 2018 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/2018/mit-informal/</guid>
-<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: To come.&lt;/p&gt;
-
-&lt;p&gt;This will be an informal talk for an MIT group interested in logic, metaphysics and meaning.&lt;/p&gt;
-</description>
 </item>
     
 <item>
@@ -1151,6 +1129,37 @@
 &lt;p&gt;That&amp;rsquo;s where Smullyan&amp;rsquo;s insight comes in. He divided the rules of his tableaux system for classical propositional logic into two kinds. The \(\alpha\) (linear) rules are single-premise single-conclusion rules, while the \(\beta\) (branching) rules infer a conclusion from &lt;em&gt;two&lt;/em&gt; premises.  It turns out that you can prove very many things about rules operating at this level of generality.  Many features of rules are shared by &lt;em&gt;all&lt;/em&gt; \(\alpha\) rules or &lt;em&gt;all&lt;/em&gt; \(\beta\) rules. And in &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations&#34;&gt;my paper&lt;/a&gt; I was pleased to see that the \(81\) different cases of permutations I had to consider could be simplified into \(3\) different cases. Swapping an \(\alpha\) step around an \(\alpha\) step; a \(\beta\) around a \(\beta\) and an \(\alpha\) around a \(\beta\) (and back). Instead of writing a paper where I considered \(n\) different cases out of \(81\), and leave the rest to the reader, using Smullyan&amp;rsquo;s insight I could show that any rules of the required two general shapes can be permuted around using the general schemas I formulate. Every case is covered. And what&amp;rsquo;s more, if you extend the proof system with &lt;em&gt;other&lt;/em&gt; rules, provided that they are \(\alpha\) or \(\beta\) rules, the results still hold.  It&amp;rsquo;s a much better way to do proof theory. It&amp;rsquo;s a &lt;em&gt;modular&lt;/em&gt; proof of a theorem, in just the way that Girard hoped for.&lt;/p&gt;
 
 &lt;p&gt;Thanks, Professor Smullyan!&lt;/p&gt;</description>
+</item>
+    
+<item>
+<title>A New Paper</title>
+<link>http://consequently.org/news/2017/a-new-paper/</link>
+<pubDate>Mon, 13 Feb 2017 01:32:58 &#43;1100</pubDate>
+<guid>http://consequently.org/news/2017/a-new-paper/</guid>
+<description>&lt;p&gt;It&amp;rsquo;s a new year, and it&amp;rsquo;s time for a new paper, so here is &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; I&amp;rsquo;ve been working on these ideas for about a year, from some &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/&#34;&gt;rough&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/&#34;&gt;talks&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;over&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/what-proofs-are-about/&#34;&gt;most&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/proof-terms-invariants/&#34;&gt;of&lt;/a&gt; 2016, to many conversations with my colleague &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn&lt;/a&gt; as I attempted to iron out the details, to many more hours in front of whiteboards, I&amp;rsquo;ve finally got something I&amp;rsquo;m happy to show in public.&lt;/p&gt;
+
+&lt;p&gt;The paper still rough, but the ideas are all there, and I think the theorems are all correct. The paper is under 50 pages&amp;mdash;but only just! It proposes a new account of proof terms for classical propositional logic. These proof terms give a new account of what it is for one sequent derivation to represent the &amp;ldquo;same underlying proof&amp;rdquo; as another. Two derivations represent the same proof if and only if they have the same proof term. In the paper I show that two derivations have the same proof term if and only if one can be permuted into the other, using a natural class of transformations of derivations. Finally, I show that cut elimination for proof terms is confluent and strongly normalising, giving a new account of what it is to &lt;em&gt;evaluate&lt;/em&gt; a classical proof, in a way that does not collapse into triviality.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example from the paper, of three derivations, with the same concluding proof term:&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/three-derivations.jpg&#34; alt=&#34;three derivations with the same profo term&#34;&gt;
+    &lt;figcaption&gt;Three derivations with the same proof term&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If this looks interesting to you, please &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;take a look&lt;/a&gt;. I&amp;rsquo;d appreciate your feedback. Thanks!&lt;/p&gt;
+</description>
+</item>
+    
+<item>
+<title>Proof Terms for Classical Derivations</title>
+<link>http://consequently.org/writing/proof-terms-for-classical-derivations/</link>
+<pubDate>Sun, 12 Feb 2017 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/proof-terms-for-classical-derivations/</guid>
+<description>&lt;p&gt;I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
+
+&lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
+</description>
 </item>
     
   </channel>
