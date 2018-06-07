@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 01 May 2018 19:32:11 AEST</updated>
+    <updated>Fri, 08 Jun 2018 08:47:02 AEST</updated>
 
 
 <item>
@@ -43,6 +43,21 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/presentation/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>What Proofs are For</title>
+<link>http://consequently.org/presentation/2018/what-proofs-are-for-melbourne-glasgow/</link>
+<pubDate>Thu, 07 Jun 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2018/what-proofs-are-for-melbourne-glasgow/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:  In this short talk, I present a new account of the nature of proof, with the aim of explaining how proof could actually play the role in reasoning that it does, and answering some long-standing puzzles about the nature of proof. Along the way, I&amp;rsquo;ll explain how Kreisel&amp;rsquo;s Squeezing argument helps us understand the connection between an informal notion of of validity and the notions formalised in our accounts of proofs and models, and the relationship between proof-theoretic and model-theoretic analyses of logical consequence.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This is a talk for the &lt;a href=&#34;https://philevents.org/event/show/41790&#34;&gt;Melbourne&amp;ndash;Glasgow Formal Philosophy Workshop&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://consequently.org/slides/what-proofs-are-for-melbourne-glasgow-slides.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/what-proofs-are-for-melbourne-glasgow-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -1148,17 +1163,6 @@
 &lt;/figure&gt;
 
 &lt;p&gt;If this looks interesting to you, please &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;take a look&lt;/a&gt;. I&amp;rsquo;d appreciate your feedback. Thanks!&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>Proof Terms for Classical Derivations</title>
-<link>http://consequently.org/writing/proof-terms-for-classical-derivations/</link>
-<pubDate>Sun, 12 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/proof-terms-for-classical-derivations/</guid>
-<description>&lt;p&gt;I give an account of proof terms for derivations in a sequent calculus for classical propositional logic. The term for a derivation \(\delta\) of a sequent \(\Sigma \succ\Delta\) encodes how the premises \(\Sigma\) and conclusions \(\Delta\) are related in \(\delta\). This encoding is many–to–one in the sense that different derivations can have the same proof term, since different derivations may be different ways of representing the same underlying connection between premises and conclusions. However, not all proof terms for a sequent \(\Sigma\succ\Delta\) are the same. There may be different ways to connect those premises and conclusions.&lt;/p&gt;
-
-&lt;p&gt;Proof terms can be simplified in a process corresponding to the elimination of cut inferences in sequent derivations. However, unlike cut elimination in the sequent calculus, each proof term has a unique normal form (from which all cuts have been eliminated) and it is straightforward to show that term reduction is strongly normalising—every reduction process terminates in that unique normal form. Further- more, proof terms are invariants for sequent derivations in a strong sense—two derivations \(\delta_1\) and \(\delta_2\) have the same proof term if and only if some permutation of derivation steps sends \(\delta_1\) to \(\delta_2\) (given a relatively natural class of permutations of derivations in the sequent calculus). Since not every derivation of a sequent can be permuted into every other derivation of that sequent, proof terms provide a non-trivial account of the identity of proofs, independent of the syntactic representation of those proofs.&lt;/p&gt;
 </description>
 </item>
     
