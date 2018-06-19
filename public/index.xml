@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 20 Jun 2018 08:32:20 AEST</updated>
+    <updated>Wed, 20 Jun 2018 08:34:37 AEST</updated>
 
 
 <item>
@@ -607,9 +607,9 @@
     
 <item>
 <title>Proof Theory, Rules and Meaning</title>
-<link>http://consequently.org/writing/ptp/</link>
+<link>http://consequently.org/writing/ptrm/</link>
 <pubDate>Sun, 03 Oct 2010 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/ptp/</guid>
+<guid>http://consequently.org/writing/ptrm/</guid>
 <description>&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li /&gt; Be a useable introduction to philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
