@@ -67,18 +67,17 @@
     
  
     <item>
-      <title>Proof Theory and Philosophy</title>
+      <title>Proof Theory, Rules and Meaning</title>
       <link>http://consequently.org/writing/ptp/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 UTC</pubDate>
       
       <guid>http://consequently.org/writing/ptp/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li /&gt; Be a useable textbook in philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
+&lt;li /&gt; Be a useable introduction to philosophical logic, accessible to someone who&amp;rsquo;s done only an intro course in logic, covering at least some model theory and proof theory of propositional logic, and maybe predicate logic.
 &lt;li /&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to meaning theory and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this available, but I&amp;rsquo;d be happy to be shown wrong.)
 &lt;li /&gt; Present the duality between model theory and proof theory in a philosophically illuminating fashion.
-&lt;li /&gt; Teach both formal philosophical logic in such a way that is not doctrinaire or logically partisan.  That is, I will &lt;em&gt;not&lt;/em&gt; argue that classical logic, or that intuitionistic logic, or that My Favourite Logic is the One True Logic. (Of course, hearing me say this is &lt;a href=&#34;http://consequently.org/writing/logical_pluralism/&#34;&gt;not a surprise&lt;/a&gt;.)
-&lt;li /&gt; I am (at this stage, at least) planning to make the book &lt;a href=&#34;http://consequently.org/news/2004/03/18/publishing_a_book&#34;&gt;available for download&lt;/a&gt; as well as published by an academic publisher.
+&lt;li /&gt; And then apply these results to philosophical issues concerning meaning, epistemology and metaphysics, around logical consequence and rationality, the problem of absolute generality, and the status of modality.
 &lt;/ol&gt;&lt;/p&gt;
 ]]></description>
     </item>
