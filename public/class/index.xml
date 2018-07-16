@@ -26,7 +26,210 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 25 Jul 2017 00:00:00 UTC</updated>
+    <updated>Wed, 25 Jul 2018 00:00:00 UTC</updated>
+    
+ 
+    <item>
+      <title>PHIL30043: The Power and Limits of Logic</title>
+      <link>http://consequently.org/class/2018/phil30043/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/class/2018/phil30043/</guid>
+      <description>&lt;![CDATA[
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;prelude&#34;&gt;Prelude&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59401942&#34;&gt;Logical Equivalence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403292&#34;&gt;Disjunctive Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403535&#34;&gt;Why DNF Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59463569&#34;&gt;Prenex Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59466141&#34;&gt;Models for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59880539&#34;&gt;Trees for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;completeness&#34;&gt;Completeness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59883806&#34;&gt;Introducing Soundness and Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60249309&#34;&gt;Soundness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60250515&#34;&gt;Completeness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61677028&#34;&gt;Hilbert Proofs for Propositional Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61685762&#34;&gt;Conditional Proof&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/62221512&#34;&gt;Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103720089&#34;&gt;Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103757399&#34;&gt;Soundness and Completeness for Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;compactness&#34;&gt;Compactness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454250&#34;&gt;Counting Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Compactness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63455121&#34;&gt;Non-Standard Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462354&#34;&gt;Inexpressibility of Finitude&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462519&#34;&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;computability&#34;&gt;Computability&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64162062&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64167354&#34;&gt;Register Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64207986&#34;&gt;Recursive Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64435763&#34;&gt;Register Machine computable functions are Recursive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64604717&#34;&gt;The Uncomputable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;undecidability-and-incompleteness&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65382456&#34;&gt;Deductively Defined Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65392670&#34;&gt;The Finite Model Property&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65393543&#34;&gt;Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65440901&#34;&gt;Introducing Robinson&amp;rsquo;s Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65442289&#34;&gt;Induction and Peano Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65443650&#34;&gt;Representing Functions and Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65483655&#34;&gt;G&amp;ouml;del Numbering and Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65497886&#34;&gt;Q (and any consistent extension of Q) is undecidable, and incomplete if it&amp;rsquo;s deductively defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65498016&#34;&gt;First Order Predicate Logic is Undecidable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
+    
+ 
+    <item>
+      <title>PHIL20030: Meaning, Possibility and Paradox</title>
+      <link>http://consequently.org/class/2018/phil20030/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 UTC</pubDate>
+      
+      <guid>http://consequently.org/class/2018/phil20030/</guid>
+      <description>&lt;![CDATA[
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
+
+&lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
+
+&lt;p&gt;In the second part of the subject, we examine closely the assumption that every statement we make is either true or false but not both. We will examine the paradoxes of truth (like the so-called &amp;lsquo;liar paradox&amp;rsquo;) and vagueness (the ‘sorites paradox&amp;rsquo;), and we will investigate different ways attempts at resolving these paradoxes by going beyond our traditional views of truth (using &amp;lsquo;many valued logics&amp;rsquo;) or by defending the traditional perspective.&lt;/p&gt;
+
+&lt;p&gt;The subject serves as an introduction to ways that logic is applied in the study of language, epistemology and metaphysics, so it is useful to those who already know some philosophy and would like to see how logic relates to those issues. It is also useful to those who already know some logic and would like to learn new logical techniques and see how these techniques can be applied.&lt;/p&gt;
+
+&lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+&lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;classical-logic&#34;&gt;Classical Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71195118&#34;&gt;On Logic and Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71196826&#34;&gt;Classical Logic&amp;mdash;Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71200032&#34;&gt;Classical Logic&amp;mdash;Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;meaning-sense-reference&#34;&gt;Meaning, Sense, Reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71206884&#34;&gt;Reference and Compositionality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71226471&#34;&gt;Sense and Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;basic-modal-logic&#34;&gt;Basic Modal Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71556216&#34;&gt;Introducing Possibility an Necessity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558401&#34;&gt;Models for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558696&#34;&gt;Tree Proofs for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71560394&#34;&gt;Soundness and Completeness for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;normal-modal-logics&#34;&gt;Normal Modal Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72135540&#34;&gt;What Are Possible Worlds?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137443&#34;&gt;Conditions on Accessibility Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137856&#34;&gt;Equivalence Relations, Universal Relations and S5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72139085&#34;&gt;Tree Proofs for Normal Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Applying Modal Logics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;double-indexing&#34;&gt;Double Indexing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Temporal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72143616&#34;&gt;Actuality and the Present&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72266887&#34;&gt;Two Dimensional Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;conditionality&#34;&gt;Conditionality&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74494229&#34;&gt;Strict Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74498276&#34;&gt;&lt;em&gt;Ceteris Paribus&lt;/em&gt; Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74504639&#34;&gt;Similarity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;three-values&#34;&gt;Three Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74628150&#34;&gt;More than Two Truth Values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74636384&#34;&gt;K3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680756&#34;&gt;&amp;#x141;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680954&#34;&gt;LP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74682689&#34;&gt;RM3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;four-values&#34;&gt;Four Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685077&#34;&gt;FDE: Relational Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685986&#34;&gt;FDE: Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74695340&#34;&gt;FDE: Routley Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;paradoxes&#34;&gt;Paradoxes&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76045884&#34;&gt;Truth and the Liar Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76049193&#34;&gt;Fixed Point Construction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76055233&#34;&gt;Curry&amp;rsquo;s Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76057722&#34;&gt;The Sorites Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76061452&#34;&gt;Fuzzy Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76066245&#34;&gt;Supervaluationism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070423&#34;&gt;Epistemicism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;what-to-do-with-so-many-logical-systems&#34;&gt;What to do with so many logical systems&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>

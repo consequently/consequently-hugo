@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Thu, 12 Jul 2018 10:35:04 AEST</updated>
+    <updated>Mon, 16 Jul 2018 22:34:23 AEST</updated>
 
 
 <item>
@@ -35,6 +35,213 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Classes</title>
+<link>http://consequently.org/class/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>PHIL30043: The Power and Limits of Logic</title>
+<link>http://consequently.org/class/2018/phil30043/</link>
+<pubDate>Mon, 16 Jul 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2018/phil30043/</guid>
+<description>
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;prelude&#34;&gt;Prelude&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59401942&#34;&gt;Logical Equivalence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403292&#34;&gt;Disjunctive Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59403535&#34;&gt;Why DNF Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59463569&#34;&gt;Prenex Normal Form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59466141&#34;&gt;Models for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59880539&#34;&gt;Trees for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;completeness&#34;&gt;Completeness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/59883806&#34;&gt;Introducing Soundness and Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60249309&#34;&gt;Soundness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/60250515&#34;&gt;Completeness for Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61677028&#34;&gt;Hilbert Proofs for Propositional Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/61685762&#34;&gt;Conditional Proof&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/62221512&#34;&gt;Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103720089&#34;&gt;Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/103757399&#34;&gt;Soundness and Completeness for Hilbert Proofs for Predicate Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;compactness&#34;&gt;Compactness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454250&#34;&gt;Counting Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63454732&#34;&gt;Compactness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63455121&#34;&gt;Non-Standard Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462354&#34;&gt;Inexpressibility of Finitude&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/63462519&#34;&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;computability&#34;&gt;Computability&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64162062&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64167354&#34;&gt;Register Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64207986&#34;&gt;Recursive Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64435763&#34;&gt;Register Machine computable functions are Recursive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/64604717&#34;&gt;The Uncomputable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;undecidability-and-incompleteness&#34;&gt;Undecidability and Incompleteness&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65382456&#34;&gt;Deductively Defined Theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65392670&#34;&gt;The Finite Model Property&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65393543&#34;&gt;Completeness&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65440901&#34;&gt;Introducing Robinson&amp;rsquo;s Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65442289&#34;&gt;Induction and Peano Arithmetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65443650&#34;&gt;Representing Functions and Sets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65483655&#34;&gt;G&amp;ouml;del Numbering and Diagonalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65497886&#34;&gt;Q (and any consistent extension of Q) is undecidable, and incomplete if it&amp;rsquo;s deductively defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65498016&#34;&gt;First Order Predicate Logic is Undecidable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+</item>
+    
+<item>
+<title>PHIL20030: Meaning, Possibility and Paradox</title>
+<link>http://consequently.org/class/2018/phil20030/</link>
+<pubDate>Mon, 16 Jul 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/class/2018/phil20030/</guid>
+<description>
+
+&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
+
+&lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
+
+&lt;p&gt;In the second part of the subject, we examine closely the assumption that every statement we make is either true or false but not both. We will examine the paradoxes of truth (like the so-called &amp;lsquo;liar paradox&amp;rsquo;) and vagueness (the ‘sorites paradox&amp;rsquo;), and we will investigate different ways attempts at resolving these paradoxes by going beyond our traditional views of truth (using &amp;lsquo;many valued logics&amp;rsquo;) or by defending the traditional perspective.&lt;/p&gt;
+
+&lt;p&gt;The subject serves as an introduction to ways that logic is applied in the study of language, epistemology and metaphysics, so it is useful to those who already know some philosophy and would like to see how logic relates to those issues. It is also useful to those who already know some logic and would like to learn new logical techniques and see how these techniques can be applied.&lt;/p&gt;
+
+&lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+&lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2470375&#34;&gt;freely available on Vimeo&lt;/a&gt;. If you&amp;rsquo;re interested in this sort of thing, I hope they&amp;rsquo;re useful. Of course, I appreciate any constructive feedback you might have.&lt;/p&gt;
+
+&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
+
+&lt;p&gt;The course is divided into four major sections and a short prelude. Here is a list of all of the videos, in case you&amp;rsquo;d like to follow along with the content.&lt;/p&gt;
+
+&lt;h4 id=&#34;classical-logic&#34;&gt;Classical Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71195118&#34;&gt;On Logic and Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71196826&#34;&gt;Classical Logic&amp;mdash;Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71200032&#34;&gt;Classical Logic&amp;mdash;Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;meaning-sense-reference&#34;&gt;Meaning, Sense, Reference&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71206884&#34;&gt;Reference and Compositionality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71226471&#34;&gt;Sense and Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;basic-modal-logic&#34;&gt;Basic Modal Logic&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71556216&#34;&gt;Introducing Possibility an Necessity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558401&#34;&gt;Models for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71558696&#34;&gt;Tree Proofs for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/71560394&#34;&gt;Soundness and Completeness for Basic Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;normal-modal-logics&#34;&gt;Normal Modal Logics&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72135540&#34;&gt;What Are Possible Worlds?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137443&#34;&gt;Conditions on Accessibility Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72137856&#34;&gt;Equivalence Relations, Universal Relations and S5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72139085&#34;&gt;Tree Proofs for Normal Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Applying Modal Logics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;double-indexing&#34;&gt;Double Indexing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72140275&#34;&gt;Temporal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72143616&#34;&gt;Actuality and the Present&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/72266887&#34;&gt;Two Dimensional Modal Logic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;conditionality&#34;&gt;Conditionality&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74494229&#34;&gt;Strict Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74498276&#34;&gt;&lt;em&gt;Ceteris Paribus&lt;/em&gt; Conditionals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74504639&#34;&gt;Similarity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;three-values&#34;&gt;Three Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74628150&#34;&gt;More than Two Truth Values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74636384&#34;&gt;K3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680756&#34;&gt;&amp;#x141;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74680954&#34;&gt;LP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74682689&#34;&gt;RM3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;four-values&#34;&gt;Four Values&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685077&#34;&gt;FDE: Relational Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74685986&#34;&gt;FDE: Tree Proofs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/74695340&#34;&gt;FDE: Routley Evaluations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;paradoxes&#34;&gt;Paradoxes&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76045884&#34;&gt;Truth and the Liar Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76049193&#34;&gt;Fixed Point Construction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76055233&#34;&gt;Curry&amp;rsquo;s Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76057722&#34;&gt;The Sorites Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76061452&#34;&gt;Fuzzy Logic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76066245&#34;&gt;Supervaluationism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070423&#34;&gt;Epistemicism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;what-to-do-with-so-many-logical-systems&#34;&gt;What to do with so many logical systems&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -622,14 +829,6 @@ Are you interested in getting a look at the draft? The best way to do that is to
 </item>
     
 <item>
-<title>Classes</title>
-<link>http://consequently.org/class/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/</guid>
-<description></description>
-</item>
-    
-<item>
 <title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
 <link>http://consequently.org/class/2017/phil40013/</link>
 <pubDate>Tue, 25 Jul 2017 00:00:00 UTC</pubDate>
@@ -1111,58 +1310,6 @@ Are you interested in getting a look at the draft? The best way to do that is to
 <description>&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
 
 &lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>With Gratitude to Raymond Smullyan</title>
-<link>http://consequently.org/news/2017/with-gratitude-to-smullyan/</link>
-<pubDate>Mon, 13 Feb 2017 22:12:50 AEDT</pubDate>
-<guid>http://consequently.org/news/2017/with-gratitude-to-smullyan/</guid>
-<description>&lt;p&gt;While I was busy writing my most recent paper, &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo;, I heard that &lt;a href=&#34;https://www.nytimes.com/2017/02/11/us/raymond-smullyan-dead-puzzle-creator.html?smid=tw-share&#34;&gt;Raymond Smullyan had died at the age of 97&lt;/a&gt;. I &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;posted a tweet&lt;/a&gt; with a photo of a page from the draft of the paper I was writing at the time, expressing loss at hearing of his death and gratitude for his life.&lt;/p&gt;
-
-&lt;p&gt;There are many reasons to love Professor Smullyan. I learned combinatory logic from his delightful puzzle book &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Mock-Mockingbird-Raymond-Smullyan/dp/0192801422/consequentlyorg&#34;&gt;To Mock a Mockingbird&lt;/a&gt;&lt;/em&gt;, and he was famous for many more puzzle books like that. He was not only bright and sharp, he was also &lt;a href=&#34;https://www.amazon.com/Tao-Silent-Raymond-M-Smullyan/dp/0060674695/consequentlyorg&#34;&gt;warmly&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/Who-Knows-Study-Religious-Consciousness/dp/0253215749/&#34;&gt;humane&lt;/a&gt;. However, the focus of my gratitude was something else. In my tweet, I hinted at one reason why I&amp;rsquo;m especially grateful for Smullyan&amp;rsquo;s genius&amp;mdash;his deep understanding of proof theory. I am convinced that his analysis of inference rules in the tableaux system for classical logic rewards repeated reflection. (See his &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/First-Order-Logic-Dover-Books-Mathematics/dp/0486683702/consequentlyorg&#34;&gt;First-Order Logic&lt;/a&gt;&lt;/em&gt;, Chapter 2, Section 1 for details.) I&amp;rsquo;ll try to explain why it&amp;rsquo;s important and insightful here.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;In memory of Raymond Smullyan (1919-2017), with appreciation, fondness, and a sense of loss. &lt;a href=&#34;https://t.co/g5e54e0eo6&#34;&gt;pic.twitter.com/g5e54e0eo6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Greg Restall (@consequently) &lt;a href=&#34;https://twitter.com/consequently/status/829517048346705921&#34;&gt;February 9, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Step back a moment and think about &lt;em&gt;proof theory&lt;/em&gt;, that branch of logic which concentrates&amp;mdash;unlike model theory&amp;mdash;on the &lt;em&gt;positive&lt;/em&gt; definition of the core logical notions of validity, inconsistency, etc. An argument is valid if and only if &lt;em&gt;there is some&lt;/em&gt; proof from the premises to the conclusion. A set of sentences is inconsistent if and only if &lt;em&gt;there is some&lt;/em&gt; refutation of (i.e., proof of a contradiction from) that set of sentences. On the contrary, model theoretic approaches define those notions negatively. An argument is valid if and only if &lt;em&gt;there is no&lt;/em&gt; model satisfying the premises but failing to satisfy the conclusion; a set of sentences is inconsistent if &lt;em&gt;there is no&lt;/em&gt; model satisfying all of them. For proof theory to be precise, we need to know what counts as a proof. The way this is typically done in different accounts of proof (whether &lt;a href=&#34;https://www.amazon.com/Natural-Deduction-Proof-Theoretical-Study-Mathematics/dp/0486446557/consequentlyorg&#34;&gt;natural deduction&lt;/a&gt;, Gentzen&amp;rsquo;s &lt;a href=&#34;https://www.amazon.com/Theory-Cambridge-Theoretical-Computer-Science/dp/0521779111/consequentlyorg&#34;&gt;sequent&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521068428/consequentlyorg&#34;&gt;calculus&lt;/a&gt;, or &lt;a href=&#34;https://www.amazon.com/First-Order-Logic-Dover-Books-Mathematics/dp/0486683702/consequentlyorg&#34;&gt;tableaux&lt;/a&gt;), there are different rules for each different logical connective or quantifier. In well behaved proof systems, there tend to be two rules for each connective, explaining what you can deduce &lt;em&gt;from&lt;/em&gt; (for example) a conjunction, and how you could make a deduction &lt;em&gt;to&lt;/em&gt; a conjunction. The same for a conditional, a disjunction, a negation, a universally quantified statement, and so on.&lt;/p&gt;
-
-&lt;p&gt;That makes for a &lt;em&gt;lot&lt;/em&gt; of different rules.&lt;/p&gt;
-
-&lt;p&gt;A &lt;em&gt;proof&lt;/em&gt; is then is some structured collection of statements, linked together in ways specified by the rules. You demonstrate things &lt;em&gt;about&lt;/em&gt; proofs typically by showing that the feature you want to prove holds for &lt;em&gt;basic&lt;/em&gt; proofs (the smallest possible cases), and then you show that if the property holds for a proof, it also holds for a proof you can make out of that one by extending it by a new inference step. If you have \(9\) different rules, then there are \(9\) different cases to check. Worse than that, if you were &lt;em&gt;mad enough&lt;/em&gt; to try to &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations&#34;&gt;prove something about what happens when you rearrange proofs&lt;/a&gt; by swapping inference steps around, then welcome to the world of combinatorial explosion of cases. If you have \(9\) different kinds of rules, then there are \(9 \times 9 = 81\) different cases you have to consider. There&amp;rsquo;s something inherently unsatisfying about having to consider \(81\) different cases in a proof. You have the nagging feeling that you&amp;rsquo;re not looking at this at the right level of complexity. There is no wonder that the insightful and influential proof theorist &lt;a href=&#34;http://iml.univ-mrs.fr/~girard/Accueil.html&#34;&gt;Jean-Yves Girard&lt;/a&gt; complained:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;One can see &amp;hellip; technical limitations in current proof-theory: The lack in &lt;em&gt;modularity&lt;/em&gt;: in general, neigbouring problems can be attacked by neighbouring methods; but it is only exceptionally that one of the problems will be a corollary of the other &amp;hellip; Most of the time, a completely new proof will be necessary (but without any new idea).  This renders work in the domain quite long and tedious.  For instance, if we prove a cut-elimination theorem for a certain system of rules, and then consider a new system including just a new pair of rules, then it is necessary to make a complete new proof from the beginning.  Of course 90% of the two proofs will be identical, but it is rather shocking not to have a reasonable &amp;laquo;modular&amp;raquo; approach to such a question: a main theorem, to which one could add various &amp;laquo;modules&amp;raquo; corresponding to various directions.  Maybe this is inherent in the subject; one may hope that this only reflects the rather low level of our conceptualization!&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; &lt;a href=&#34;https://www.amazon.com/Proof-Theory-Logical-Complexity-Studies/dp/0444987150/consequentlyorg&#34;&gt;Proof Theory and Logical Complexity&lt;/a&gt;, pages 15 and 16.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the case of permutations of rules, the usual proof of a theorem like this would have \(n\times n\) cases where you have a proof system with \(n\) different inference rules. And if you decided to try to extend your result it to a proof system with another \(m\) rules, you not only need to prove the fact all over again for your new rules, you also need to one-by-one add the \(n\times m\) cases of interaction betwen the old rules and your new ones. Ugh.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s where Smullyan&amp;rsquo;s insight comes in. He divided the rules of his tableaux system for classical propositional logic into two kinds. The \(\alpha\) (linear) rules are single-premise single-conclusion rules, while the \(\beta\) (branching) rules infer a conclusion from &lt;em&gt;two&lt;/em&gt; premises.  It turns out that you can prove very many things about rules operating at this level of generality.  Many features of rules are shared by &lt;em&gt;all&lt;/em&gt; \(\alpha\) rules or &lt;em&gt;all&lt;/em&gt; \(\beta\) rules. And in &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations&#34;&gt;my paper&lt;/a&gt; I was pleased to see that the \(81\) different cases of permutations I had to consider could be simplified into \(3\) different cases. Swapping an \(\alpha\) step around an \(\alpha\) step; a \(\beta\) around a \(\beta\) and an \(\alpha\) around a \(\beta\) (and back). Instead of writing a paper where I considered \(n\) different cases out of \(81\), and leave the rest to the reader, using Smullyan&amp;rsquo;s insight I could show that any rules of the required two general shapes can be permuted around using the general schemas I formulate. Every case is covered. And what&amp;rsquo;s more, if you extend the proof system with &lt;em&gt;other&lt;/em&gt; rules, provided that they are \(\alpha\) or \(\beta\) rules, the results still hold.  It&amp;rsquo;s a much better way to do proof theory. It&amp;rsquo;s a &lt;em&gt;modular&lt;/em&gt; proof of a theorem, in just the way that Girard hoped for.&lt;/p&gt;
-
-&lt;p&gt;Thanks, Professor Smullyan!&lt;/p&gt;</description>
-</item>
-    
-<item>
-<title>A New Paper</title>
-<link>http://consequently.org/news/2017/a-new-paper/</link>
-<pubDate>Mon, 13 Feb 2017 01:32:58 AEDT</pubDate>
-<guid>http://consequently.org/news/2017/a-new-paper/</guid>
-<description>&lt;p&gt;It&amp;rsquo;s a new year, and it&amp;rsquo;s time for a new paper, so here is &amp;ldquo;&lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;Proof Terms for Classical Derivations&lt;/a&gt;&amp;rdquo; I&amp;rsquo;ve been working on these ideas for about a year, from some &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-logicmelb/&#34;&gt;rough&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-gothenburg/&#34;&gt;talks&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/terms-for-classical-sequents-aal-2016/&#34;&gt;over&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/what-proofs-are-about/&#34;&gt;most&lt;/a&gt; &lt;a href=&#34;http://consequently.org/presentation/2016/proof-terms-invariants/&#34;&gt;of&lt;/a&gt; 2016, to many conversations with my colleague &lt;a href=&#34;http://standefer.weebly.com&#34;&gt;Shawn&lt;/a&gt; as I attempted to iron out the details, to many more hours in front of whiteboards, I&amp;rsquo;ve finally got something I&amp;rsquo;m happy to show in public.&lt;/p&gt;
-
-&lt;p&gt;The paper still rough, but the ideas are all there, and I think the theorems are all correct. The paper is under 50 pages&amp;mdash;but only just! It proposes a new account of proof terms for classical propositional logic. These proof terms give a new account of what it is for one sequent derivation to represent the &amp;ldquo;same underlying proof&amp;rdquo; as another. Two derivations represent the same proof if and only if they have the same proof term. In the paper I show that two derivations have the same proof term if and only if one can be permuted into the other, using a natural class of transformations of derivations. Finally, I show that cut elimination for proof terms is confluent and strongly normalising, giving a new account of what it is to &lt;em&gt;evaluate&lt;/em&gt; a classical proof, in a way that does not collapse into triviality.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an example from the paper, of three derivations, with the same concluding proof term:&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;http://consequently.org/images/three-derivations.jpg&#34; alt=&#34;three derivations with the same profo term&#34;&gt;
-    &lt;figcaption&gt;Three derivations with the same proof term&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;If this looks interesting to you, please &lt;a href=&#34;http://consequently.org/writing/proof-terms-for-classical-derivations/&#34;&gt;take a look&lt;/a&gt;. I&amp;rsquo;d appreciate your feedback. Thanks!&lt;/p&gt;
 </description>
 </item>
     
