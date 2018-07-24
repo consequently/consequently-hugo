@@ -1,10 +1,9 @@
 ---
 title: "Generality and Existence I: Quantification and Free Logic"
-
 author: Greg Restall
 status: In Progress
 type: unpublished
-citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; article in progress."
+citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; to appear in the <em>Review of Symbolic Logic</em>."
 tag: generality-and-existence-1
 file: generality-and-existence-1.pdf
 subjects: free_logic proof_theory 
