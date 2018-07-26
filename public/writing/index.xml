@@ -74,12 +74,26 @@
       <guid>http://consequently.org/writing/ptrm/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This is my next book-length writing project.  I am writing a book which aims to do these things:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li /&gt; Be a useable introduction to philosophical logic, accessible to someone who&amp;rsquo;s done only an introductory course in logic, covering at least some model theory and proof theory of propositional logic, and maybe a little bit of predicate logic.
-&lt;li /&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to semantics and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this currently available, but I&amp;rsquo;d be happy to be shown wrong.)
-&lt;li /&gt; Present the duality between model theory and proof theory in a philosophically illuminating and clear fashion.
-&lt;li /&gt; And then apply these results to issues concerning meaning, epistemology and metaphysics, including issues of logical consequence and rationality, the problem of absolute generality, and the status of modality.
-&lt;/ol&gt;
-Are you interested in getting a look at the draft? The best way to do that is to come to &lt;a href=&#34;http://ba-logic.com/workshops/symposium-restall/&#34;&gt;this symposium&lt;/a&gt; in Buenos Aires in July 2018, where we&amp;rsquo;ll be discussing it.&lt;/p&gt;
+&lt;li&gt; Be a useable introduction to philosophical logic, accessible to someone who&amp;rsquo;s done only an introductory course in logic, covering at least some model theory and proof theory of propositional logic, and maybe a little bit of predicate logic.
+&lt;li&gt; Be a user-friendly, pedagogically useful and philosophically motivated presentation of cut-elimination, normalisation and conservative extension, both (a) why they&amp;rsquo;re important to semantics and (b) how to actually &lt;em&gt;prove&lt;/em&gt; them.  (I don&amp;rsquo;t think there are any books like this currently available, but I&amp;rsquo;d be happy to be shown wrong.)
+&lt;li&gt; Present the duality between model theory and proof theory in a philosophically illuminating and clear fashion.
+&lt;li&gt; And then apply these results to issues concerning meaning, epistemology and metaphysics, including issues of logical consequence and rationality, the problem of absolute generality, and the status of modality.
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is an outline of the manuscript, showing how the parts hold together.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://consequently.org/images/ptrm-map.png&#34; alt=&#34;Outline of the book Proof Theory, Rules and Meaning&#34;&gt;
+    &lt;figcaption&gt;How &lt;em&gt;Proof Theory, Rules and Meaning&lt;/em&gt; hangs together.&lt;/figcaption&gt;
+&lt;/figure&gt;
+The book is in three parts.
+&lt;ol&gt;
+    &lt;li&gt; &lt;em&gt;Tools&lt;/em&gt;: in which core concepts from proof theory are introduced.
+    &lt;li&gt; &lt;em&gt;The Core Argument&lt;/em&gt;: in which I motivate &lt;em&gt;defining rules&lt;/em&gt;, and show how they answer Arthur Prior&amp;rsquo;s challenge concerning when an inference rule defines a logical concept.
+    &lt;li&gt; &lt;em&gt;Insights&lt;/em&gt;: in which we see consequences for logic and language, epistemology and metaphysics, etc.
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;Are you interested in getting a look at the draft? The best way to do that is to come to &lt;a href=&#34;http://ba-logic.com/workshops/symposium-restall/&#34;&gt;this symposium&lt;/a&gt; in Buenos Aires in July 2018, where we&amp;rsquo;ll be discussing it.&lt;/p&gt;
 ]]></description>
     </item>
     
