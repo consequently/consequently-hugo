@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 24 Jul 2018 12:25:23 AEST</updated>
+    <updated>Thu, 26 Jul 2018 13:52:55 AEST</updated>
 
 
 <item>
@@ -35,6 +35,29 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Presentations</title>
+<link>http://consequently.org/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Defining Rules, Proofs and Counterexamples</title>
+<link>http://consequently.org/presentation/2018/defining-rules-proofs-and-counterexamples-ba-logic-vii/</link>
+<pubDate>Thu, 26 Jul 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2018/defining-rules-proofs-and-counterexamples-ba-logic-vii/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:  In this talk, I will present an account of &lt;em&gt;defining rules&lt;/em&gt;, with the aim of explaining these rules they play a central role in analytic proofs. Along the way, I&amp;rsquo;ll explain how Kreisel&amp;rsquo;s &lt;em&gt;squeezing argument&lt;/em&gt; helps us understand the connection between an informal notion of validity and the notions formalised in our accounts of proofs and models, and the relationship between proof-theoretic and model- theoretic analyses of logical consequence.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This is a talk for the &lt;a href=&#34;http://ba-logic.com/workshops/7th-workshop/&#34;&gt;VII Workshop on Philosophical Logic&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://consequently.org/slides/defining-rules-proofs-and-counterexamples-slides.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/defining-rules-proofs-and-counterexamples-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -242,14 +265,6 @@
 &lt;li&gt;&lt;a href=&#34;https://vimeo.com/album/2470375/video/76070953&#34;&gt;Logical Monism and Pluralism&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>http://consequently.org/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1299,17 +1314,6 @@ Are you interested in getting a look at the draft? The best way to do that is to
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65501745&#34;&gt;True Arithmetic is not Deductively Defined&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://vimeo.com/album/2262409/video/65505372&#34;&gt;If Con(PA) then PA doesn&amp;rsquo;t prove Con(PA)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>First Degree Entailment, Symmetry and Paradox</title>
-<link>http://consequently.org/writing/fde-symmetry-paradox/</link>
-<pubDate>Fri, 14 Oct 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/fde-symmetry-paradox/</guid>
-<description>&lt;p&gt;Here is a puzzle, which I learned from Terence Parsons in his paper “True Contradictions”. First Degree Entailment (FDE) is a logic which allows for truth value gaps as well as truth value gluts. If you are agnostic between assigning paradoxical sentences gaps and gluts (and there seems to be no very good reason to prefer gaps over gluts or gluts over gaps if you are happy with FDE), then this looks no different, in effect, from assigning them a gap value? After all, on both views you end up with a theory that doesn&amp;rsquo;t commit you to the paradoxical sentence or its negation. How is the FDE theory any different from the theory with gaps alone?&lt;/p&gt;
-
-&lt;p&gt;In this paper, I will present a clear answer to this puzzle&amp;mdash;an answer that explains how being agnostic between gaps and gluts is a genuinely different position than admitting gaps alone, by using the formal notion of a bi-theory, and showing that while such positions might agree on what is to be accepted, they differ on what is to be rejected.&lt;/p&gt;
 </description>
 </item>
     
