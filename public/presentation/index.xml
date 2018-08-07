@@ -26,13 +26,13 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 03 Aug 2018 17:45:00 -03</updated>
+    <updated>Fri, 03 Aug 2018 17:45:00 -0300</updated>
     
  
     <item>
       <title>Defining Rules, Proofs and Counterexamples</title>
       <link>http://consequently.org/presentation/2018/defining-rules-proofs-and-counterexamples-ba-logic-vii/</link>
-      <pubDate>Fri, 03 Aug 2018 17:45:00 -03</pubDate>
+      <pubDate>Fri, 03 Aug 2018 17:45:00 -0300</pubDate>
       
       <guid>http://consequently.org/presentation/2018/defining-rules-proofs-and-counterexamples-ba-logic-vii/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:  In this talk, I will present an account of &lt;em&gt;defining rules&lt;/em&gt;, with the aim of explaining these rules they play a central role in analytic proofs. Along the way, I&amp;rsquo;ll explain how Kreisel&amp;rsquo;s &lt;em&gt;squeezing argument&lt;/em&gt; helps us understand the connection between an informal notion of validity and the notions formalised in our accounts of proofs and models, and the relationship between proof-theoretic and model- theoretic analyses of logical consequence.&lt;/p&gt;
@@ -49,7 +49,7 @@
     <item>
       <title>Proof Theory, Rules and Meaning — an introduction</title>
       <link>http://consequently.org/presentation/2018/proof-theory-rules-and-meaning/</link>
-      <pubDate>Mon, 30 Jul 2018 16:00:00 -03</pubDate>
+      <pubDate>Mon, 30 Jul 2018 16:00:00 -0300</pubDate>
       
       <guid>http://consequently.org/presentation/2018/proof-theory-rules-and-meaning/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;:  I introduce the key themes from my book-in-progress, &lt;a href=&#34;http://consequently.org/writing/ptrm/&#34;&gt;Proof Theory, Rules and Meaning&lt;/a&gt;.&lt;/p&gt;
@@ -222,7 +222,7 @@
     <item>
       <title>Accommodation, Inference, Generics and Pejoratives</title>
       <link>http://consequently.org/presentation/2018/unimelb-accommodation/</link>
-      <pubDate>Thu, 22 Mar 2018 16:15:00 &#43;1100</pubDate>
+      <pubDate>Thu, 22 Mar 2018 16:15:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2018/unimelb-accommodation/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I aim to give an account of norms governing our uses of &lt;em&gt;generic judgements&lt;/em&gt; (like &amp;ldquo;kangaroos have long tails&amp;rdquo;, &amp;ldquo;birds lay eggs&amp;rdquo;, or &amp;ldquo;logic talks are boring&amp;rdquo;), norms governing &lt;em&gt;inference&lt;/em&gt;, and the relationship &lt;em&gt;between&lt;/em&gt; generics and inference. This connection goes some way to explain why generics exhibit some very strange behaviour: Why is it, for example, that &amp;ldquo;birds lay eggs&amp;rdquo; seems true, while &amp;ldquo;birds are female&amp;rdquo; seems false, despite the fact that only female birds lay eggs?&lt;/p&gt;
@@ -241,7 +241,7 @@
     <item>
       <title>Isomorphisms in a Category of Propositions and Proofs</title>
       <link>http://consequently.org/presentation/2018/logicmelb-isomorphisms/</link>
-      <pubDate>Fri, 02 Mar 2018 11:00:00 &#43;1100</pubDate>
+      <pubDate>Fri, 02 Mar 2018 11:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2018/logicmelb-isomorphisms/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I show how a category of propositions and classical proofs can give rise to three different hyperintensional notions of sameness of content. One of these notions is very fine-grained, going so far as to distinguish \(p\) and \(p\land p\), while identifying other distinct pairs of formulas, such as \(p\land q\) and \(q\land p\); \(p\) and \(\neg\neg p\); or \(\neg(p\land q)\) and \(\neg p\lor\neg q\).  Another relation is more coarsely grained, and gives the same account of identity of content as equivalence in Angell&amp;rsquo;s logic of analytic containment. A third notion of sameness of content is defined, which is intermediate between Angell&amp;rsquo;s and Parry&amp;rsquo;s logics of analytic containment. Along the way we show how purely classical proof theory gives resources to define hyperintensional distinctions thought to be the domain of properly non-classical logics.&lt;/p&gt;
@@ -383,7 +383,7 @@
     <item>
       <title>Proof Terms as Invariants</title>
       <link>http://consequently.org/presentation/2016/proof-terms-invariants/</link>
-      <pubDate>Fri, 09 Dec 2016 13:00:00 &#43;1100</pubDate>
+      <pubDate>Fri, 09 Dec 2016 13:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2016/proof-terms-invariants/</guid>
       <description>&lt;![CDATA[&lt;p&gt;This is a talk on proof theory for &lt;a href=&#34;http://philevents.org/event/show/27034&#34;&gt;Melbourne Logic Day&lt;/a&gt;.&lt;/p&gt;
@@ -572,7 +572,7 @@
     <item>
       <title>Fixed Point Models for Theories of Properties and Classes</title>
       <link>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</link>
-      <pubDate>Tue, 26 Jan 2016 13:38:19 &#43;1100</pubDate>
+      <pubDate>Tue, 26 Jan 2016 13:38:19 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2016/fixed-point-models-fnclmp-2016/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Fixed Point Models for Theories of Properties and Classes” at the &lt;a href=&#34;https://sites.google.com/site/fnclmp/home&#34;&gt;Frontiers of Non-Classicality&lt;/a&gt; conference at the University of Auckland.&lt;/p&gt;
@@ -589,7 +589,7 @@
     <item>
       <title>Generality and Existence 3: Substitution and Identity</title>
       <link>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</link>
-      <pubDate>Fri, 11 Dec 2015 14:00:00 &#43;1100</pubDate>
+      <pubDate>Fri, 11 Dec 2015 14:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2015/generality-and-existence-3-melbourne-logic-workshop/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I am giving a talk, entitled &amp;ldquo;Generality and Existence 3: Substitution and Identity&amp;rdquo; in the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Workshop 2015&lt;/a&gt; at the &lt;a href=&#34;http://blogs.unimelb.edu.au/logic/2015/12/02/logic-workshop-2015/&#34;&gt;Melbourne Logic Group&lt;/a&gt;.&lt;/p&gt;
@@ -799,7 +799,7 @@
     <item>
       <title>Incarnation and Detachment: Philosophy, Prayer, and Taking Positions</title>
       <link>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</link>
-      <pubDate>Tue, 24 Mar 2015 19:00:00 &#43;1100</pubDate>
+      <pubDate>Tue, 24 Mar 2015 19:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2015/csn-incarnation-and-detachment/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I&amp;rsquo;m giving a talk entitled “Incarnation and Detachment: Philosophy, Prayer, and Taking Positions” at the first 2015 meeting of the &lt;a href=&#34;http://christianscholarsnetwork.tumblr.com&#34;&gt;Christian Scholars Network&lt;/a&gt;. (We&amp;rsquo;ll meet at the &lt;a href=&#34;http://www.thedan.com.au&#34;&gt;Dan O&amp;rsquo;Connell Pub&lt;/a&gt; at 7pm on Tuesday March 24. Come early to share dinner before the talk and discussion.)&lt;/p&gt;
@@ -814,7 +814,7 @@
     <item>
       <title>Contingent Existence and Modal Definedness</title>
       <link>http://consequently.org/presentation/2015/cemd-anu/</link>
-      <pubDate>Thu, 26 Feb 2015 16:00:00 &#43;1100</pubDate>
+      <pubDate>Thu, 26 Feb 2015 16:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2015/cemd-anu/</guid>
       <description>&lt;![CDATA[&lt;p&gt;A seminar for the &lt;a href=&#34;http://philrsss.anu.edu.au/regular-seminars&#34;&gt;ANU School of Philosophy&lt;/a&gt;. I will discuss Tim Williamson&amp;rsquo;s arguments for the non-contingency of existence (see his &lt;em&gt;&lt;a href=&#34;http://ukcatalogue.oup.com/product/9780199552078.do&#34;&gt;Modal Logic as Metaphysics&lt;/a&gt;&lt;/em&gt;, 2013) and explain how and why they might be reasonably resisted. Along the way, I&amp;rsquo;ll try to explain the impact of proof theory for theories of meaning and for metaphysics.&lt;/p&gt;
@@ -831,7 +831,7 @@
     <item>
       <title>Ternary Relations and Models for Relevant Arithmetics</title>
       <link>http://consequently.org/presentation/2014/trmra-asubl5/</link>
-      <pubDate>Mon, 15 Dec 2014 09:00:00 &#43;1100</pubDate>
+      <pubDate>Mon, 15 Dec 2014 09:00:00 AEDT</pubDate>
       
       <guid>http://consequently.org/presentation/2014/trmra-asubl5/</guid>
       <description>&lt;![CDATA[&lt;p&gt;A seminar at the workshop &lt;em&gt;&lt;a href=&#34;https://sites.google.com/a/ltumathstats.com/asubl5&#34;&gt;Algebra and Substructural Logic 5&lt;/a&gt;&lt;/em&gt; (La Trobe, December 2015).&lt;/p&gt;
