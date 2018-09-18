@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Sat, 01 Sep 2018 16:19:29 AEST</updated>
+    <updated>Tue, 18 Sep 2018 19:08:33 AEST</updated>
 
 
 <item>
@@ -35,6 +35,23 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Writings</title>
+<link>http://consequently.org/writing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Negation on the Australian Plan</title>
+<link>http://consequently.org/writing/nap/</link>
+<pubDate>Tue, 18 Sep 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/writing/nap/</guid>
+<description>&lt;p&gt;We present and defend the Australian Plan semantics for negation. This is a comprehensive account, suitable for a variety of different logics. It is based on two ideas. The first is that negation is an exclusion-expressing device: we utter negations to express incompatibilities. The second is that, because incompat&lt;em&gt;ibility&lt;/em&gt; is modal, negation is a modal operator as well. It can, then, be modelled as a quantifier over points in frames, restricted by accessibility relations representing compatibilities and incompatibilities between such points. We defuse  a number of objections to this Plan, raised by supporters of the American Plan for negation, in which negation is handled via a many-valued semantics. We show that the Australian Plan has substantial advantages over the American Plan.&lt;/p&gt;
+</description>
 </item>
     
 <item>
@@ -435,14 +452,6 @@
 &lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-unimelb-2018.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-unimelb-handout-2018.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-</item>
-    
-<item>
-<title>Writings</title>
-<link>http://consequently.org/writing/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1249,17 +1258,6 @@ The book is in three parts.
 <pubDate>Mon, 02 May 2016 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/writing/fixed-point-models/</guid>
 <description>&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
-</description>
-</item>
-    
-<item>
-<title>UNIB10002: Logic, Language and Information</title>
-<link>http://consequently.org/class/2017/unib10002/</link>
-<pubDate>Thu, 23 Feb 2017 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/class/2017/unib10002/</guid>
-<description>&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
-
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;http://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;http://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 </description>
 </item>
     
