@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Models for Compatibility</title>
+	
+	<link rel="stylesheet" href="http://consequently.org/css/kube.css" />
+	<link rel="stylesheet" href="http://consequently.org/css/demo.css" />
+ 	<link href='https://fonts.googleapis.com/css?family=Alegreya:400italic,400,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+ 	<link href='https://fonts.googleapis.com/css?family=Alegreya+SC:400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon-precomposed" href="http://consequently.org/apple-touch-icon.png">
+ 	<link rel="shortcut icon" href="http://consequently.org/favicon.ico" />
+     
+
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://consequently.org/news/2016/models-for-compatibility/">
+	<meta name="twitter:title" content="Models for Compatibility">
+	<meta name="twitter:description" content="Here are some thoughts about how to understand compatibility in models for incomplete and inconsistent situations, prompted by some questions from Rachel Briggs.">
+	<meta name="twitter:image" content="http://consequently.org/img/avatar2.jpg">
+    <meta name="twitter:site" content="@consequently">
+    <meta name="twitter:creator" content="@consequently">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body>
+<div id="topbar">
+<div class="wrapper">
+	<header>
+		<nav class="navbar">
+			<ul>
+				<li class="hd"><a href="http://consequently.org"><b>consequently.org</b></a></li>
+				<li><span><a href="http://consequently.org/news">News</a></span></li>
+				<li><a href="http://consequently.org/writing">Writing</a></li>
+				<li><a href="http://consequently.org/presentation">Presentations</a></li>
+				<li><a href="http://consequently.org/class">Classes</a></li>
+				<li><a href="#searchsite">Search</a></li>
+				<li><a href="#about">About</a></li>
+			</ul>
+		</nav>
+	</header>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">Models for Compatibility</a></h2></div>
+</div>
+<div class="units-row">		
+<div class="unit-20 dateblock"><h4>February 11, 2016</h4></div>
+<div class="unit-60">
+<p>This morning I received an email from <a href="https://philosophy.stanford.edu/people/rachael-briggs">Rachael Briggs</a>, asking me some questions about the notion of <em>compatibility</em> as it appears in my paper &ldquo;<a href="http://consequently.org/writing/negrl/">Negation in Relevant Logics</a>.&rdquo; These questions got me to thinking that there were some ideas in <a href="https://scholar.google.com.au/scholar?cites=3319676480145120321&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en">that paper</a> and a <a href="https://scholar.google.com.au/scholar?cites=828496633310229772&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en">much-less-read</a> paper of mine &ldquo;<a href="http://consequently.org/writing/modelling/">Modelling Truthmaking</a>&rdquo;, which might be worth reflecting on some more. So I&rsquo;ll try to do that here.</p>
+
+<p>Here&rsquo;s the background you need to get up to speed. <em>Relevant</em> logics attempt to make sense of the idea that if an argument from premises \(\Sigma\) to conclusion \(A\) is valid then the premises must somehow be <em>relevant</em> to the conclusion. If the \(A\) is a tautology by itself (say, \(p\lor\neg p\)) then that fact alone is not enough to ensure that it follows <em>from</em> the unrelated premise \(q\). \(p\lor\neg p\) follows well enough from \(p\) (a disjunction follows from a disjunct), and from \(\neg p\) (the other disjunct), but if \(q\) has nothing to do with it, we can&rsquo;t necessarily get to \(p\lor\neg p\) from there. The same goes for arguments from contradictory premises. \(p\land\neg p\) is inconsistent. <em>Classical</em> logic tells us that the argument from \(p\land\neg p\) to \(q\) is valid because there&rsquo;s no interpretation to make \(p\land\neg p\) true that makes \(q\) false—but that&rsquo;s not because of any connection between \(p\land\neg p\) and \(q\). There&rsquo;s no such interpretation because of features of \(p\land\neg p\) all by itself. So that&rsquo;s one way to understand some of the design goals for relevant logics: give us an understanding of logical consequence according to which there are genuine connections between premises and conclusions of valid arguments.</p>
+
+<p>One way that relevant logicians have explained this connection is by stretching the notion of an <em>interpretation</em> or a <em>model</em> (or a <em>situation</em> or a <em>set-up</em>) so that we allow for interpretations to be incomplete or inconsistent. So, even though we might agree that it&rsquo;s a <em>tautology</em> that \(p\lor\neg p\), that doesn&rsquo;t mean that every <em>situation</em> determines that \(p\lor\neg p\). One way to view things is this: no matter how the world arranges itself, it will either make \(p\) true, or if it doesn&rsquo;t, it makes \(\neg p\) true, so however it goes, it&rsquo;s unavoidable that \(p\lor\neg p\). However, this does not mean that every part of the world contributes equally. Either there is beer in my refrigerator, or there is not. The situation consisting of what is going on in <em>your</em> immediate vicinity doesn&rsquo;t decide this one way or another. A situation including my refrigerator (and enough of the network of social conditions required to see to it that this refrigerator is my refrigerator, I suppose) is what we need to settle the matter, and to see to it that either there is beer there, or there isn&rsquo;t. And that is enough to decide the matter, no matter how things go. Attention to the detail of <em>how</em> things are made true, in addition to <em>whether</em> they are made true, seems to help with making the distinctions needed for relevant connections. (I say more on this in my paper &ldquo;<a href="http://consequently.org/writing/ten">Truthmakers, Entailment and Necessity</a>&rdquo;. Go there for more details.) You can see why this sort of thing is in the air these days, when analytic metaphysicians are interested in notions of grounding and dependence.</p>
+
+<p>Anyway, in &ldquo;<a href="http://consequently.org/writing/negrl/">Negation in Relevant Logics</a>,&rdquo; I was interested in the following question: how are we to understand how <em>negation</em> works in this sort of setup? It&rsquo;s one thing to admit incomplete scenarios (how your part of the world won&rsquo;t determine the contents of my refrigerator, etc), it&rsquo;s another to actually understand how negation works in these scenarios. When is \(\neg A\) made true by a situation? Given that situations allow for things that consistent and complete totalities like worlds don&rsquo;t, we can&rsquo;t say the natural world-like classical thing, according to which \(\neg A\) is true in a situation just when \(A\) isn&rsquo;t true in that situation. No, we want to allow for situations with gaps (where \(A\) and \(\neg A\) both fail to be made true by a situation), and for the advanced relevantists, we&rsquo;d also like to make room for <em>gluts</em>, which are situations in which we might both have \(A\) <em>and</em> \(\neg A\) true. These situations might be <em>impossible</em> (at least, they&rsquo;re inconsistent), but nonetheless, I argued in &ldquo;<a href="http://consequently.org/writing/negrl/">Negation in Relevant Logics</a>”
+ that there is good reason to admit them into our menagerie of situations as different impossibilities—different ways that parts of the world <em>can&rsquo;t</em> be.</p>
+
+<p>So, how are we to understand how negation works among these situation? I followed some work by J.&nbsp;Michael Dunn on different formal semantics for negation (the lovely &ldquo;<a href="http://www.jstor.org/stable/2214128">Star and Perp</a>&rdquo; paper), and argued that the kind of &ldquo;perp&rdquo; or &ldquo;incompatibility&rdquo; semantics he considered there could make a great deal of sense in the context of incomplete and inconsistent situations. The idea is simple. In <a href="http://consequently.org/writing/negrl/">my paper</a> I phrased things positively, in terms of a binary relation of <em>compatibility</em> between situations, where \(sCt\) iff situation \(s\) is compatible with \(t\). Given compatibility, we interpret negation in the following way:</p>
+
+<ul>
+<li>\(s\vDash\neg A\) if and only if for every \(t\) where \(sCt\), \(t\not\vDash A\)</li>
+</ul>
+
+<p>For example, a situation (say, the situation consisting of my kitchen as it is) makes it true that there is no beer in my fridge if and only if every situation compatible with my kitchen as it is <em>doesn&rsquo;t</em> make it true that there is beer in my fridge. My kitchen as it is does the job of <em>ruling out</em> the presence of beer in the fridge by rendering any beer-in-my-fridge scenarios as incompatible with it.</p>
+
+<p>That sounds fair enough. If the kitchen situation does make it true that there is no beer in my fridge, then the beer-in-my-fridge situations do seem incompatible with it, and if my kitchen situation doesn&rsquo;t make it true that there&rsquo;s no beer in my fridge, then there is some situation compatible with it, according to which there <em>is</em> beer in my fridge. (Perhaps this is that situation itself, but perhaps you can think of wilder scenarios according to which my kitchen doesn&rsquo;t make it true by itself that there is beer in my fridge, but a larger part of the world makes it true.)</p>
+
+<p>All of this seems fair enough. There are more details to be worked out about the behaviour of compatibility, and in particular, inconsistent scenarios, and I do some of that in &ldquo;<a href="http://consequently.org/writing/negrl/">Negation in Relevant Logics</a>.&rdquo; The important point for relevant logics is that compatibility does <em>not</em> reduce to joint consistency. That is, we may have a situation \(s\) that is itself inconsistent (that is, \(s\) incompatible with itself, we don&rsquo;t have \(sCs\)) while we <em>do</em> have \(sCt\) for some other situation \(t\). How could that happen? One way to think about it is this: we have our situation \(s\) which is confused about <em>some</em> things, and not confused about others. The situation \(t\) gives us <em>no</em> information about the things \(s\) is confused about, and is compatible with the other information given by \(s\), and perhaps it gives information about things left out by \(s\). In this way, there is no clash <em>between</em> \(s\) and \(t\). There is no claim on the world made by \(s\) that is opposed in any way by \(t\). However, \(s\) makes claims that clash with itself. There is a fundamental tension <em>in \(s\)</em>, while there is none between \(s\) and \(t\). This seems to me to be an appropriate and natural way to understand compatibility.</p>
+
+<p>Or so I claim in &ldquo;<a href="http://consequently.org/writing/negrl/">Negation in Relevant Logics</a>&rdquo;. However, this leaves me with the thought that compatibility understood in this way is perhaps useful when it comes to giving an understandable interpretation of a relevant account of consequence involving negation, but maybe it&rsquo;s not particularly natural. It&rsquo;s hard to make this thought clear, because it&rsquo;s an aesthetic judgement of the mathematician. A notion is natural if it makes a distinction worth drawing—and one way to see that it does make a worthwhile distinction is that it comes up again and again in different places, and can be understood in different ways. (For those of you who know modal logic, for natural think S4. For non-natural, think S3. S4 comes up again and again and again in different scenarios—intuitionist logic, topological spaces, etc. S3 is nowhere.) The more independent grasp we can get on compatibility, the better for the notion.</p>
+
+<p>That&rsquo;s one reason I wrote the paper &ldquo;<a href="http://consequently.org/writing/modelling/">Modelling Truthmaking</a>&rdquo;, though negation and compatibility wasn&rsquo;t the concept I was attempting to understand. Thinking about Rachel&rsquo;s questions about how to understand compatibility, however, I realised that there are ideas in that paper that are worth revisiting.</p>
+
+<p>The core idea is to attempt to understand a notion of compatibility between situations which arises naturally out of the structure of the situations themselves, and in a way that makes compatibility act in just the way that the relevant logician takes it to act (allowing for incomplete and inconsistent situations). The conceit of the paper is to imagine a little digital world where we have an infinite discrete Cartesian plane, where each unit on the plane is either <strong>On</strong> or <strong>Off</strong>. A <em>world</em> is any total function from positions to {<strong>On</strong>,<strong>Off</strong>} (so, in a world, every spot on the plane takes one and only one value). A <em>situation</em> more general: for each position, a situation may remain agnostic (give <em>no</em> value), or be determinate (give <em>one</em> value), or be overdetermined (give <em>both</em>). Situations can be incomplete or inconsistent about different parts of the world.  Once we have this notion of situations, compatibility between situations is very straightforward to define: situation \(s\) clashes with situation \(t\) if and only if there is some part of the map where they give conflicting information, where \(s\) says <strong>On</strong> and \(t\) says <strong>Off</strong>, or vice versa. In the absence of such a conflict between \(s\) and \(t\) they are compatible. It doesn&rsquo;t follow, of course, that \(s\) and \(t\) are jointly consistent, because either \(s\) or \(t\) might be inconsistent all on their own. This still seems to me to be a very natural model, and one where the notion of compatibility favoured by the relevantist is completely appropriate.</p>
+
+<p>Thinking about this model again today, I realised that it generalises to much more realistic views of situations, in such a way that the features of compatibility are preserved. While the digital plane of &ldquo;<a href="http://consequently.org/writing/modelling">Modelling Truthmaking</a>&rdquo; made for nice diagrams, it is inessential to the argument of the paper. So, too, was the rabid Humeanism and atomism according to which a world is made up of &ldquo;a vast mosaic of local matters of particular fact, just one little thing and then another&rdquo; (David Lewis, <em><a href="http://www.amazon.com/On-Plurality-Worlds-David-Lewis/dp/0631224262/consequentlyorg">On the Plurality of Worlds</a></em>, p. ix). If we generalise the picture so that we have a set \(L\) of <em>locations</em> (perhaps these are points in spacetime, perhaps they are points in some higher phase space, and perhaps they are something else entirely), and another set \(F\) of <em>features</em>, such that some are <em>unary</em> (borne by a location) others are <em>binary</em> (these features <em>relate</em> two locations), and so on. The set \(F\) of features is structured so that some combinations of features <em>clash</em>. In the case of the simple model of &ldquo;<a href="http://consequently.org/writing/modelling">Modelling Truthmaking</a>&rdquo;, the clash was straightforward: <strong>On</strong> clashed with <strong>Off</strong>. In the more general case, more possibilities are available. Perhaps there are three unary features, and locations can have any two of them but not three. Or perhaps only locations which have a particular feature are candidates for having another. The particular details don&rsquo;t matter at all for the definition of compatibility. Let&rsquo;s define a <em>situation</em> to be a mapping from each location (and pair of locations, etc., up the arities of the features in \(F\)) to the (possibly empty) set of features had by that location, pair locations, etc. A situation is self-compatible if none of its own assignments of features clashes. (I&rsquo;ll leave aside the question of when it is that a situation is <em>complete</em>, as that&rsquo;s not needed for the point at hand.) When is a situation \(s\) compatible with \(t\)? When no values \(s\) assigns clash with anything assigned by \(t\). How can we understand this? In just the same way as in the <strong>On</strong>/<strong>Off</strong> world, except we generalise. In that world, a clash was found when \(s\) assigned something <strong>On</strong> that \(t\) assigned <strong>Off</strong> (or <em>vice versa</em>). In a more complicated feature space, it is harder to state, but the idea is the same: two situations \(s\) and \(t\) are compatible where there is no clash between the locations involved in \(s\) and those involved in \(t\). The notion of compatibility that this determines still works as the relevantist wants (situation \(s\) might be inconsistent, but that doesn&rsquo;t mean it must have some beef with \(t\), which only determines a completely different collection of locations), and the phenomenon is much more general than the dessicated Humean digital world of &ldquo;<a href="http://consequently.org/writing/modelling">Modelling Truthmaking</a>&rdquo;.</p>
+
+<p>It seems to me that models like this are useful for at least two things. First, they can help us see what could be  involved in talk of situations and compatibility—they can help us test and train different ideas of how things might go, and what could come out of such notions in particular concrete cases. They provide a relatively concrete test case, in which conjectures can be tested and tried out. Second, they can give us ideas of how the formal ideas of logic and semantics can be applied and related to different metaphysical views of properties and their bearers. Given the resurgence of thinking about grounding and dependence, it seems to me that these ideas are worth exploring.</p>
+
+<p>Thanks, <a href="https://philosophy.stanford.edu/people/rachael-briggs">Rachael</a>, for the questions, and for prompting this line of thought.</p>
+
+<p>P.S. Rachael isn&rsquo;t just a great philosopher. She&rsquo;s also a <a href="http://cordite.org.au/reviews/royal-briggs/">fine</a> <a href="http://cordite.org.au/guncotton/plunkett-briggs/">poet</a>.</p>
+
+
+
+
+<hr>
+
+<a href="http://consequently.org/news/2016/congratulations-bruce-french-ao/"> &larr;&nbsp;Congratulations to Bruce French, AO</a> |
+
+<a href="http://consequently.org/news/#2016">News Archive</a>
+
+| <a href="http://consequently.org/news/2016/advice-from-undergraduate-logic-students/">Advice from Undergraduate Logic Students&nbsp;&rarr;</a>
+
+
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+<div class="wrapper" style="font-size: 0.9em; line-height: 1.05em;">
+<div class="units-row units-padding">		
+<div class="unit-40">
+<h3><a id="about">about</a></h3>
+<figure class="image-left">
+<img class="avatar" src="http://consequently.org/img/avatar2.jpg" height="120" width="120">
+</figure>	
+<p>I&rsquo;m <em>Greg Restall</em>, and this is my personal website. I teach <a href="https://twitter.com/philosmelb">philosophy</a> and <a href="https://twitter.com/logicmelb">logic</a> as Professor of Philosophy at the <a href="https://unimelb.edu.au">University of Melbourne</a>. &para; Start at the <a href="http://consequently.org">home page of this site</a>&mdash;a compendium of recent additions around here&mdash;and go from there to learn more about who I am and what I do. &para; This is my personal site on the web. Nothing here is <em>in any way</em> endorsed by the University of Melbourne.</p>
+</div>
+<div class="unit-30">
+<h3>elsewhere</h3>
+<ul class="compact fa-ul">
+<li><i class="fa-li fa fa-university fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i>School of Historical and Philosophical Studies, The University of Melbourne, Parkville 3010, Australia.</li>
+<li><i class="fa-li fa fa-envelope fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="mailto:greg@consequently.org">greg@consequently.org</a></li>
+<li><i class="fa-li fa fa-user-secret fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://keybase.io/consequently">keybase.io/consequently</a>, to sign or encrypt a message to send to me privately.</li> 
+<li><i class="fa-li fa fa-twitter-square fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://twitter.com/consequently">@consequently</a> on Twitter.</li>
+<li><i class="fa-li fa fa-instagram fa-fw" style="color:#b24;font-size:80%;padding-top:6px;"></i><a href="https://instagram.com/consequently">@consequently</a> on Instagram.</li>
+<li><i class=""></li>
+</ul>
+</div>
+<div class="unit-30">
+				<h3>subscribe</h3>
+				<p>To receive updates from this site, you can
+				subscribe to the <a href="http://consequently.org/index.xml"><i class="fa fa-rss-square" style="color:#b24;"></i>&nbsp;RSS feed</a> of all updates to the site in an RSS feed reader, or follow me on Twitter at <a href="https://twitter.com/consequently"><i class="fa fa-twitter-square" style="color:#b24;"></i>&nbsp;@consequently</a>, where I&rsquo;ll update you if anything is posted.</p>
+				<h3>search</h3>
+				<a id="searchsite">
+					<form method="get" action="https://duckduckgo.com/">
+				<input type="search" name="q" maxlength="255" placeholder="Search the site">
+			<input type="hidden" name="sites" value="consequently.org"/>
+			   <input type="hidden" name="ka" value="Alegreya"/>
+			   <input type="hidden" name="k7" value="#faf8f8"/>
+			   <input type="hidden" name="kj" value="#b33"/>
+			   <input type="hidden" name="ky" value="#fafafa"/>
+			   <input type="hidden" name="kx" value="b"/>
+			   <input type="hidden" name="ko" value="-1"/>
+			   <input type="hidden" name="k1" value="-1"/>
+			   <input type="hidden" name="kt" value="Alegreya Sans"/>
+			   <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" /></form></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer id="footer">
+<section class="wrapper small">The site is produced by an unholy mix of <a href="http://gohugo.io">Hugo</a>, <a href="http://imperavi.com/kube/">Kube</a>, <a href="http://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, <a href="http://marketlane.com.au">caffeine</a> and <a href="http://cockburnproject.net">Bruce Cockburn</a>. &copy; Greg Restall 1992&ndash;2018. 
+</section>
+</footer>
+
+</body>
+</html>
+
+
