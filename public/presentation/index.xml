@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:admin="http://webns.net/mvcb/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:dc="https://purl.org/dc/elements/1.1/"
+  xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="https://webns.net/mvcb/"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
       <title>Presentations in consequently.org: Greg Restall’s website </title>
@@ -26,7 +26,25 @@
     <language>en-us</language>
     
     
-    <updated>Fri, 03 Aug 2018 17:45:00 -0300</updated>
+    <updated>Fri, 05 Oct 2018 15:00:00 &#43;1100</updated>
+    
+ 
+    <item>
+      <title>Accommodation, Inference, Generics and Pejoratives</title>
+      <link>http://consequently.org/presentation/2018/accommodation-uq/</link>
+      <pubDate>Fri, 05 Oct 2018 15:00:00 &#43;1100</pubDate>
+      
+      <guid>http://consequently.org/presentation/2018/accommodation-uq/</guid>
+      <description>&lt;![CDATA[&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I aim to give an account of norms governing our uses of &lt;em&gt;generic judgements&lt;/em&gt; (like &amp;ldquo;kangaroos have long tails&amp;rdquo;, &amp;ldquo;birds lay eggs&amp;rdquo;, or &amp;ldquo;logic talks are boring&amp;rdquo;), norms governing &lt;em&gt;inference&lt;/em&gt;, and the relationship &lt;em&gt;between&lt;/em&gt; generics and inference. This connection goes some way to explain why generics exhibit some very strange behaviour: Why is it, for example, that &amp;ldquo;birds lay eggs&amp;rdquo; seems true, while &amp;ldquo;birds are female&amp;rdquo; seems false, despite the fact that only female birds lay eggs?&lt;/p&gt;
+
+&lt;p&gt;Given the connection between generics and inference, I&amp;rsquo;ll go on to consider how inference relates to the process of &lt;em&gt;accommodation&lt;/em&gt;, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve &lt;em&gt;pejorative force&lt;/em&gt;, and can inform options for how our vocabulary and our concepts can be revised or reformed.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This is a &lt;a href=&#34;https://hapi.uq.edu.au/event/session/3538&#34;&gt;talk for the University of Queensland Philosophy Seminar Series&lt;/a&gt; (3pm-5pm, Fridays).&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-uq.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-uq-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+]]></description>
+    </item>
     
  
     <item>

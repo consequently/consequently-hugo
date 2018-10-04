@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:admin="http://webns.net/mvcb/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:dc="https://purl.org/dc/elements/1.1/"
+  xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="https://webns.net/mvcb/"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
       <title>News in consequently.org: Greg Restall’s website </title>

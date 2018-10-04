@@ -26,7 +26,7 @@
     <language>en-us</language>
     
     
-    <updated>Tue, 18 Sep 2018 19:08:33 AEST</updated>
+    <updated>Thu, 04 Oct 2018 10:09:09 AEST</updated>
 
 
 <item>
@@ -35,6 +35,30 @@
 <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 <guid>http://consequently.org/</guid>
 <description></description>
+</item>
+    
+<item>
+<title>Presentations</title>
+<link>http://consequently.org/presentation/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/</guid>
+<description></description>
+</item>
+    
+<item>
+<title>Accommodation, Inference, Generics and Pejoratives</title>
+<link>http://consequently.org/presentation/2018/accommodation-uq/</link>
+<pubDate>Thu, 04 Oct 2018 00:00:00 UTC</pubDate>
+<guid>http://consequently.org/presentation/2018/accommodation-uq/</guid>
+<description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: In this talk, I aim to give an account of norms governing our uses of &lt;em&gt;generic judgements&lt;/em&gt; (like &amp;ldquo;kangaroos have long tails&amp;rdquo;, &amp;ldquo;birds lay eggs&amp;rdquo;, or &amp;ldquo;logic talks are boring&amp;rdquo;), norms governing &lt;em&gt;inference&lt;/em&gt;, and the relationship &lt;em&gt;between&lt;/em&gt; generics and inference. This connection goes some way to explain why generics exhibit some very strange behaviour: Why is it, for example, that &amp;ldquo;birds lay eggs&amp;rdquo; seems true, while &amp;ldquo;birds are female&amp;rdquo; seems false, despite the fact that only female birds lay eggs?&lt;/p&gt;
+
+&lt;p&gt;Given the connection between generics and inference, I&amp;rsquo;ll go on to consider how inference relates to the process of &lt;em&gt;accommodation&lt;/em&gt;, which plays a significant role in how we manage dialogue and conversation. This, in turn, helps shed some light on some different ways expressions can involve &lt;em&gt;pejorative force&lt;/em&gt;, and can inform options for how our vocabulary and our concepts can be revised or reformed.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This is a &lt;a href=&#34;https://hapi.uq.edu.au/event/session/3538&#34;&gt;talk for the University of Queensland Philosophy Seminar Series&lt;/a&gt; (3pm-5pm, Fridays).&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/accommodation-uq.pdf&#34;&gt;slides for the talk are available here&lt;/a&gt;, and the &lt;a href=&#34;http://consequently.org/handouts/accommodation-uq-handout.pdf&#34;&gt;handout is here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 </item>
     
 <item>
@@ -52,14 +76,6 @@
 <guid>http://consequently.org/writing/nap/</guid>
 <description>&lt;p&gt;We present and defend the Australian Plan semantics for negation. This is a comprehensive account, suitable for a variety of different logics. It is based on two ideas. The first is that negation is an exclusion-expressing device: we utter negations to express incompatibilities. The second is that, because incompat&lt;em&gt;ibility&lt;/em&gt; is modal, negation is a modal operator as well. It can, then, be modelled as a quantifier over points in frames, restricted by accessibility relations representing compatibilities and incompatibilities between such points. We defuse  a number of objections to this Plan, raised by supporters of the American Plan for negation, in which negation is handled via a many-valued semantics. We show that the Australian Plan has substantial advantages over the American Plan.&lt;/p&gt;
 </description>
-</item>
-    
-<item>
-<title>Presentations</title>
-<link>http://consequently.org/presentation/</link>
-<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/presentation/</guid>
-<description></description>
 </item>
     
 <item>
@@ -1249,15 +1265,6 @@ The book is in three parts.
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href=&#34;http://consequently.org/slides/logical-pluralism-meaning-counterexamples.pdf&#34;&gt;slides are available here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-</item>
-    
-<item>
-<title>Fixed Point Models for Theories of Properties and Classes</title>
-<link>http://consequently.org/writing/fixed-point-models/</link>
-<pubDate>Mon, 02 May 2016 00:00:00 UTC</pubDate>
-<guid>http://consequently.org/writing/fixed-point-models/</guid>
-<description>&lt;p&gt;There is a vibrant (but minority) community among philosophical logicians seeking to resolve the paradoxes of classes, properties and truth by way of adopting some non-classical logic in which trivialising paradoxical arguments are not valid. There is also a long tradition in theoretical computer science&amp;ndash;going back to Dana Scott’s fixed point model construction for the untyped lambda-calculus&amp;ndash;of models allowing for  fixed points. In this paper, I will bring these traditions closer together, to show how these model constructions can shed light on what we could hope for in a non-trivial model of a theory for classes, properties or truth featuring fixed points.&lt;/p&gt;
 </description>
 </item>
     
