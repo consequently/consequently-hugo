@@ -20,9 +20,9 @@
 	  </itunes:category>
 	  <itunes:keywords>Philosophy, Logic, mathematics, pdf, research, University, Greg Restall, Melbourne, Australia, Victoria</itunes:keywords>
 	  <itunes:explicit>no</itunes:explicit>
-	  <itunes:image href="https://consequently.org/img/avatar2.jpg" />
+	  <itunes:image href="https://www.consequently.org/img/avatar2.jpg" />
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://consequently.org/class/</link>
+    <link>https://www.consequently.org/class/</link>
     <language>en-us</language>
     
     
@@ -31,16 +31,16 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>https://consequently.org/class/2018/phil30043/</link>
+      <link>https://www.consequently.org/class/2018/phil30043/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2018/phil30043/</guid>
+      <guid>https://www.consequently.org/class/2018/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -116,10 +116,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>https://consequently.org/class/2018/phil20030/</link>
+      <link>https://www.consequently.org/class/2018/phil20030/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2018/phil20030/</guid>
+      <guid>https://www.consequently.org/class/2018/phil20030/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
@@ -133,7 +133,7 @@
 &lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2018/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
 &lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -234,14 +234,14 @@
  
     <item>
       <title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
-      <link>https://consequently.org/class/2017/phil40013/</link>
+      <link>https://www.consequently.org/class/2017/phil40013/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2017/phil40013/</guid>
+      <guid>https://www.consequently.org/class/2017/phil40013/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in philosophical logic.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/pro-con.jpg&#34; alt=&#34;Assertions and denials take a stand…&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/pro-con.jpg&#34; alt=&#34;Assertions and denials take a stand…&#34;&gt;
 &lt;figcaption&gt;Assertions and denials take a stand on something.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -315,10 +315,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>https://consequently.org/class/2017/phil20030/</link>
+      <link>https://www.consequently.org/class/2017/phil20030/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2017/phil20030/</guid>
+      <guid>https://www.consequently.org/class/2017/phil20030/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
@@ -332,7 +332,7 @@
 &lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
 &lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -433,29 +433,29 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>https://consequently.org/class/2017/unib10002/</link>
+      <link>https://www.consequently.org/class/2017/unib10002/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2017/unib10002/</guid>
+      <guid>https://www.consequently.org/class/2017/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://www.consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://www.consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>https://consequently.org/class/2017/phil30043/</link>
+      <link>https://www.consequently.org/class/2017/phil30043/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2017/phil30043/</guid>
+      <guid>https://www.consequently.org/class/2017/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2017/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -531,16 +531,16 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>https://consequently.org/class/2016/phil30043/</link>
+      <link>https://www.consequently.org/class/2016/phil30043/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2016/phil30043/</guid>
+      <guid>https://www.consequently.org/class/2016/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -616,10 +616,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>https://consequently.org/class/2016/phil20030/</link>
+      <link>https://www.consequently.org/class/2016/phil20030/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2016/phil20030/</guid>
+      <guid>https://www.consequently.org/class/2016/phil20030/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
@@ -633,7 +633,7 @@
 &lt;p&gt;The subject is offered to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2016/PHIL20030&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/peter-rozsa-small.png&#34; alt=&#34;Rosza Peter&#34;&gt;
 &lt;figcaption&gt;The writing down of a formula is an expression of our joy that we can answer all these questions by means of one argument. &amp;mdash; R&amp;oacute;zsa P&amp;eacute;ter, Playing with Infinity&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -734,20 +734,20 @@
  
     <item>
       <title>Proof Theory: Logical and Philosophical Aspects</title>
-      <link>https://consequently.org/class/2016/ptpla-nasslli/</link>
+      <link>https://www.consequently.org/class/2016/ptpla-nasslli/</link>
       <pubDate>Mon, 11 Jul 2016 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2016/ptpla-nasslli/</guid>
+      <guid>https://www.consequently.org/class/2016/ptpla-nasslli/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;This is an intensive class on logical and philosophical issues in proof theory, taught by &lt;a href=&#34;http://www.standefer.net&#34;&gt;Shawn Standefer&lt;/a&gt; and me at &lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;. We  cover cut elimination, some substructural logics, and hypersequents, with a bit of inferentialism and bilateralism mixed in. Here are the slides for each day of the course.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Day 1&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-1-foundations.pdf&#34;&gt;Foundations&lt;/a&gt;&lt;/em&gt;. An introduction to the sequent calculus for intuitionistic and classical logic, cut elimination and some of its consequences.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Day 2&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-2-substructural-logics.pdf&#34;&gt;Substructural Logics&lt;/a&gt;&lt;/em&gt;. Structural rules in sequent systems; the case of distribution; different substructural logics and their applications; revisiting cut elimination in substructural logics.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Day 3&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-3-beyond-sequents.pdf&#34;&gt;Beyond Sequents&lt;/a&gt;&lt;/em&gt;. Sequent sytstems for basic modal logics; three ways to move beyond traditional sequent systems&amp;mdash;display logic, labelled sequents and tree hypersequents.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Day 4&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-4-hypersequents-for-modal-logics.pdf&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/a&gt;&lt;/em&gt;. From tree hypersequents to simple hypersequents for S5; extending simple hypersequents to model actuality and two-dimensional modal logic.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Day 5&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;http://consequently.org/slides/nassli2016-pt-lpa-5-semantics.pdf&#34;&gt;Semantics&lt;/a&gt;&lt;/em&gt;. Normative pragmatics; the scope of rules and definitions; between proofs and models; moving beyond propositional logics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 1&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/slides/nassli2016-pt-lpa-1-foundations.pdf&#34;&gt;Foundations&lt;/a&gt;&lt;/em&gt;. An introduction to the sequent calculus for intuitionistic and classical logic, cut elimination and some of its consequences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 2&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/slides/nassli2016-pt-lpa-2-substructural-logics.pdf&#34;&gt;Substructural Logics&lt;/a&gt;&lt;/em&gt;. Structural rules in sequent systems; the case of distribution; different substructural logics and their applications; revisiting cut elimination in substructural logics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 3&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/slides/nassli2016-pt-lpa-3-beyond-sequents.pdf&#34;&gt;Beyond Sequents&lt;/a&gt;&lt;/em&gt;. Sequent sytstems for basic modal logics; three ways to move beyond traditional sequent systems&amp;mdash;display logic, labelled sequents and tree hypersequents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 4&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/slides/nassli2016-pt-lpa-4-hypersequents-for-modal-logics.pdf&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/a&gt;&lt;/em&gt;. From tree hypersequents to simple hypersequents for S5; extending simple hypersequents to model actuality and two-dimensional modal logic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 5&lt;/strong&gt;: &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/slides/nassli2016-pt-lpa-5-semantics.pdf&#34;&gt;Semantics&lt;/a&gt;&lt;/em&gt;. Normative pragmatics; the scope of rules and definitions; between proofs and models; moving beyond propositional logics.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;readings-and-references&#34;&gt;Readings and References&lt;/h3&gt;
@@ -767,17 +767,17 @@
 &lt;h4 id=&#34;substructural-logics&#34;&gt;Substructural Logics&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Greg Restall, &lt;em&gt;&lt;a href=&#34;http://consequently.org/writing/isl/&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;, Routledge 2000.&lt;/li&gt;
+&lt;li&gt;Greg Restall, &lt;em&gt;&lt;a href=&#34;https://www.consequently.org/writing/isl/&#34;&gt;An Introduction to Substructural Logics&lt;/a&gt;&lt;/em&gt;, Routledge 2000.&lt;/li&gt;
 &lt;li&gt;Francesco Paoli, &lt;a href=&#34;https://www.amazon.com/Substructural-Logics-Primer-F-Paoli/dp/9048160146&#34;&gt;&lt;em&gt;Substructural Logics&lt;/em&gt;: &lt;em&gt;A Primer&lt;/em&gt;&lt;/a&gt;, Springer 2002.&lt;/li&gt;
 &lt;li&gt;Greg Restall,
-“&lt;a href=&#34;http://consequently.org/writing/HPPLrssl/&#34;&gt;Relevant and Substructural Logics&lt;/a&gt;”, pp. 289–396 in &lt;em&gt;Logic and the Modalities in the Twentieth Century&lt;/em&gt;, Dov Gabbay and John Woods (editors), Elsevier 2006.&lt;/li&gt;
+“&lt;a href=&#34;https://www.consequently.org/writing/HPPLrssl/&#34;&gt;Relevant and Substructural Logics&lt;/a&gt;”, pp. 289–396 in &lt;em&gt;Logic and the Modalities in the Twentieth Century&lt;/em&gt;, Dov Gabbay and John Woods (editors), Elsevier 2006.&lt;/li&gt;
 &lt;li&gt;Alan Ross Anderson and Nuel D. Belnap,
 &lt;em&gt;Entailment&lt;/em&gt;: &lt;em&gt;The Logic of Relevance and Necessity&lt;/em&gt;, Volume 1, Princeton University Press, 1975&lt;/li&gt;
 &lt;li&gt;Alan Ross Anderson, Nuel D. Belnap and J. Michael Dunn,
 &lt;em&gt;Entailment&lt;/em&gt;: &lt;em&gt;The Logic of Relevance and Necessity&lt;/em&gt;, Volume 2, Princeton University Press, 1992&lt;/li&gt;
 &lt;li&gt;Edwin D. Mares, &lt;a href=&#34;https://www.amazon.com/Relevant-Logic-Interpretation-Edwin-Mares/dp/0521039258/consequentlyorg&#34;&gt;&lt;em&gt;Relevant Logic&lt;/em&gt;: &lt;em&gt;A Philosophical Interpretation&lt;/em&gt;&lt;/a&gt;, Cambridge University Press, 2004&lt;/li&gt;
 &lt;li&gt;J. Michael Dunn and Greg Restall,
-“&lt;a href=&#34;http://consequently.org/writing/rle/&#34;&gt;Relevance Logic&lt;/a&gt;,” pp. 1–136 in &lt;em&gt;The Handbook of Philosophical Logic&lt;/em&gt;, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)&lt;/li&gt;
+“&lt;a href=&#34;https://www.consequently.org/writing/rle/&#34;&gt;Relevance Logic&lt;/a&gt;,” pp. 1–136 in &lt;em&gt;The Handbook of Philosophical Logic&lt;/em&gt;, vol. 6, edition 2, Dov Gabbay and Franz Guenther (editors)&lt;/li&gt;
 &lt;li&gt;Jean-Yves Girard, “&lt;a href=&#34;http://iml.univ-mrs.fr/~girard/linear.pdf&#34;&gt;Linear Logic&lt;/a&gt;,” &lt;em&gt;Theoretical Computer Science&lt;/em&gt;, 50:1–101, 1987&lt;/li&gt;
 &lt;li&gt;Jean-Yves Girard, Yves Lafont and Paul Taylor, &lt;em&gt;&lt;a href=&#34;http://www.paultaylor.eu/stable/Proofs+Types.html&#34;&gt;Proofs and Types&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 1989&lt;/li&gt;
 &lt;li&gt;Joachim Lambek, “&lt;a href=&#34;http://www.jstor.org/stable/2310058&#34;&gt;The Mathematics of Sentence Structure&lt;/a&gt;,” &lt;em&gt;American Mathematical Monthly&lt;/em&gt;, 65(3):154–170, 1958&lt;/li&gt;
@@ -796,17 +796,17 @@
 &lt;li&gt;Arnon Avron, “&lt;a href=&#34;http://link.springer.com/article/10.1007/BF01531058&#34;&gt;Hypersequents, logical consequence and intermediate logics for concurrency&lt;/a&gt;,” &lt;em&gt;Annals of Mathematics and Artificial intelligence&lt;/em&gt;, 4:225–248, 1991.&lt;/li&gt;
 &lt;li&gt;Arnon Avron, “&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=23698822FD590FB4FAAF5D33AA1BC365?doi=10.1.1.39.9225&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;The method of hypersequents in the proof theory of propositional non-classical logics&lt;/a&gt;” in &lt;em&gt;Logic&lt;/em&gt;: &lt;em&gt;From Foundations to Applications&lt;/em&gt;, W. Hodges, et al., 1996, Oxford Science Publication, Oxford, pp. 1–32&lt;/li&gt;
 &lt;li&gt;Francesca Poggiolesi, &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Gentzen-Calculi-Modal-Propositional-Author/dp/B010BCHPNQ/consequentlyorg&#34;&gt;Gentzen Calculi for Modal Propositional Logic&lt;/a&gt;&lt;/em&gt;, Springer, 2011.&lt;/li&gt;
-&lt;li&gt;Francesca Poggiolesi and Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/interp-apply-ptml&#34;&gt;Interpreting and Applying Proof Theory for Modal Logic&lt;/a&gt;,” &lt;em&gt;New Waves in Philosophical Logic&lt;/em&gt;, ed. Greg Restall and Gillian Russell, Palgrave MacMillan, 2012.&lt;/li&gt;
+&lt;li&gt;Francesca Poggiolesi and Greg Restall, “&lt;a href=&#34;https://www.consequently.org/writing/interp-apply-ptml&#34;&gt;Interpreting and Applying Proof Theory for Modal Logic&lt;/a&gt;,” &lt;em&gt;New Waves in Philosophical Logic&lt;/em&gt;, ed. Greg Restall and Gillian Russell, Palgrave MacMillan, 2012.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;hypersequents-for-s5-actuality-and-2d-modal-logics&#34;&gt;Hypersequents for S5, Actuality and 2D Modal Logics&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Francesca Poggiolesi, “&lt;a href=&#34;http://dx.doi.org/10.1017/S1755020308080040&#34;&gt;A Cut-Free Simple Sequent Calculus for Modal Logic S5&lt;/a&gt;,” &lt;em&gt;Review of Symbolic Logic&lt;/em&gt; 1:1, 3–15, 2008.&lt;/li&gt;
-&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/s5nets&#34;&gt;Proofnets for S5: sequents and circuits for modal logic&lt;/a&gt;,”
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://www.consequently.org/writing/s5nets&#34;&gt;Proofnets for S5: sequents and circuits for modal logic&lt;/a&gt;,”
 &lt;em&gt;Logic Colloquium 2005&lt;/em&gt;, ed. C. Dimitracopoulos, L. Newelski, D. Normann and J. R. Steel, Cambridge University Press, 2008.&lt;/li&gt;
 &lt;li&gt;Kaja Bednarska and Andrzej Indrzejczak, “&lt;a href=&#34;http://dx.doi.org/10.12775/LLP.2015.018x&#34;&gt;Hypersequent Calculi for S5: the methods of cut elimination&lt;/a&gt;” &lt;em&gt;Logic and Logical Philosophy&lt;/em&gt;, 24, 277–311, 2015.&lt;/li&gt;
-&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/cfss2dml&#34;&gt;A Cut-Free Sequent System for Two Dimensional Modal Logic, and why it matters&lt;/a&gt;,” &lt;em&gt;Annals of Pure and Applied Logic&lt;/em&gt;, 163:11, 1611–1623, 2012.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://www.consequently.org/writing/cfss2dml&#34;&gt;A Cut-Free Sequent System for Two Dimensional Modal Logic, and why it matters&lt;/a&gt;,” &lt;em&gt;Annals of Pure and Applied Logic&lt;/em&gt;, 163:11, 1611–1623, 2012.&lt;/li&gt;
 &lt;li&gt;Martin Davies, “&lt;a href=&#34;http://www.jstor.org/stable/4321462&#34;&gt;Reference, Contingency, and the Two-Dimensional Framework&lt;/a&gt;,” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 118(1):83–131, 2004.&lt;/li&gt;
 &lt;li&gt;Martin Davies and Lloyd Humberstone, “&lt;a href=&#34;http://www.jstor.org/stable/4319391&#34;&gt;Two Notions of Necessity&lt;/a&gt;,” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 38(1):1–30, 1980.&lt;/li&gt;
 &lt;li&gt;Lloyd Humberstone, “&lt;a href=&#34;http://www.jstor.org/stable/4321460&#34;&gt;Two-Dimensional Adventures&lt;/a&gt;,” &lt;em&gt;Philosohical Studies&lt;/em&gt;, 118(1):257–277, 2004.&lt;/li&gt;
@@ -819,13 +819,13 @@
 &lt;li&gt;Nuel Belnap, “&lt;a href=&#34;http://www.jstor.org/stable/3326862&#34;&gt;Tonk, Plonk and Plink&lt;/a&gt;,” &lt;em&gt;Analysis&lt;/em&gt;, 22(6): 130–134, 1962.&lt;/li&gt;
 &lt;li&gt;Nuel Nelnap “&lt;a href=&#34;https://www.researchgate.net/profile/Nuel_Belnap/publication/225896511_Declaratives_are_not_enough/links/53f645c90cf2fceacc7128ff.pdf&#34;&gt;Declaratives Are Not Enough&lt;/a&gt;.” &lt;em&gt;Philosophical Studies&lt;/em&gt;, 59(1): 1–30, 1990.&lt;/li&gt;
 &lt;li&gt;Jaroslav Peregrin “&lt;a href=&#34;https://jarda.peregrin.cz/mybibl/PDFTxt/526.pdf&#34;&gt;An Inferentialist Approach to Semantics: Time for a New Kind of Structuralism?&lt;/a&gt;” &lt;em&gt;Philosophy Compass&lt;/em&gt;, 3(6): 1208–1223, 2008.&lt;/li&gt;
-&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;” pp. 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by P. Ha&amp;#x301;jek, L. Valde&amp;#x301;s-Villanueva and D. Westersta&amp;#x30A;hl, KCL Publications, 2005.&lt;/li&gt;
-&lt;li&gt;Greg Restall, “&lt;a href=&#34;http://consequently.org/writing/tvpt&#34;&gt;Truth Values and Proof Theory&lt;/a&gt;” &lt;em&gt;Studia Logica&lt;/em&gt;, 92(2):241–264, 2009.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://www.consequently.org/writing/multipleconclusions/&#34;&gt;Multiple Conclusions&lt;/a&gt;” pp. 189–205 in &lt;em&gt;Logic, Methodology and Philosophy of Science&lt;/em&gt;: &lt;em&gt;Proceedings of the Twelfth International Congress&lt;/em&gt;, edited by P. Ha&amp;#x301;jek, L. Valde&amp;#x301;s-Villanueva and D. Westersta&amp;#x30A;hl, KCL Publications, 2005.&lt;/li&gt;
+&lt;li&gt;Greg Restall, “&lt;a href=&#34;https://www.consequently.org/writing/tvpt&#34;&gt;Truth Values and Proof Theory&lt;/a&gt;” &lt;em&gt;Studia Logica&lt;/em&gt;, 92(2):241–264, 2009.&lt;/li&gt;
 &lt;li&gt;Raymond Smullyan, &lt;em&gt;First-Order Logic&lt;/em&gt;. Springer-Verlag, 1968.&lt;/li&gt;
 &lt;li&gt;Gaisi Takeuti, &lt;em&gt;Proof Theory&lt;/em&gt;, 2nd edition. Elsevier, 1987.&lt;/li&gt;
 &lt;li&gt;Michael Kremer “&lt;a href=&#34;http://www.jstor.org/stable/30226394&#34;&gt;Kripke and the Logic of Truth&lt;/a&gt;.” &lt;em&gt;Journal of Philosophical Logic&lt;/em&gt;, 17:225–278, 1988&lt;/li&gt;
 &lt;li&gt;Sara Negri and Jan von Plato, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Structural-Proof-Theory-Professor-Negri/dp/0521793076/consequentlyorg&#34;&gt;Structural Proof Theory&lt;/a&gt;&lt;/em&gt;, Cambridge University Press, 2002.&lt;/li&gt;
-&lt;li&gt;Greg Restall “&lt;a href=&#34;http://consequently.org/writing/adnct/&#34;&gt;Assertion, Denial and Non-Classical Theories&lt;/a&gt;.” In &lt;em&gt;&lt;a href=&#34;http://link.springer.com/book/10.1007/978-94-007-4438-7&#34;&gt;Paraconsistency: Logic and Applications&lt;/a&gt;&lt;/em&gt;, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013&lt;/li&gt;
+&lt;li&gt;Greg Restall “&lt;a href=&#34;https://www.consequently.org/writing/adnct/&#34;&gt;Assertion, Denial and Non-Classical Theories&lt;/a&gt;.” In &lt;em&gt;&lt;a href=&#34;http://link.springer.com/book/10.1007/978-94-007-4438-7&#34;&gt;Paraconsistency: Logic and Applications&lt;/a&gt;&lt;/em&gt;, edited by Koji Tanaka, Francesco Berto, Edwin Mares and Francesco Paoli, pp. 81–99, 2013&lt;/li&gt;
 &lt;li&gt;Anne Troelstra and Helmut Schwichtenberg, &lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Anne-S-Troelstra-Paperback-Revised/dp/B01FOD9MFG/consequentlyorg&#34;&gt;Basic Proof Theory&lt;/a&gt;&lt;/em&gt;, 2nd ed. Cambridge University Press, 2000.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -833,7 +833,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://ruccs.rutgers.edu/nasslli2016&#34;&gt;&lt;span class=&#34;caps&#34;&gt;nasslli&lt;/span&gt; 2016&lt;/a&gt;, Rutgers, July 2016.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consequently.org/handouts/PTLPA-NASSLLI-2016-proposal.pdf&#34;&gt;Class Proposal&lt;/a&gt;, containing our draft class outline.&lt;/li&gt;
 &lt;/ul&gt;
 ]]></description>
     </item>
@@ -841,23 +841,23 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>https://consequently.org/class/2016/unib10002/</link>
+      <link>https://www.consequently.org/class/2016/unib10002/</link>
       <pubDate>Mon, 29 Feb 2016 00:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2016/unib10002/</guid>
+      <guid>https://www.consequently.org/class/2016/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleagues Dr. Shawn Standefer and Dr. Jen Davoren, with help from Prof. Lesley Stirling (Linguistics), Dr. Peter Schachte (Computer Science) and Dr. Daniel Murfet (Mathematics).&lt;/p&gt;
 
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://www.consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://www.consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>https://consequently.org/class/2015/phil20030/</link>
+      <link>https://www.consequently.org/class/2015/phil20030/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2015/phil20030/</guid>
+      <guid>https://www.consequently.org/class/2015/phil20030/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL20030&lt;/span&gt;: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we look at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -875,10 +875,10 @@
  
     <item>
       <title>PHIL40013: Uncertainty, Vagueness and Disagreement</title>
-      <link>https://consequently.org/class/2015/phil40013/</link>
+      <link>https://www.consequently.org/class/2015/phil40013/</link>
       <pubDate>Mon, 27 Jul 2015 00:00:00 &#43;1100</pubDate>
       
-      <guid>https://consequently.org/class/2015/phil40013/</guid>
+      <guid>https://www.consequently.org/class/2015/phil40013/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL40013&lt;/span&gt;: Uncertainty, Vagueness and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2015, I will cover some topic introducing logic and its applications to issues in metaphysics, epistemology or philosophy of language. For further information, contact me. To participate, check &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL40013&#34;&gt;the handbook&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
@@ -886,10 +886,10 @@
  
     <item>
       <title>Logic: Language and Information 2</title>
-      <link>https://consequently.org/class/2015/logic2_coursera/</link>
+      <link>https://www.consequently.org/class/2015/logic2_coursera/</link>
       <pubDate>Tue, 14 Apr 2015 18:00:00 &#43;1100</pubDate>
       
-      <guid>https://consequently.org/class/2015/logic2_coursera/</guid>
+      <guid>https://www.consequently.org/class/2015/logic2_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic: Language and Information 2&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic2&#34;&gt;here&lt;/a&gt;. This course follows on from &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;Logic: Language and Information 1&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 ]]></description>
     </item>
@@ -897,35 +897,35 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>https://consequently.org/class/2015/unib10002/</link>
+      <link>https://www.consequently.org/class/2015/unib10002/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2015/unib10002/</guid>
+      <guid>https://www.consequently.org/class/2015/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;UNIB10002&lt;/span&gt;: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
-&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject is taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://www.consequently.org/class/2015/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://www.consequently.org/class/2015/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>https://consequently.org/class/2015/phil30043/</link>
+      <link>https://www.consequently.org/class/2015/phil30043/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2015/phil30043/</guid>
+      <guid>https://www.consequently.org/class/2015/phil30043/</guid>
       <description>&lt;![CDATA[
 
 &lt;p&gt;&lt;strong&gt;&lt;span class=&#34;caps&#34;&gt;PHIL30043&lt;/span&gt;: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;University of Melbourne undergraduate subject&lt;/a&gt;. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
+    &lt;img src=&#34;https://www.consequently.org/images/godel.jpg&#34; alt=&#34;Kurt Godel, seated&#34;&gt;
     &lt;figcaption&gt;Kurt Gödel, seated&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The subject is taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2015/PHIL30043&#34;&gt;here&lt;/a&gt;. I make use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Download the &lt;a href=&#34;https://consequently.org/handouts/Subject-Guide-PHIL30043-in-2015.pdf&#34;&gt;course guide&lt;/a&gt; (303KB PDF).&lt;/p&gt;
+&lt;p&gt;Download the &lt;a href=&#34;https://www.consequently.org/handouts/Subject-Guide-PHIL30043-in-2015.pdf&#34;&gt;course guide&lt;/a&gt; (303KB PDF).&lt;/p&gt;
 
 &lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;
 
@@ -997,10 +997,10 @@
  
     <item>
       <title>Logic: Language and Information 1</title>
-      <link>https://consequently.org/class/2015/logic1_coursera/</link>
+      <link>https://www.consequently.org/class/2015/logic1_coursera/</link>
       <pubDate>Tue, 24 Feb 2015 18:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2015/logic1_coursera/</guid>
+      <guid>https://www.consequently.org/class/2015/logic1_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I are running &lt;em&gt;Logic Language and Information 1&lt;/em&gt; through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; again in 2015. You can enrol &lt;a href=&#34;https://www.coursera.org/course/logic1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
@@ -1008,10 +1008,10 @@
  
     <item>
       <title>PHIL30043: The Power and Limits of Logic</title>
-      <link>https://consequently.org/class/2014/phil30043/</link>
+      <link>https://www.consequently.org/class/2014/phil30043/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/phil30043/</guid>
+      <guid>https://www.consequently.org/class/2014/phil30043/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL30043: The Power and Limits of Logic&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. It covers the metatheory of classical first order predicate logic, beginning at the &lt;em&gt;Soundness&lt;/em&gt; and &lt;em&gt;Completeness&lt;/em&gt; Theorems (proved not once but &lt;em&gt;twice&lt;/em&gt;, first for a tableaux proof system for predicate logic, then a Hilbert proof system), through the &lt;em&gt;Deduction Theorem&lt;/em&gt;, &lt;em&gt;Compactness&lt;/em&gt;, &lt;em&gt;Cantor&amp;rsquo;s Theorem&lt;/em&gt;, the &lt;em&gt;Downward L&amp;ouml;wenheim&amp;ndash;Skolem Theorem&lt;/em&gt;, &lt;em&gt;Recursive Functions&lt;/em&gt;, &lt;em&gt;Register Machines&lt;/em&gt;, &lt;em&gt;Representability&lt;/em&gt; and ending up at &lt;em&gt;G&amp;ouml;del&amp;rsquo;s Incompleteness Theorems&lt;/em&gt; and &lt;em&gt;L&amp;ouml;b&amp;rsquo;s Theorem&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL30043&#34;&gt;here&lt;/a&gt;. I made use of video lectures I have made &lt;a href=&#34;http://vimeo.com/album/2262409&#34;&gt;freely available on Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -1021,10 +1021,10 @@
  
     <item>
       <title>PHIL10003: Philosophy, the Great Thinkers</title>
-      <link>https://consequently.org/class/2014/phil10003/</link>
+      <link>https://www.consequently.org/class/2014/phil10003/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/phil10003/</guid>
+      <guid>https://www.consequently.org/class/2014/phil10003/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL10003: Philosophy, the Great Thinkers&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject, introducing philosophy to students through close readings of core texts. I taught with Dr. Chris Cordner and Dr. Ruth Boeker. In my classes, we looked at David Hume&amp;rsquo; &lt;a href=&#34;http://davidhume.org/texts/dnr.html&#34;&gt;&lt;em&gt;Dialogues Concerning Natural Religion&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://ebooks.adelaide.edu.au/h/hume/david/h92n/contents.html&#34;&gt;&lt;em&gt;Natural History of Religion&lt;/em&gt;&lt;/a&gt;, with some side trips into hume&amp;rsquo;s &lt;a href=&#34;http://davidhume.org/texts/ehu.html&#34;&gt;&lt;em&gt;Enquiry&lt;/em&gt;&lt;/a&gt;, and some Marx, Wittgenstein for good measure.&lt;/p&gt;
 
 &lt;p&gt;The subject was taught to University of Melbourne undergraduate students (for Arts students as a part of the Philosophy major, for non-Arts students, as a breadth subject). Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/PHIL10003&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1034,10 +1034,10 @@
  
     <item>
       <title>Proof Theory and Philosophy</title>
-      <link>https://consequently.org/class/2014/ptp-nip/</link>
+      <link>https://www.consequently.org/class/2014/ptp-nip/</link>
       <pubDate>Wed, 25 Jun 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/ptp-nip/</guid>
+      <guid>https://www.consequently.org/class/2014/ptp-nip/</guid>
       <description>&lt;![CDATA[&lt;p&gt;I taught an intensive class on proof theory and its applications to Philosophy at the &lt;a href=&#34;http://www.abdn.ac.uk/nip/events/event?id=474&#34;&gt;NIP Summer School on the Foundations of Logic and Mathematics&lt;/a&gt;, June&amp;nbsp;July 2014.&lt;/p&gt;
 ]]></description>
     </item>
@@ -1045,10 +1045,10 @@
  
     <item>
       <title>Logic: Language and Information 2</title>
-      <link>https://consequently.org/class/2014/logic2_coursera/</link>
+      <link>https://www.consequently.org/class/2014/logic2_coursera/</link>
       <pubDate>Tue, 22 Apr 2014 00:00:00 &#43;1100</pubDate>
       
-      <guid>https://consequently.org/class/2014/logic2_coursera/</guid>
+      <guid>https://www.consequently.org/class/2014/logic2_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I taught &lt;em&gt;Logic Language and Information 2&lt;/em&gt; (an introduction to predicate logic and its applications) through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; for the first time in 2014. An archive of the material is available  &lt;a href=&#34;https://class.coursera.org/logic2-001&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
@@ -1056,23 +1056,23 @@
  
     <item>
       <title>UNIB10002: Logic, Language and Information</title>
-      <link>https://consequently.org/class/2014/unib10002/</link>
+      <link>https://www.consequently.org/class/2014/unib10002/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/unib10002/</guid>
+      <guid>https://www.consequently.org/class/2014/unib10002/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;UNIB10002: Logic, Language and Information&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate breadth subject, introducing logic and its applications to students from a broad range of disciplines in the Arts, Sciences and Engineering. I coordinate this subject with my colleague Dr. Jen Davoren, with help from Dr. Lesley Stirling and Dr. Peter Schachte.&lt;/p&gt;
 
-&lt;p&gt;The subject was taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://consequently.org/class/2014/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://consequently.org/class/2014/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The subject was taught to University of Melbourne undergraduate students. Details for enrolment are &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/UNIB10002&#34;&gt;here&lt;/a&gt;. We teach this in a &amp;lsquo;flipped classroom&amp;rsquo; model, using resources from our Coursera subjects &lt;a href=&#34;https://www.consequently.org/class/2014/logic1_coursera&#34;&gt;Logic 1&lt;/a&gt; and &lt;a href=&#34;https://www.consequently.org/class/2014/logic2_coursera&#34;&gt;Logic 2&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
     
  
     <item>
       <title>PHIL40007: Philosophy of Language and Mind</title>
-      <link>https://consequently.org/class/2014/phil40007/</link>
+      <link>https://www.consequently.org/class/2014/phil40007/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/phil40007/</guid>
+      <guid>https://www.consequently.org/class/2014/phil40007/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL40007: Philosophy of Language and Mind&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; honours seminar subject for fourth-year students. Our aim in the Honours program is to introduce students to current work in research in Philosophy. In 2014, I introduced the students to the normative pragmatism and inferentialism of Robert Brandom, through a close reading of his book &lt;a href=&#34;http://www.amazon.com/Articulating-Reasons-An-Introduction-Inferentialism/dp/0674006925/consequentlyorg&#34;&gt;&lt;em&gt;Articulating Reasons&lt;/em&gt;&lt;/a&gt; and related literature.&lt;/p&gt;
 ]]></description>
     </item>
@@ -1080,10 +1080,10 @@
  
     <item>
       <title>PHIL20030: Meaning, Possibility and Paradox</title>
-      <link>https://consequently.org/class/2014/phil20030/</link>
+      <link>https://www.consequently.org/class/2014/phil20030/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>https://consequently.org/class/2014/phil20030/</guid>
+      <guid>https://www.consequently.org/class/2014/phil20030/</guid>
       <description>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;PHIL20030: Meaning, Possibility and Paradox&lt;/strong&gt; is a &lt;a href=&#34;http://unimelb.edu.au&#34;&gt;University of Melbourne&lt;/a&gt; undergraduate subject. The idea that the meaning of a sentence depends on the meanings of its parts is fundamental to the way we understand logic, language and the mind. In this subject, we looked at the different ways that this idea has been applied in logic throughout the 20th Century and into the present day.&lt;/p&gt;
 
 &lt;p&gt;In the first part of the subject, our focus is on the concepts of necessity and possibility, and the way that &amp;lsquo;possible worlds semantics&amp;rsquo; has been used in theories of meaning. We will focus on the logic of necessity and possibility (modal logic), times (temporal logic), conditionality and dependence (counterfactuals), and the notions of analyticity and a priority so important to much of philosophy.&lt;/p&gt;
@@ -1099,10 +1099,10 @@
  
     <item>
       <title>MULT10016: Reason</title>
-      <link>https://consequently.org/class/2014/mult10016/</link>
+      <link>https://www.consequently.org/class/2014/mult10016/</link>
       <pubDate>Mon, 03 Mar 2014 00:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2014/mult10016/</guid>
+      <guid>https://www.consequently.org/class/2014/mult10016/</guid>
       <description>&lt;![CDATA[&lt;p&gt;In 2014, I participated in the Arts Foundation subject &lt;a href=&#34;https://handbook.unimelb.edu.au/view/2014/MULT10016&#34;&gt;MULT10016: Reason&lt;/a&gt;. I taught six classes, on Plato, Aristotle and Hume.&lt;/p&gt;
 ]]></description>
     </item>
@@ -1110,10 +1110,10 @@
  
     <item>
       <title>Logic: Language and Information 1</title>
-      <link>https://consequently.org/class/2014/logic1_coursera/</link>
+      <link>https://www.consequently.org/class/2014/logic1_coursera/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 AEDT</pubDate>
       
-      <guid>https://consequently.org/class/2014/logic1_coursera/</guid>
+      <guid>https://www.consequently.org/class/2014/logic1_coursera/</guid>
       <description>&lt;![CDATA[&lt;p&gt;Jen Davoren and I taught &lt;em&gt;Logic Language and Information 1&lt;/em&gt; (an introduction to propositional logic and its applications) through &lt;a href=&#34;http://coursera.org&#34;&gt;Coursera&lt;/a&gt; for the first time in 2014. An archive of the material is available  &lt;a href=&#34;https://class.coursera.org/logic1-001&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 ]]></description>
     </item>
