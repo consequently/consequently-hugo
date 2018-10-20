@@ -1,9 +1,9 @@
-baseurl = "http://consequently.org"
+baseurl = "https://www.consequently.org"
 languageCode = "en-us"
 title = "consequently.org: Greg Restall’s website"
-RSSLink = "http://consequently.org/index.xml"
+RSSLink = "https://www.consequently.org/index.xml"
 
 [params]
    description = "Greg Restall’s website"
    author = "Greg Restall"
-   rssLimit = 20
+   rssLimit = 50
