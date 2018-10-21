@@ -5,7 +5,7 @@ description = "An introduction to some of the changes I have made to make this s
 largeimage = false
 +++
 
-If you've been following my [travels](/presentations/), you'll get some sense that this has been a busy year. I’ve done lots of writing on my [book](/writing/ptrm), and I've managed to give lots of talks, both in the US and in Argentina, as well as at home. I haven’t posted here for nearly a year--writing elsewhere has been a higher priority.
+If you've been following my [travels](/presentation/), you'll get some sense that this has been a busy year. I’ve done lots of writing on my [book](/writing/ptrm), and I've managed to give lots of talks, both in the US and in Argentina, as well as at home. I haven’t posted here for nearly a year--writing elsewhere has been a higher priority.
 
 However, this weekend, I've made a few changes to the website which means that I might post here a little more often. The site is produced by [Hugo](http://gohugo.io), a really sweet static site generator. Until yesterday, if I wanted to update my site, what I did was 
 
