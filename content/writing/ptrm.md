@@ -31,7 +31,7 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <li> And then apply these results to issues concerning meaning, epistemology and metaphysics, including issues of logical consequence and rationality, the problem of absolute generality, and the status of modality.
 </ol>
 
-<p>Here is an outline of the manuscript, showing how the parts hold together. At least so far---I'm still writing the third part.</p>
+<p>Here is an outline of the manuscript, showing how the parts hold together. At least so far -- I'm still writing the third part.</p>
 
 <figure>
 	<img src="/images/ptrm-map.png" alt="Outline of the book Proof Theory, Rules and Meaning">
@@ -45,4 +45,4 @@ The book is in three parts.
 </ol>
 
 
-Are you interested in getting a look at the draft? The best way to do that is to come to [this symposium](http://ba-logic.com/workshops/symposium-restall/) in Buenos Aires in July 2018, where we'll be discussing it.
+The book draft was discussed at [this symposium](http://ba-logic.com/workshops/symposium-restall/) in Buenos Aires in July 2018. I'm currently finalising the last section of the book, and updating the whole manuscript based on the feedback I got there from colleagues.
