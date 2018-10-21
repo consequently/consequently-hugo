@@ -11,4 +11,4 @@ publishdate = "2018-10-21"
 In this lecture, I will explain some of the surprising features of these generalisations. Then he will apply some of the tools developed by philosophers of language over the last decades, in order to understand why generalisations and stereotypes are so pervasive; why they can behave so strangely and can sometimes lead us astray; and finally, to learn how we can use generalisations and stereotypes productively in our thinking and our communication.
 
 
-* This is a [free public lecture at the University of Melbourne](https://events.unimelb.edu.au/events/11429-truth-and-stereotypes). 
+* This is a [free public lecture at the University of Melbourne](https://events.unimelb.edu.au/events/11429-truth-and-stereotypes), held at 7pm in the Kathleen Fitzpatrick Lecture Theatre (Arts West). Although it's free, it's a good idea to [book tickets](http://alumni.online.unimelb.edu.au/GRestall).
