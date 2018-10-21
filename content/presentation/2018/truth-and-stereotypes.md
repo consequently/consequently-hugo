@@ -2,7 +2,7 @@
 date = "2018-10-30T19:00:00+11:00"
 title = "Truth and Stereotypes"
 host = "Public Lecture at the University of Melbourne"
-publishdate = "2018-10-22"
+publishdate = "2018-10-21"
 
 +++
 
