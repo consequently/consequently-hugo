@@ -20,6 +20,6 @@ Here's where [Netlify](http://netlify.com) comes in. It's a continuous integrati
 
 So, over the weekend I've set things up, flipped the switches, and if you're reading this, you’re reading the first entry written on my iPad and served up through the Netlify CI service.
 
-The next step is to write some little [Shortcuts](https://support.apple.com/en-us/HT208309) which make the job of creating new entries in the [News](/news/), [Writing](/writing/), [Class](/class/) and [Presentation](/presentation/) categories, with the datestamps and other boilerplate set automatically, even quicker, so there's less friction in making new entries. I've done the first draft of the ``News'' shortcut already, and if you can see this entry, it means it's worked.
+The next step is to write some little [Shortcuts](https://support.apple.com/en-us/HT208309) which make the job of creating new entries in the [News](/news/), [Writing](/writing/), [Class](/class/) and [Presentation](/presentation/) categories, with the datestamps and other boilerplate set automatically, even quicker, so there's less friction in making new entries. I've done the first draft of the "News" shortcut already, and if you can see this entry, it means it's worked.
 
 As always, this is a work in progress, and probably things broke as I shifted things around. If you notice anything broken, please let me know. Thanks!
