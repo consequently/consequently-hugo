@@ -4,14 +4,14 @@ title: Substructural Logics
 author: Greg Restall
 published: true
 type: published
-status: Published in 2000
-citation: "&ldquo;<a href=\"http://plato.stanford.edu/entries/logic-substructural/\">Substructural Logics</a>&rdquo; an entry in the <a href=\"http://plato.stanford.edu\">Stanford Encyclopedia of Philosophy</a>, 2000."
+status: Published in 2000, Substantially Revised in 2018
+citation: "&ldquo;<a href=\"http://plato.stanford.edu/entries/logic-substructural/\">Substructural Logics</a>&rdquo; an entry in the <a href=\"http://plato.stanford.edu\">Stanford Encyclopedia of Philosophy</a>, 2018."
 tag: slintro
 subjects: substructural_logic
 count: 22
 comments: yes	
 date: 2000-03-03
-publishdate: 2000-03-03
+publishdate: 2018-02-21
 filter:
   - erb
   - markdown
