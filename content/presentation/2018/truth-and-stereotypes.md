@@ -12,3 +12,4 @@ In this lecture, I will explain some of the surprising features of these general
 
 
 * This is a [free public lecture at the University of Melbourne](https://events.unimelb.edu.au/events/11429-truth-and-stereotypes), held at 7pm in the Kathleen Fitzpatrick Lecture Theatre (Arts West). Although it's free, it's a good idea to [book tickets](http://alumni.online.unimelb.edu.au/GRestall).
+* The slides for the talk are [available here](/slides/truth-and-stereotypes.pdf)
