@@ -20,6 +20,7 @@ aliases:
   - /writing/ptp/
   - /writing/pc/
   - /writing/pt/
+  - /papers/ptp.pdf
 
 
 ---
@@ -31,7 +32,7 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <li> And then apply these results to issues concerning meaning, epistemology and metaphysics, including issues of logical consequence and rationality, the problem of absolute generality, and the status of modality.
 </ol>
 
-<p>Here is an outline of the manuscript, showing how the parts hold together. At least so far -- I'm still writing the third part.</p>
+<p>Here is an outline of the manuscript, showing how the parts hold together. At least so far &mdash; I'm still writing the third part.</p>
 
 <figure>
 	<img src="/images/ptrm-map.png" alt="Outline of the book Proof Theory, Rules and Meaning">
