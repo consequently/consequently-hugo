@@ -13,7 +13,7 @@ publishdate = "2018-12-07"
 3. *Interpretation*: This theory can be interpreted in an *epistemic* sense, where grounds are our means to access the truth or falsity of a proposition, or a *metaphysical* sense, where grounds show how a proposition is made true by the world.
 4. *Grasp*: Grounds are the kinds of things we can *possess*.
 5. *Hyperintensionality*: Not every ground is a ground for every tautology. A ground for \\(A\\) need not also be a ground for each logical consequence of \\(A\\).
-6. *Structure*: A ground for \\(A\\to B\\) can be seen as a function from grtounds for \\(A\\) to grounds for \\(B\\). A ground for \\(A\\land B\\) can be seen as consisting of a ground for \\(A\\) and a ground for \\(B\\). A ground against \\(A\\lor B\\) can be seen as consisting of a ground against \\(A\\) and a ground against \\(B\\). A ground for \\(\\neg A\\) can be obtained from a ground against \\(A\\), and a ground against \\(\\neg A\\) can be obtained from a ground for \\(A\\).
+6. *Structure*: A ground for \\(A\\to B\\) can be seen as a function from grounds for \\(A\\) to grounds for \\(B\\). A ground for \\(A\\land B\\) can be seen as consisting of a ground for \\(A\\) and a ground for \\(B\\). A ground against \\(A\\lor B\\) can be seen as consisting of a ground against \\(A\\) and a ground against \\(B\\). A ground for \\(\\neg A\\) can be obtained from a ground against \\(A\\), and a ground against \\(\\neg A\\) can be obtained from a ground for \\(A\\).
 
 The result is a model of grounds with significant similarities to the BHK interpretation of constructive logic, but for the classical sequent calculus.
 
