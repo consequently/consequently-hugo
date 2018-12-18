@@ -6,6 +6,7 @@ type: unpublished
 citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; to appear in the <em>Review of Symbolic Logic</em>."
 tag: generality-and-existence-1
 file: generality-and-existence-1.pdf
+doi: 10.1017/S175502031800031X
 subjects: free_logic proof_theory 
 comments: yes
 date: 2017-12-19
