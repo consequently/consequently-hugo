@@ -5,7 +5,7 @@
 	clear: both;
 	height: 0;
 	line-height: 0;
-}</style><title>consequently.org * Occasional Photos</title><body><div id='main1'><div id='middle' style="text-align:center;"><div class='column-in'><h1>Occasional Photos</h1><h2>from <a href="http://consequently.org">consequently.org</a></h2><?phpfunction strip_ext($name) 
+}</style><title>consequently.org * Occasional Photos</title><body><div id='main1'><div id='middle' style="text-align:center;"><div class='column-in'><h1>Occasional Photos</h1><h2>from <a href="https://consequently.org">consequently.org</a></h2><?phpfunction strip_ext($name) 
 { 
      $ext = strrchr($name, '.'); 
      if($ext !== false) 
@@ -44,4 +44,4 @@ function glob_rsort_modtime( $patt ) {
 }
 
 $files = glob_rsort_modtime( '*.jpg' ) ;
-/** echo'<pre>'.print_r($files, true).'</pre>';*/ foreach($files as $filename => $filetime) {if (((date("F, Y",$filetime)) == $cd) == false) {$cd = date("F, Y",$filetime);echo'<div class="clearboth">&nbsp;</div></div><div class="column-in"><h2>Featured in '.$cd.'</h2>';}echo'<div class="photo"><img src="'.$filename.'" /><p>'.strip_ext($filename).'</p></div>';}?> <div class="clearboth">&nbsp;</div></div><div class="column-in"><p class="slug">These extremely lo-res photos are taken with a Sony Ericsson T630.</p><p class="slug">All photos copyright &copy; 2005 <a href="http://consequently.org">Greg Restall</a>.</p><p class="slug" style="color:#f00;">Do not reproduce photos of <em>people</em> without their permission.</p></div></div></div></body></html>
+/** echo'<pre>'.print_r($files, true).'</pre>';*/ foreach($files as $filename => $filetime) {if (((date("F, Y",$filetime)) == $cd) == false) {$cd = date("F, Y",$filetime);echo'<div class="clearboth">&nbsp;</div></div><div class="column-in"><h2>Featured in '.$cd.'</h2>';}echo'<div class="photo"><img src="'.$filename.'" /><p>'.strip_ext($filename).'</p></div>';}?> <div class="clearboth">&nbsp;</div></div><div class="column-in"><p class="slug">These extremely lo-res photos are taken with a Sony Ericsson T630.</p><p class="slug">All photos copyright &copy; 2005 <a href="https://consequently.org">Greg Restall</a>.</p><p class="slug" style="color:#f00;">Do not reproduce photos of <em>people</em> without their permission.</p></div></div></div></body></html>

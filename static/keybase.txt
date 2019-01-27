@@ -5,7 +5,7 @@ https://keybase.io/consequently
 I hereby claim:
 
   * I am an admin of http://consequently.org
-  * I am consequently (https://keybase.io/consequently) on keybase.
+  * I am consequently (http://keybase.io/consequently) on keybase.
   * I have a public key with fingerprint 3FE8 0268 7DE5 21C9 938A  3A78 4D7F 9B72 FB6E 2A9E
 
 To claim this, I am signing this object:

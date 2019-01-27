@@ -3,10 +3,10 @@
   <service>
     <engineName>Movable Type 3.2</engineName> 
     <engineLink>http://www.movabletype.org/</engineLink>
-    <homePageLink>http://consequently.org/im2004/</homePageLink>
+    <homePageLink>https://consequently.org/im2004/</homePageLink>
     <apis>
-      <api name="MetaWeblog" preferred="true" apiLink="http://consequently.org/mt/mt-xmlrpc.cgi" blogID="5" />
-      <api name="Blogger" preferred="false" apiLink="http://consequently.org/mt/mt-xmlrpc.cgi" blogID="5" />
+      <api name="MetaWeblog" preferred="true" apiLink="https://consequently.org/mt/mt-xmlrpc.cgi" blogID="5" />
+      <api name="Blogger" preferred="false" apiLink="https://consequently.org/mt/mt-xmlrpc.cgi" blogID="5" />
     </apis>
   </service>
 </rsd>
