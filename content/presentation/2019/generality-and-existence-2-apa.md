@@ -10,4 +10,4 @@ publishdate = "2019-02-05"
 
 * This is a talk for the Association for Symbolic Logic at the Central Division meeting of the American Philosophical Association, at Denver, Colorado.
 
-* The [slides for the talk are available here](/slides/generality-and-existence-2-slides-apa-screen.pdf), and a version formatted for printing, as a handout, is [available here](/slides/generality-and-existence-2-slides-apa-print.pdf)
+* The [slides for the talk are available here](/slides/generality-and-existence-2-slides-apa-screen.pdf), and a version formatted for printing, as a handout, is [available here](/slides/generality-and-existence-2-slides-apa-print.pdf).
