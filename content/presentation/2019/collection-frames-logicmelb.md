@@ -10,3 +10,4 @@ publishdate = "2019-03-07"
 
 This is joint work with Shawn Standefer.
 
+The talk is a [Melbourne Logic Seminar](https://philevents.org/event/show/69618).
