@@ -9,7 +9,7 @@ file: generality-and-existence-1.pdf
 doi: 10.1017/S175502031800031X
 subjects: free_logic proof_theory 
 comments: yes
-date: 2017-12-19
+date: 2019-03-01
 publishdate: 2019-03-01
 filter:
   - erb
