@@ -3,7 +3,7 @@ title: "Generality and Existence I: Quantification and Free Logic"
 author: Greg Restall
 status: Published in 2019
 type: published
-citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; <em>Review of Symbolic Logic</em>, 12 (2019) 1--29."
+citation: "&ldquo;Generality and Existence I: Quantification and Free Logic,&rdquo; <em>Review of Symbolic Logic</em>, 12 (2019) 1&ndash;29."
 tag: generality-and-existence-1
 file: generality-and-existence-1.pdf
 doi: 10.1017/S175502031800031X
