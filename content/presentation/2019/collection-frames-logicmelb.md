@@ -10,4 +10,6 @@ publishdate = "2019-03-07"
 
 This is joint work with Shawn Standefer.
 
-The talk is a [Melbourne Logic Seminar](https://philevents.org/event/show/69618).
+* The talk is a [Melbourne Logic Seminar](https://philevents.org/event/show/69618).
+
+* The [slides for the talk are available here](/slides/collection-frames-talk-logicmelb.pdf),
