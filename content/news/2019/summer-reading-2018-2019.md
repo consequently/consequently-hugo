@@ -5,6 +5,7 @@ description = "This summer break, I set aside some time to turn off my devices, 
 largeimage = false
 +++
 
+
 This summer break, I set aside some time to turn off my devices, unplug from the internet, and read some honest-to-goodness *books*. Some I received from friends and family as Christmas or Birthday gifts (thanks, Sharon, Zac, Neil!), and some I had accumulated on my “to-read” pile waiting for just the right time.  Here are some short reviews of my summer reading pile, in case you’d like to follow along.
 
 
