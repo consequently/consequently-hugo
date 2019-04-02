@@ -1,5 +1,5 @@
 ---
-title: "Proofs and Models in Naive Property Theory: A Response to Hartry Field's &ldquo;Properties, Propositions and Conditionals&rdquo;"
+title: "Proofs and Models in Naive Property Theory: A Response to Hartry Field's “Properties, Propositions and Conditionals”"
 author: Shawn Standefer, Rohan French and Greg Restall
 status: In Progress
 type: unpublished
