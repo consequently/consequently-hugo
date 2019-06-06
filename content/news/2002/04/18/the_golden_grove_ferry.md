@@ -10,7 +10,7 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/1675.jpg" width="200" height="200" alt="The Golden Grove Ferry" />
+<img src="https://consequently.org/images/1675.jpg" width="200" height="200" alt="The Golden Grove Ferry" />
 <p class="stamp">Circular Quay, March 2002</p>
 
 

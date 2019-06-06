@@ -10,7 +10,7 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/zackaquarium.jpg" width="200" height="200" alt="Zack and Fish" />
+<img src="https://consequently.org/images/zackaquarium.jpg" width="200" height="200" alt="Zack and Fish" />
 <p class="stamp">Zachary admiring the fish, April 2002</p>
 
 

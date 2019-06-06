@@ -10,5 +10,5 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/FlowerBoy.jpg" width="200" height="200" alt="With flowers in his hair..." />
+<img src="https://consequently.org/images/FlowerBoy.jpg" width="200" height="200" alt="With flowers in his hair..." />
 <p>Zachary playing in the back garden today.  October 2002.</p>

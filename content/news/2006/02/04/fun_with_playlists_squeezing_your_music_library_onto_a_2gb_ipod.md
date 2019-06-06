@@ -26,11 +26,11 @@ My aim is to load up my iPod with music and other audio I want to listen to at t
 
 I've set up iTunes to sync some of the playlists on my computer to the iPod.  Here's the setting in the preferences for iTunes:
 
-![playlist settings in iTunes](http://consequently.org/pictures/itunes/ipod_playlist_settings.png)
+![playlist settings in iTunes](https://consequently.org/pictures/itunes/ipod_playlist_settings.png)
 
 I've set the system up to sync playlists to sync *nine* of my playlists onto the iPod.  Here's the list of playlists in the sidebar of the iTunes window.  I've filed them away in the "* iPod Management" folder.
 
-![list of playlists](http://consequently.org/pictures/itunes/list_of_playlists.png)
+![list of playlists](https://consequently.org/pictures/itunes/list_of_playlists.png)
 
 It would be *way* too much work to manage nine playlists each time I wanted to fill my iPod up with music, but this works, since all but one of the playlists is *[smart](http://smartplaylists.com/)* (they're the purple playlists, with gear on the icon).  iTunes updates the playlist and chooses music on the basis of criteria that you set up.  If I want to choose music to put on the iPod, it goes in the (you guessed it) "Choices" playlist.  I've named it with a reminder that I should put around 1GB on there.  (If I put any more on, my playlists will overfill my iPod, and iTunes will tell me that not everything will fit.)   It's usually in the "Choices" playlist that I put entire albums that I'm listening to, or talks I've downloaded that I want to listen to, then file away or delete. This is pretty standard, I suppose.  It's 1GB of my 2GB iPod: It's a bit more than a half of its storage for sound, as I store a few photos (around 186 at the moment: my five star photos from my collection) and my calendar too.  This other stuff takes up a few megabytes.
 
@@ -91,7 +91,7 @@ The result is around 1.74GB (usually less than 1.65GB, with all that approximati
 
 So, that's how tracks get on the iPod.  The _other_ playlists help me access these tracks.  Here's how they fit together.
 
-![playlist chart](http://consequently.org/pictures/itunes/playlist_chart.png)
+![playlist chart](https://consequently.org/pictures/itunes/playlist_chart.png)
 
 The "Everything" playlist contains everything on the five playlists I've mentioned.   (It's a smart playlist just selecting the stuff on the other playlists.)  It's there because I use it to construct my other playlists.  Two are simple.  _?Unrated_ selects tracks from _Everything_ that are yet to be rated.  _!Hits_ selects tracks from _Everything_ that are rated four or five stars.  Sometimes I want to listen to the 4- and 5-star tracks, chosen at random.  This is for when I want to enjoy some music and not particularly worry about _evaluating_ it.  Sometimes I want to evaluate things (I'm sitting in a tram and I want to rate some more of my music so that it's in "the system"), so I use the _?Unrated_ playlist. (The punctuation marks "!" and "?" put these playlists at the top of the list in the iPod.)  Finally, when I'm working and I want to listen to music, most often I want music _without words_, which would compete with the words I'm trying to write.  So, _Instrumental_ picks out tracks from _Everything_ that contain the string "Instrumental" in the comments field.  I've got around to tagging 50% of my music as "Vocal" or "Instrumental", so this is not yet complete.  At the moment "Instrumental" on the iPod contains 500MB of music, chiefly [late Shostakovich String Quartets](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=consequentlyorg&camp=1789&creative=9325&path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0000042HV%2Fqid%3D1139043132%2Fsr%3D1-1%2Fref%3Dsr_1_1%3Fs%3Dclassical%26v%3Dglance%26n%3D5174), some [Keith Jarrett](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=consequentlyorg&camp=1789&creative=9325&path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00002EPJH%2F) and [Anouar Brahem](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=consequentlyorg&camp=1789&creative=9325&path=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00006EXHT%2F), lasting more than 5 hours.
 

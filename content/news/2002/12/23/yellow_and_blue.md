@@ -10,5 +10,5 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/yellowandblue.jpg" width="200" height="200" alt="Yellow and Blue chairs on the Williamstown Ferry..." />
+<img src="https://consequently.org/images/yellowandblue.jpg" width="200" height="200" alt="Yellow and Blue chairs on the Williamstown Ferry..." />
 <p>Chairs on the Williamstown Ferry.  December 2002.</p>

@@ -10,7 +10,7 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/Smile.jpg" width="200" height="200" alt="A Smile" />
+<img src="https://consequently.org/images/Smile.jpg" width="200" height="200" alt="A Smile" />
 <p>A happy boy.  September 2002.</p>
 
 

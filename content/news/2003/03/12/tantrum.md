@@ -10,7 +10,7 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/zacharyhelping.jpg" width="200" height="280" alt="Zachary at work in the Kitchen" /><p>Zachary helping Christine in the Kitchen.  March 2002.</p>
+<img src="https://consequently.org/images/zacharyhelping.jpg" width="200" height="280" alt="Zachary at work in the Kitchen" /><p>Zachary helping Christine in the Kitchen.  March 2002.</p>
 <p>Zachary had a difficult day today, missing his afternoon sleep, and getting a bit cranky as a result.  This evening, as I was cooking dinner for Christine and myself, and supervising Zachary eating his dinner, he decided he&rsquo;d had enough of his meal (i.e., he had fingered it a bit, no more), which he had specifically requested (chicken + vegetable rissole and toast, please), and would much prefer grapes.  The scene continued something like this:</p>
 <p><em>Zachary</em>: &ldquo;Grapes.  Grapes.  More grapes.&rdquo;  Approaches the refrigerator and opens the door.</p>
 <p><em>Daddy</em>: &ldquo;No grapes, Zachary, until you&rsquo;ve had some more of your dinner.  You asked for the chicken, and I think you should eat some more.&rdquo;  Gently shuts the fridge door.</p>

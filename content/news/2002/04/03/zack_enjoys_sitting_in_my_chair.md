@@ -10,4 +10,4 @@ filter:
   - rubypants
 dirty: true
 ---
-<img src="http://consequently.org/images/1674.jpg" width="200" height="200" alt="Zack in my chair" />
+<img src="https://consequently.org/images/1674.jpg" width="200" height="200" alt="Zack in my chair" />

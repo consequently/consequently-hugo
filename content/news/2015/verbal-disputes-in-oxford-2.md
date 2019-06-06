@@ -33,7 +33,7 @@ then I've “pinned down” what there is to know about the conjunction connecti
 This was one of the goals of [Cian Dorr](https://files.nyu.edu/cd50/public/)’s talk “Pinning Down the Meanings of Quantifiers” at the [Verbal Disputes](https://verbaldisputesoxford.wordpress.com) conference, and is a central theme in his paper “[Quantifier Variance and the Collapse Theorems](http://philpapers.org/rec/DORQVA)”. There’s a lot in the paper (it's 67 pages long!), and I won’t engage with most of it, but I’d like to discuss this central theme of the paper here.
 
 <figure>
-	<img src="http://consequently.org/images/mvd-cian.JPG" alt="Cian Dorr">
+	<img src="https://consequently.org/images/mvd-cian.JPG" alt="Cian Dorr">
 	<figcaption>Cian Dorr</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 date = "2019-06-07T12:16:00-06:00"
 title = "Assertions, Denials, Questions, Answers, and the Common Ground"
 host = "Melbourne Logic Seminar"
-publishdate = "2019-06-07"
+publishdate = "2019-06-06"
 
 +++
 

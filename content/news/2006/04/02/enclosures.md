@@ -14,6 +14,6 @@ I've finally added enclosures to my [RSS feed of papers](http://consequently.org
 
 This has the side effect that you can subscribe to me in [iTunes](http://www.apple.com/itunes): 
 
-![Papers in iTunes](http://consequently.org/pictures/papers_in_itunes.png)
+![Papers in iTunes](https://consequently.org/pictures/papers_in_itunes.png)
 
 That is *weird*.  (I wonder if I should submit this podcast to the iTunes Music Store?)

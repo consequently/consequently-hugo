@@ -10,5 +10,5 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/1678.jpg" width="200" height="200" alt="Seagull">
+<img src="https://consequently.org/images/1678.jpg" width="200" height="200" alt="Seagull">
 <p class="stamp">Manly, January 2002</p>

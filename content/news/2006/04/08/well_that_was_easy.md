@@ -13,7 +13,7 @@ dirty: true
 
 Sometimes technologies can be use for purposes the inventors didn't really intend.  I'm sure that when the designers of the iTunes music store set the thing up, they didn't expect that you'd be able to use it to download esoteric papers in philosophical logic.  But you can.
 
-<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=138002605&s=143460">![consequently.org/writing in iTunes](http://consequently.org/pictures/consequentlyorg_in_itunes.png)</a>
+<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=138002605&s=143460">![consequently.org/writing in iTunes](https://consequently.org/pictures/consequentlyorg_in_itunes.png)</a>
 
 All I had to do was submit the [RSS feed of my papers](http://consequently.org/writing/index.xml) to the iTunes store [on this form](https://phobos.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast), after tweaking it to include the [information that the iTunes store is looking for](http://www.apple.com/itunes/podcasts/techspecs.html).  A day later, there it is.  Now you can use iTunes to automatically download any papers I write.  (Though, you can't yet get them automatically downloaded onto your iPod for you to read, as the iPod doesn't have a pdf reader -- at least not yet.)
 

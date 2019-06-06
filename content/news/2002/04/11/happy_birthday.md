@@ -10,7 +10,7 @@ filter:
 dirty: true
 ---
 
-<img src="http://consequently.org/images/mirror.jpg" width="200" height="200" alt="Taking a Photo" />
+<img src="https://consequently.org/images/mirror.jpg" width="200" height="200" alt="Taking a Photo" />
 <p>
 Happy Birthday, Zachary!  You're the picture of a happy one-year-old.
 </p>
