@@ -15,4 +15,4 @@ I will argue that both of these concerns can be assuaged if we pay closer attent
 
 * The talk is a [Melbourne Logic Seminar](https://philevents.org/event/show/73102).
 
-* The [slides for the talk are available here](/slides/asserion-denial-qa-comnmon-ground-slides-logicmelb.pdf).
+* The [slides for the talk are available here](/slides/assertion-denial-qa-common-ground-slides-logicmelb.pdf).
