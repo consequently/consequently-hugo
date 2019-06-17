@@ -15,4 +15,4 @@ I will argue that both of these concerns can be assuaged if we pay closer attent
 
 * The talk is a [Seminar at the Munich Centre for Mathematical Philosophy](https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/restall_20190618/index.html).
 
-* The [slides for the talk are available here](/slides/assertion-denial-qa-common-ground-slides-mcmp.pdf), and the [handout is here](/handouts/assertion-denial-qa-common-ground-handout-mcmp.pdf)
+* The [slides for the talk are available here](/slides/assertion-denial-qa-common-ground-slides-mcmp.pdf), and the [handout is here](/handouts/assertion-denial-qa-common-ground-handout-mcmp.pdf).
