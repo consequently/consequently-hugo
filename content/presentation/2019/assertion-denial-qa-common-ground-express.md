@@ -5,7 +5,7 @@ host: EXPRESS Workshop
 publishdate: 2019-06-13
 date: 2019-06-22T12:11:45+01:00
 aliases:
-  - /presentation/2019/assertion-denial-qa-comnmon-ground-logicmelb
+  - /presentation/2019/assertion-denial-qa-comnmon-ground-express
 ---
 
 
