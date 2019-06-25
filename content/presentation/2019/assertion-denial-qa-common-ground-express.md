@@ -9,7 +9,7 @@ aliases:
 ---
 
 
-*Abstract*: In this talk, I examine some of the interconnections between norms governing assertion, denial, questions and answers, and the common ground of a discourse. When we pay attention to the structure of norms governing polar (yes/no) questions, we can clarify the distinction between strong and weak denials, together with the parallel distinction between strong and weak assertion, and the way that these speech acts interact with the common ground.
+*Abstract*: In this talk, I examine some of the interconnections between norms governing assertion, denial, questions and answers, and the common ground of a discourse. When we pay attention to the structure of norms governing polar (yes/no) questions, we can clarify the distinction between strong and weak denials, together with the parallel distinction between strong and weak assertion, and the way that these speech acts interact with the common ground. 
 
 
 With those connections established, I respond to two criticisms of the program sketched out in my 2005 paper &ldquo;Multiple Conclusions&rdquo;. First, that understanding the upshot of a valid sequent *X* &#x22A2; *Y* as enjoining us to not assert each member of *X* and deny each member of *Y* is altogether too weak to explain the inferential force of logical validity. Deriving *X* &#x22A2; *A* should tell us, after all, something about justifying *A* on the basis of *X*, rather than merely prohibiting *A*&rsquo;s denial. Where is the force to actually conclude the conclusion of a proof? A second, related criticism is that the format of multiple conclusion sequents seems unsatisfactory, in that it has no place for distinguishing a single conclusion, and proofs, after all, seem to be proofs of individual claims. 
