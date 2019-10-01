@@ -18,4 +18,4 @@ I will argue that both of these concerns can be assuaged if we pay closer attent
 
 * The talk is an invited address at the [Workshop on Bilateral Approches to Meaning](https://inferentialexpressivism.com/workshop/), at the University of Amsterdam.
 
-* The [slides for the talk are available here](/slides/assertion-denial-qa-common-ground-slides-express.pdf), and the [handout is here](/handouts/assertion-denial-qa-common-ground-handout-express.pdf).
+* The [slides for the talk are available here](/slides/assertion-denial-qa-common-ground-slides-express.pdf), and the [handout is here](/handouts/assertion-denial-qa-common-ground-handout-express.pdf). 
