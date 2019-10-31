@@ -1,10 +1,9 @@
 ---
-title: What's So Special About Logic? Practices, Rules and Definitions
+title: What's So Special About Logic? date: "2019-11-01T16:00:00+11:00"
+Practices, Rules and Definitions
 author: Greg Restall
 host: Melbourne Logic Group
 publishdate: 2019-10-31
-date: 
-2019-11-01T16:00:00+11:00
 ---
 
 
