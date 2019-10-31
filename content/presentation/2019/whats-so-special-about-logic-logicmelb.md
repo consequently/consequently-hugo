@@ -11,4 +11,4 @@ author = "Greg Restall"
 
 * The talk is an presentation at [Melbourne Logic Day 2019](https://philevents.org/event/show/76846).
 
-* The [slides for the talk are available here](/slides/what-so-special-about-logic-logicmelb.pdf). 
+* The [slides for the talk are available here](/slides/whats-so-special-about-logic-logicmelb.pdf). 
