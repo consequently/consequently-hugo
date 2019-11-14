@@ -33,7 +33,6 @@ We've tried to design a subject that addresses concerns like these. We are nowhe
 
     The remaining 40% of the assessment was two projects. The second project was on quantified modal logic and Ruth Barcan Marcus, as I mentioned, and the first was on  truth tables and proofs for three-valued logics, and the ways these could be used to model different sorts of phenomena. Both of these projects were clearly related to the work they'd done in class, but they allowed students to reach beyond what they'd practiced, and learn to apply their skills in different environments. The results have been much better than we had expected they'd be. The students loved being stretched, they took things seriously, and wrote quality work. Passing turned out to be relatively easy, if they put in the effort to grind. Then with the fear of passing dealt with, they could make the effort to excel if they wanted to. From the looks of it, almost all of them *really* wanted to excel, and many of them have.
     
-So, that's been our experience of teaching logical methods in 2019. It's been a wild ride, and it's been such a pleasure to be on that ride with [Shawn](https://shawn-standefer.github.io) and 60 willing students. 
- 
+So, that's been our experience of teaching logical methods in 2019. It's been a wild ride, and it's been such a pleasure to be on that ride with [Shawn](https://shawn-standefer.github.io) and 60 willing students. Thanks to friends and colleagues, like [Dave Ripley](http://davewripley.rocks), François Schroeter, Allen Hazen, and my current and former graduate students, Kai, Timo, Lian, John, Sakinah and Adam who have helped us sort out some of our thinking about these issues. 
 
 
