@@ -11,6 +11,6 @@ In this talk, I aim to give an account of norms governing our uses of *generic j
 Given the connection between generics and inference, we will be able to see how inference is involved in the process of *accommodation*, which plays a significant role in how we manage dialogue and conversation. A generic of the form *F*s are *G*s can enter the common ground when we allow the inference from *Fx* to *Gx* to pass without question in conversation.  With this connection in hand, I will begin to explore what this means for social kind generics and how we use them.
 
 
-* This is a talk for the [Constructing Social Hierarchy 2]( Workshop at MIT in December 6, 2019.
+* This is a talk for the [Constructing Social Hierarchy 2](https://blogs.unimelb.edu.au/social-hierarchy/events/mit-workshop-constructing-social-hierarchy-ii/) Workshop at MIT in December 6, 2019.
 
-* The [slides for the talk are available here](/slides/accommodation-mit-workshop.pdf), and the [handout is here](/handout/accommodation-mit-workshop-handout.pdf).
+* The [slides for the talk are available here](/slides/accommodation-mit-workshop.pdf), and the [handout is here](/handouts/accommodation-mit-workshop-handout.pdf).
