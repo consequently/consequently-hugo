@@ -9,7 +9,7 @@ file: nap.pdf
 subjects: negation contradiction modality compatibility non_classical_logics modal_logics
 comments: yes
 date: 2018-09-18
-publishdate: 2018-09-18
+publishdate: 2019-12-02
 doi: 10.1007/s10992-019-09510-2
 filter:
   - erb
