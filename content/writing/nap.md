@@ -1,9 +1,9 @@
 ---
 title: "Negation on the Australian Plan"
 author: Francesco Berto and Greg Restall
-status: In Progress
-type: unpublished
-citation: "(with Francesco Berto) &ldquo;Negation on the Australian Plan,&rdquo; to appear in the <em>Journal of Philosophical Logic</em>."
+status: Published in 2019
+type: published
+citation: "(with Francesco Berto) &ldquo;Negation on the Australian Plan,&rdquo; <em>Journal of Philosophical Logic</em>, 48:6 (2019), 1119-1144"
 tag: nap
 file: nap.pdf
 subjects: negation contradiction modality compatibility non_classical_logics modal_logics

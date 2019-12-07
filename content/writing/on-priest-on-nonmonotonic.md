@@ -2,7 +2,6 @@
 title: "On Priest on Nonmonotonic and Inductive Logic"
 
 author: Greg Restall
-status: In Progress
 type: published
 status: Published in 2016
 citation: "&ldquo;On Priest on Nonmonotonic and Inductive Logic,&rdquo; <em><a href=\"http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292161-2234\">Thought</a></em>, 5:2 (2016) 119&ndash;124"
