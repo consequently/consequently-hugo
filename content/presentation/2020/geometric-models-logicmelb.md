@@ -2,7 +2,7 @@
 date = "2020-03-20T11:00:00+11:00"
 title = "Geometric Models for Relevant Logics"
 host = "Melbourne Logic Group"
-publishdate = "2020-03-20"
+publishdate = "2020-03-19"
 author = "Greg Restall"
 +++
 
