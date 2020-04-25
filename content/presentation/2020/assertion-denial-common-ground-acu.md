@@ -1,12 +1,10 @@
-—
-title: Assertions, Denials, Questions, Answers, and the Common Ground
-author: Greg Restall
-host: Dianoia Institute Seminar, Australian Catholic University
-publishdate: 2020-04-25
-date: 2020-05-05T16:00:00+11:00
-aliases:
-—
-
++++
+date = “2020-05-05T16:00:00+11:00”
+title = “Assertions, Denials, Questions, Answers, and the Common Ground”
+host = “Dianoia Institute Seminar, Australian Catholic University”
+publishdate = “2020-04-25”
+author = “Greg Restall”
++++
 
 *Abstract*: In this talk, I examine some of the interconnections between norms governing assertion, denial, questions and answers, and the common ground of a discourse. When we pay attention to the structure of norms governing polar (yes/no) questions, we can clarify the distinction between strong and weak denials, together with the parallel distinction between strong and weak assertion, and the way that these speech acts interact with the common ground. 
 
