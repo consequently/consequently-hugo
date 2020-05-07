@@ -16,3 +16,7 @@ I will argue that both of these concerns can be assuaged if we pay closer attent
 * The talk is an online presentation at the Dianoia Institute of Philosophy Seminar at the Australian Catholic University, in Melbourne.
 
 * The [slides for the talk are available here](/slides/assertion-denial-common-ground-slides-acu.pdf), and the [handout is here](/handouts/assertion-denial-common-ground-handout-acu.pdf).
+
+* There is a (low resolution) recording of the talk [on YouTube](https://youtu.be/9ZqcTEX4v9E) if you'd like to see what you missed.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqcTEX4v9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
