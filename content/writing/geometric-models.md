@@ -3,7 +3,7 @@ title: "Geometric Models for Relevant Logics"
 author: Greg Restall
 status: In Progress
 type: unpublished
-citation: "&ldquo;Geometric Models for Relevant Logics&rdquo;, article in progress"
+citation: "&ldquo;Geometric Models for Relevant Logics&rdquo;, article in progress."
 tag: geometric-models
 file: geometric-models.pdf
 subjects: frames models relevant_logic substructural_logic urquhart
