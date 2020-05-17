@@ -8,7 +8,7 @@ tag: two-negations
 file: two-negations.pdf
 subjects: first_degree_entailment negation paraconsistency Graham_Priest
 comments: yes
-date: 2017-08-11
+date: 2019-12-12
 publishdate: 2019-12-12
 filter:
   - erb
