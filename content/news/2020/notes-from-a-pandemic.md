@@ -17,5 +17,5 @@ One of the upsides of the pandemic's forced move to online work has been the int
 
 Shawn and I have also somehow been able to keep writing during this time. I'm most proud of this [joint paper](https://consequently.org/writing/collection-frames/), which brings together ideas we've had over the last 18 months or so. I think it's a genuine advance in our understanding of the frame semantics for relevant logics, and it's the paper I'm most proud of having written, in recent years. 
 
-Finally, last week I recorded a wide-ranging conversation with Aleks Hammo, for his podcast, Aleks Listens. We talked about logic, philosophy, belief, and the state of the world. If you like that sort of thing, you might like to [listen along, here](https://alekslistens.podbean.com/e/43-prof-greg-restall-logic-society-belief-and-the-self/).
+Finally, last week I recorded a wide-ranging conversation with Aleks Hammo, for his podcast, _[Aleks Listens](https://aleks.co)_. We talked about logic, philosophy, belief, and the state of the world. If you like that sort of thing, you might like to [listen along, here](https://alekslistens.podbean.com/e/43-prof-greg-restall-logic-society-belief-and-the-self/).
 
