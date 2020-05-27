@@ -7,7 +7,7 @@ largeimage = false
 
 I’ve been up to a few things during the pandemic. Quite a few things, it seems. Here are links to some of the traces you can find elsewhere on the internet.
 
-I wouldn't say that I've become *good* at using Zoom, but I have been doing a heck of a lot of it. [My] [three] [subjects] for this semester moved online, and running seminars, workshops, classes over Zoom has become a part (only a part) of keeping the ship going. I don't record those classes (for obvious reasons!) but I have recorded a couple of research seminars presentations I've made over the last few weeks. 
+I wouldn't say that I've become *good* at using Zoom, but I have been doing a heck of a lot of it. [My](http://consequently.org/class/2020/unib10002/) [three](http://consequently.org/class/2020/phil30043/) [subjects](http://consequently.org/class/2020/phil40013/) for this semester moved online, and running seminars, workshops, classes over Zoom has become a part (only a part) of keeping the ship going. I don't record those classes (for obvious reasons!) but I have recorded a couple of research seminars presentations I've made over the last few weeks. 
 
 First up, as the shift to off-campus online teaching was just starting, in late March, I decided to try giving a research seminar presentation over Zoom, for the [Melbourne Logic Group Seminar](https://blogs.unimelb.edu.au/logic/logic-seminar/). That was fun, because I got to see an audience from all over the world. You can [see the recording here](https://consequently.org/presentation/2020/geometric-models-logicmelb/).
 
