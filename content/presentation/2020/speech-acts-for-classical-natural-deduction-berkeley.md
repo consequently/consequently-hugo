@@ -12,4 +12,6 @@ In this paper I clarify the shortcomings of existing bilateralist defences of cl
 
 * The talk is an online presentation at the [Berkeley Logic Group Seminar](http://logic.berkeley.edu/events.html).
 
-* The [slides for the talk are available here](/slides/speech-acts-for-classical-natural-deduction-berkeley.pdf)
+* The [slides for the talk are available here](/slides/speech-acts-for-classical-natural-deduction-berkeley.pdf).
+
+* A [draft of the paper on which this talk is based is available here](/papers/speech-acts-for-classical-natural-deduction.pdf).
