@@ -5,7 +5,7 @@ status: In Progress
 type: unpublished
 citation: "&ldquo;Speech Acts &amp; the Quest for a Natural Account of Classical <em>Proof</em>,&rdquo; article in progress."
 tag: speech-acts-for-classical-proofs
-file: speech-acts-for-classical-proofs.pdf
+file: speech-acts-for-classical-natural-deduction.pdf
 subjects: natural_deduction classical_logic proof bilateralism assertion denial
 comments: yes
 date: 2020-09-15
