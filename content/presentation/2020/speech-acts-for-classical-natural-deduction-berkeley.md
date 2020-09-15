@@ -1,6 +1,6 @@
 +++
 date = "2020-09-18T16:10:00-07:00"
-title = "Speech Acts &amp; the Quest for a Natural Account of Classical <em>Proof</em>"
+title = "Speech Acts & the Quest for a Natural Account of Classical Proof"
 host = "Berkeley Logic Colloquium"
 publishdate = "2020-09-15"
 author = "Greg Restall"
