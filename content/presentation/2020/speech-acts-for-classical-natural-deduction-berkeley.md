@@ -10,7 +10,7 @@ author = "Greg Restall"
 
 In this paper I clarify the shortcomings of existing bilateralist defences of classical proof, and, making use of recent results in the proof theory for classical logic from theoretical computer science, I show that the bilateralist can give an account of natural deduction proof that models our everyday practice of proof as well as intuitionist natural deduction, if not better. 
 
-* The talk is an online presentation at the [Berkeley Logic Group Seminar](http://logic.berkeley.edu/events.html).
+* The talk is an online presentation at the [Berkeley Logic Group Seminar](http://logic.berkeley.edu/events.html). 
 
 * The [slides for the talk are available here](/slides/speech-acts-for-classical-natural-deduction-berkeley.pdf).
 
