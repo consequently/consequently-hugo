@@ -1,8 +1,8 @@
 +++
 date = "2020-11-06T12:30:00+11:00"
-title = "Speech Acts & the Quest for a Natural Account of Classical Proof"
-host = "Berkeley Logic Colloquium"
-publishdate = "2020-11-05"
+title = "Natural Deduction with Alternatives"
+host = "Applied Logic Workshop, University of Melbourne"
+publishdate = "2020-11-04"
 author = "Greg Restall"
 +++
 
