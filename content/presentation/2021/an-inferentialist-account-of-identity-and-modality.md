@@ -1,8 +1,8 @@
 +++
-date = "2020-02-16T10:00:00+01:00"
+date = "2021-02-16T10:00:00+01:00"
 title = "An Inferentialist Account of Identity and Modality"
 host = "EXPRESS Project Seminar (Amsterdam) / PHILMATH Seminar (Paris)"
-publishdate = "2020-02-10"
+publishdate = "2021-02-12"
 author = "Greg Restall"
 +++
 
