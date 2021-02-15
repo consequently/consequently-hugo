@@ -11,3 +11,5 @@ author = "Greg Restall"
 
 * The talk is an online presentation for the [ERC EXPRESS Project](https://inferentialexpressivism.com/seminar/) in Amsterdam, and the [PHILMATH Seminar](https://www.ihpst.cnrs.fr/en/activites/seminaires/seminaire-philmath-2019-2020-0) in Paris. 
 
+* The [slides for the talk are available here](https://consequently.org/slides/an-inferentialist-account-of-identity-and-modality-express-philmath.pdf).
+
