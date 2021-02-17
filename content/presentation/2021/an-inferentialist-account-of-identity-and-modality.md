@@ -13,3 +13,5 @@ author = "Greg Restall"
 
 * The [slides for the talk are available here](https://consequently.org/slides/an-inferentialist-account-of-identity-and-modality-express-philmath.pdf).
 
+
+* Here is the [recording of the talk](https://www.youtube.com/watch?v=jZuMf5NL7Us): <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jZuMf5NL7Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
