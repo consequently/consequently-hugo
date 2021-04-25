@@ -12,4 +12,4 @@ author = "Greg Restall"
 
 * The [slides for the talk are available here](https://consequently.org/slides/comparing-identity-rules-ptvs.pdf).
 
-* * Here is the [recording of the talk](https://www.youtube.com/watch?v=BKZaihmMUo8): <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BKZaihmMUo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+* Here is the [recording of the talk](https://www.youtube.com/watch?v=BKZaihmMUo8): <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BKZaihmMUo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
