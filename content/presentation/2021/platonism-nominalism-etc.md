@@ -1,7 +1,7 @@
 +++
 date = "2021-05-06T16:15:00+11:00"
 title = "Platonism, Nominalism, Realism, Anti-Realism, Reprentationalism, Inferentialism and all that"
-host = "Melbourne University Logic Seminar"
+host = "Melbourne University Philosophy Seminar"
 publishdate = "2020-05-13"
 author = "Greg Restall"
 +++
