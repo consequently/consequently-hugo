@@ -15,7 +15,7 @@ author = "Greg Restall"
 
 <figure>
 	<img src="/images/platonism-nominalism-this-talk.jpg" alt="A view of the globe, with eastern Australia at dusk">
-	<figcaption>This talk (a view of the globe, with eastern Australia at dusk).</figcaption>
+	<figcaption>This talk (a view of the globe, with eastern Australia at dusk).</figcaption> 
 </figure>
 
 
