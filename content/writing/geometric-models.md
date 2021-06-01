@@ -1,15 +1,15 @@
 ---
 title: "Geometric Models for Relevant Logics"
 author: Greg Restall
-status: In Progress
-type: unpublished
-citation: "&ldquo;Geometric Models for Relevant Logics&rdquo;, article in progress."
+status: Published in 2021
+type: published
+citation: "&ldquo;Geometric Models for Relevant Logics&rdquo;, p. 223&ndash;239 in <em>Alasdair Urquhart on Nonclassical and Algebraic Logic and Complexity of Proofs</em>, Edited by Ivo Duntsch and Edwin Mares, Springer."
 tag: geometric-models
 file: geometric-models.pdf
 subjects: frames models relevant_logic substructural_logic urquhart
 comments: yes
 date: 2020-05-14
-publishdate: 2020-05-14
+publishdate: 2021-06-01
 filter:
   - erb
   - markdown
