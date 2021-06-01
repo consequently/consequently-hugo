@@ -8,7 +8,7 @@ tag: geometric-models
 file: geometric-models.pdf
 subjects: frames models relevant_logic substructural_logic urquhart
 comments: yes
-date: 2020-05-14
+date: 2021-05-14
 publishdate: 2021-06-01
 filter:
   - erb
