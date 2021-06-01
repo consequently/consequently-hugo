@@ -5,7 +5,7 @@ author: Greg Restall
 type: unpublished
 kind: book
 status: In Progress
-citation: "<em>Proof Theory, Rules and Meaning</em>&#58; book manuscript in progress."
+citation: "<em>Proof, Rules and Meaning</em>&#58; book manuscript in progress."
 tag: ptp
 subjects: proofs sequents meaning quantifiers non-classical_logic classical_logic
 comments: yes
