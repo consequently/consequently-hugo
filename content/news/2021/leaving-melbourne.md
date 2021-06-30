@@ -1,7 +1,7 @@
 +++
-date = “2021-06-30T09:00:00+10:00”
-title = “Leaving Melbourne”
-description = “Reflections on leaving Melbourne, during a pandemic, to take up a new position in St Andrews, Scotland.”
+date = "2021-06-30T09:00:00+10:00"
+title = "Leaving Melbourne"
+description = "Reflections on leaving Melbourne, during a pandemic, to take up a new position in St Andrews, Scotland."
 largeimage = false
 +++
 
