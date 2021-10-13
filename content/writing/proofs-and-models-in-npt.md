@@ -10,6 +10,7 @@ subjects: property theory, paradox, proof_theory, model_theory
 comments: yes
 date: 2020-04-02
 publishdate: 2020-04-02
+doi: 10.1080/24740500.2021.1886690
 filter:
   - erb
   - markdown
