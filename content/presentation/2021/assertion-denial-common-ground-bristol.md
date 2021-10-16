@@ -2,7 +2,7 @@
 date = "2021-10-20T16:00:00+1:00"
 title = "Assertions, Denials, Questions, Answers, and the Common Ground"
 host = "University of Bristol, Philosophy Seminar"
-publishdate = "2021-10-20"
+publishdate = "2021-10-15"
 author = "Greg Restall"
 +++
 
