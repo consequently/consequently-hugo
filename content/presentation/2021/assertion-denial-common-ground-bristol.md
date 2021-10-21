@@ -16,4 +16,3 @@ I will argue that both of these concerns can be assuaged if we pay closer attent
 * The talk is an online presentation at the Philosophy Department at the University of Bristol.
 
 * The [slides for the talk are available here](/slides/assertion-denial-common-ground-slides-bristol.pdf), and the [handout is here](/handouts/assertion-denial-common-ground-handout-bristol.pdf).
-
