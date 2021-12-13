@@ -1,6 +1,6 @@
 +++
 date = "2021-12-10T13:00:00+01:00"
-title = "Proofs with Star and Perp&ndash;pluralism and proofs for different logics"
+title = "Proofs with Star and Perp: pluralism and proofs for different logics"
 host = "Current Debates in the Philosophy of Logic Seminar, European Network for the Philosophy of Logic"
 publishdate = "2021-12-10"
 author = "Greg Restall"

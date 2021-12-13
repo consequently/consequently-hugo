@@ -1,6 +1,6 @@
 +++
 date = "2021-10-04T15:00:00+01:00"
-title = "Worlds, Possible and Impossible"
+title = "Worlds: Possible and Impossible"
 host = "Arch&eacute; Logic and Metaphysics Seminar, University of St Andrews"
 publishdate = "2021-10-04"
 author = "Greg Restall"
