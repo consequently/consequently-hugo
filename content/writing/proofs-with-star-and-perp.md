@@ -5,7 +5,7 @@ author: Greg Restall
 type: unpublished
 kind: article
 status: In Progress
-citation: "Proofs with Star and Perp" (article in progress)
+citation: "Proofs with Star and Perp (article in progress)"
 tag: proofs-with-star-and-perp
 file: proofs-with-star-and-perp.pdf
 date: 2021-12-23
