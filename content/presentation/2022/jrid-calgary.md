@@ -10,4 +10,4 @@ author = "Greg Restall"
 
 * The talk is an [online presentation](https://events.ucalgary.ca/arts/philosophy/#!view/event/event_id/402200) at the Philosophy Department at the University of Calgary.
 
-* The [slides for the talk are available here](/slides/jrid-calgary.pdf).
+* The [slides for the talk are available here](/slides/jrid-calgary.pdf). 
