@@ -4,7 +4,6 @@ title = "A little book on Proofs and Models"
 description = "Reflections on the publication of <em>Proofs and Models in Philosophical Logic</em>."
 largeimage = true
 image = "images/pmpl-cover.jpg"
-
 +++
 
 
