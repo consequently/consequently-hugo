@@ -11,7 +11,7 @@ author = "Greg Restall"
 I will introduce this framework, and show how the presence of alternatives in natural deduction can give us a new angle from which to view the impact of the structural rules of weakening and contraction, and the difference between multiplicative and additive connectives. 
 
 
-* The talk is an online presentation at the [2022 Bilateralism and Proof-Theoretic Semantics Conference](https://sites.google.com/view/conferencebilateralism2022/home) at the Ruhr University Bochum, in Germany. 
+* The talk was a face-to-face presentation at the [2022 Bilateralism and Proof-Theoretic Semantics Conference](https://sites.google.com/view/conferencebilateralism2022/home) at the Ruhr University Bochum, in Germany. 
 
 * The [slides for the talk are available here](/slides/natural-deduction-with-alternatives-bochum.pdf).
 
