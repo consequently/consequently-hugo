@@ -1,6 +1,6 @@
 +++
 date = "2022-06-07T14:00:00+00:00"
-title = "True Contradictions? Why, and Why <em>Not</em>?"
+title = "True Contradictions? Why, and Why Not?"
 host = "St Andrews Philosophy Department Reflectorium"
 publishdate = "2022-06-07"
 author = "Greg Restall"
@@ -10,6 +10,6 @@ author = "Greg Restall"
 
 
 * The talk is a face-to-face presentation at the University of St Andrews Philosophy Department’s “<em>Reflectorium</em>”, its regular work-in-progress day.
-* 
+
 * The [slides for the talk are available here](/slides/tc-why-and-why-not.pdf).
 
