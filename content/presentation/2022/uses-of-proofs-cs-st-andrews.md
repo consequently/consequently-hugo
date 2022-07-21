@@ -1,6 +1,7 @@
 +++
 date = "2022-06-13T14:00:00+00:00"
 title = "The Many Uses of Proofs: logic and philosophy, language and more"
+host = "University of St Andrews School of Computer Science"
 publishdate = "2022-06-13"
 author = "Greg Restall"
 +++

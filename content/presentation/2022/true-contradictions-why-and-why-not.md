@@ -1,6 +1,6 @@
 +++
 date = "2022-06-07T14:00:00+00:00"
-title = "True Contradictions? Why, and Why *Not*"
+title = "True Contradictions? Why, and Why <em>Not</em>?"
 host = "St Andrews Philosophy Department Reflectorium"
 publishdate = "2022-06-07"
 author = "Greg Restall"
