@@ -10,3 +10,4 @@ author = "Greg Restall"
 
 
 * The talk is an invited presentation at [PhDs in Logic XIII in Turin](https://www.phdsxiii.org). 
+* The [slides for the talk are available here](/slides/classical-logic-intuitionistic-logic-both-ways-torino.pdf).
