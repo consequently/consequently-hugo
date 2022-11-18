@@ -6,7 +6,7 @@ publishdate = "2022-11-18"
 author = "Greg Restall"
 +++
 
-*Abstract*: In this talk, I give a breezy introduction to Collection Frames (joint work with [Shawn Standefer](https://shawn-standefer.github.io)), with an emphasis on how they are technically equivalent to, but conceptual simpler than Routley--Meyer ternary relational frames.
+*Abstract*: In this talk, I give a breezy introduction to Collection Frames (joint work with [Shawn Standefer](https://shawn-standefer.github.io)), with an emphasis on how they are technically *equivalent to*, but *conceptually simpler than* Routley--Meyer ternary relational frames.
 
 * The talk is an online presentation at the [New Directions in Relevant Logic](http://www.cs.cas.cz/ndr2022/) Online Workshop. 
 
