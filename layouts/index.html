@@ -110,14 +110,14 @@
 
         {{ range (where .Data.Pages.ByDate "Section" "class").Reverse }}
 	    {{ if (le .Date.Unix now.Unix) }}
-		{{ if (le now.Unix (add .Date.Unix .Params.duration)) }}
+		{{ if (le now.Unix (add .Date.Unix 7776000)) }}
         <li><i class="fa-li fa {{ if eq .Params.host "Coursera" }}fa-laptop {{ else }}fa-mortar-board {{ end }}fa-fw" style="color:#e88;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. {{ partial "nowon.html" . }}
 </li>		
 		{{ end }}
 		{{ end }}
 		{{ end }}
         {{ range (where .Data.Pages.ByDate "Section" "class").Reverse }}
-		{{ $classend := (add .Date.Unix .Params.duration) }}
+		{{ $classend := (add .Date.Unix 7776000) }}
 		{{ if (ge now.Unix $classend ) }}
 	    {{ if (le now.Unix (add $classend 10368000)) }}
 

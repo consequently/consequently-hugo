@@ -1,5 +1,5 @@
 baseurl = "https://consequently.org"
-languageCode = "en-us"
+languageCode = "en-AU"
 title = "consequently.org: Greg Restall’s website"
 RSSLink = "https://consequently.org/index.xml"
 
@@ -7,3 +7,5 @@ RSSLink = "https://consequently.org/index.xml"
    description = "Greg Restall’s website"
    author = "Greg Restall"
    rssLimit = 50
+
+[taxonomies]
