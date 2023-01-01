@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-gb
+title: consequently.org
+
+copyright: Greg Restall
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+params:
+  slogan: "Greg Restall’s home on the internet."

@@ -9,7 +9,7 @@ largeimage = true
 On the afternoon of Sunday March 1, Sydney Road in Brunswick was transformed by its annual [Street Party](http://www.brunswickmusicfestival.com.au/sydney-road-street-party.htm). Over four blocks of this busy inner north thoroughfare was closed to trams and cars, lined by stalls, punctuated with live bands, and filled with crowds. Everyone was sampling wares, eating, drinking and soaking in the atmosphere. It's a distinctive slice of multicultural Brunswick life, and an opportunity for everyone to get out and sample that Brunswick experience in all its variety.
 
 <figure>
-	<img src="/images/SRSP-bands.jpg" alt="Live music at the Sydney Road Street Party">
+	<img src="/images/SRSP-bands.jpg" alt="Live music at the Sydney Road Street Party" class="img-fluid">
 	<figcaption>Live music at the Sydney Road Street Party</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ On the afternoon of Sunday March 1, Sydney Road in Brunswick was transformed by 
 Four of us from the Melbourne Inner North [TEAR](http://tear.org.au) Group were there, between a Scout Group sausage sizzle on the one side and the Animal Protection Society, with its vegan cookbooks and petitions on the other. We ran a little stall lined with [TEAR Targets](http://www.tear.org.au/learn/target/), information about Australian Aid and its positive impact on poverty and development in our region, and postcards to send to the Foreign Minister, [Julie Bishop](http://www.juliebishop.com.au). We were encouraging our fellow residents of the Inner North to urge Julie Bishop and our government to our commitments towards meeting the Millennium Development Goals. In honour of International Women's Day, we made flowers for passers by to attach to their postcard, and we collected nearly 50 to send along to Canberra to help the government to get the message that our community takes helping our neighbours to be an important part of our national character, and not something to be dropped when some difficult decisions need to be made. 
 
 <figure>
-	<img src="/images/SRSP-Postcards.jpg" alt="Signed Postcards with Flowers for Julie Bishop">
+	<img src="/images/SRSP-Postcards.jpg" alt="Signed Postcards with Flowers for Julie Bishop" class="img-fluid">
 	<figcaption>Signed Postcards with Flowers for Julie Bishop</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Over the afternoon we had many interesting conversations with passers by, young 
 Most likely, 50 signatures on petitions is not enough on its own to change a Minister's mind—even if the flowers everyone attached were very attractive—but this was one small part of an ongoing community conversation. May that conversation continue, and may the wider community find its voice so that we all recognise what it means to be a good neighbour to those around us.
 
 <figure>
-	<img src="/images/SRSP-stall.jpg" alt="TEAR Stall at the Sydney Road Street Party">
+	<img src="/images/SRSP-stall.jpg" alt="TEAR Stall at the Sydney Road Street Party" class="img-fluid">
 	<figcaption>TEAR Stall at the Sydney Road Street Party</figcaption>
 </figure>
 

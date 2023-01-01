@@ -15,7 +15,7 @@ It’s an insight — a conceptual advance — to notice that the act of supposi
 
 
 <figure>
-	<img src="/images/kennedy-shot.jpg" alt="NYT Times Kennedy Cover">
+	<img src="/images/kennedy-shot.jpg" alt="NYT Times Kennedy Cover"  class="img-fluid">
 	<figcaption>Oswald shot Kennedy. But what if he hadn't? Or what if he <b>didn't</b>?</figcaption>
 </figure>
 

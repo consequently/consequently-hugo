@@ -35,14 +35,14 @@ This is my next book-length writing project.  I am writing a book which aims to 
 <p>Here is an outline of the manuscript, showing how the parts hold together. At least so far &mdash; I'm still writing the third part.</p>
 
 <figure>
-	<img src="/images/ptrm-map.png" alt="Outline of the book Proof Theory, Rules and Meaning">
+	<img src="/images/ptrm-map.png" alt="Outline of the book Proof Theory, Rules and Meaning" class="img-fluid">
 	<figcaption>How <em>Proof Theory, Rules and Meaning</em> hangs together.</figcaption>
 </figure>
 The book is in three parts.
 <ol>
-	<li> *Tools*: in which core concepts from proof theory are introduced.
-	<li> *The Core Argument*: in which I motivate <em>defining rules</em>, and show how they answer Arthur Prior's challenge concerning when an inference rule defines a logical concept.
-	<li> *Insights*: in which we see consequences for logic and language, epistemology and metaphysics, etc.
+	<li> <em>Tools</em>: in which core concepts from proof theory are introduced.
+	<li> <em>The Core Argument</em>: in which I motivate <em>defining rules</em>, and show how they answer Arthur Prior's challenge concerning when an inference rule defines a logical concept.
+	<li> <em>Insights</em>: in which we see consequences for logic and language, epistemology and metaphysics, etc.
 </ol>
 
 

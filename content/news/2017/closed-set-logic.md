@@ -16,14 +16,14 @@ I realised, when I thought about it a bit more, that this fact is something I've
 Consider the conditional rules in the classical sequent calculus. They look something like this (give or take variations in the presentation, all equivalent given the classical structural rules):
 
 <figure>
-	<img src="/images/classical-conditional-rules.png" alt="Classical Sequent Rules for the Conditional">
+	<img src="/images/classical-conditional-rules.png" alt="Classical Sequent Rules for the Conditional" class="img-fluid">
 	<figcaption>Classical sequent rules for the conditional.</figcaption>
 </figure>
 
 If we restrict these rules to multiple conclusion *single premise* sequents, we get rules which look like these:
 
 <figure>
-	<img src="/images/closed-set-conditional-rules.png" alt="closed set logic Sequent Rules for the Conditional">
+	<img src="/images/closed-set-conditional-rules.png" alt="closed set logic Sequent Rules for the Conditional" class="img-fluid">
 	<figcaption>Closed set logic sequent rules for the conditional.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ You can see an immediate issue with the [\\(\supset\\)*R*&ast;] rule. The conclu
 The fact that the rules seem too weak to constrain arbitrary sequents of the form \\(C\ydash A\supset B,Y\\) gives us a hint that these rules might not be strong enough to actually *characterise* or *uniquely define* the connective \\(\supset\\). And that hint bears out when you attempt to derive uniqueness. Here's the issue. Imagine that you and I both use rules like these to define a conditional connective. Yours is \\(\supset\_1\\) and mine is \\(\supset\_2\\). Try to derive the sequent \\(p\\supset\_1 q\ydash p\\supset\_2 q\\) and you'll see that you get stuck:
 
 <figure>
-	<img src="/images/attempted-identity-derivation.png" alt="Attempted derivation of an identity sequent">
+	<img src="/images/attempted-identity-derivation.png" alt="Attempted derivation of an identity sequent" class="img-fluid">
 	<figcaption>Attempted derivation of an identity sequent.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ So, [\\(\supset\\)*L*&ast;] and [\\(\supset\\)*R*&ast;] are satisfied in our ord
 And this is enough to fix *many* of the values of \\(a\supset b\\), but it is nowhere near enough to fix all of them. They do tell us that \\(a\supset b=1\\) whenever \\(a\lt 1\\), and also, when \\(a=b=1\\). But the values for \\(1\supset b\\) are less constrained. For example these rules are satisfied by setting \\(1\supset b =b\\) for all \\(b\\). And they're also satisfied by setting \\(1\supset 1 = 1\\) and \\(1\supset b=0\\) when \\(b\lt 1\\). Provided that there's at least one extra value between \\(0\\) and \\(1\\) in the ordering, that gives us wiggle room.
 
 <figure>
-	<img src="/images/two-conditional-tables.png" alt="Two truth tables for conditionals">
+	<img src="/images/two-conditional-tables.png" alt="Two truth tables for conditionals" class="img-fluid">
 	<figcaption>Two truth tables for conditionals.</figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ largeimage = true
 +++
 
 <figure>
-	<a href="http://pluralism.pitas.com/"><img src="/images/LPWL@pitas.jpg" alt="Logical Pluralism | Work Log" ></a>
+	<a href="http://pluralism.pitas.com/"><img src="/images/LPWL@pitas.jpg" alt="Logical Pluralism | Work Log" class="img-fluid"></a>
 	<figcaption>A blast from the past</figcaption>
 </figure>
 

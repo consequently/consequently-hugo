@@ -1,57 +1,29 @@
-{{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseURL }}
-<body>
-<div id="topbar">
-<div class="wrapper">
-	<header>
-		<nav class="navbar">
-			<ul>
-				<li class="hd"><a href="{{ $baseurl }}"><b>consequently.org</b></a></li>
-				<li><span><a href="{{ $baseurl }}/news">News</a></span></li>
-				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
-				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
-				<li><a href="{{ $baseurl }}/class">Classes</a></li>
-				<li><a href="#searchsite">Search</a></li>
-				<li><a href="#about">About</a></li>
-			</ul>
-		</nav>
-	</header>
-</div>
-</div>
-
-<div class="wrapper">
-	
-<h2>News Archive</h2>
-<div class="units-row">
-<div class="unit-70">
+{{ define "main" }}
+<main>
+<div class="container"> 
+    <div class="row">
+        <div class="col">
+        <h1 class="text-primary py-3">News Archive</h1>
+        {{ .Content }}
+        </div>
+    </div>
 {{ range .Data.Pages.GroupByDate "2006" }}
-<div class="units-row">
-<div class="unit-10">
-<h3><a id="{{ .Key }}">{{ .Key }}</a></h3>
+    <div class="row">
+        <div class="col-md-1">
+        <h2 class="text-primary text-end fs-4"><a id="{{ .Key }}">{{ .Key }}</a></h2>
+        </div>
+        <div class="col-md-8"><p>
+          {{ range .Pages }}
+              &para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>: {{ end }} <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>.
+        {{ end }}
+        </p></div>
+    </div>
+          {{ end }}
+        </div>
+        </div>
 </div>
-<div class="unit-90">
-<p>
-{{ range .Pages }}
-&para; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> 
+</main>
+
+<hr class="border border-secondary">
+
 {{ end }}
-</p>
-
-</div>
-</div>
-{{ end }}
-</div>
-<div class="unit-30">
-<p>This page is an archive of the news items, or &ldquo;blog entries&rdquo; from this site. </p>
-</div>
-</div>
-</div>
-
-<hr class="separator">
-
-{{ partial "whatisthis.html" . }}
-
-{{ partial "foot.html" . }}
-</body>
-</html>
-
-

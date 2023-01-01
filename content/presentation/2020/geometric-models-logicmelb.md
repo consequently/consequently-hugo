@@ -4,6 +4,7 @@ title = "Geometric Models for Relevant Logics"
 host = "Melbourne Logic Group"
 publishdate = "2020-03-19"
 author = "Greg Restall"
+video = "https://youtu.be/0XRF4VD1Qno"
 +++
 
 

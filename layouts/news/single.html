@@ -1,56 +1,39 @@
-{{ partial "headwithcard.html" . }}
-{{ $baseurl := .Site.BaseURL }}
-<body>
-<div id="topbar">
-<div class="wrapper">
-	<header>
-		<nav class="navbar">
-			<ul>
-				<li class="hd"><a href="{{ $baseurl }}"><b>consequently.org</b></a></li>
-				<li><span><a href="{{ $baseurl }}/news">News</a></span></li>
-				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
-				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
-				<li><a href="{{ $baseurl }}/class">Classes</a></li>
-				<li><a href="#searchsite">Search</a></li>
-				<li><a href="#about">About</a></li>
-			</ul>
-		</nav>
-	</header>
-</div>
-</div>
-
-<div class="wrapper">
-<div class="units-row">		
-<div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h2><a href="">{{ .Title }}</a></h2></div>
-</div>
-<div class="units-row">		
-<div class="unit-20 dateblock">{{if not (isset .Params "grlog") }}<h4>{{ .Date.Format "January 2, 2006" }}</h4>{{ else }}&nbsp;{{ end }}</div>
-<div class="unit-60">
-{{ .Content }}
-
-{{ partial "tweetlink.html" . }}
-
-<hr>
+{{ define "main" }}
+<div class="container"> 
+    <div class="row">
+        <div class="col text-start">
+                <h1 class="text-primary pb-3">{{ .Page.Title }}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+        <h2 class="text-primary text-center fs-5">{{ .Page.Date.Format "2 January 2006" }}</h2>
+        </div>
+        <div class="col-md-7">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-7">
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
+<span class="caps text-secondary">
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;Earlier</a> /
 {{ end }}
-<a href="{{ $baseurl }}/news/#{{ .Date.Format "2006" }}">News Archive</a>
+<a href="{{ .Site.BaseURL }}/news">Archive</a>
 {{ if .NextInSection }}
-| <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+/ <a href="{{.NextInSection.Permalink}}">Later&nbsp;&rarr;</a>
+{{ end }}
+</span>
+</div>
+</div>
+</div>
+<hr class="border border-secondary">
 {{ end }}
 
-</div>
-	
-</div>
-</div>
 
-<hr class="separator">
 
-{{ partial "whatisthis.html" . }}
 
-{{ partial "foot.html" . }}
-</body>
-</html>
+
 
 

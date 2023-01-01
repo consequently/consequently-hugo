@@ -16,7 +16,7 @@ You can [download the book for free](https://doi.org/10.1017/9781009040457) on t
 Here are some thoughts about [Proofs and Models](https://consequently.org/writing/pmpl-elements/), and why I put the book together in the way I did. Hopefully, it helps put the work in context.
 
 <figure>
-	<img src="/images/pmpl-cover.jpg" alt="The cover of Proofs and Models in Philosophical Logic">
+	<img src="/images/pmpl-cover.jpg" alt="The cover of Proofs and Models in Philosophical Logic" class="img-fluid">
 	<figcaption>The cover of <em>Proofs and Models in Philosophical Logic</em></figcaption>
 </figure>
 

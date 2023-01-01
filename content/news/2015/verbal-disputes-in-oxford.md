@@ -18,14 +18,14 @@ A highlight of a workshop like this is *meeting* people, maintaining contact wit
 The workshop as a whole had seven presentations. The first day kicked off with a talk by [Robbie Williams](http://robert-williams.org), on representation.
 
 <figure>
-	<img src="/images/mvd-robbie.JPG" alt="Robbie Williams">
+	<img src="/images/mvd-robbie.JPG" alt="Robbie Williams" class="img-fluid">
 	<figcaption>Robbie Williams</figcaption>
 </figure>
 
 This was followed by [Maya Eddon](http://people.umass.edu/mayae/), on whether the parthood relation was perfectly natural or not. This was filled with elegant examples of cases where parthood fails to supervene on natural properties---unless parthood (or something like it) is admitted to the supervenience base. 
 
 <figure>
-	<img src="/images/mvd-maya.JPG" alt="Maya Eddon">
+	<img src="/images/mvd-maya.JPG" alt="Maya Eddon" class="img-fluid">
 	<figcaption>Maya Eddon</figcaption>
 </figure>
 
@@ -34,14 +34,14 @@ The first day wrapped up with a talk from [Tim Williamson](http://www.philosophy
 In each case, the talks were clear, interesting, and not *directly* focussed on verbal disputes as such, but on issues in metaphysics and philosophy of language in and around that debate. I was reasonably jetlagged for the first day of the workshop (having landed in the UK the previous afternoon), so I don't have many precise or detailed comments to make about those talks. Regardless, they were an enjoyable way to ease into the conference and to think about the themes under discussion. 
 
 <figure>
-	<img src="/images/mvd-tim.JPG" alt="Tim Williamson">
+	<img src="/images/mvd-tim.JPG" alt="Tim Williamson" class="img-fluid">
 	<figcaption>Tim Williamson</figcaption>
 </figure>
 
 Day two started with [my talk](/presentation/2015/verbal-disputes-oxford/) (which included an obligatory Led Zeppelin reference, in honour of Ahmet Ertegun's connection with the band, having signed them to Atlantic Records). This effort was *completely* upstaged by Dave Chalmers in his talk, which was a recapitulation of the issues in his long and influential paper "[Verbal Disputes](http://consc.net/papers/verbal.pdf)."
 
 <figure>
-	<img src="/images/mvd-dave.JPG" alt="Dave Chalmers">
+	<img src="/images/mvd-dave.JPG" alt="Dave Chalmers" class="img-fluid">
 	<figcaption>Dave Chalmers</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Thanks to Dave's presentation, I now understand how it is that Led Zeppelin embr
 The highlights for me in the workshop, though, were the *other* two talks on the second day. [Cian Dorr](https://files.nyu.edu/cd50/public/)'s talk on the *semantics of quantifiers* (which I'll discuss in another post) and [Amie Thomasson](http://www.amiethomasson.org)'s, on *metalinguistic negotiation*.  I'll write about Cian's work on quantifiers in another entry. Here, I'll focus on Amie's presentation.
 
 <figure>
-	<img src="/images/mvd-amie.JPG" alt="Amie Thomasson">
+	<img src="/images/mvd-amie.JPG" alt="Amie Thomasson" class="img-fluid">
 	<figcaption>Amie Thomasson</figcaption>
 </figure>
 

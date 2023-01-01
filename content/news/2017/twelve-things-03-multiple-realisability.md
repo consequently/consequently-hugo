@@ -18,7 +18,7 @@ For example, the simple notion of a _Boolean algebra_ can be instantiated as a p
 > — Rózsa Péter _[Playing with Infinity](https://www.amazon.com/Playing-Infinity-Mathematical-Explorations-Excursions/dp/0486232654/consequentlyorg)_
 
 <figure>
-	<img src="/images/Rozsa-Peter.jpg" alt="Rózsa Péter">
+	<img src="/images/Rozsa-Peter.jpg" alt="Rózsa Péter"  class="img-fluid">
 	<figcaption>Rózsa Péter.</figcaption>
 </figure>
 

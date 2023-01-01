@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@0,400;0,700;1,400;1,700&family=Alegreya+Sans+SC:ital,wght@0,400;0,700;1,400;1,700&family=Alegreya+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --bs-body-font-family: 'Alegreya', serif;
+    --bs-link-color: white;
+    --bs-link-hover-color: white;
+}
+
+h1,h2,h3,h4,h5 {
+    font-family: 'Alegreya Sans SC', --bs-body-font-family;
+    font-weight: normal;
+    text-transform: lowercase;
+    letter-spacing: 0.005rem;   
+    color: rgb(130, 26, 26);
+}
+
+a { text-decoration: none; color: rgb(98, 21, 21);}
+a:hover { text-decoration: underline; color: rgb(188, 40, 40); }

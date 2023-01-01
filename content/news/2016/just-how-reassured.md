@@ -21,7 +21,7 @@ The precise details of how \\(LPm\\) manages to be nonmonotonic are not importan
 Much of Priest's work in paraconsistent logic uses the relatively traditional, monotonic logic \\(LP\\) rather than the stronger nonmonotonic logic \\(LPm\\). Many theories which are trivial in the context of classical logic (in the sense that there are no models at all, and everything follows from the axioms of the theory) are non-trivial in \\(LP\\). This gives rise to the concern that since \\(LPm\\) is stronger than \\(LP\\), some of the theories which are non-trivial in \\(LP\\) may be trivial when viewed through the lens of \\(LPm\\). Priest proves (2006, page 226) that Reassurance indeed holds for \\(LPm\\). 
 
 <figure>
-	<img src="https://consequently.org/images/priest_hells.jpg" alt="Graham Priest">
+	<img src="https://consequently.org/images/priest_hells.jpg" alt="Graham Priest" class="img-fluid">
 	<figcaption>Graham Priest</figcaption>
 </figure>
 

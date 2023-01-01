@@ -8,7 +8,7 @@ largeimage = true
 +++
 
 <figure>
-	<a href="https://verbaldisputesoxford.wordpress.com"><img src="/images/cropped-oxford.jpg" alt="Oxford" ></a>
+	<a href="https://verbaldisputesoxford.wordpress.com"><img src="/images/cropped-oxford.jpg" alt="Oxford" class="img-fluid"></a>
 	<figcaption>I'm here for May 20 and 21</figcaption>
 </figure>
 

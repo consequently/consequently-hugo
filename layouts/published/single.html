@@ -1,54 +1,55 @@
-{{ partial "head.html" . }}
-{{ $baseurl := .Site.BaseURL }}
-<body>
-<div id="topbar">
-<div class="wrapper">
-	<header>
-		<nav class="navbar">
-			<ul>
-				<li class="hd"><a href="{{ $baseurl }}"><b>consequently.org</b></a></li>
-				<li><span><a href="{{ $baseurl }}/news">News</a></span></li>
-				<li><a href="{{ $baseurl }}/writing">Writing</a></li>
-				<li><a href="{{ $baseurl }}/presentation">Presentations</a></li>
-				<li><a href="{{ $baseurl }}/class">Classes</a></li>
-	<li><a href="#searchsite">Search</a></li>
-				<li><a href="#about">About</a></li>
-			</ul>
-		</nav>
-	</header>
-</div>
-</div>
+{{ define "main" }}
+<div class="container"> 
+    <div class="row">
+        <div class="col text-start">
+                <h1 class="text-primary pb-3">{{ .Page.Title }}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+        <h2 class="text-primary text-center fs-5">{{ .Page.Date.Format "January 2006" }}</h2>
+        </div>
+        <div class="col-md-7">
+            <p>{{ .Params.citation | safeHTML }}</p>
+            
+            {{ if .Params.doi }}
+            <p class="small">
+            <a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a>
+            </p>
+            {{ end }}
 
-<div class="wrapper">
-<div class="units-row">		
-<div class="unit-20">&nbsp;</div>
-<div class="unit-60"><h2><a href="">{{ .Title | safeHTML }}</a></h2></div>
-</div>
-<div class="units-row">		
-<div class="unit-20 dateblock"><p>{{ .Params.citation | safeHTML }}</p>
-{{ if .Params.doi }}<p class="small"><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a></p>{{ end }}
-{{ if .Params.file }}<p><a href="{{.Site.BaseURL}}/papers/{{.Params.file}}" class="badge badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;download pdf</a></p>{{ end }}
-</div>
-<div class="unit-60">
-{{ .Content }}
+            
+            {{ .Content }}
 
-{{ partial "tweetlink_published.html" . }}
-
-<hr>
+            {{ if .Params.file }}
+            <hr class="border border-secondary">
+            <p><a href="{{.Site.BaseURL}}papers/{{.Params.file}}" class="caps">
+            <i class="bi bi-file-earmark-pdf"></i>&nbsp;download pdf</a></p>
+            <p class="small">You are welcome to download and read this document. I  welcome feedback on it. Please check the final published version if you wish to cite it. Thanks.</p>
+            {{ end }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-7">
 {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ $baseurl }}/writing">Writing Archive</a>{{ if .NextInSection }} | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+<span class="caps text-secondary">
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;Earlier</a> /
 {{ end }}
+<a href="{{ .Site.BaseURL }}/writing">Archive</a>
+{{ if .NextInSection }}
+/ <a href="{{.NextInSection.Permalink}}">Later&nbsp;&rarr;</a>
+{{ end }}
+</span>
 </div>
-	
 </div>
 </div>
+<hr class="border border-secondary">
+{{ end }}
 
-<hr class="separator">
 
-{{ partial "whatisthis.html" . }}
 
-{{ partial "foot.html" . }}
-</body>
-</html>
+
+
 
 

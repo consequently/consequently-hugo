@@ -7,14 +7,14 @@ author = "Greg Restall"
 +++
 
 <figure>
-	<img src="/images/platonism-nominalism-usual-talk.jpg" alt="A close-up view of the Old Quad and Arts West at the University of Melbourne">
+	<img src="/images/platonism-nominalism-usual-talk.jpg" alt="A close-up view of the Old Quad and Arts West at the University of Melbourne" class="img-fluid">
 	<figcaption>My usual talk (a close-up view of the Old Quad and Arts West at the University of Melbourne).</figcaption>
 </figure>
 
 *Abstract*: In this talk, I will place contemporary research in philosophical logic in a wider historical and philosophical context, showing how recent work in logic connects to the rivalry between *Platonism* and *Nominalism*, or *realism* and *anti-realism* in metaphysics, and between *representationalism* and *inferentialism* in the the philosophy of language. Along the way, I will touch on the contemporary resurgence of interest in Carnap's logical positivism, and Robert Brandom's turn toward Hegel.
 
 <figure>
-	<img src="/images/platonism-nominalism-this-talk.jpg" alt="A view of the globe, with eastern Australia at dusk">
+	<img src="/images/platonism-nominalism-this-talk.jpg" alt="A view of the globe, with eastern Australia at dusk" class="img-fluid">
 	<figcaption>This talk (a view of the globe, with eastern Australia at dusk).</figcaption> 
 </figure>
 

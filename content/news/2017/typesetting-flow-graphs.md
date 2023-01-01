@@ -13,7 +13,7 @@ In a few [recent](http://consequently.org/writing/proof-terms-for-classical-deri
 
 Here's an example:
 <figure>
-	<img src="/images/flowgraph.jpg" alt="a flow graph on a natural deduction proof">
+	<img src="/images/flowgraph.jpg" alt="a flow graph on a natural deduction proof" class="img-fluid">
 	<figcaption>A flow graph on a natural deduction proof.</figcaption>
 </figure>
 

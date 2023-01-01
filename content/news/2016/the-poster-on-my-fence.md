@@ -20,7 +20,7 @@ So, given all of that, why do I have a campaign poster on my fence?
 This election, I’ve decided to add my small voice to the cacophony of this long election campaign—not because I have fallen in love with electoral politics, and not because I'm devoted to any of the candidates or political parties on offer. The poster on my suburban picket fence is from the [Campaign for Australian Aid](https://austrlaianaid.org/). It doesn't feature the smiling face of a political candidate, but rather, the smiling faces of a group of schoolchildren in Myanmar, who attend a school supported by [World Vision](https://www.worldvision.com.au/) and [Australian Aid](http://australianaid.org/), and the poster says “[Vote for Us](https://australianaid.org/pledge).” 
 
 <figure>
-	<img src="/images/vote-for-us-large.jpg" alt="Vote For Us—the poster on my picket fence">
+	<img src="/images/vote-for-us-large.jpg" alt="Vote For Us—the poster on my picket fence" class="img-fluid">
 	<figcaption>My fence and its campaign poster</figcaption>
 </figure>
 

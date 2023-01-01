@@ -13,7 +13,7 @@ The paper still rough, but the ideas are all there, and I think the theorems are
 Here's an example from the paper, of three derivations, with the same concluding proof term:
 
 <figure>
-	<img src="/images/three-derivations.jpg" alt="three derivations with the same profo term">
+	<img src="/images/three-derivations.jpg" alt="three derivations with the same proof term" class="img-fluid">
 	<figcaption>Three derivations with the same proof term</figcaption>
 </figure>
 

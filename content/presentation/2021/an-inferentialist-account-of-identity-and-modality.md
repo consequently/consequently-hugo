@@ -4,6 +4,7 @@ title = "An Inferentialist Account of Identity and Modality"
 host = "EXPRESS Project Seminar (Amsterdam) / PHILMATH Seminar (Paris)"
 publishdate = "2021-02-11"
 author = "Greg Restall"
+video = "https://www.youtube.com/watch?v=jZuMf5NL7Us"
 +++
 
 *Abstract*: In this talk I will show how *defining rules* in a hypersequent setting can give a uniform proof-theoretic semantics of identity and modality, allowing -- equally naturally -- for (1) modal operators for which identity statements are *necessary* (if true), and (2) modal operators for which identity statements can be *contingently* true.

@@ -1,0 +1,34 @@
+<div class="container"> 
+    <div class="row p-5">
+        <div class="col-lg-4">
+        <h2 class="text-primary fs-5"><a id="about">about</a></h2>
+        <figure class="float-start figure-img img-fluid pe-3">
+        <img src="https://consequently.org/img/avatar2.jpg" class="rounded-circle" height="120" width="120">
+        </figure>
+        <p class="small">I&rsquo;m Greg Restall, and this is my personal website. <span class="text-primary">&para;</span> I am the Shelby Cullom Davis Professor of Philosophy at the University of St&nbsp;Andrews.</p>
+        </div>
+        <div class="col-lg-4">
+            <h2 class="text-primary fs-5">subscribe</h2>
+            <p class="small">To receive updates from this site, you can subscribe to the <i class="bi bi-rss text-primary"></i> <a href="{{ .Site.RSSLink }}">RSS&nbsp;feed</a> of all updates to the site in a feed reader, or follow me at <i class="bi bi-mastodon text-primary"></i>&nbsp;<a href="https://scholar.social/@consequently">@consequently@scholar.social</a>, where I&rsquo;ll update you if anything is posted.</p>
+            </div>
+        <div class="col-lg-4">
+        <h2 class="text-primary fs-5">contact</h2>
+        <ul class="list-unstyled small">
+        <li><i class="bi bi-door-open text-primary"></i> My office is in Edgecliffe, The Scores, St Andrews.</li> 
+        <li><i class="bi bi-inbox text-primary"></i> Personal email at <a href="mailto:greg@consequently.org">greg@consequently.org</a>.</li>
+        <li><i class="bi bi-mastodon text-primary"></i> Follow me on the Fediverse at <a href="https://scholar.social/@consequently">@consequently@scholar.social</a>.</li>
+        </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-primary">
+    <div class="row mt-4">
+        <div class="col p-2 text-light text-center">
+             <small>This site is powered by <a href="https://netlify.com" class="text-light">Netlify</a>, <a href="https://github.com/consequently/consequently-hugo" class="text-light">GitHub</a>, <a href="https://gohugo.io" class="text-light">Hugo</a>, <a href="https://getbootstrap.com" class="text-light">Bootstrap</a>, and <a href="https://artisanroast.co.uk" class="text-light">coffee</a>. &nbsp;&nbsp;&para;&nbsp;&nbsp; &copy; 1992&ndash;<span id="js-year"></span><noscript>{{ now.Format "2006" }}</noscript> {{ .Site.Copyright | default .Site.Title }}.</small>
+        </div>
+    </div>
+</div>  
+<script>
+document.getElementById("js-year").innerHTML = new Date().getFullYear();
+</script>

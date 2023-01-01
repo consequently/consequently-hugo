@@ -11,4 +11,3 @@ dirty: true
 ---
 
 <p>Not only do neutrinos have mass, they also <a href="http://www.nytimes.com/2002/04/28/weekinreview/28JOHN.html">come in vanilla, chocolate and raspberry</a>.</p>
-s

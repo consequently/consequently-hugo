@@ -14,7 +14,7 @@ First, [David Alber](http://www.davidalber.net/) has produced in [Geneagrapher](
 Here's a detail from my genealogy. (This image is a link to a pdf file of the [entire thing](/images/restall-genealogy.pdf).)
 
 <figure>
-	<a href="/images/restall-genealogy.pdf"><img src="/images/genealogy-detail.jpg" alt="Greg Restall's Academic Genealogy" ></a>
+	<a href="/images/restall-genealogy.pdf"><img src="/images/genealogy-detail.jpg" alt="Greg Restall's Academic Genealogy" class="img-fluid"></a>
 	<figcaption>Some of my genealogy</figcaption>
 </figure>
 

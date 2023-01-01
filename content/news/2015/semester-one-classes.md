@@ -8,7 +8,7 @@ largeimage = true
 +++
 
 <figure>
-	<a href="http://consequently.org/class/2015/PHIL30043/"><img src="/images/Power_and_Limits.jpg" alt="The Power and Limits of Logic" ></a>
+	<a href="http://consequently.org/class/2015/PHIL30043/"><img src="/images/Power_and_Limits.jpg" alt="The Power and Limits of Logic" class="img-fluid"></a>
 	<figcaption>The Power and Limits of Logic</figcaption>
 </figure>
 
