@@ -19,7 +19,7 @@
                 </div>
                 <div class="col-9 col-lg-9">
                     {{- if .Truncated -}}
-                    {{- .Summary -}}
+                    {{- .Summary | safeHTML -}}
                     <p class="text-end caps"><a href="{{ .RelPermalink }}">Read More&hellip;</a></p>
                     {{- else -}}
                     {{ .Content }}
