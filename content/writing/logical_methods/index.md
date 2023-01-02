@@ -6,7 +6,7 @@ published: true
 kind: book
 isbn: 9780262544849
 status: Published in 2023
-citation: "<em>Logical Methods</em>. MIT Press, 2023."
+citation: "Greg Restall and Shawn Standefer, <em>Logical Methods</em>. MIT Press, 2023."
 tag: logical_methods
 subjects: proofs models logic
 date: 2023-01-03
