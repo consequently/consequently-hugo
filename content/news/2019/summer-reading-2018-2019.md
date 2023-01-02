@@ -8,7 +8,6 @@ largeimage = false
 
 This summer break, I set aside some time to turn off my devices, unplug from the internet, and read some honest-to-goodness *books*. Some I received from friends and family as Christmas or Birthday gifts (thanks, Sharon, Zac, Neil!), and some I had accumulated on my “to-read” pile waiting for just the right time.  Here are some short reviews of my summer reading pile, in case you’d like to follow along.
 
-
 <!--more-->
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Christmas and New Year reading (and reference). <a href="https://t.co/LKLFIbQKPM">pic.twitter.com/LKLFIbQKPM</a></p>&mdash; Greg Restall (@consequently) <a href="https://twitter.com/consequently/status/1078484355981414400?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
