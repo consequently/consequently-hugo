@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-8">
           {{ range .Pages }}
-              <p><time><em>{{ .Date.Format "January" }}</em></time>, <span class="caps"><a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a></span> {{ .Params.host | safeHTML }}.</p>
+              <p><time><em>{{ .Date.Format "January" }}</em></time>, <span class="caps"><a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a></span> {{ .Params.host | safeHTML }}. {{ partial "comingup.html" . }}</p>
         {{ end }}
         </div>
     </div>
