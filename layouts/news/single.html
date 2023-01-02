@@ -7,7 +7,7 @@
     </div>
     <div class="row">
         <div class="col-md-2">
-        <h2 class="text-primary text-center fs-5">{{ .Page.Date.Format "2 January 2006" }}</h2>
+        <h2 class="text-primary text-center fs-5"><a href="{{.Permalink}}">{{ .Page.Date.Format "2 January 2006" }}</a></h2>
         </div>
         <div class="col-md-7">
             {{ .Content }}
