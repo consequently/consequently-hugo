@@ -1,6 +1,5 @@
 ---
 title: New Waves in Philosophical Logic
-
 author: Greg Restall and Gillian Russell
 published: true
 type: published
