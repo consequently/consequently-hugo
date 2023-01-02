@@ -11,7 +11,7 @@
 <div class="col-sm-3 pr-3">
 <h2 class="text-primary pb-3">Books</h2>
 {{ range where (where .Pages "Params.kind" "book") "Params.type" "published" }}
- <a href="{{ .Permalink }}"><img src="{{ .Permalink }}/cover.png" class="img-thumbnail mb-3" width="100%" alt="{{ .Title }}"></a>
+ <a href="{{ .Permalink }}"><img src="{{ .Permalink }}/cover.png" class="img-thumbnail mb-3 coverimage" alt="{{ .Title }}"></a>
  {{ end }}
 </div>
 <div class="col-sm-9">
