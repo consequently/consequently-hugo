@@ -101,33 +101,33 @@ Bolzano was a philosopher, mathematician and logician who had important things t
 <p>This is all good fun stuff (and it&#8217;s <em>mind-bending</em> when you <a href="http://ubertas.infosys.utas.edu.au/mathemagicians&#95;circle/table3.html">think about what you can do with these infinite collections</a>) but it&#8217;s not even the start of Cantor&#8217;s real discovery. Cantor&#8217;s best work was in showing that there had to be collections <em>bigger than</em> the collection {1,2,3,&#8230;}. This is a truly tricky piece of reasoning, but I think I can explain it. Remember how you can represent <em>real numbers</em> between 0 and 1 as <em>decimals</em>, numbers like 0.5, or 0.32, or infinite repeating ones like 0.333333&#8230; (that&#8217;s 1/3) or even infinite non-repeating ones like 0.14159&#8230; (that&#8217;s pi minus 3). Now Cantor showed that the collection of all real numbers between 0 and 1 is <em>truly bigger than</em> the collection of counting numbers. Here&#8217;s how he did it. He said, suppose that you <em>did</em> have a list of all of these numbers: then this list would contain <em>all</em> the numbers between 0 and 1. It would look something like this: </p>
 
 <blockquote>
-	<p>0.12345145&#8230;</p>
-	<p>0.11111111&#8230;</p>
-	<p>0.34989901&#8230;</p>
-    <p>0.31415926&#8230;</p>
-    <p>0.88888888&#8230;</p>
-    <p> . </p>
-    <p> . </p>
-    <p> . </p>
+<p>0.12345145&#8230;</p>
+<p>0.11111111&#8230;</p>
+<p>0.34989901&#8230;</p>
+<p>0.31415926&#8230;</p>
+<p>0.88888888&#8230;</p>
+<p> . </p>
+<p> . </p>
+<p> . </p>
 </blockquote>
 
 <p>but now, I&#8217;ll show you a number that <em>can&#8217;t</em> be on the list. Take the first digit (after the decimal point) in the first number, the second in the second number, the third in the third number and so on. You should be focussing on <em>these</em> digits </p>
 
 <blockquote>
-	<p>0.<strong>1</strong>2345145&#8230;</p>
-	<p>0.1<strong>1</strong>111111&#8230;</p>
-	<p>0.34<strong>9</strong>89901&#8230;</p>
-	<p>0.314<strong>1</strong>5926&#8230;</p>
-	<p>0.8888<strong>8</strong>888&#8230;</p>
-	<p> .</p>
-	<p> .</p>
-	<p> .</p>
+<p>0.<strong>1</strong>2345145&#8230;</p>
+<p>0.1<strong>1</strong>111111&#8230;</p>
+<p>0.34<strong>9</strong>89901&#8230;</p>
+<p>0.314<strong>1</strong>5926&#8230;</p>
+<p>0.8888<strong>8</strong>888&#8230;</p>
+<p> .</p>
+<p> .</p>
+<p> .</p>
 </blockquote>
 
 <p>Now, make a new number out of these digits, changing each one by adding one (and if a digit is 9, go back to zero). So the number we get is </p>
 
 <blockquote>
-	<p>0.22029&#8230;</p>
+<p>0.22029&#8230;</p>
 </blockquote>
 
 <p>and <em>this</em> number could not be in our original list of numbers, because it is not the same as any number on the list. (The <em>n</em>th number on the list differs from this number in the <em>n</em>th place.) So, the list you <em>said</em> was exhaustive, numbering all of the numbers, isn&#8217;t. </p>
@@ -197,25 +197,25 @@ Bolzano was a philosopher, mathematician and logician who had important things t
 <p>So, to get ss0 + sss0, the rules say that this is the same number as s(ss0 + ss0), because we&#8217;re adding sss0 (which is the successor of ss0) to ss0, so the result is the successor of the smaller addition (ss0+ss0). Let&#8217;s display this so that we can see it: </p>
 
 <blockquote>
-	<p>ss0+sss0 = s(ss0+ss0) </p>
+<p>ss0+sss0 = s(ss0+ss0) </p>
 </blockquote>
 
 <p>Now, what&#8217;s ss0 + ss0? The process is the same: ss0+ss0 = s(ss0+s0). The rules say we can trade an &#8220;s&#8221; on the right of an addition sign in for one outside the whole addition. So, we get </p>
 
 <blockquote>
-	<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) </p>
+<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) </p>
 </blockquote>
 
 <p>But we can do this one more time. ss0+s0 = s(ss0+0), so </p>
 
 <blockquote>
-	<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0) </p>
+<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0) </p>
 </blockquote>
 
 <p>But now, we know that ss0 + 0 = ss0, since adding zero gets you <em>nowhere new</em>. So, </p>
 
 <blockquote>
-	<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0)= sssss0 </p>
+<p>ss0+sss0 = s(ss0+ss0) = ss(ss0+s0) = sss(ss0+0)= sssss0 </p>
 </blockquote>
 
 <p>But sssss0 is how we write <em>5</em>, and indeed we&#8217;ve shown that 2+3=5. </p>
@@ -322,15 +322,15 @@ Bolzano was a philosopher, mathematician and logician who had important things t
 <p><img class="logician" src="https://consequently.org/images/logicians/Wittgenstein.jpg" alt="[Image of Wittgenstein]" />The next entry on our tour simply <em>has</em> to be the inimitable LW. Wittgenstein is an incredibly fertile philosopher: his work has inspired philosophers from all traditions. His <em>Tractatus Logico Philosophicus</em> (written in 1918, after Wittgenstein served in the German army) is an enigmatic tract, which starts (in one translation) like this. </p>
 
 <blockquote>
-	<p><strong>1</strong> The world is everything that is the case.</p>
-	
-	<p><strong>1.1</strong> The world is the totality of facts, not of things.</p>
-	
-	<p><strong>1.11</strong> The world is determined by the facts, and by these begin <em>all</em> the facts.</p>
-	
-	<p><strong>1.12</strong> For the totality of facts determines both what is the case, and also all that is not the case.</p>
-	
-	<p><strong>1.13</strong> The facts in logical space are the world. </p>
+<p><strong>1</strong> The world is everything that is the case.</p>
+
+<p><strong>1.1</strong> The world is the totality of facts, not of things.</p>
+
+<p><strong>1.11</strong> The world is determined by the facts, and by these begin <em>all</em>the facts.</p>
+
+<p><strong>1.12</strong> For the totality of facts determines both what is the case, and alsoall that is not the case.</p>
+
+<p><strong>1.13</strong> The facts in logical space are the world. </p>
 </blockquote>
 
 <p>And it continues in this vein. It is a work in <em>logical atomism</em>, the doctrine that the world is made up of atomic facts, the primary bearers of information, and it motivates the logical techniques of truth tables and other interesting formal things as consequences of this picture. </p>
