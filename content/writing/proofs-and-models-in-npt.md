@@ -3,7 +3,7 @@ title: "Proofs and Models in Naive Property Theory: A Response to Hartry Field's
 author: Shawn Standefer, Rohan French and Greg Restall
 status: Published in 2020
 type: published
-citation: "(with Shawn Standefer and Rohan French) &ldquo;Proofs and Models in Naive Property Theory: A Response to Hartry Field's &ldquo;Properties, Propositions and Conditionals&rdquo;,&rdquo; <em>Australasian Philosophical Review</em>, 4:2 (2020), 162&ndash;177."
+citation: "Shawn Standefer, Rohan French and Greg Restall, &ldquo;Proofs and Models in Naive Property Theory: A Response to Hartry Field's &ldquo;Properties, Propositions and Conditionals&rdquo;,&rdquo; <em>Australasian Philosophical Review</em>, 4:2 (2020), 162&ndash;177."
 tag: proofs-and-models-in-npt
 file: proofs-and-models-in-npt.pdf
 subjects: property theory, paradox, proof_theory, model_theory 
