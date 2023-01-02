@@ -5,6 +5,7 @@ author: Greg Restall and Gillian Russell
 published: true
 type: published
 kind: book
+cover: true
 isbn: 9781137003713
 status: Published in 2012
 citation: "<em>New Waves in Philosophical Logic</em>, edited by Greg Restall and Gillian Russell, Palgrave Macmillan, 2012."

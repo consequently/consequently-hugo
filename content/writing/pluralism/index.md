@@ -5,6 +5,7 @@ author: JC Beall and Greg Restall
 published: true
 type: published
 kind: book
+cover: true
 isbn: 0199288410
 status: Published in 2006
 citation: "(with <a href=\"http://www.philosophy.uconn.edu/department/beall/beall.html\">JC Beall</a>) <em>Logical Pluralism</em>, Oxford University Press, 2006."

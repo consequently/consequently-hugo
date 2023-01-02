@@ -3,6 +3,7 @@ title: Logic
 
 author: Greg Restall
 published: true
+cover: true
 type: published
 kind: book
 isbn: 0415400686

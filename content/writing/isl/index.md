@@ -4,6 +4,7 @@ title: An Introduction to Substructural Logics
 author: Greg Restall
 published: true
 kind: book
+cover: true
 type: published
 isbn: 041521534X
 status: Published in 2000

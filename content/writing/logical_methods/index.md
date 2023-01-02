@@ -4,6 +4,7 @@ author: Greg Restall and Shawn Standefer
 type: published
 published: true
 kind: book
+cover: true
 isbn: 9780262544849
 status: Published in 2023
 citation: "Greg Restall and Shawn Standefer, <em>Logical Methods</em>. MIT Press, 2023."

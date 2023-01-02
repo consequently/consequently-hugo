@@ -8,6 +8,9 @@
     <div class="row">
         <div class="col-md-2">
         <h2 class="text-primary text-center fs-5">{{ .Page.Date.Format "January 2006" }}</h2>
+        {{- if isset .Params "cover" -}}
+                <p><img src="{{ .Permalink }}/cover.png" class="img-thumbnail mb-3" width="100%" alt="Cover Image of {{ .Page.Title }}"></p>
+                {{- end -}}
         </div>
         <div class="col-md-7">
             <p>{{ .Params.citation | safeHTML }}</p>

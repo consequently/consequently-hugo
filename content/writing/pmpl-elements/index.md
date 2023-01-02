@@ -3,6 +3,7 @@ title: Proofs and Models in Philosophical Logic
 author: Greg Restall
 type: published
 published: true
+cover: true
 kind: book
 isbn: 9781009040457
 status: Published in 2022
