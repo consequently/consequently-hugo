@@ -14,13 +14,16 @@
             {{ .Content }}
         </div>
     </div>
-    <div class="row py-5">
+</div>
+<hr class="border border-secondary">
+<div class="container"> 
+    <div class="row py-2">
         <div class="col-lg-8">
             <div class="row">
                 <div class="col-sm-2 col-lg-2"></div>
                 <div class="col-sm-10 col-lg-10"><h2 class="text-primary">News</h2></div>
             </div>
-             {{ range first 7 (.Site.GetPage "section" "news").Pages }}
+             {{ range $i, $e := first 7 (.Site.GetPage "section" "news").Pages }}
             <div class="row">
                 <div class="col-sm-2 col-lg-2">
                     <h3 class="fs-5 text-end"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
@@ -35,7 +38,9 @@
                     {{- end -}}	
                 </div>
             </div>
-            <hr class="border border-secondary">
+            {{ if ne (add $i 1) 7 }} <!-- Check to see if we're not at the last item in this list -->
+                <hr class="border border-secondary">
+            {{ end }}
             {{ end }}
         </div>
         <div class="col-lg-4">
@@ -81,8 +86,9 @@
                 </dd>
                 {{ end }}
             </dl>
-            <hr class="border border-secondary"> 
+            
             </div>
     </div>
 </div>
+<hr class="border border-secondary"> 
 {{ end }}
