@@ -1,12 +1,21 @@
 {{ define "main" }}
 <div class="container"> 
-    <div class="row">
-        <div class="col">
+    <div class="row px-5">
+        <div class="col-4">
+            <img class="img-thumbnail" src="img/greg-assertion-and-denial.jpeg" width="100%">
+        </div>
+        <div class="col-8">
+            <p class="fs-5">
+                Hello! I&rsquo;m <em>Greg Restall</em>, and this is my <em>personal website</em>. I am a <a href="https://www.st-andrews.ac.uk/philosophy/people/gr69">Professor of Philosophy</a> at the <a href="https://st-andrews.ac.uk/philosophy/">University of St Andrews</a>, and I like thinking about—and helping other people think about—logic and philosophy and the many different ways they can inform each other. I am known for work on <a href="/writing/isl">substructural logics</a>, <a href="/writing/pluralism">logical pluralism</a>, and, more recently, <a href="/writing/pmpl-elements/">connections between <em>proof theory</em> and philosophy</a>.
+            </p>
+            <p>
+                I use this site to post items of <a href="/news/">news and the occasional thought</a>, and to serve as a repository of my <a href="/writing/">writing</a>, <a href="/presentation/">presentations</a> and <a href="/class/">teaching</a>.
+            </p>
             {{ .Content }}
         </div>
     </div>
-    <div class="row">
-        <div class="col-lg-8 px-5">
+    <div class="row py-5">
+        <div class="col-lg-8">
             <div class="row">
                 <div class="col-sm-2 col-lg-2"></div>
                 <div class="col-sm-10 col-lg-10"><h2 class="text-primary">News</h2></div>
@@ -68,7 +77,7 @@
                 {{ range first 7 (.Site.GetPage "section" "class").Pages }}
                 <dt class="col-1"><i class="text-primary bi bi-people text-end"></i></dt> 
                 <dd class="col-11">
-                <a href="{{ .Permalink }}" class="caps">{{ .Params.title | safeHTML  }}</a>, {{ .Params.host }}; {{ .Params.date.Format "January 2006" }}.  {{ partial "comingup.html" . }}
+                <a href="{{ .Permalink }}" class="caps">{{ .Params.title | safeHTML  }}</a>, {{ .Params.host }}; {{ .Params.date.Format "January 2006" }}.  {{ partial "comingup.html" . }} {{ partial "nowon.html" . }}
                 </dd>
                 {{ end }}
             </dl>
