@@ -1,16 +1,15 @@
 {{ define "main" }}
 <div class="container"> 
     <div class="row px-5">
-        <div class="col-4">
-            <img class="img-thumbnail" src="img/greg-assertion-and-denial.jpeg" width="100%">
-        </div>
-        <div class="col-8">
+        <div class="col">
+            <img class="img-thumbnail" style="float:left; margin-right: 2ex;" src="img/greg4.jpeg" name="portrait" width="200px" max-width="25%">
             <p class="fs-5">
                 Hello! I&rsquo;m <em>Greg Restall</em>, and this is my <em>personal website</em>. I am a <a href="https://www.st-andrews.ac.uk/philosophy/people/gr69">Professor of Philosophy</a> at the <a href="https://st-andrews.ac.uk/philosophy/">University of St Andrews</a>, and I like thinking about—and helping other people think about—logic and philosophy and the many different ways they can inform each other. I am known for work on <a href="/writing/isl">substructural logics</a>, <a href="/writing/pluralism">logical pluralism</a>, and, more recently, <a href="/writing/pmpl-elements/">connections between <em>proof theory</em> and philosophy</a>.
             </p>
             <p>
                 I use this site to post items of <a href="/news/">news and the occasional thought</a>, and to serve as a repository of my <a href="/writing/">writing</a>, <a href="/presentation/">presentations</a> and <a href="/class/">teaching</a>.
             </p>
+
             {{ .Content }}
         </div>
     </div>
@@ -91,4 +90,9 @@
     </div>
 </div>
 <hr class="border border-secondary"> 
+<script>
+var portraitarray = ["img/greg1.jpeg","img/greg2.jpeg","img/greg3.jpeg","img/greg4.jpeg","img/greg5.jpeg"];
+var num = Math.floor(Math.random() * 5);
+document.portrait.src = portraitarray[num];
+</script>
 {{ end }}
