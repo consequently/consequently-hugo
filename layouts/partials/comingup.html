@@ -1,1 +1,11 @@
-{{ if ge .Params.date.Unix now.Unix }} <span class="badge rounded-pill bg-secondary text-normal">COMING UP</span> {{ end }}
+{{- if ge (time .Params.date).Unix now.Unix -}} 
+<span class="badge rounded-pill bg-secondary caps text-normal" id="{{- .Permalink | md5 -}}">COMING SOON</span> 
+<!-- <script>
+    let eventstart{{ .Permalink | md5 | safeJS }}  = new Date({{- (time .Params.date).UnixMilli -}}).getTime();
+    let now{{ .Permalink | md5 | safeJS }}  = new Date().getTime();
+    if (now{{ .Permalink | md5 | safeJS }} > eventstart{{ .Permalink | md5 | safeJS }})
+    { 
+        document.getElementById("{{- .Permalink | md5 -}}").visibility = "hidden";
+    }
+</script> -->
+{{- end -}}
