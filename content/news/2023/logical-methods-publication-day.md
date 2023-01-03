@@ -33,4 +33,6 @@ Finally, a little coda looks at the fun issues ahead if you want to combine moda
 
 Along the way, the conceptual complexity builds step by step, and students don’t get taught &ndash; even implicitly &ndash; that proofs (or models) are merely derivative notions, having nothing to do with how logical concepts have been defined, understood or applied. The overarching aim is to introduce the tools of proofs and models.
 
-So, if *you* [pick up a copy of _Logical Methods_](https://mitpress.mit.edu/9780262544849/), and use it in your own learning or your own teaching, [Shawn](http://www.standefer.net) and I would love to hear from you how it goes.
+If you'd like to read more about how [Shawn](http://www.standefer.net) and I developed this material, and what we have learned from teaching it, [this news entry from 2019](/news/2019/teaching-logical-methods/) goes into more of the details.
+
+If *you* [pick up a copy of _Logical Methods_](https://mitpress.mit.edu/9780262544849/), and use it in your own learning or your own teaching, [Shawn](http://www.standefer.net) and I would love to hear from you how it goes.
