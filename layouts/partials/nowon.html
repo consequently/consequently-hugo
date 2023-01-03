@@ -1,0 +1,5 @@
+{{- if ge now.Unix (time .Params.date).Unix -}} 
+{{- if ge (time .Params.enddate).Unix now.Unix -}} 
+<span class="badge rounded-pill bg-success caps text-normal">NOW ON</span> 
+{{- end -}} 
+{{- end -}}
