@@ -68,7 +68,7 @@
                 {{ range first 7 (.Site.GetPage "section" "class").Pages }}
                 <dt class="col-1"><i class="text-primary bi bi-people text-end"></i></dt> 
                 <dd class="col-11">
-                <a href="{{ .Permalink }}" class="caps">{{ .Params.title | safeHTML  }}</a>, {{ .Params.host }}; {{ .Params.date.Format "January 2006" }}. {{ .Params.date.Format "2 January 2006" }}. {{ .Params.date.Format "2 January 2006" }}. {{ partial "comingup.html" . }}
+                <a href="{{ .Permalink }}" class="caps">{{ .Params.title | safeHTML  }}</a>, {{ .Params.host }}; {{ .Params.date.Format "January 2006" }}. {{ .Params.date.Format "2 January 2006" }}.  {{ partial "comingup.html" . }}
                 </dd>
                 {{ end }}
             </dl>
