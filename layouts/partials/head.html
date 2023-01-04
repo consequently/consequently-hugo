@@ -11,6 +11,6 @@
     {{- if .IsHome -}}
         {{- .Site.Title -}}{{ with .Site.Params.slogan }} — {{ . }}{{ end }}
     {{- else -}}
-        {{- .Title }} — {{ .Site.Title -}}
+        {{- .Title | safeHTML }} — {{ .Site.Title -}}
     {{- end -}}
 </title>
