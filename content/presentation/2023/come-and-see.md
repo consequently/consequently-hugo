@@ -3,7 +3,7 @@ date = "2023-01-15T11:00:00+01:00"
 title = "Come and See! (John 1:29-42)"
 publishdate = "2022-12-15"
 author = "Greg Restall"
-host = "St Salvator’s Chapel Worship, University of St Andrews"
+host = "Sermon at St Salvator’s Chapel Worship, University of St Andrews"
 +++
 The text for the sermon is [John 1:29&ndash;42](http://bible.oremus.org/?ql=539671111).
 
