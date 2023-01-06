@@ -11137,6 +11137,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
   letter-spacing: 0.005rem;
 }
 
+.bcaps {
+  font-family: "Alegreya SC";
+  text-transform: lowercase;
+  letter-spacing: 0.005rem;
+  font-weight: bold;
+}
+
+
 figcaption {
   font-family: "Alegreya Sans SC";
   text-transform: lowercase;
@@ -11186,5 +11194,9 @@ figcaption {
 .logician {float: left; margin-right:16px;}
 
 blockquote { margin-left: 0.5rem; border-left: 1px solid #eee; padding-left: 1rem;}
+
+.navbar-dark .nav-item .nav-link {
+  color: white;
+}
 
 /*# sourceMappingURL=style.css.map */
