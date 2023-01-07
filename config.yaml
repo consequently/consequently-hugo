@@ -1,6 +1,7 @@
 baseURL: https://consequently.org/
 languageCode: en-gb
 title: consequently.org
+summaryLength: 200
 
 copyright: Greg Restall
 

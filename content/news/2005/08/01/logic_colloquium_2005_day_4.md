@@ -48,7 +48,7 @@ So, Hannes explained what you should do to recover some decent modal logic in th
 
 -----
 
-At this stage of the proceedings, my brain had completely melted, so I went out and had a drink with [Aldo](http://kleene.ss.uci.edu/~aldo/), and then we had dinner once the rest of the crew (including Hannes, Sara, [Jan](http://www.helsinki.fi/%7Evonplato/), [Richard](http://www.ucalgary.ca/~rzach/logblog/) and [Giovanna](http://www.cs.unibo.it/~corsi/)) finished the late session.  I managed to reduce my *Trotsky number* (the length of the chain of the form *x* shook hands with *y* shook hands with ... shook hands with *Trotsky*) down to three *via* [Giovanna](http://en.wikipedia.org/wiki/Jean_van_Heijenoort), who once shared an office with [Jean van Heijenoort](http://en.wikipedia.org/wiki/Jean_van_Heijenoort), so now my Trotsky number is lower than my Erd&ouml;s number.
+At this stage of the proceedings, my brain had completely melted, so I went out and had a drink with [Aldo](http://kleene.ss.uci.edu/~aldo/), and then we had dinner once the rest of the crew (including Hannes, Sara, [Jan](http://www.helsinki.fi/%7Evonplato/), [Richard](http://www.ucalgary.ca/~rzach/logblog/) and [Giovanna](http://www.cs.unibo.it/~corsi/)) finished the late session.  I managed to reduce my *Trotsky number* (the length of the chain of the form *x* shook hands with *y* shook hands with ... shook hands with *Trotsky*) down to three *via* [Giovanna](http://www.cs.unibo.it/~corsi/), who once shared an office with [Jean van Heijenoort](http://en.wikipedia.org/wiki/Jean_van_Heijenoort), so now my Trotsky number is lower than my Erd&ouml;s number.
 
 -----
 
