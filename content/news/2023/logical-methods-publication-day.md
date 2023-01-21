@@ -5,7 +5,7 @@ description = "Celebrating the release of Shawn's and my book, Logical Methods."
 draft = false
 +++
 
-Today [MIT Press](https://mitpress.com) releases [our book, *Logical Methods*](/writing/logical_methods/) into the big wide world. It was an absoulte delight to work on this long-term project with my co-author and friend, [Shawn Standefer](http://www.standefer.net).
+Today [MIT Press](https://mitpress.com) releases [our book, *Logical Methods*](/writing/logical_methods/) into the big wide world. It was an absolute delight to work on this long-term project with my co-author and friend, [Shawn Standefer](http://www.standefer.net).
 
 <figure>
 	<img src="/images/a-stack-of-copies-of-logical-methods.jpeg" alt="A Stack of Copies of the book Logical Methods, written by Greg Restall and Shawn Standefer, MIT Press, 2023" width="80%">
@@ -15,7 +15,7 @@ Today [MIT Press](https://mitpress.com) releases [our book, *Logical Methods*](/
 
 <!--more-->
 
-I’m particularly pleased about two features of the book and its pedagogy, which are hard won, out of years of teaching logic, all the way from [elementary](/class/2020/unib10002) [introductions](/class/2022/py1012) to much more [advanced](/class/2020/phil30043) [classes](/class/2022/py4634/). *Logical Methods* is the result of our work teaching the [*second-year* logic class](/class/2020/phil20030/) at Melbourne. For that class, around half had some prior exposure to logic, and the others were interested and keen hit the ground running. So, we needed to start from the beginning, with no assumptions about what students bring to the class except for curiosity, and a bit of experience at university, and some general introductory background in philosophy.
+I’m particularly pleased about two features of the book and its pedagogy, which are hard won, out of years of teaching logic, all the way from [elementary](/class/2020/unib10002) [introductions](/class/2022/py1012) to much more [advanced](/class/2020/phil30043) [classes](/class/2022/py4634/). *Logical Methods* is the result of our work teaching the [*second-year* logic class](/class/2020/phil20030/) at Melbourne. For that class, around half had some prior exposure to logic, and the others were interested and keen to hit the ground running. So, we needed to start from the beginning, with no assumptions about what students bring to the class except for curiosity, and a bit of experience at university, and some general introductory background in philosophy.
 
 1. Each chapter has a summary of the key concepts, and a set of exercises students can use (a) to practice working with those concepts; (b) check that they have mastered the material, and finally (c) explore some of the interesting philosophical issues that arise, and…
 
