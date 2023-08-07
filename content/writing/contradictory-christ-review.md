@@ -4,7 +4,7 @@ author: Greg Restall
 type: published
 kind: article
 status: published
-citation: "Review of Jc Beall, <em>The Contradictory Christ</em>, <em>Religious Studies</em>, 59, (2023), 556--559."
+citation: "Review of Jc Beall, <em>The Contradictory Christ</em>, <em>Religious Studies</em>, 59, (2023), 556&ndash;559."
 tag: contradictory-christ-review
 file: contradictory-christ-review.pdf
 date: 2023-08-07
