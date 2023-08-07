@@ -4,7 +4,7 @@ author: Greg Restall and Dainel Nellor
 type: published
 kind: article
 status: published
-citation: "Looking at Logic(s), Chapter 4 in <em>What are They Thinking? Conversations with Australian Philosophers</em>, edited by Daniel Nellor, Australian Scholarly Publishing, 2023"
+citation: "Looking at Logic(s), Chapter 4 in <em>What are They Thinking? Conversations with Australian Philosophers</em>, edited by Daniel Nellor, Australian Scholarly Publishing, 2023."
 tag: looking-at-logics
 file: looking-at-logics.pdf
 date: 2023-08-07

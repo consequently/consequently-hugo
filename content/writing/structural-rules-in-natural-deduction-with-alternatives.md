@@ -4,7 +4,7 @@ author: Greg Restall
 type: published
 kind: article
 status: "Early View"
-citation: "Structural Rules in Natural Deduction with Alternatives, <em>Bulletin of the Section of Logic</em>, pp. 35 (2023), Early View"
+citation: "Structural Rules in Natural Deduction with Alternatives, <em>Bulletin of the Section of Logic</em>, pp. 35 (2023), Early View."
 tag: structural-rules-in-natural-deduction-with-alternatives
 file: structural-rules-in-natural-deduction-with-alternatives.pdf
 date: 2023-07-18

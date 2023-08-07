@@ -4,7 +4,7 @@ author: Greg Restall
 type: unpublished
 kind: article
 status: In Progress
-citation: "Generics: Inference & Accommodation (article in progress)"
+citation: "Generics: Inference & Accommodation (article in progress)."
 tag: gen-inf-acc
 file: gen-inf-acc.pdf
 date: 2023-01-30
