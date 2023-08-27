@@ -1,6 +1,6 @@
 +++
 date = "2023-09-01T09:00:00+01:00"
-title = "Finitude, Eternity, Love, the Good and Martin Hagglünd’s &lsquo;This Life&;rsquo"
+title = "Finitude, Eternity, Love, the Good and Martin Hagglünd’s &lsquo;This Life&rsquo;"
 host = "The British Society for the Philosophy of Religion 2023 Conference"
 publishdate = "2023-08-27"
 author = "Greg Restall"
