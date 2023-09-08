@@ -10,5 +10,5 @@ author = "Greg Restall"
 
 This talk reports joint work with [Francesco Berto](https://www.st-andrews.ac.uk/philosophy/people/fb96).
 
-* The talk is a presentation [15th Conference of the Italian Society for Analytic Philosophy](http://sifaphilosophy.eu/?p=4958).
+* The talk was a presentation [15th Conference of the Italian Society for Analytic Philosophy](http://sifaphilosophy.eu/?p=4958).
 * The slides of the talk are [available here](/slides/spn-sifa.pdf).
