@@ -10,5 +10,5 @@ author = "Greg Restall"
 
 This talk reports joint work with [Francesco Berto](https://www.st-andrews.ac.uk/philosophy/people/fb96).
 
-* The talk is a presentation at 
+* The talk is a [presentation](https://www.st-andrews.ac.uk/arche/event/metaphysics-and-logic-seminar-5-2/) in the [Arché](https://www.st-andrews.ac.uk/arche/) [Metaphysics and Logic seminar series](https://www.st-andrews.ac.uk/arche/series/metaphysics-and-logic-seminar-3/) in the [Philosophy Department](https://www.st-andrews.ac.uk/philosophy/) at the [University of St Andrews](https://www.st-andrews.ac.uk/).
 * The slides of the talk are [available here](/slides/spn-arche-ml.pdf).
