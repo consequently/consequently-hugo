@@ -11,3 +11,4 @@ author = "Greg Restall"
 This talk reports joint work with [Francesco Berto](https://www.st-andrews.ac.uk/philosophy/people/fb96).
 
 * The talk is a presentation at the University of Stirling Philosophy Seminar.
+* The slides of the talk are [available here](/slides/spn-stirling.pdf).
