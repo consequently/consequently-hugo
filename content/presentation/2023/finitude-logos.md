@@ -13,3 +13,6 @@ I will show that while Hägglund’s account is a salutary corrective to a perva
 
 * The talk is a presentation at the [Logos Institute Research Seminar](https://logos.wp.st-andrews.ac.uk/research-seminars/).
 
+* The [handout for the talk is available here](/handouts/finitude-logos.pdf).
+
+
