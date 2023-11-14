@@ -8,7 +8,7 @@ citation: "&ldquo;True Contradictions in Theology?&rdquo; pp. 17&ndash;32 in <em
 tag: tcit
 file: tcit.pdf
 date: 2022-12-31
-publishdate: 2024-01-01
+publishdate: 2023-11-11
 
 
 ---
