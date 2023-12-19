@@ -1,16 +1,16 @@
 ---
 title: "Collection Frames for Distributive Substructural Logics"
 author: Greg Restall and Shawn Standefer
-status: Published in 2022
+status: Published in 2023
 type: published
-citation: "Greg Restall and Shawn Standefer, &ldquo;Collection Frames for Distributive Substructural Logics,&rdquo; <em>Review of Symbolic Logic</em>, First View."
+citation: "Greg Restall and Shawn Standefer, &ldquo;Collection Frames for Distributive Substructural Logics,&rdquo; <em>Review of Symbolic Logic</em>, (2023) 16:4, 1120-1157."
 tag: collection-frames
 file: collection-frames.pdf
 subjects: frames models relevant_logic substructural_logic
 comments: yes
 doi: 10.1017/S1755020322000272
-date: 2022-05-14
-publishdate: 2022-05-14
+date: 2023-12-18
+publishdate: 2023-12-18
 filter:
   - erb
   - markdown
