@@ -4,7 +4,7 @@ author: Greg Restall
 type: unpublished
 kind: article
 status: In Progress
-citation: "The Philosophical Signifiance of the Paradoxes (to appear in the <em>Oxford Handbook of Philosophical Logic</em>)"
+citation: "The Philosophical Significance of the Paradoxes (to appear in the <em>Oxford Handbook of Philosophical Logic</em>)"
 tag: psp
 file: psp.pdf
 date: 2023-12-13
