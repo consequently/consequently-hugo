@@ -1,4 +1,4 @@
----
+--
 title: Proofs with Star and Perp
 
 author: Greg Restall
