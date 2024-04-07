@@ -44,7 +44,7 @@ at home in contemporary critical theory, this book is more accessible. Like
 many good books on non-violence, the account turns away from the purely
 negative characterisation in terms of <em>avoiding violence</em>, toward an
 expansive account of widening the circle of whose lives ultimately count, or in
-Butler’s telling (which is actuarial and more human), whose lives are
+Butler’s telling (which is less _actuarial_ and more human), whose lives are
 <em>grievable</em>. 
 
 March’s fiction was all *science* fiction, though these three books were all
