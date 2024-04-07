@@ -12,6 +12,8 @@ thought I’d share last month’s reading notes.
 
 First, over March I read a few books that are broadly _philosophical_:
 
+<!--more-->
+
 [The Lies that Bind: Rethinking
 Identity](https://uk.bookshop.org/p/books/the-lies-that-bind-rethinking-identity-kwame-anthony-appiah/33617?ean=9781781259245),
 Kwame Anthony Appiah — this is an accessible discussion of  contemporary
