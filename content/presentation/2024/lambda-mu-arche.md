@@ -35,5 +35,5 @@ divide.
 
 * The talk is a presentation at the [2024 Arché Workshop on Proofs, Rules and Meanings](https://www.st-andrews.ac.uk/arche/event/workshop-proofs-rules-and-meanings/).
 
-* The [handout for the talk is available here](/handouts/lambda-mu-arche.pdf), and if for some reason you'd like to see the slides, they’re [here](/slides/lambda-mu-arche-talk.pdf).
+* The [handout for the talk is available here](/handouts/lambda-mu-arche-handout.pdf), and if for some reason you'd like to see the slides, they’re [here](/slides/lambda-mu-arche-talk.pdf).
 
