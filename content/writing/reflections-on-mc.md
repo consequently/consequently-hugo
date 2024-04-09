@@ -1,13 +1,13 @@
 ---
 title: "Reflections on Brady's Logic of Meaning Containment"
 author: Greg Restall
-status: In Progress
+status: to appear 
 type: unpublished
-citation: "Reflections on Brady's Logic of Meaning Containment (article in progress)"
+citation: "Reflections on Brady's Logic of Meaning Containment (to appear in <em>The Australasian Journal of Logic</em>)"
 tag: reflections-on-mc
 file: reflections-on-mc.pdf
-date: 2024-01-14
-publishdate: 2024-01-14
+date: 2024-04-09
+publishdate: 2024-04-09
 ---
 This paper is a series of reflections on Ross Brady’s favourite substructural
 logic, the logic MC of meaning containment. In the first section, I describe
