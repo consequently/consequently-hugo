@@ -11137,6 +11137,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
   letter-spacing: 0.005rem;
 }
 
+.uncaps {
+  font-family: "Alegreya Sans", --bs-body-font-family !important;
+  font-weight: normal;
+}
+
 .bcaps {
   font-family: "Alegreya SC";
   text-transform: lowercase;

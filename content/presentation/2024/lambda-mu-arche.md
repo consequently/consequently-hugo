@@ -1,6 +1,6 @@
 +++
 date = "2024-04-11T09:30:00+01:00"
-title = "&lambda;&mu;: Relating Constructive and Classical Logics"
+title = "<class="uncaps">&lambda;&mu;</class>: Relating Constructive and Classical Logics"
 host = "Arché Workshop: Proofs, Rules and Meanings"
 publishdate = "2024-04-09"
 author = "Greg Restall"
