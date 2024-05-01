@@ -6,7 +6,7 @@ draft = false
 
 Another month, and another pile of books I’ve managed to read. *This* month’s reading started on the Isle of Iona, where we had a short Easter break. On the last day on the island, and then on the ferry journeys back to the “mainland”, I finished [*The Life of St Columba*](https://uk.bookshop.org/p/books/life-of-st-columba-adomnan-of-iona/433552?ean=9780140444629), who served as the Abbot of Iona and, as legend has it, brought Christianity to Scotland, from Ireland, dying in 597. 
 
-<!—more—>
+<!--more-->
 
 The [*Life*](https://uk.bookshop.org/p/books/life-of-st-columba-adomnan-of-iona/433552?ean=9780140444629) is a collection of stories about Columba, written and compiled by Adomnán of Iona, who served as Abbot of the Iona Abbey from 679. The stories are in three sections, the first about Columba’s prophetic revelations and insights, the next concerning miracles, and the last, concerning angelic visitations. The book is filled with details both fantastical and mundane, and it imparts a sense of life on the Western Isles many centuries ago.
 
