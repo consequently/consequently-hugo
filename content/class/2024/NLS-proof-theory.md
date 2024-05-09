@@ -1,7 +1,7 @@
 +++
-date = "2024-05-09"
-enddate = "2024-06-10"
-publishdate = "2024-06-13"
+date = "2024-06-10"
+enddate = "2024-06-13"
+publishdate = "2024-05-09"
 title = "Proof Theory"
 host = "Nordic Logic Summer School 2024"
 duration = 604800
