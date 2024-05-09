@@ -9,7 +9,7 @@ duration = 604800
 +++
 
 This is an intensive class on logical and philosophical issues in proof theory,
-taught at <a hrfef="https://scool24.github.io/NLS/"><span class="caps">nls2024</span></a> 
+taught at <a href="https://scool24.github.io/NLS/"><span class="caps">nls2024</span></a> 
 as part of the [Reykjavik Summer of Cool Logic 2024](https://scool24.github.io).
 
 In this course, I’ll introduce natural deduction and sequent calculus for
