@@ -14,6 +14,6 @@ date: 2024-05-01
 publishdate: 2024-05-01
 ---
 
-This is a translation into Chinese of my introductory textbook <em><a href=“https://consequently.org/writing/logic/”>Logic</a></em>. 
+This is a translation into Chinese of my introductory textbook *[Logic](writing/logic)*. 
 
 It is available from [Huazhong University of Science &amp; Technology Press](http://bookcenter.hustp.com/detail/20672.html).
