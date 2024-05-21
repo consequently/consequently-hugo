@@ -1,4 +1,4 @@
-—
+---
 title: Logic (Chinese Translation)
 author: Greg Restall, translated by Xu Min
 type: published
@@ -12,8 +12,8 @@ tag: logic_chinese_translation
 subjects: logic
 date: 2024-05-01
 publishdate: 2024-05-01
+---
 
-—
 This is a translation into Chinese of my introductory textbook <em><a href=“https://consequently.org/writing/logic/”>Logic</a></em>. 
 
 It is available from [Huazhong University of Science &amp; Technology Press](http://bookcenter.hustp.com/detail/20672.html).
