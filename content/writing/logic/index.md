@@ -22,6 +22,6 @@ filter:
 ---
 This is an introductory textbook in logic, in the series <em>Fundamentals of Philosophy</em>, published by Routledge.  I use the text in my <a href="http://webraft.its.unimelb.edu.au/161115/pub/">Introduction to Formal Logic</a> class at Melbourne.  It's available at <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0415400686/consequentlyorg">Amazon UK</a> and <a href="http://www.amazon.com/exec/obidos/ASIN/0415400686/consequentlyorg">Amazon US</a>.
 
-The book was <a href=“https://consequently.org/writing/logic_chinese_translation/”>translated into Chinese</a> in 2024.
+The book was [translated into Chinese](https://consequently.org/writing/logic_chinese_translation) in 2024.
 
 The book has a dedicated website at <a href="http://consequently.org/logic">http://consequently.org/logic</a>.
