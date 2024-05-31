@@ -96,7 +96,7 @@ taking on the obvious political themes salient in the present, but touching on
 the role of the counsellor, and issues of memory, faithfulness, and what it is
 to love. 
 
-<figure class="figure w-25 float-end m-1">
+<figure class="figure w-25 float-start m-1">
     <img src="/images/covers-april/cvr-titanium-noir.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: Titanium Noir">
 </figure>
 
