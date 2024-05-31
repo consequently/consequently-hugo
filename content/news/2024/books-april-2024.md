@@ -63,18 +63,37 @@ compelling and puzzling, in turn, and sometimes all at once.
 </figure>
 
 
-The second is a
-terrifying 2024 account of how a global nuclear war could happen within 72
-minutes of the first (missile launch). That this kind of story is conceivable
-(let alone be halfway *plausible*) is an indictment on humanity, and a cause
-for grief, for anger, for reflection, and for action.
+The second is a terrifying 2024 account of how a global nuclear war could
+happen within 72 minutes of the first (missile launch). That this kind of story
+is conceivable (let alone be halfway *plausible*) is an indictment on humanity,
+and a cause for grief, for anger, for reflection, and for action.
 
+<figure class="figure w-25 float-start m-1">
+    <img src="/images/covers-april/cvr-the-little-world-of-don-camillo.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: The Little World of Don Camillo">
+</figure>
 
 The fiction this month has been varied, too. 
 
 
-First of all, I wanted to revisit some light reading I remembered enjoying back many years ago. I packed up my copy of [*The Little World of Don Camillo*](https://www.amazon.co.uk/Little-World-Don-Camillo-No/dp/1900064073/consequentlyorg), by Giovannino Guareschi, when I was off on a work trip, and the escapades of the priest Don Camillo and the communist mayor, Peppone, in a little town in the Po valley in the north of Italy, were as delightful as I remembered them. 
+First of all, I wanted to revisit some light reading I remembered enjoying back
+many years ago. I packed up my copy of [*The Little World of Don
+Camillo*](https://www.amazon.co.uk/Little-World-Don-Camillo-No/dp/1900064073/consequentlyorg),
+by Giovannino Guareschi, when I was off on a work trip, and the escapades of
+the priest Don Camillo and the communist mayor, Peppone, in a little town in
+the Po valley in the north of Italy, were as delightful as I remembered them. 
 
-Second, my partner had read Peter Kramer’s [*Death of the Great Man*](https://uk.bookshop.org/p/books/death-of-the-great-man-a-novel-peter-d-kramer/7400832?ean=9781637587966), a novel about a psychotherapist who is forced into hiding after the the US President (never named, but a narcissistic fascist late in his disastrous second term) dies while in a consultation — and she recommended it to me. I devoured it over an intense couple of days. It’s a funny, tragic, twisty tale, taking on the obvious political themes salient in the present, but touching on the role of the counsellor, and issues of memory, faithfulness, and what it is to love. 
+<figure class="figure w-25 float-end m-1">
+    <img src="/images/covers-april/cvr-death-of-the-great-man.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: Death of the Great Man">
+</figure>
+
+Second, my partner had read Peter Kramer’s [*Death of the Great
+Man*](https://uk.bookshop.org/p/books/death-of-the-great-man-a-novel-peter-d-kramer/7400832?ean=9781637587966),
+a novel about a psychotherapist who is forced into hiding after the the US
+President (never named, but a narcissistic fascist late in his disastrous
+second term) dies while in a consultation — and she recommended it to me. I
+devoured it over an intense couple of days. It’s a funny, tragic, twisty tale,
+taking on the obvious political themes salient in the present, but touching on
+the role of the counsellor, and issues of memory, faithfulness, and what it is
+to love. 
 
 Finally, I enjoyed Nick Harakaway’s [*Titanium Noir*](https://uk.bookshop.org/p/books/titanium-noir-nick-harkaway/7251042), on the basis of a recommendation by Jason Snell on [The Incomparable’s Book Club podcast](https://www.theincomparable.com/theincomparable/711/). Harkaway’s big novel [*Gnomon*](https://uk.bookshop.org/p/books/gnomon-nick-harkaway/1671917?ean=9781786090096) is on my to-read list, but I’ve not had the concentration span to devote to a 700 page beast of a novel. I’m working up to that with the much shorter, detective story [*Titanium Noir*](https://uk.bookshop.org/p/books/titanium-noir-nick-harkaway/7251042). Set in a world in which a very expensive gene therapy T7 means that the fabulously wealthy very few who can afford it are effectively immortal, the protagonist of this story is a jaded hard-boiled detective (yes, it’s a cliche, but it’s earned) investigating the murder of a titan. You see, the wealthy elite who have taken T7 do not only economically stand over the rest of the population, they tower over them _literally_. Every time you are dosed with the gene therapy, you effectively go through another puberty, returning, effectively, to the health of someone in their early 20s, and growing a full foot or more. So, the uber wealthy are _literally_ titans, towering over the rest of us. The story sounds like it is merely an on the nose retelling of the speciation of the wealthy, but Harkaway tells an exciting story in this setting, and it takes some unexpected turns on the way to the gripping conclusion. If you can stomach some graphic violence in which a normal sized human fights dirty to defend himself against an enraged 9 foot giant, following this story is an exciting ride.
