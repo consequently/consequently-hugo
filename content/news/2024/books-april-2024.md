@@ -8,7 +8,7 @@ Another month, and another pile of books I’ve managed to read. *This* month’
 
 <!--more-->
 
-<figure class="figure w-50 float-end m-3">
+<figure class="figure w-50 float-end m-1">
     <img src="/images/covers-april/cvr-adomnan-of-iona.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: Life of St Columba">
 </figure>
 
