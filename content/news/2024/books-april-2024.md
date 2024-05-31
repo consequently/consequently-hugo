@@ -18,10 +18,6 @@ The [*Life*](https://uk.bookshop.org/p/books/life-of-st-columba-adomnan-of-iona/
     <img src="/images/covers-april/cvr-jesus-of-nazareth.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: Jesus of Nazareth">
 </figure>
 
-<figure class="figure w-25 float-end m-1">
-    <img src="/images/covers-april/cvr-the-jihad-of-jesus.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: The Jihad of Jesus">
-</figure>
-
 The other *theological* reading this month were two very different books about
 Jesus. When I heard that the German theologian Gerhard Lohfink died in April, I
 decided to pick up his influential book [*Jesus of Nazareth: What He Wanted,
@@ -50,9 +46,32 @@ and Muslims have been agents of peace and reconciliation as they have attempted
 to imitate Jesus/Isa. It’s a beautiful example of interreligious dialogue done
 well.
 
-The other two nonfiction reads this month were Simone Weil’s [*The Need for Roots*](https://uk.bookshop.org/p/books/the-need-for-roots-prelude-to-a-declaration-of-duties-towards-mankind-simone-weil/956068), and Annie Jacobsen’s [*Nuclear War: A Scenario*](https://uk.bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/7598736?ean=9781911709596). The first was written in the aftermath of the Second World War, and is Weil’s prescription for what ails modern (European/Western) society. It’s infuriating, compelling and puzzling, in turn, and sometimes all at once. The second is a terrifying 2024 account of how a global nuclear war could happen within 72 minutes of the first (missile launch). That this kind of story is conceivable (let alone be halfway *plausible*) is an indictment on humanity, and a cause for grief, for anger, for reflection, and for action.
+<figure class="figure w-25 float-start m-1">
+    <img src="/images/covers-april/cvr-the-need-for-roots.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: The Need for Roots">
+</figure>
+
+The other two nonfiction reads this month were Simone Weil’s [*The Need for
+Roots*](https://uk.bookshop.org/p/books/the-need-for-roots-prelude-to-a-declaration-of-duties-towards-mankind-simone-weil/956068),
+and Annie Jacobsen’s [*Nuclear War: A
+Scenario*](https://uk.bookshop.org/p/books/nuclear-war-a-scenario-annie-jacobsen/7598736?ean=9781911709596).
+The first was written in the aftermath of the Second World War, and is Weil’s
+prescription for what ails modern (European/Western) society. It’s infuriating,
+compelling and puzzling, in turn, and sometimes all at once. 
+
+<figure class="figure w-25 float-end m-1">
+    <img src="/images/covers-april/cvr-nuclear-war.jpg" class="figure-img img-fluid rounded img-thumbnail" alt="Book Cover: Nuclear War">
+</figure>
+
+
+The second is a
+terrifying 2024 account of how a global nuclear war could happen within 72
+minutes of the first (missile launch). That this kind of story is conceivable
+(let alone be halfway *plausible*) is an indictment on humanity, and a cause
+for grief, for anger, for reflection, and for action.
+
 
 The fiction this month has been varied, too. 
+
 
 First of all, I wanted to revisit some light reading I remembered enjoying back many years ago. I packed up my copy of [*The Little World of Don Camillo*](https://www.amazon.co.uk/Little-World-Don-Camillo-No/dp/1900064073/consequentlyorg), by Giovannino Guareschi, when I was off on a work trip, and the escapades of the priest Don Camillo and the communist mayor, Peppone, in a little town in the Po valley in the north of Italy, were as delightful as I remembered them. 
 
