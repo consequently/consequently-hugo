@@ -31,8 +31,8 @@ between structural rules, paradoxes and fixed points.
 ## Class Resources
 
 If you are attending the class, you can download the (password-protected, for the moment)
-[class notes here](/notes/prm-nls2024.pdf).
-.
+[class notes here](/notes/prm-nls2024.pdf). I’ll upload the slides after each class.
+
 * **Monday**: _Natural Deduction_. (Slides | Reading: [Chapter 1](/notes/prm-nls2024.pdf).)
 * **Tuesday**: _Sequent Systems_. (Slides | Reading: [Chapters 2 and 4](/notes/prm-nls2024.pdf).) 
 * **Wednesday**: _Positions, Models and More_. (Slides | Reading: [Chapters 3, 5 and 6](/notes/prm-nls2024.pdf).)
