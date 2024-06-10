@@ -33,7 +33,7 @@ between structural rules, paradoxes and fixed points.
 If you are attending the class, you can download the (password-protected, for the moment)
 [class notes here](/notes/prm-nls2024.pdf). I’ll upload the slides after each class.
 
-* **Monday**: _Natural Deduction_. (Slides | Reading: [Chapter 1](/notes/prm-nls2024.pdf).)
+* **Monday**: _Natural Deduction_. ([Slides](/slides/nls-2024-day-1.pdf) | Reading: [Chapter 1](/notes/prm-nls2024.pdf).)
 * **Tuesday**: _Sequent Systems_. (Slides | Reading: [Chapters 2 and 4](/notes/prm-nls2024.pdf).) 
 * **Wednesday**: _Positions, Models and More_. (Slides | Reading: [Chapters 3, 5 and 6](/notes/prm-nls2024.pdf).)
 * **Thursday**: _Modal Logic_. (Slides | Reading: Francesca Poggiolesi and Greg Restall
