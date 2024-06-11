@@ -34,7 +34,7 @@ If you are attending the class, you can download the (password-protected, for th
 [class notes here](/notes/prm-nls2024.pdf). I’ll upload the slides after each class.
 
 * **Monday**: _Natural Deduction_. ([Slides](/slides/nls-2024-day-1.pdf) | Reading: [Chapter 1](/notes/prm-nls2024.pdf).)
-* **Tuesday**: _Sequent Systems_. (Slides | Reading: [Chapters 2 and 4](/notes/prm-nls2024.pdf).) 
+* **Tuesday**: _Sequent Systems_. ([Slides](/slides/nls-2024-day-2.pdf) | Reading: [Chapters 2 and 4](/notes/prm-nls2024.pdf).) 
 * **Wednesday**: _Positions, Models and More_. (Slides | Reading: [Chapters 3, 5 and 6](/notes/prm-nls2024.pdf).)
 * **Thursday**: _Modal Logic_. (Slides | Reading: Francesca Poggiolesi and Greg Restall
 “[Interpreting and Applying Proof Theories for Modal
