@@ -35,7 +35,7 @@ If you are attending the class, you can download the (password-protected, for th
 
 * **Monday**: _Natural Deduction_. ([Slides](/slides/nls-2024-day-1.pdf) | Reading: [Chapter 1](/notes/prm-nls2024.pdf).)
 * **Tuesday**: _Sequent Systems_. ([Slides](/slides/nls-2024-day-2.pdf) | Reading: [Chapters 2 and 4](/notes/prm-nls2024.pdf).) 
-* **Wednesday**: _Positions, Models and More_. (Slides | Reading: [Chapters 3, 5 and 6](/notes/prm-nls2024.pdf).)
+* **Wednesday**: _Positions, Models and More_. ([Slides](/slides/nls-2024-day-3.pdf) | Reading: [Chapters 3, 5 and 6](/notes/prm-nls2024.pdf).)
 * **Thursday**: _Modal Logic_. (Slides | Reading: Francesca Poggiolesi and Greg Restall
 “[Interpreting and Applying Proof Theories for Modal
 Logics](https://consequently.org/writing/interp-apply-ptml/)”, in _New Waves in
