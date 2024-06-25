@@ -26,7 +26,7 @@ mathematics. Different proof assistants
 ([Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php),
 [Idris](https://www.idris-lang.org), 
 [Lean](http://lean-lang.org), [Isabelle](https://isabelle.in.tum.de), 
-[Rocq/Coq](https://coq.inria.fr).)
+[Rocq/Coq](https://coq.inria.fr))
 make different choices in the formal representation of mathematical reasoning,
 but the predominant choice of these proof assistants is to represent proofs
 constructively, in what amounts to intuitionistic logic and not classical
