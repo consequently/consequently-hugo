@@ -13,12 +13,12 @@ of Metaphysics](https://www.idris-lang.org)_ to the effect that to get anywhere
 in fundamental issues of metaphysics we would do well to attend to the
 fundamental commitments of our theory of meaning—and that those concerns lead
 to the conclusion that we can find common ground in *intuitionistic* logic, not
-classical logic. (2) The issue of *pluralism* (or *monism*) about logical
-consequence. Contemporary work in logic is filled with a range of different
-(and seemingly opposed) accounts of what follows from what. Many different
-kinds of logical pluralism have arisen to attempt to make sense of the
-diversity of logical analyses, and just as many defences of logical monism have
-been offered.
+classical logic. (2) The issue of [*pluralism* (or *monism*) about logical
+consequence](https://plato.stanford.edu/entries/logical-pluralism).
+Contemporary work in logic is filled with a range of different (and seemingly
+opposed) accounts of what follows from what. Many different kinds of logical
+pluralism have arisen to attempt to make sense of the diversity of logical
+analyses, and just as many defences of logical monism have been offered.
  
 The contemporary developments? The rise of *dependent type theory* in computer
 science and the consequent rise of proof assistants in the formalisation of
