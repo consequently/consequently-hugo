@@ -9,7 +9,7 @@ nearly done. This month I read nine books, but one was an unpublished draft of
 a novel that a friend is writing, so I won't say more about that, until there
 is more news to share. The other fiction reads this month could not be more
 different from each other.  [*Beyond the Light
-Horizon*](https://uk.bookshop.org/p/books/untitled-space-opera-3-ken-macleod/4958043?ean=9780356514826)i
+Horizon*](https://uk.bookshop.org/p/books/untitled-space-opera-3-ken-macleod/4958043?ean=9780356514826)
 concludes [Ken MacLeod](https://kenmacleod.blogspot.com)’s most recent
 politically charged Scotland-based near-future science fiction trilogy. The
 ending was a bit rushed for my taste, but it was an enjoyable ride along the
