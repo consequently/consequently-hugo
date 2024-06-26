@@ -8,12 +8,14 @@ May was a *great* reading month, but I forgot to upload my notes until June was
 nearly done. This month I read nine books, but one was an unpublished draft of
 a novel that a friend is writing, so I won't say more about that, until there
 is more news to share. The other fiction reads this month could not be more
-different.  [*Beyond the Light
-Horizon*](https://uk.bookshop.org/p/books/untitled-space-opera-3-ken-macleod/4958043?ean=9780356514826)
-([Ken MacLeod](https://kenmacleod.blogspot.com)) concludes his most recent
+different from each other.  [*Beyond the Light
+Horizon*](https://uk.bookshop.org/p/books/untitled-space-opera-3-ken-macleod/4958043?ean=9780356514826)i
+concludes [Ken MacLeod](https://kenmacleod.blogspot.com)’s most recent
 politically charged Scotland-based near-future science fiction trilogy. The
 ending was a bit rushed for my taste, but it was an enjoyable ride along the
-way. [Alexis Wright](https://en.wikipedia.org/wiki/Alexis_Wright)’s
+way. 
+
+[Alexis Wright](https://en.wikipedia.org/wiki/Alexis_Wright)’s
 [*Praiseworthy*](https://uk.bookshop.org/p/books/praiseworthy-alexis-wright/7522075)
 could not be more different. A gargantuan (736 page) novel, it reads like a
 stream of consciousness. It is set in the north of Australia, with a cast of
