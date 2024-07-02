@@ -52,4 +52,6 @@ classical reasoning. Classical reasoning can be vindicated, but at some cost.
 * This talk is a presentation at the [Arché Metaphysics and Logic
   Seminar](https://www.st-andrews.ac.uk/arche/event/metaphysics-and-logic-seminar-20/).
 
+* You can download the [slides here](/slides/what-do-we-mean-arche-compressed.pdf).
+
 
