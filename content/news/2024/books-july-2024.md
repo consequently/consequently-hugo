@@ -1,6 +1,6 @@
 +++
 date = "2024-08-22T21:40:00+01:00"
-title = "Books Read: June 2024"
+title = "Books Read: July 2024"
 draft = false
 +++
 
