@@ -47,7 +47,7 @@ introduction to the basics of classical mechanics was fun.
 
 The only _fiction_ for July was _[Orbital: A
 Novel](https://uk.bookshop.org/p/books/orbital-awe-inspiring-max-porter-samantha-harvey/7609785?ean=9781529922936)_
-[Samantha Harvey](https://www.samanthaharvey.co.uk), a gentle meditative story
+by [Samantha Harvey](https://www.samanthaharvey.co.uk), a gentle meditative story
 that takes in the perspective of a team of astronauts on the International
 Space Station. You get to imagine the astronauts experiencing [the overview
 effect](https://en.wikipedia.org/wiki/Overview_effect), each in their own way,
