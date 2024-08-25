@@ -51,4 +51,6 @@ view of the logics **ST**, **K3** and **LP**.
 * The talk is a presentation at the [British Logic Colloquium 2024](https://blc24.github.io) at the University of 
 Birmingham. 
 
+* The [slides for the talk are available here](/slides/models-for-identity-blc.pdf).
+
 
