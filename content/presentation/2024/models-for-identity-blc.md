@@ -4,7 +4,7 @@ title = "Models for Identity in Three-Valued Logics"
 host = "British Logic Colloquium 2024"
 publishdate = "2024-08-25"
 author = "Greg Restall"
-aliases = [‘/p/2024/blc’]
+aliases = ['/p/2024/blc']
 +++
 
 *Abstract*: 
