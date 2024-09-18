@@ -7,7 +7,7 @@ status: In Progress
 citation: "Generics: Inference & Accommodation (article in progress)."
 tag: gen-inf-acc
 file: gen-inf-acc.pdf
-date: 2023-01-30
+date: 2024-09-18
 publishdate: 2024-09-18
 
 
