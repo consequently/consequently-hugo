@@ -8,7 +8,7 @@ citation: "Generics: Inference & Accommodation (article in progress)."
 tag: gen-inf-acc
 file: gen-inf-acc.pdf
 date: 2023-01-30
-publishdate: 2023-01-30
+publishdate: 2024-09-18
 
 
 ---
