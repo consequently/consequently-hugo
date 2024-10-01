@@ -11,5 +11,6 @@ author = "Greg Restall"
 
 * This talk is a presentation at the [Aristotelian Society, in London](https://www.aristoteliansociety.org.uk/the-proceedings/the-2024-25-programme/greg-restall/).
 
+* The draft paper [is here](/papers/what-can-we-mean-aristotelian.pdf).
 
 
