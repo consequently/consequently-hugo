@@ -19,7 +19,7 @@ clarify what we are doing when we’re making claims about the world and trying
 to reason about them.
 
 
-* This talk is a presentation at the University of St Andrews PhilSoc (the undergraduate Philosophy Student Society).
+* This talk is a [presentation at the University of St Andrews PhilSoc](https://www.instagram.com/p/DAoAE0co421/) (the undergraduate Philosophy Student Society).
 
 
 
