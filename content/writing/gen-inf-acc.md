@@ -4,10 +4,12 @@ author: Greg Restall
 type: unpublished
 kind: article
 status: In Progress
-citation: "Generics: Inference & Accommodation (article in progress)."
+itation: "Generics: Inference & Accommodation (to appear in 
+<em>Mind, Language, and Social Hierarchy: Constructing a Shared Social World</em>, Sally Haslanger, Karen Jones, François
+Schroeter, Laura Schroeter, editors, Oxford University Press)"
 tag: gen-inf-acc
 file: gen-inf-acc.pdf
-date: 2024-09-18
+date: 2024-10-10
 publishdate: 2024-09-18
 
 
