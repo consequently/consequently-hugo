@@ -1,14 +1,15 @@
 ---
 title: Questions, Justification Requests, Inference, and Definition
 author: Greg Restall
-type: unpublished
+type: published
 kind: article
-status: to appear 
-citation: "Questions, Justification Requests, Inference, and Definition (to appear in a <em>Synthese</em> collection on non-assertoric-speech acts)"
+status: Published in 2024
+citation: "&ldquo;Questions, Justification Requests, Inference, and Definition&rdquo; <em>Synthese</em> 204:139 (2024)"
 tag: qjrid
 file: qjrid.pdf
 date: 2024-08-16
-publishdate: 2024-08-16
+doi: 10.1007/s11229-024-04752-3
+publishdate: 2024-10-18
 
 
 ---
