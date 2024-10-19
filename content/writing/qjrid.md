@@ -25,4 +25,4 @@ of the logical must, and the sense in which certain rules for logical
 concepts can indeed count as definitions.
 
 
-This paper is to appear in a <em>Synthese</em> edited collection on non-assertoric speech acts.
+This paper appears in a <a href="https://link.springer.com/collections/aihehgdfej"><em>Synthese</em> edited collection on non-assertoric speech acts</a>.
