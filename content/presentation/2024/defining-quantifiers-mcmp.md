@@ -26,7 +26,7 @@ by such rules to be defined by them, and hence to be apt for introduction to
 our vocabulary.  
 
 In this talk, I will show how, in a simple negative free logic, we are
-nonetheless able to—in some sense—define “outer” quantifiers \\(\Pi\\) and \\(\Sigma\\)
+nonetheless able to—in some sense—define “outer” quantifiers $\Pi$ and \\(\Sigma\\)
 where \\(\phi(t)\\) entails \\(\Sigma x\phi(x)\\), and is entailed by \\(\Pi x\phi(x)\\), 
 since the rules for such quantifiers meet all the strictures for defining
 concepts in proof-theoretic semantics mentioned above. I will discuss the
