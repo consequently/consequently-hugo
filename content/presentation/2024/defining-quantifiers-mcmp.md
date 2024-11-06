@@ -12,7 +12,7 @@ like \\(\frac{n}{m}\\) and \\(\lim_{x\to\infty} f(x)\\) do not denote, for
 appropriate choices of \\(m\\) and of \\(f\\).) It is not too difficult to
 define inference rules for an appropriately free logic that incorporates
 non-denoting terms. If \\(t\\) does not denote, then \\(\phi(t)\\) need not
-entail \\(\exists x\phi(x)\\), and neither is \\(\phi(t)\) entailed by
+entail \\(\exists x\phi(x)\\), and neither is \\(\phi(t)\\) entailed by
 \\(\forall x\phi(x)\\).  We now have a very good understanding of well-behaved
 cut-free sequent calculi for a variety of different free logics, appropriate
 for languages with non-denoting singular terms. 
