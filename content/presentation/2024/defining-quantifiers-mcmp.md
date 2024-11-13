@@ -37,5 +37,6 @@ of how inference rules might be used in definitions.
   Logic](https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/free_logic/index.html),
   a workshop at the Munich Center for Mathematical Philosophy.
 
+* Here are the [slides for the talk](/slides/defining-quantifiers-mcmp.pdf).
 
 
