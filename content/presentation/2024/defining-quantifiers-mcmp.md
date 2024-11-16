@@ -33,7 +33,7 @@ concepts in proof-theoretic semantics mentioned above. I will discuss the
 significance of this result for proof-theoretic semantics and our understanding
 of how inference rules might be used in definitions.
 
-* This talk is a presentation at [Topics in Free
+* This talk was a presentation at [Topics in Free
   Logic](https://www.mcmp.philosophie.uni-muenchen.de/events_this-_week/free_logic/index.html),
   a workshop at the Munich Center for Mathematical Philosophy.
 
