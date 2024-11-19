@@ -13,7 +13,7 @@ In this talk, I will attempt to make sense of this state of affairs, revisiting 
 
 * This talk is a presentation at the [Aristotelian Society, in London](https://www.aristoteliansociety.org.uk/the-proceedings/the-2024-25-programme/greg-restall/).
 
-* The draft paper [is here](/papers/what-can-we-mean-aristotelian.pdf).
+* The draft paper [is here](/papers/what-can-we-mean.pdf).
 * A (rather extensive) handout [is here](/handouts/what-can-we-mean-aristotelian-handout.pdf).
 
 
