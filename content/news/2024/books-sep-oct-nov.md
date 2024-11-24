@@ -1,5 +1,5 @@
 +++
-date = "2024-11-24T18:00:00+00:00"
+date = "2024-11-24T17:55:00+00:00"
 title = "Books Read: September, October, November 2024"
 draft = false
 +++
