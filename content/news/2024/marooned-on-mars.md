@@ -12,7 +12,11 @@ to Kim Stanley Robinson's fiction. The initial conceit of the podcast was that t
 [Matt Hauske](https://www.cla.purdue.edu/directory/profiles/hauske-matt.html) and 
 [Hilary Strang](https://maph.uchicago.edu/hilary-strang) (two humanities academics, based in Chicago)
 would take a section from the *Mars Trilogy*, one episode at a time, and discuss it, drawing out
-themes, pointing out connections, and generally, enjoying talking about the work. Hilary and Matt know
+themes, pointing out connections, and generally, enjoying talking about the work. 
+
+<!--more-->
+
+Hilary and Matt know
 their stuff (Hilary [teaches literature, and in particular, science fiction](https://maph.uchicago.edu/hilary-strang),
 while Matt [works in cinema studies](https://www.cla.purdue.edu/directory/profiles/hauske-matt.html)),
 but the conversation reads as a discussion between knowledgeable friends, rather than an academic seminar.
