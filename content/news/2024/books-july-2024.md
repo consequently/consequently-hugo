@@ -12,7 +12,7 @@ book. Instead of skipping the books-of-the-month post entirely, here's a
 stripped back version with a link and a sentence for each book.
 
 July was [Kierkegaard](https://plato.stanford.edu/entries/kierkegaard/) month.
-I enjoyed reading through : _[Fear and
+I enjoyed reading through: _[Fear and
 Trembling](https://uk.bookshop.org/p/books/fear-and-trembling-dialectical-lyric-by-johannes-de-silentio-soren-kierkegaard/14718?ean=9780140444490)_,
 which I'd known *of* for many years, but never read through. He's a striking
 prose stylist, as well as a thoughtful reader of the biblical Abraham and Isaac
