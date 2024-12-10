@@ -19,6 +19,6 @@ give it a red hot go.
 
 * This talk is a five-minute lightning presentation at the [Winter All-Arché Research Day](https://www.st-andrews.ac.uk/arche/event/all-arche-research-day-2/).
 
-* A (one page) handout [is here](/handouts/what-can-we-mean-winter-arche-day.pdf).
+* A (one page) handout [is here](/handouts/what-can-we-mean-winter-arche-day-handout.pdf).
 
 
