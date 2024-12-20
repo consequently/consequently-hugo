@@ -11,8 +11,10 @@ a semester of research leave. I'm looking forward to time set aside to think,
 to write, and to talk to colleagues, near and far.
 
 I have some trips lined up, to North America, and to continental Europe, in the 
-months ahead. I'll post notice of these here, as the details are ironed down.
-In the mean time, I'm looking forward to having that time to think and to write.
+months ahead. I'll post notice of these
+[here](https://consequently.org/presentation/), as the details are ironed down.
+In the mean time, I'm looking forward to having that time to think and to
+write.
 
 <figure>
 <img src="/images/door-notice-january-2025.jpeg" width="90%" alt="A printed
