@@ -1,4 +1,26 @@
 ---
+## Discuss
+```dataview
+TABLE WITHOUT ID
+
+	link(file.link, ""
+	
+		+ " " + truncate(choice(nickname, nickname, choice(title, title, file.name)),50,"…")
+	
+	)
+	as "Project",
+
+ truncate(summary,180,"…") as "Summary",
+
+category as "Category"
+		
+FROM -"!scaffolding"
+WHERE type = "project" and status = "discuss" 
+	AND (start <= date(today))
+	AND !contains(file.path, "_") 
+	AND !contains(file.path, "!")
+SORT choice(scheduled > due, scheduled, default(due,1)) ASC, default(priority,0) DESC, file.name ASC
+```
 title: Defending Logical Pluralism
 
 author: JC Beall and Greg Restall
