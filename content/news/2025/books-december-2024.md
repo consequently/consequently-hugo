@@ -13,10 +13,11 @@ First up, I enjoyed reading the second entry in
 [Dan Moren](https://dmoren.com)'s *Galactic Cold War* series: 
 *[The Bayern Agenda](https://dmoren.com/writing/galactic-cold-war/the-bayern-agenda/)*.
 As with [the previous entry](https://dmoren.com/writing/galactic-cold-war/the-caledonian-gambit/),
-this was a fun spy thriller, with a cold war sci-fi setting. I enjoy the characters, and Dan Moren
-has a deft hand as an author, balancing staying true to the characters with weaving a plot which
-balances ratcheting tension and building suspense, while treating the reader—and his characters—with
-respect. I will enjoy reading the remaining entries in the series in the coming months.
+this was a fun spy thriller, with a cold war science fictional setting. 
+I enjoy the characters, and Dan Moren has a deft hand as an author, weaving a
+plot which balances ratcheting tension and building suspense, while treating
+the reader—and his characters—with respect. I will enjoy reading the remaining
+entries in the series in the coming months.
 
 My second novel was very different: I re-read [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)'s
 *[Lilith](https://standardebooks.org/ebooks/george-macdonald/lilith)*, a fantasy, 
