@@ -23,8 +23,8 @@ My second novel was very different: I re-read [George MacDonald](https://en.wiki
 *[Lilith](https://standardebooks.org/ebooks/george-macdonald/lilith)*, a fantasy, 
 first published in 1895. MacDonald was a Scottish author (and Congregational 
 minister) who mentored Lewis Carroll (Charles Dodgson), and whose work inspired
-and influenced other religiously inflected writers of fantasy, such as J. R. R. Tolkien, 
-Madeleine L'Engle and C. S. Lewis. Lilith is an *odd* book: it's the story of Mr Vane, 
+and influenced other religiously inflected writers of fantasy, such as J.&nbsp;R.&nbsp;R.&nbsp;Tolkien, 
+Madeleine L'Engle and C.&nbsp;S.&nbsp;Lewis. Lilith is an *odd* book: it's the story of Mr Vane, 
 a man whose life centres on his library (and, we later discover, his love of horses), and 
 who has few significant relationships with other people. His library seems to be haunted
 by its former librarian, and soon, Mr Vane is transported to another world, many adventures
