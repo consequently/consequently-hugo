@@ -17,8 +17,7 @@ contingently. Had my parents not met, I would not have existed. It is perhaps
 surprising that an everyday idea like contingentism needs defence, but natural
 reasoning principles concerning possibility and necessity on the one hand, and
 the existential and universal quantifiers on the other, have led some to
-*necessitism*, the alternate view, that everything that exists, exists neces-
-sarily. 
+*necessitism*, the alternate view, that everything that exists, exists necessarily. 
 
 Almost all recent work on the semantics of possibility, necessity and the
 quantifiers---and its metaphysics---makes essential use of possible worlds
