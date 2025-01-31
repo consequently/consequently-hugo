@@ -1,7 +1,7 @@
 +++
 date = "2025-02-20T02:00:00+01:00"
 title = "Defining Rules for Quantifiers and Identity"
-host = "Programming Principles, Logic, and Verification Group, Computer Science Department, University College London”
+host = "Programming Principles, Logic, and Verification Group, Computer Science Department, University College London"
 publishdate = "2025-01-31"
 author = "Greg Restall"
 +++
