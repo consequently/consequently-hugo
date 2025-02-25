@@ -9,8 +9,8 @@ citation: "Proofs with Star and Perp (to appear in <em>New Directions in Relevan
 citation: "Proofs with Star and Perp, p. 343-372 in Sedlár, I., Standefer, S., Tedder, A. (eds) <em>New Directions in Relevant Logic</em>. Trends in Logic, vol 63. Springer."
 tag: proofs-with-star-and-perp
 file: proofs-with-star-and-perp.pdf
-date: 2024-01-31
-publishdate: 2025-02-25
+publishdate: 2024-01-31
+date: 2025-02-25
 doi: 10.1007/978-3-031-69940-5_14
 
 ---
