@@ -4,6 +4,7 @@ title = "Mathematical Practice, Proof Assistants and Meaning"
 host = "The Calgary Mathematics and Philosophy Lectures"
 publishdate = "2025-02-16"
 author = "Greg Restall"
+aliases = [‘/p/2025/mppam’]
 +++
 *Abstract*: 
 Twenty-first century mathematics has seen the rise of the proof assistant, and
