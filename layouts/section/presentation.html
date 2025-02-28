@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-8">
           {{ range .Pages }}
-          <p><i class="text-primary bi bi-chat text-end"></i>&nbsp;&nbsp;<time><span class="caps">{{ .Date.Format "January 2" }}</span></time>, <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> {{ .Params.host | safeHTML }}. {{ partial "comingup.html" . }}</p>
+          <p><i class="text-primary bi bi-chat text-end"></i>&nbsp;&nbsp;<time><span class="caps">{{ .Date.Format "January 2" }}</span></time>, <a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a>. {{ .Params.host | safeHTML }}. {{ partial "comingup.html" . }}</p>
         {{ end }}
         </div>
     </div>
