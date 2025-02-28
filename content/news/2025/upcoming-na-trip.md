@@ -17,6 +17,9 @@ as the chance to talk with smart people about my research.
 
 Meanwhile, I’ve managed to do a bit of reading during February, as I’ve been
 preparing for this trip. 
+
+<!--more-->
+
 First up, I read *[Dylan Goes Electric!: Newport, Seeger, Dylan, and the night
 that split the
 Sixties](https://uk.bookshop.org/p/books/dylan-goes-electric-newport-seeger-dylan-and-the-night-that-split-the-sixties-elijah-wald/1450281?ean=9780062366696)*, by 
