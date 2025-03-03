@@ -4,6 +4,7 @@ title = "Modal Logic and Contingent Existence"
 host = "OCIE Seminar in History and Philosophy of Mathematics"
 publishdate = "2025-02-26"
 author = "Greg Restall"
+aliases = ['/p/2025/ocie']
 +++
 *Abstract*: 
 In this talk, I will defend *contingentism*, the idea that some things exist
@@ -26,4 +27,4 @@ offer answers to necessitist objections.
 
 * This talk is a presentation at the [Orange County Inland Empire Seminar series in History and Philosophy of Mathematics](https://www.chapman.edu/scst/graduate/ocie-seminar-series.aspx) at [Chapman University](https://www.chapman.edu/scst/graduate/dsci-mpp.aspx).
 
-
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/079nGMqUEk9F5CLRHIUe8vFog#mlce-ocie).
