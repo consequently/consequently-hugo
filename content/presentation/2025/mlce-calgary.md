@@ -4,6 +4,7 @@ title = "Modal Logic and Contingent Existence"
 host = "The University of Calgary, Department of Philosophy"
 publishdate = "2025-02-26"
 author = "Greg Restall"
+aliases = ['/p/2025/mlce-c']
 +++
 *Abstract*: 
 In this talk, I will defend *contingentism*, the idea that some things exist
@@ -27,3 +28,4 @@ offer answers to necessitist objections.
 * This talk is a [Presentation at the University of Calgary Philosophy Department](https://events.ucalgary.ca/arts/philosophy/event/488979-modal-logic-and-contingent-existence).
 
 
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/069g2dfv25vTkHoBEavT94eRg#mlce-calgary).
