@@ -8,7 +8,8 @@ citation: "What can we Mean? On Practices, Norms and Pluralisms (to appear in th
 tag: what-can-we-mean 
 file: what-can-we-mean.pdf
 date: 2024-11-19 
-publishdate: 2024-11-19 
+publishdate: 2024-11-19
+doi: 10.1093/arisoc/aoaf002
 
 
 ---
