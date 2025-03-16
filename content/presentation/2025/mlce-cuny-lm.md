@@ -4,6 +4,7 @@ title = "Modal Logic and Contingent Existence"
 host = "Logic and Metaphysics Workshop, CUNY"
 publishdate = "2025-02-26"
 author = "Greg Restall"
+aliases = ['/p/2025/mlce-ny']
 +++
 *Abstract*: 
 In this talk, I will defend *contingentism*, the idea that some things exist
@@ -25,5 +26,7 @@ offer answers to necessitist objections.
 
 
 * This talk is a [presentation at the CUNY Logic and Metaphysics Seminar](https://logic.commons.gc.cuny.edu/2025/02/24/modal-logic-and-contingent-existence-greg-restall/).
+
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0c86DywXlPCAU_xxDot10CpXQ#mlce-cuny).
 
 
