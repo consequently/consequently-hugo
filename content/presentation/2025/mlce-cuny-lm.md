@@ -29,4 +29,7 @@ offer answers to necessitist objections.
 
 * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0c86DywXlPCAU_xxDot10CpXQ#mlce-cuny).
 
+* There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
+  goes into the results I discuss in this talk in more length.
+
 

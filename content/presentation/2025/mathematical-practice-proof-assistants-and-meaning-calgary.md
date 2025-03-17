@@ -25,3 +25,4 @@ very content of whatever we can think and say.
 * This talk is the 2024-2025 [Calgary Mathematics &amp; Philosophy Lecture](https://www.ucalgary.ca/programs/mathphil/2024-25).
 * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/024txZ5bCsMqEQxTE1IB80jVA#mppam).
 
+* Some of the ideas in this talk are discussed in more length in my paper ``[What Can We Mean? On Practices, Norms and Pluralisms](https://consequently.org/writing/what-can-we-mean/).''

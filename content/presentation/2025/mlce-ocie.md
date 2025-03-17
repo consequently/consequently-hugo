@@ -28,3 +28,7 @@ offer answers to necessitist objections.
 * This talk is a presentation at the [Orange County Inland Empire Seminar series in History and Philosophy of Mathematics](https://www.chapman.edu/scst/graduate/ocie-seminar-series.aspx) at [Chapman University](https://www.chapman.edu/scst/graduate/dsci-mpp.aspx).
 
 * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/079nGMqUEk9F5CLRHIUe8vFog#mlce-ocie).
+
+* There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
+  goes into the results I discuss in this talk in more length.
+

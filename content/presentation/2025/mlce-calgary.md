@@ -29,3 +29,7 @@ offer answers to necessitist objections.
 
 
 * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/069g2dfv25vTkHoBEavT94eRg#mlce-calgary).
+
+* There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
+  goes into the results I discuss in this talk in more length.
+
