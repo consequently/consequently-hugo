@@ -27,7 +27,7 @@ offer answers to necessitist objections.
 
 * This talk is a [presentation at the Department of Logic in the Institute of Philosophy of the Czech Academy of Sciences, in Prague](https://www.flu.cas.cz/en/events-of-institute-of-philosophy-as-cr/27-prednasky/4934-greg-restall-modal-logic-and-contingent-existence).
 
-<!-- * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0c86DywXlPCAU_xxDot10CpXQ#mlce-cuny).-->
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0344CylnuPaHpfDljxQbQooHA#mlce-prague).
 
 * There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
   goes into the results I discuss in this talk in more length. 
