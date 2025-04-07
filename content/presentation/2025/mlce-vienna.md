@@ -27,9 +27,7 @@ offer answers to necessitist objections.
 
 * This talk is a presentation for the [Knowledge in Crisis](https://www.knowledgeincrisis.com) research cluster in the [Philosophy Department at the University of Vienna](https://philosophie.univie.ac.at/en/).
 
-<!-- * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0344CylnuPaHpfDljxQbQooHA#mlce-prague). -->
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0e3nOYOlANxyMvqBmJqwbbr3w#mlce-vienna).
 
 * There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
   goes into the results I discuss in this talk in more length. 
-
-
