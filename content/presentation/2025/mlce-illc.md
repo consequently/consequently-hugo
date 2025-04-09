@@ -27,7 +27,7 @@ offer answers to necessitist objections.
 
 * This talk is a presentation for the [DIP Colloquium](https://projects.illc.uva.nl/FSPL/DIP-Colloquium/event/35257/Greg-Restall-St-Andrews-Modal-Logic-and-Contingent-Existence-joint-with-LiRa-) and the [LIRa Seminar](https://projects.illc.uva.nl/lgc/seminar/2025/01/joint-dip-lira-session-greg-restall/) at the [ILLC](https://www.illc.uva.nl) at the [University of Amsterdam](https://www.uva.nl).
 
-<!-- * The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0344CylnuPaHpfDljxQbQooHA#mlce-prague). -->
+* The slides for this talk are [available here](https://www.icloud.com/iclouddrive/0e23GCxY4o7Lw_jgipLpgnMLA#mlce-illc).
 
 * There is a [draft paper](https://consequently.org/writing/mlce-ge2/), which
   goes into the results I discuss in this talk in more length. 
