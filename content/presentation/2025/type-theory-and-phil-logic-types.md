@@ -4,6 +4,7 @@ title = "Type Theory and Themes in Philosophical Logic"
 host = "TYPES 2025"
 publishdate = "2025-06-01"
 author = "Greg Restall"
+aliases = ['/p/2025/tt-tpl']
 +++
 *Abstract*: 
 Contemporary type theorists share interests and concerns with philosophical
