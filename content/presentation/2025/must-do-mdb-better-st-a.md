@@ -32,3 +32,4 @@ philosophy, more generally.
 
 * The talk is a face-to-face presentation at the University of St Andrews Philosophy Department’s “_Reflectorium_”, its regular work-in-progress day.
 
+* The (long) handout for the talk can be [downloaded here](/handouts/must-do-mdb-better-handout-reflectorium.pdf).
