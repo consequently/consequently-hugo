@@ -33,3 +33,4 @@ philosophy, more generally.
 
 * The is the keynote presentation at the [50th Annual Meeeting of the Society for Exact Philosophy](https://meta.phil.ufl.edu/host/sep/meeting.html), at the Universiy of California in Davis. 
 
+* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/0a2wROTeXsE10eeRhJKUaU8gw#mdb-sep).
