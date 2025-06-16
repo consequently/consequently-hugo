@@ -4,6 +4,7 @@ title = "Must Do &ldquo;Must Do Better&rdquo; Better"
 host = "Society for Exact Philosophy, 2025 Conference"
 publishdate = "2025-06-01"
 author = "Greg Restall"
+aliases = ['/p/2025/mdb-sep']
 +++
 *Abstract*: 
 Starting with the his much-discussed 2006 paper &ldquo;Must Do Better,&rsquo;
