@@ -7,7 +7,7 @@ status: Published in 2025
 citation: "What can we Mean? On Practices, Norms and Pluralisms, <em>Proceedings of the Aristotelian Society</em> (125):1, April 2025, 23–43"
 tag: what-can-we-mean 
 file: what-can-we-mean.pdf
-date: 2024-11-19 
+date: 2025-04-19 
 publishdate: 2025-04-19
 doi: 10.1093/arisoc/aoaf002
 
