@@ -1,10 +1,10 @@
 ---
 title: "What can We Mean? On Practices, Norms and Pluralisms"
 author: Greg Restall
-type: unpublished
+type: published
 kind: article
-status: In Progress
-citation: "What can we Mean? On Practices, Norms and Pluralisms (to appear in the <em>Proceedings of the Aristotelian Society</em>)"
+status: Published in 2025 
+citation: "What can we Mean? On Practices, Norms and Pluralisms, <em>Proceedings of the Aristotelian Society</em> (125):1, April 2025, 23–43"
 tag: what-can-we-mean 
 file: what-can-we-mean.pdf
 date: 2024-11-19 
