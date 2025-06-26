@@ -24,3 +24,8 @@ applied logic and type theory.
 * The is a presentation at the [TYPES 2025](https://msp.cis.strath.ac.uk/types2025/index.html), at the University of Strathclyde, Glasgow. 
 
 * The abstract of the presentation is [available here](https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper4.pdf), and the slides [are here](https://consequently.org/slides/tt-tpl-types2025.pdf).
+
+* Here is a [recording of the talk](https://www.youtube-nocookie.com/embed/rlInQX5VJqg).
+
+<iframe width=“560” height=“315” src=“https://www.youtube-nocookie.com/embed/rlInQX5VJqg” title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share” referrerpolicy=“strict-origin-when-cross-origin” allowfullscreen></iframe> 
+ 
