@@ -9,7 +9,7 @@ citation: "<em>Proof, Rules and Meaning</em>&#58; book manuscript in progress."
 tag: ptp
 subjects: proofs sequents meaning quantifiers non-classical_logic classical_logic
 comments: yes
-date: 2021-06-01
+date: 2025-08-29
 publishdate: 2010-10-03
 filter:
   - erb
