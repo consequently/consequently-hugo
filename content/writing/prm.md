@@ -21,6 +21,7 @@ aliases:
   - /writing/pc/
   - /writing/pt/
   - /papers/ptp.pdf
+  - /w/prm
 
 
 ---
