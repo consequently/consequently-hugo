@@ -1,13 +1,14 @@
 ---
 title: "Reflections on Brady's Logic of Meaning Containment"
 author: Greg Restall
-status: to appear 
-type: unpublished
-citation: "Reflections on Brady's Logic of Meaning Containment (to appear in <em>The Australasian Journal of Logic</em>)"
+status: Published in 2025 
+type: published
+citation: "&ldquo;Reflections on Brady's Logic of Meaning Containment&rdquo; <em>The Australasian Journal of Logic</em> 22:5 (2025)"
 tag: reflections-on-mc
 file: reflections-on-mc.pdf
 date: 2024-04-09
-publishdate: 2024-04-09
+doi: 10.26686/ajl.v22i5.8949
+publishdate: 2025-09-10
 ---
 This paper is a series of reflections on Ross Brady’s favourite substructural
 logic, the logic MC of meaning containment. In the first section, I describe
@@ -31,4 +32,6 @@ logic to meet these constraints. I will start with a presentation of Hilbert
 proofs for MC, and then showing how Brady Lattices (a natural class of
 algebraic models for MC) can help us understand each of these special features
 of Brady’s logic of meaning containment.
+
+
 
