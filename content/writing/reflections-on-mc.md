@@ -6,7 +6,7 @@ type: published
 citation: "&ldquo;Reflections on Brady's Logic of Meaning Containment&rdquo; <em>The Australasian Journal of Logic</em> 22:5 (2025)"
 tag: reflections-on-mc
 file: reflections-on-mc.pdf
-date: 2024-04-09
+date: 2025-09-10
 doi: 10.26686/ajl.v22i5.8949
 publishdate: 2025-09-10
 ---
