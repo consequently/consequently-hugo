@@ -21,7 +21,11 @@ are:
 > _said_ or _thought_. In doing this, I aim to clarify the connections
 > between logic and _semantics_, the theory of meaning.
 2. Existence &amp; Modality
-> In the second lecture, I will show how the inferentialist semantics, introduced in Lecture 1, applies to issues of predication, quantification and modality, and thereby provides some distinctive insight into `possible worlds' models for quantified modal logics.
+> In the second lecture, I will show how the inferentialist
+> semantics, introduced in Lecture 1, applies to issues of
+> predication, quantification and modality, and thereby provides
+> some distinctive insight into ‘possible worlds’ models for
+> quantified modal logics.
 3. Foundations for Truth-Conditional Semantics
 > Finally, I show how we might relate inferentialist semantics to truth-conditional accounts of meaning for natural languages.
 
