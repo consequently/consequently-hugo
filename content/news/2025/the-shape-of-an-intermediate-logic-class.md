@@ -8,7 +8,7 @@ Alongside coordinating and lecturing in [PY2010: Intermediate
 Logic](/class/2025/py2010) this semester, I have the fun task of teaching one
 of the tutorial groups, together with our enthusiastic and capable graduate student 
 tutors. My Tuesday morning cohort is a microcosm of the diverse 
-international student body at [St Andrews](http://st-andrews.ac.uk). 
+student body at [St Andrews](http://st-andrews.ac.uk). 
 
 Of the 13 students, we have two each from England, China, and the USA, and we
 have one each from Botswana, Denmark, France, Greece, Hong Kong, Scotland and
