@@ -20,7 +20,7 @@ are:
 > logic, insofar as logical notions have a grip on whatever can be
 > _said_ or _thought_. In doing this, I aim to clarify the connections
 > between logic and _semantics_, the theory of meaning.
-2. Existence &amp; Modality
+2. Existence &amp; Modality ([handout](/handouts/whl-a-2.pdf))
 > In the second lecture, I will show how the inferentialist
 > semantics, introduced in Lecture 1, applies to issues of
 > predication, quantification and modality, and thereby provides
