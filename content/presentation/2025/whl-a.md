@@ -26,6 +26,6 @@ are:
 > predication, quantification and modality, and thereby provides
 > some distinctive insight into ‘possible worlds’ models for
 > quantified modal logics.
-3. Foundations for Truth-Conditional Semantics
+3. Foundations for Truth-Conditional Semantics ([handout](/handouts/whl-a-3.pdf))
 > Finally, I show how we might relate inferentialist semantics to truth-conditional accounts of meaning for natural languages.
 
