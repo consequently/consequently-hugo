@@ -9,7 +9,7 @@ aliases = ['/p/whl-a']
 
 In October, I will be giving the *[2025 Wendy Huang Lectures](https://consequently.org/p/whl)*
 at the invitation of the Taiwan Association for Logic,
-Methodology and Philosophy of Science, at NTU Taiwan, in Taipei.
+Methodology and Philosophy of Science, at National Taiwan University, in Taipei.
 In preparation for those lectures, I'm trying out the ideas in three 
 sessions in the Metpahysics and Logic Group at Arché. The three talks 
 are:
