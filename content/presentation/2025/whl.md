@@ -30,4 +30,4 @@ are:
 3. <b>Foundations for Truth-Conditional Semantics</b> (Thursday October 23) &bull; ([handout](/handouts/whl-h-3.pdf))
 > Finally, I show how we might relate inferentialist semantics to truth-conditional accounts of meaning for natural languages.
 
-
+A draft of the text of all three lectures is [available here](whl-l.pdf).
