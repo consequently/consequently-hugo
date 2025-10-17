@@ -7,11 +7,11 @@ author = "Greg Restall"
 aliases = ['/p/whl']
 +++
 
-I will be giving the *2025 Wendy Huang Lectures*
+I will be giving the *[2025 Wendy Huang Lectures](https://philo.ntu.edu.tw/web/announcement/announcement_in.jsp?np_id=NP1760664807989)*
 at the invitation of the Taiwan Association for Logic,
 Methodology and Philosophy of Science, at National Taiwan University, in
 Taipei, from October 21 to 23. The third lecture will also be a keynote
-presentation at the Taiwan Philosophical Logic Colloquium.
+presentation at the [Taiwan Philosophical Logic Colloquium](https://sites.google.com/view/tplc-2025/home).
 The three talks 
 are:
 
