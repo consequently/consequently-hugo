@@ -30,4 +30,10 @@ are:
 3. <b>Foundations for Truth-Conditional Semantics</b> (Thursday October 23) &bull; ([handout](/handouts/whl-h-3.pdf))
 > Finally, I show how we might relate inferentialist semantics to truth-conditional accounts of meaning for natural languages.
 
+<figure>
+<img src="/images/WHL2025海報.png" width="90%"
+alt="The poster for the 2025 Wendy Huang Lectures"><figcaption>The poster for the 2025 Wendy Huang Lectures</figcaption>
+</figure>
+
+
 A draft of the text of all three lectures is [available here](/handouts/whl-l.pdf).
