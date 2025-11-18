@@ -6,9 +6,10 @@ publishdate = "2025-11-18"
 author = "Greg Restall"
 +++
 
-This is a longer, more relaxed and interactive version of the talk &ldquo;Why Logic Matters for Philosophy, and why Philosophy Matters for Logic&rsquo;  
-that I [first gave](https://consequently.org/presentation/2025/wlmfp-wpmfl-i/)
-as a part of the [Inaugural Lecture
+This is a longer, more relaxed and interactive version of the talk &ldquo;Why
+Logic Matters for Philosophy, and why Philosophy Matters for Logic&rdquo; that
+I [first gave](https://consequently.org/presentation/2025/wlmfp-wpmfl-i/) as a
+part of the [Inaugural Lecture
 Showcase](https://events.st-andrews.ac.uk/events/inaugural-lecture-showcase-philosophy/)
 of the Philosophy Department.
 
