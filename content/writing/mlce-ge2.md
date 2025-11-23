@@ -4,7 +4,7 @@ author: Greg Restall
 type: unpublished
 kind: article
 status: In Progress
-citation: "Modal Logic and Contingent Existence (Genreality and Existence 2), article in progress for <em>Australasian Philosophical Review</em>"
+citation: "Modal Logic and Contingent Existence (Generality and Existence 2), article in progress for <em>Australasian Philosophical Review</em>"
 tag: mlce-ge2 
 file: mlce-ge2.pdf
 date: 2025-01-20 
