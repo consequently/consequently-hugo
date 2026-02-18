@@ -8,12 +8,12 @@ The [St Andrews Union Debating Society](https://www.stadebates.com/) is a long-s
 
 <!--more-->
 
-The proposition at issue was officially phrased as “this house believes that mathematics is a human invention rather than a discovery”, but the *advertised* title was the rather more inflammatory “this house believes that maths is <caps>fake</caps>.” David and I had the pleasure of arguing *for* the proposition, while Walter and Peter argued *against*. 
+The proposition at issue was officially phrased as “this house believes that mathematics is a human invention rather than a discovery”, but the *advertised* title was the rather more inflammatory “this house believes that maths is <span class="caps">fake</span>.” David and I had the pleasure of arguing *for* the proposition, while Walter and Peter argued *against*. 
 
 There were over 200 people in attendance, and it was a thoroughly enjoyable evening. I got to exercise some muscles I rarely work with, so it was stretching for me, and the audience seemed to enjoy themselves, too. David and I lost the public vote (by not a small margin—we managed to sway only around 40% of the audience), but I think we made a good showing for ourselves.
 
 If you'd like to see for yourselves, the evening was recorded and can be seen here:
 
-<iframe class="mb-5" width="100%" height="300" src="https://www.youtube.com/embed/gdk4EIGMTFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="mb-5" width="100%" height="400" src="https://www.youtube.com/embed/gdk4EIGMTFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
