@@ -4,7 +4,6 @@ author: Greg Restall
 type: published
 kind: article
 status: Published in 2025
-citation: "Proofs with Star and Perp (to appear in <em>New Directions in Relevant Logics</em>)"
 citation: "Proofs with Star and Perp, p. 343-372 in Sedlár, I., Standefer, S., Tedder, A. (eds) <em>New Directions in Relevant Logic</em>. Trends in Logic, vol 63. Springer."
 tag: proofs-with-star-and-perp
 file: proofs-with-star-and-perp.pdf

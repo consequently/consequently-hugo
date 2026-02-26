@@ -1,7 +1,6 @@
 ---
 title: Simplified Semantics for Relevant Logics (and some of their rivals)
 
-published: true
 type: published
 author: Greg Restall
 status: Published in 1993
