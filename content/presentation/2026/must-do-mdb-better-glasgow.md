@@ -1,5 +1,5 @@
 +++
-date = "2025-03-03T15:00:00+00:00"
+date = "2026-03-03T15:00:00+00:00"
 title = "Must Do &ldquo;Must Do Better&rdquo; Better"
 host = "University of Glasgow, Philosophy Senior Seminar"
 publishdate = "2026-02-27"
