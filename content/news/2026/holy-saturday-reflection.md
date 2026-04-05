@@ -1,6 +1,6 @@
 +++
 date = "2026-04-05T14:24:00+01:00"
-title = "Debating the Status of Mathematics"
+title = "Holy Saturday Reflection"
 draft = false
 +++
 
