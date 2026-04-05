@@ -1,4 +1,6 @@
-+++ date = "2026-04-04T19:00:00+01:00" title = "Reflection (John 19:31-42)"
++++ 
+date = "2026-04-04T19:00:00+01:00" 
+title = "Reflection (John 19:31-42)"
 publishdate = "2026-04-05"
 author = "Greg Restall"
 host = "Short talk for a Holy Saturday Service, Cornerstone, St Andrews"
