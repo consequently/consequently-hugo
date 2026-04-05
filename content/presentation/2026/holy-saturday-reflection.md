@@ -14,7 +14,7 @@ text: [John
 19:31-42](https://www.biblesociety.org.uk/explore-the-bible/read/eng/NRSV/John/19/). 
 
 <figure>
-<img src="/images/Munkácsy_Krisztus_a_sziklasírban.jpg" width="90%"
+<img src="/images/Munkacsy_Krisztus_a_sziklasirban.jpg" width="90%"
 alt="The corpse of a bearded man, in his mid 30s, wearing a loincloth, with a scar in his lower chest, lying on a rock surface in a dimly lit tomb."><figcaption>Christ in the Tomb, by Mih&aacute;y Munk&aacute;csy (1881)</figcaption>
 </figure>
 
