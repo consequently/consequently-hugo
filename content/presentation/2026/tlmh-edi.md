@@ -23,5 +23,8 @@ These results help us understand the relationship between operational rules and
 structural rules in a generalised sequent calculus setting. The talk ends with
 some gestures toward open problems and possible applications.
 
+
 * The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/036sYpYosFklx2G-7b4cqepqQ#tlmh-edi).
+
+* The talk is a [presentation at the Laboratory for Foundations of Computer Science at the University of Edinburgh](https://informatics.ed.ac.uk/lfcs/lfcs-seminar-tuesday-5th-may-greg-restall).
 
