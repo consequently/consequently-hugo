@@ -50,7 +50,6 @@ deduction and the sequent calculus (and meta-inferential relations above the
 level of the sequent), and the distinctive role of structural rules from each
 of these perspectives. 
 
-* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/0e8hmHXKT4Jvu7DtScrpTpNMA#lp-subst-arche).
-
+* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/0ade7eoNGwAk0sIfYrM44a94Q#lp-subst-arche).
 * The talk is a [presentation in the Arché Metaphysics and Logic Seminar](https://www.st-andrews.ac.uk/arche/event/metaphysics-logic-seminar-6).
 
