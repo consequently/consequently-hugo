@@ -1,5 +1,5 @@
 +++
-date = "2026-05-22T16:00:00+00:00"
+date = "2026-05-22T09:30:00+01:00"
 title = "LP as a substructural logic"
 host = "Logica 2026"
 publishdate = "2026-05-15"
