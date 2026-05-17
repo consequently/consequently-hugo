@@ -50,6 +50,6 @@ deduction and the sequent calculus (and meta-inferential relations above the
 level of the sequent), and the distinctive role of structural rules from each
 of these perspectives. 
 
-<!-- * The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/0ade7eoNGwAk0sIfYrM44a94Q#lp-subst-arche).-->
+* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/01b8g-BVo3pZbuNEnJzroJpmg#lp-subst-logica).
 * The talk is an invited address at [Logica 2026](https://logika.flu.cas.cz/cz/akce/logica/logica-2026), the 38th in a series of annual international symposia devoted to logic, hosted by the Czech Academy of Sciences, Institute of Philosophy.
 
