@@ -1,7 +1,7 @@
 +++
 date = "2026-08-03"
 enddate = "2026-08-07"
-publishdate = "2026-08-03"
+publishdate = "2026-07-31"
 title = "Proof Theory: Logical and Philosophical Aspects"
 host = "The 2026 European Summer School in Logic, Language and Information (ESSLLI 2026), Prague"
 duration = 604800
