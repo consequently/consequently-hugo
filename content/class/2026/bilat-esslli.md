@@ -47,12 +47,27 @@ I’ll add to the reference list through the week.
 
 * Greg Restall, “[Truth Values and Proof Theory](/writing/tvpt)” *Studia Logica*, 92(2):241–264, 2009.
 
-* Greg Restall, *[Proofs and Models in Philosophical Logic](/writing/pmpl-elements]*, Cambridge University Press, 2023.
+* Greg Restall, *[Proofs and Models in Philosophical Logic](/writing/pmpl-elements)*, Cambridge University Press, 2023.
+
+* Raymond Smullyan, *First-Order Logic*. Springer-Verlag, 1968.
+
+### Philosophical Issues
+
+* Nuel Belnap,  “[Tonk, plonk and plink](https://www.jstor.org/stable/3326862).” _Analysis_, 22 (6), 130-134, 1962.
+* Robert Brandom, _[Articulating reasons: An introduction to inferentialism](https://www.hup.harvard.edu/books/9780674006928)_. Cambridge, MA: Harvard University Press, 2000.
+* Rudolf Carnap, _[The Logical Syntax of Language](https://archive.org/details/in.ernet.dli.2015.136409)_. Trans. by A. Smeaton. Open Court Classics. 1934.
+* Pedro del Valle-Inclan and Julian Schlöder. “[Coordination and harmony in bilateral logic](https://doi.org/10.1093/mind/fzac012).” _Mind_ 132(525), 192–207, 2023.
+* Michael Dummett, “The Philosophical Basis of Intuitionistic Logic,” in H. E. Rose and J. C. Shepherdson (eds.): _Logic Colloquium ’73_,
+Amsterdam: North-Holland Publishing Co., 5-40, 1975.
+* Michael Dummett, _[The Logical Basis of Metaphysics](https://archive.org/details/logicalbasisofme0000dumm)_, London: Duckworth, 1991.
+* Fernando Ferreira, “[The co-ordination principles: A problem for bilateralism](https://doi.org/10.1093/mind/fzn036),” _Mind_ 117 (468), 1051–1057, 2008.
+* Nissim Francez, “[Bilateralism does provide a proof theoretic treatment of classical logic (for non-technical reasons)](https://www.collegepublications.co.uk/downloads/ifcolog00028.pdf),” _Journal of Applied Logics, IfCoLog Journal_ 5(8), 1653–1662, 2018.
+* Nissim Francez and Roy Dyckhoff, “[A Note on Harmony](https://doi.org/10.1007/s10992-011-9208-0), Journal of Philosophical Logic 41, 613–628, 2012.
+* Michael Gabbay, “[Bilateralism does not provide a proof theoretic treatment of classical logic (for technical reasons)](https://doi.org/10.1016/j.jal.2017.11.001).” _Journal of Applied Logic_ 25, 108–122, 2017.
 
 * Peter Milne, “[Harmony, Purity, Simplicity and a ‘Seemingly Magical Fact’](http://www.jstor.org/stable/27903796)”, *The Monist*, 85(4):498–534, 2002
 
 * Greg Restall, “[Multiple Conclusions](/writing/multipleconclusions/)” pp. 189–205 in *Logic, Methodology and Philosophy of Science*: *Proceedings of the Twelfth International Congress*, edited by P. Ha&#x301;jek, L. Valde&#x301;s-Villanueva and D. Westersta&#x30A;hl, KCL Publications, 2005.
-* Raymond Smullyan, *First-Order Logic*. Springer-Verlag, 1968.
 
 
 
