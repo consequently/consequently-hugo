@@ -130,7 +130,7 @@ Heinrich Wansing, “[On synonymy in proof-theoretic semantics. The case of 2Int
 * Pierre-Louis Curien and Hugo Herbelin,  “[The Duality of Computation](https://doi.org/10.1145/351240.351262)”,
 _Proceedings of ICFP 2000_ (_SIGPLAN Notices_ 35(9)), ACM, 2000.
 
-• Hugo Herbelin,  “[On the Degeneracy of Σ-types in Presence of Computational
+* Hugo Herbelin,  “[On the Degeneracy of Σ-types in Presence of Computational
 Classical Logic](https://doi.org/10.1007/11417170_16)” _TLCA 2005_, LNCS 3461 , Springer, 2005.
 
 * Etienne Miquey,  “[A Classical Sequent Calculus with Dependent Types](https://doi.org/10.1145/3230625)” _ACM
