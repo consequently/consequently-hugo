@@ -30,8 +30,8 @@ references.
 * **Day 1**: *[Foundations](/slides/esslli2026-1.pdf)*: Natural deduction,
   sequent calculus and models.
 * **Day 2**: *[Signed Bilateralist Natural Deduction](/slides/esslli2026-2.pdf)*: Signed bilateralist natural deduction and multi-conclusion sequent calculus.
-* **Day 3**: *Non-Classical Frameworks*: Proofs and models for non-classical bilateralist logics, like N4, FDE, and 2Int.
-* **Day 4**: *Bilateralist Term Calculus*: Parigot's \\(\lambda\mu\\) calculus, the Curien and Herbelin's symmetric \\(\overline{λ}μ\tilde{μ}\\) calculus, and their computational and dialogical interpretations. 
+* **Day 3**: *[Non-Classical Frameworks](/slides/esslli2026-3.pdf)*: Proofs and models for non-classical bilateralist logics, like N4, FDE, and 2Int.
+* **Day 4**: *[Bilateralist Term Calculus](/slides/esslli2026-4.pdf)*: Parigot's \\(\lambda\mu\\) calculus, the Curien and Herbelin's symmetric \\(\overline{λ}μ\tilde{μ}\\) calculus, and their computational and dialogical interpretations. 
 * **Day 5**: *Recent Devlopments*
 
 ### Readings and References
@@ -100,5 +100,44 @@ Amsterdam: North-Holland Publishing Co., 5-40, 1975.
 * Neil Tennant, _[Natural Logic](https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/a/4597/files/2014/08/Natural_Logic-2epb48e.pdf)_, Edinburgh: Edinburgh University Press, 1978.
 
 * Neil Tennant, “[Proof and Paradox](https://www.philosophie.ch/tennant-1982),” _Dialectica_ 36, 265-296, 1982.
+
+#### Non-Classical Frameworks
+
+* Ahmad Almukdad and David Nelson, “[Constructible falsity and inexact predicates](https://doi.org/10.2307/2274105),” _The Journal of Symbolic Logic_ 49, 231–233, 1984.
+
+* Sara Ayhan: “[A cut-free sequent calculus for the bi-intuitionistic logic 2Int](https://arxiv.org/abs/2009.14787)”, 2020, part of: Sara Ayhan and
+Heinrich Wansing, “[On synonymy in proof-theoretic semantics. The case of 2Int](https://doi.org/10.18778/0138-0680.2023.18)”, _Bulletin of the Section of Logic_ 52(2), 187–237, 2023.
+
+* Peter Gibbard, “[Price and Rumfitt on rejective negation and classical logic](https://doi.org/10.1093/mind/111.442.297),” _Mind_, vol. 111(442), pp. 297–303, 2002.
+
+* I Johansson, “[Der Minimalkalkül, ein reduzierter intuitionistischer Formalismus](https://www.numdam.org/item/CM_1937__4__119_0.pdf),” _Compositio Mathematica_ 4, 119–136, 1930.
+
+* E. G. K. López-Escobar, “[Refutability and elementary number theory](https://doi.org/10.1016/1385-7258(72)90053-4),” _Indagationes Mathematicae_ 34:362–74, 1972.
+
+* David Nelson, “[Constructible Falsity](https://doi.org/10.2307/2268973),” _The Journal of Symbolic Logic_ 14(1), 16-26, 1949.
+
+* Cecylia Rauszer, “[A formalization of the propositional calculus of H-B logic](https://doi.org/10.1007/BF02120864),” _Studia Logica_, 33 (1), 23–34, 1974.
+
+* Heinrich Wansing, “[Falsification, natural deduction and bi-intuitionistic
+  logic](https://doi.org/10.1093/logcom/ext035),” _Journal of Logic and Computation_ 26 (1), 425–450, 2016.
+
+* Heinrich Wansing (2017): “[A more general general proof theory](https://doi.org/10.1016/j.jal.2017.01.002),” _Journal of Applied Logic_ 25, 23-46, 2017.
+
+#### Term Calculus
+
+* Michel Parigot, “[λµ-calculus: an algorithmic interpretation of classical natural deduction](https://doi.org/10.1007/BFb0013061)” In _Proc. of the International Conference in Logic Programming and Automated Reasoning_, St. Peterburg, LNCS 624, Springer, 1992.
+
+* Pierre-Louis Curien and Hugo Herbelin,  “[The Duality of Computation](https://doi.org/10.1145/351240.351262)”,
+_Proceedings of ICFP 2000_ (_SIGPLAN Notices_ 35(9)), ACM, 2000.
+
+• Hugo Herbelin,  “[On the Degeneracy of Σ-types in Presence of Computational
+Classical Logic](https://doi.org/10.1007/11417170_16)” _TLCA 2005_, LNCS 3461 , Springer, 2005.
+
+* Etienne Miquey,  “[A Classical Sequent Calculus with Dependent Types](https://doi.org/10.1145/3230625)” _ACM
+Transactions on Programming Languages and Systems_, 41(2), 2019
+
+* Greg Restall, “[Structural Rules in Natural Deduction with Alternatives](/writing/structural-rules-in-natural-deduction-with-alternatives/)”,
+_Bulletin of the Section of Logic_, 52(2), 2023.
+
 
 
