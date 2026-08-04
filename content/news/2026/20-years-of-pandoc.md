@@ -1,5 +1,5 @@
 +++
-date = "2026-08-04T13:15:00+00:00"
+date = "2026-08-04T13:30:00+20:00"
 title = "An Old News Post, and 20 Years of Pandoc"
 draft = false
 +++
