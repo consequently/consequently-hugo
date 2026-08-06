@@ -139,5 +139,5 @@ Transactions on Programming Languages and Systems_, 41(2), 2019
 * Greg Restall, “[Structural Rules in Natural Deduction with Alternatives](/writing/structural-rules-in-natural-deduction-with-alternatives/)”,
 _Bulletin of the Section of Logic_, 52(2), 2023.
 
-
-
+* Greg Restall, “[What can we Mean? On Practices, Norms and Pluralisms](https://consequently.org/writing/what-can-we-mean/),”
+_Proceedings of the Aristotelian Society_ (125):1, 23–43, 2024.
