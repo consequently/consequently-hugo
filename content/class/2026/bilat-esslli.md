@@ -32,7 +32,7 @@ references.
 * **Day 2**: *[Signed Bilateralist Natural Deduction](/slides/esslli2026-2.pdf)*: Signed bilateralist natural deduction and multi-conclusion sequent calculus.
 * **Day 3**: *[Non-Classical Frameworks](/slides/esslli2026-3.pdf)*: Proofs and models for non-classical bilateralist logics, like N4, FDE, and 2Int.
 * **Day 4**: *[Bilateralist Term Calculus](/slides/esslli2026-4.pdf)*: Parigot's \\(\lambda\mu\\) calculus, Curien and Herbelin's symmetric \\(\overline{λ}μ\tilde{μ}\\) calculus, and their computational and dialogical interpretations. 
-* **Day 5**: *Recent Devlopments*
+* **Day 5**: *[Recent Devlopments](/slides/esslli2026-5.pdf)*: Bilateralism as a road to contra-classical logics; coordination principles and toggle negation; uniqueness and bilateralism.
 
 ### Readings and References
 
