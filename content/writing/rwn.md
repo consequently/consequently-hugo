@@ -3,7 +3,7 @@ title: "Reasoning with Negations: The Australian Plan, Negation-as-Failure and C
 author: Francesco Berto and Greg Restall 
 status: In Progress
 type: unpublished
-citation: "Francesco Berto and Greg Restall, &ldquo;Reasoning with Negations: The Australian Plan, Negation-as-Failure and Card Selection Tasks&rdquo, article to appear in <em>Review of Philosophy and Psychology</em>"
+citation: "Francesco Berto and Greg Restall, &ldquo;Reasoning with Negations: The Australian Plan, Negation-as-Failure and Card Selection Tasks&rdquo;, article to appear in <em>Review of Philosophy and Psychology</em>i,"
 file: rwn-article.pdf
 date: 2026-09-25
 publishdate: 2026-09-25
