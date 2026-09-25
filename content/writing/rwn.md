@@ -1,9 +1,9 @@
 ---
-title: "Finitude, Eternity, Love, the Good, and Martin Hägglund’s <em>This Life</em>"
+title: "Reasoning with Negations: The Australian Plan, Negation-as-Failure and Card Selection Tasks (with Francesco Berto)"
 author: Francesco Berto and Greg Restall 
 status: In Progress
 type: unpublished
-citation: "Reasoning with Negations: The Australian Plan, Negation-as-Failure and Card Selection Tasks, article to appear in <em>Review of Philosophy and Psychology</em>"
+citation: "Francesco Berto and Greg Restall, &ldquo;Reasoning with Negations: The Australian Plan, Negation-as-Failure and Card Selection Tasks&rdquo, article to appear in <em>Review of Philosophy and Psychology</em>"
 file: rwn-article.pdf
 date: 2026-09-25
 publishdate: 2026-09-25
