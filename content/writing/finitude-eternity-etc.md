@@ -3,7 +3,8 @@ title: "Finitude, Eternity, Love, the Good, and Martin Hägglund’s <em>This Li
 author: Greg Restall 
 status: In Progress
 type: unpublished
-citation: "Finitude, Eternity, Love, the Good, and Martin Hägglund’s <em>This Life</em>"
+citation: "&ldquo;Finitude, Eternity, Love, the Good, and Martin Hägglund’s <em>This Life</em>&rdquo;, to appear in
+<em>Love, Religion and God</em>, edited by Fiona Ellis and David Worsley, Routledge"
 file: finitude-eternity-etc.pdf
 date: 2024-07-27
 publishdate: 2024-12-27
