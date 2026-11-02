@@ -17,7 +17,7 @@ necessary, but is  mathematically and philosophically desirable.  The good
 news: such a class of models already exists and is well understood. (And no,
 it’s just not the Henkin semantics.)
 
-* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/03fZH5e10XmSSBhAspL_sU02Q).
+* The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/03fZH5e10XmSSBhAspL_sU02Q)[.](https://www.icloud.com/iclouddrive/0c9coi-6XVBFfZj95NIOXXDmg)
 
 * The talk is a [presentation in the Arché Metaphysics and Logic Seminar](https://www.st-andrews.ac.uk/arche/event/metaphysics-logic-seminar-22/), at the University of St Andrews.
 
