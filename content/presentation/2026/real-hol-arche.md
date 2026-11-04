@@ -15,7 +15,7 @@ in an important sense, the so-called full semantics for second- and
 higher-order logics is too strong, and that a wider class of models is not only
 necessary, but is  mathematically and philosophically desirable.  The good
 news: such a class of models already exists and is well understood. (And no,
-it’s just not the Henkin semantics.)
+it’s not just the Henkin semantics.)
 
 * The [slides for the talk can be downloaded here](https://www.icloud.com/iclouddrive/03fZH5e10XmSSBhAspL_sU02Q)[.](https://www.icloud.com/iclouddrive/0c9coi-6XVBFfZj95NIOXXDmg)
 
